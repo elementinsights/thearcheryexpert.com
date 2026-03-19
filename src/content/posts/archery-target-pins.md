@@ -348,7 +348,7 @@ Archery target pins range between different sizes of 0.5-6 inches. They're of ma
 </table>
 </div>
 
-## 1. SAS ARCHERY TARGET FACE PINS &mdash. Best Overall
+## 1. SAS ARCHERY TARGET FACE PINS &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -359,7 +359,7 @@ Archery target pins range between different sizes of 0.5-6 inches. They're of ma
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Pins</div>
 <h3 class="product-card-name">SAS ARCHERY TARGET FACE PINS</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">It's a must to start with one of the sharpest and light weighed target pins we've in our bucket from SAS (Southland Archery Supply). The SAS target pins are a budget-friendly product meant for economic archery practice.</p>
@@ -418,7 +418,7 @@ Also, it’s easy to remove the SAS target pin from foam targets.
 
 This set contains four archery target pins having a reasonable value, making it a pocket-friendly verified product.
 
-## 2. SAUNDERS CSI 4-INCH ARCHERY TARGET PINS &mdash. Runner Up
+## 2. SAUNDERS CSI 4-INCH ARCHERY TARGET PINS &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -429,7 +429,7 @@ This set contains four archery target pins having a reasonable value, making it 
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Pins</div>
 <h3 class="product-card-name">SAUNDERS CSI 4-INCH ARCHERY TARGET PINS</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">In addition to the SAS archery target pins, the Saunders archery target pins are thicker and more durable.</p>
@@ -492,7 +492,7 @@ It’s perfect for securing paper targets onto layered  -  foam targets such as 
 
 Being one of the top sellers, the Saunders Archery Company offers you good quality products.
 
-## 3. BCP ARCHERY TARGET FACE PINS (PACK OF 10) &mdash. Best Value
+## 3. BCP ARCHERY TARGET FACE PINS (PACK OF 10) &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -503,7 +503,7 @@ Being one of the top sellers, the Saunders Archery Company offers you good quali
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Pins</div>
 <h3 class="product-card-name">BCP ARCHERY TARGET FACE PINS (PACK OF 10)</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins’ minor problems with their galvanized steel body. The set contains 10 Archery Target Pins, making the product a value deal where the customer is assured of quality and quantity.</p>
@@ -562,7 +562,7 @@ Good design and balanced composition are what BCP is proud of, providing well as
 
 These pins are a perfect example of “you get what you pay for.”
 
-## 4. BOBS ARCHERY TARGET FACE PINS &mdash. Premium Pick
+## 4. BOBS ARCHERY TARGET FACE PINS &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -573,7 +573,7 @@ These pins are a perfect example of “you get what you pay for.”
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Pins</div>
 <h3 class="product-card-name">BOBS ARCHERY TARGET FACE PINS</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Now, who doesn't want a product that's efficient and long-lasting? BOBS Archery Target Pins are high-quality electro-galvanized steel pins with long life (won't rust). Often Archer's complaint about the penetration ability of target pins as the pins aren't sharp and strong enough to penetrate through dense targets.</p>
@@ -634,7 +634,7 @@ If you're looking to set up many targets simultaneously, this product offer is t
 
 They're good to use indoors and outdoors. Frankly speaking, these target pins are on target.
 
-## 5. BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM &mdash. Budget Pick
+## 5. BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -645,7 +645,7 @@ They're good to use indoors and outdoors. Frankly speaking, these target pins ar
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Pins</div>
 <h3 class="product-card-name">BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">There aren’t many target pins that can be used as both target pins and a point of aim for the shooter, so that's why we include BOBS Archery Target Face pins/Point of Aim Pins in this list.</p>
@@ -711,7 +711,7 @@ Holding the targets outdoors over a windy day is a task that the BOBS archery ba
 
 They have a firm grip that securely holds everything, and the length of these pins ensures a deep anchor hold so that my targets stay in place even on windy days.
 
-## 6. BOBS ARCHERY 3D TARGET BALLS &mdash. Most Popular
+## 6. BOBS ARCHERY 3D TARGET BALLS &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -722,7 +722,7 @@ They have a firm grip that securely holds everything, and the length of these pi
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Pins</div>
 <h3 class="product-card-name">BOBS ARCHERY 3D TARGET BALLS</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The BOBS archery balls have come up with a better and more advanced archery method, where now we've 3D archery targets. These target pinballs are made up of foam balls (colors may vary) that are 3-2 inches in diameter.</p>
@@ -788,7 +788,7 @@ If you're looking forward to becoming a professional archer, these ball pins wil
 
 These ball pins surely remove any responsibilities on your part. All you've to do is just insert them onto a backstop.
 
-## 7. E510E Plastic Archery Paper Target Face Pins (25 PCS) &mdash. Best Design
+## 7. E510E Plastic Archery Paper Target Face Pins (25 PCS) &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -799,7 +799,7 @@ These ball pins surely remove any responsibilities on your part. All you've to d
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Pins</div>
 <h3 class="product-card-name">E510E Plastic Archery Paper Target Face Pins (25 PCS)</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">As the name suggests, paper target face pins are a frequently used hunting target accessory to hold paper targets on foam. Being a 1.8-inch-long pin, it has a deep anchor hold that makes these pins perfect for fixing paper target face to your foam target.</p>
@@ -856,7 +856,7 @@ Yes, it's.
 
 These pins also come with a complimentary non-slip surface grip design that makes this design a well-balanced one.
 
-## 8. RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS &mdash. Most Durable
+## 8. RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -867,7 +867,7 @@ These pins also come with a complimentary non-slip surface grip design that make
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Pins</div>
 <h3 class="product-card-name">RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">If you're looking for good quality, pocket-friendly archery target pins for good archery shooting practice, using the Rusoji plastic archery paper target face pins is the best choice. When quality, quantity, and value are summed together, we get a value pack.</p>
@@ -927,7 +927,7 @@ On the scale of convenience, these pins rank high as these pins are easy to pin 
 
 Summing it up, the Rusoji archery pins are a must-buy if you're looking for something good for your archery shooting practice.
 
-## 9. COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS &mdash. Best for Beginners
+## 9. COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -938,7 +938,7 @@ Summing it up, the Rusoji archery pins are a must-buy if you're looking for some
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Pins</div>
 <h3 class="product-card-name">COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Do you want a better indoor archery practice session? Are you a student who wants to practice archery economically? Cosmos archery pins allow you to practice your archery shooting with great comfort as it holds paper targets to the foam block firmly.</p>
@@ -994,7 +994,7 @@ Many items of plastic are tended to break easily but that’s not the case with 
 
 These pins are good and simple enough for 9 years old to attach and remove paper targets from foam block, hence also making them one of the best-suited plastic target pins for junior-level archery practice sessions.
 
-## 10. BOBS ARCHERY BALLS FITA TARGET FACE PINS &mdash. Honorable Mention
+## 10. BOBS ARCHERY BALLS FITA TARGET FACE PINS &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1005,7 +1005,7 @@ These pins are good and simple enough for 9 years old to attach and remove paper
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Pins</div>
 <h3 class="product-card-name">BOBS ARCHERY BALLS FITA TARGET FACE PINS</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">Keeping the small bam big bang for the last is the BOBS archery balls FITA target face pins. As the phrase suggests these archery pins are extremely small, in fact, the smallest ones in the entire list being 0.5 - 1 inch long.</p>

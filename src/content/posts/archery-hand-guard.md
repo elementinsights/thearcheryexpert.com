@@ -352,7 +352,7 @@ They all come in different sizes, textures, and colors which are durable, comfor
 </table>
 </div>
 
-## 1. TOPARCHERY Archery Hand Guard &mdash. Best Overall
+## 1. TOPARCHERY Archery Hand Guard &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -363,7 +363,7 @@ They all come in different sizes, textures, and colors which are durable, comfor
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guards</div>
 <h3 class="product-card-name">TOPARCHERY Archery Hand Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">Protection is critical, and hence, like any other sport, archery also requires the right equipment and, most importantly, suitable protective gear to ensure safe practice. The archery handguard is a protective glove worn mainly on the hand which holds the bow.</p>
@@ -430,7 +430,7 @@ It's not too expensive and provides just the right combination of comfort and pr
 
 Pros & Benefits:
 
-## 2. XTACER Hand Guard &mdash. Runner Up
+## 2. XTACER Hand Guard &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -441,7 +441,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guards</div>
 <h3 class="product-card-name">XTACER Hand Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">This is apt for archers looking out for protective hunting gear used for a traditional Longbow. This product doesn't boast about the superior quality material used in making the handguard like that of TOPARCHERY. However, they have mentioned that this product is manufactured in leather.</p>
@@ -502,7 +502,7 @@ Well, if it doesn’t feel right, there’s always a return policy.
 
 Pros & Benefits:
 
-## 3. JKER TECH Archery Gloves &mdash. Best Value
+## 3. JKER TECH Archery Gloves &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -513,7 +513,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guards</div>
 <h3 class="product-card-name">JKER TECH Archery Gloves</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Unlike the above-mentioned protective gear, this is a slightly different product. It's a hand glove worn on the shooting hand to protect the nerves and skin on the fingertips.</p>
@@ -582,7 +582,7 @@ They also offer a 12-month warranty, so it's a good bet.
 
 Pros & Benefits:
 
-## 4. HUNTINGDOOR Archery Hand Guard &mdash. Premium Pick
+## 4. HUNTINGDOOR Archery Hand Guard &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -593,7 +593,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guards</div>
 <h3 class="product-card-name">HUNTINGDOOR Archery Hand Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">For those of you who would prefer a slightly cheaper option for an archery handguard, the HUNTINGDOOR brand is here to serve. This brand offers handguards for both left and right-hand and has been given a cowboy-style design that makes it attractive.</p>
@@ -656,7 +656,7 @@ Well, all we can say is that the misplaced rivet is only a small bump in the roa
 
 Pros & Benefits:
 
-## 5. NACHVORN Two-finger Archery Hand Guard &mdash. Budget Pick
+## 5. NACHVORN Two-finger Archery Hand Guard &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -667,7 +667,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guards</div>
 <h3 class="product-card-name">NACHVORN Two-finger Archery Hand Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Though safety is the primary function of handguards, this gear by NACHVORN is one stylish armor. This stylish beauty is handmade from excellent quality leather material, which has a soft feel and protects the hand from tricky injuries.</p>
@@ -728,7 +728,7 @@ This product is very much similar to the handguard provided by TOPARCHERY and fa
 
 Pros & Benefits:
 
-## 6. KESHES Archery Glove &mdash. Most Popular
+## 6. KESHES Archery Glove &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -739,7 +739,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guards</div>
 <h3 class="product-card-name">KESHES Archery Glove</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">There are quite a lot of debates regarding the usage of Archery gloves as some archers don’t feel the need to use gloves and consider it a mere accessory. There are hardly any references made regarding this protective gear in the medieval period when Archery was primarily a combat activity.</p>
@@ -802,7 +802,7 @@ They believe in good customer service as they stand by the statement, “Love it
 
 Pros & Benefits:
 
-## 7. HWZ Cowhide Archery Hand Guard &mdash. Best Design
+## 7. HWZ Cowhide Archery Hand Guard &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -813,7 +813,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guards</div>
 <h3 class="product-card-name">HWZ Cowhide Archery Hand Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">If archery handguards were to participate at the Paris Fashion Week, we’d make way for the haute couture model, the HWZ Cowhide Archery handguard.</p>
@@ -872,7 +872,7 @@ Though it's slightly priced higher for obvious reasons, it's suitable for huntin
 
 Pros & Benefits:
 
-## 8. TOPARCHERY Two-finger Protective Hand Guard &mdash. Most Durable
+## 8. TOPARCHERY Two-finger Protective Hand Guard &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -883,7 +883,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guards</div>
 <h3 class="product-card-name">TOPARCHERY Two-finger Protective Hand Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">Here’s another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand. Made from cow leather, this gear is highly durable, strong and can last multiple hunting trips.</p>
@@ -942,7 +942,7 @@ It has some great reviews for providing a good shield for the thumb. Thumbs up f
 
 Pros & Benefits:
 
-## 9. HUNTINGDOOR Archery Hand Guard &mdash. Best for Beginners
+## 9. HUNTINGDOOR Archery Hand Guard &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -953,7 +953,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guards</div>
 <h3 class="product-card-name">HUNTINGDOOR Archery Hand Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">One of the cheapest handguards out of the lot would be this one that's supplied by the HUNTINGDOOR brand. It comes with a choice for both the left and right-hand and comes with a ‘one size fits all’ bet.</p>
@@ -1010,7 +1010,7 @@ This handguard is a fantastic option for archers who want to safeguard their han
 
 Pros & Benefits:
 
-## 10. ARCHERYMAX Three-finger Archery Gloves &mdash. Honorable Mention
+## 10. ARCHERYMAX Three-finger Archery Gloves &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1021,7 +1021,7 @@ Pros & Benefits:
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guards</div>
 <h3 class="product-card-name">ARCHERYMAX Three-finger Archery Gloves</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">All hail for the ARCHERYMAX hand gloves which has been given some great reviews for their superior quality and performance. Unlike other gloves mentioned here, this one is completely made from cow leather to offer utmost comfort as well as top-notch safety.</p>

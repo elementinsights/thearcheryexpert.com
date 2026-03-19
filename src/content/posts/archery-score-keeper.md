@@ -348,7 +348,7 @@ Practicing archery regularly boosts self-confidence, and with time when skills a
 </table>
 </div>
 
-## 1. Archery Score Card: Archery Score Keeper Scoring Helper &mdash. Best Overall
+## 1. Archery Score Card: Archery Score Keeper Scoring Helper &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -359,7 +359,7 @@ Practicing archery regularly boosts self-confidence, and with time when skills a
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Keepers</div>
 <h3 class="product-card-name">Archery Score Card: Archery Score Keeper Scoring Helper</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This product can work as a scorecard or score keeper, notebook, score logbook and you can track your performance if you're a beginner in archery. This logbook will help you improve your performance day by day by closely tracking the daily scores.</p>
@@ -420,7 +420,7 @@ You can definitely improve your archery skills by using this product and with go
 
 You'll be able to record information, for example, name, date, team, target, distance, location, and all of your scores and results.
 
-## 2. Archery Score Sheet: Score Cards for Tournaments, Competitions, Practice journal &mdash. Runner Up
+## 2. Archery Score Sheet: Score Cards for Tournaments, Competitions, Practice journal &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -431,7 +431,7 @@ You'll be able to record information, for example, name, date, team, target, dis
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Keepers</div>
 <h3 class="product-card-name">Archery Score Sheet: Score Cards for Tournaments, Competitions, Practice journal</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">This archery score sheet is a perfect journal for competitive and recreational archers, but beginners can also use it as well. Beginners can track and improve their performance by using this practice journal.</p>
@@ -492,7 +492,7 @@ The information which can be recorded is like name, date, team, target, distance
 
 The coaches can also use it very well to train their trainees and improve their skills in archery by monitoring the performance properly daily.
 
-## 3. Archery Score Sheets Book: Archery Fundamentals Practice Log &mdash. Best Value
+## 3. Archery Score Sheets Book: Archery Fundamentals Practice Log &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -503,7 +503,7 @@ The coaches can also use it very well to train their trainees and improve their 
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Keepers</div>
 <h3 class="product-card-name">Archery Score Sheets Book: Archery Fundamentals Practice Log</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">With this archery notebook and score keeper, you can keep your practice logs and training notes as well. You can improve your archery skills by using this 120 pages score sheet.</p>
@@ -568,7 +568,7 @@ You can either write how you can improve or you can mention what was the weak po
 
 It has dimensions of 6 x 0.3 x 9 inches.
 
-## 4. Archery Score Sheets Book: Score Cards for Archery Competitions &mdash. Premium Pick
+## 4. Archery Score Sheets Book: Score Cards for Archery Competitions &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -579,7 +579,7 @@ It has dimensions of 6 x 0.3 x 9 inches.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Keepers</div>
 <h3 class="product-card-name">Archery Score Sheets Book: Score Cards for Archery Competitions</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The score sheets on this journal are perfect for recreational and competitive sports and beginners can also use it to improve their skills if practiced and noted daily and worked on the weak links.</p>
@@ -636,7 +636,7 @@ The language used in the notebook is English.
 
 It’s a great tool to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
 
-## 5. ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK &mdash. Budget Pick
+## 5. ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -647,7 +647,7 @@ It’s a great tool to assess and improve your skills in archery, you can use it
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Keepers</div>
 <h3 class="product-card-name">ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">These archery score sheets come with rules and instructions as well. This scorebook is perfect for strike archery. The sheets can be used in archery tournaments, they're round-shaped and the paper is colored as white and black.</p>
@@ -706,7 +706,7 @@ Daily recordings of the scores will tell you how your skills are improving and w
 
 Trainers and coaches can also have it to assess the performance of their students and give them the learning tips based on the results.
 
-## 6. Archery Score Card: Score Sheets for Archery &mdash. Most Popular
+## 6. Archery Score Card: Score Sheets for Archery &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -717,7 +717,7 @@ Trainers and coaches can also have it to assess the performance of their student
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Keepers</div>
 <h3 class="product-card-name">Archery Score Card: Score Sheets for Archery</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The scorecards on this notebook are ideal for tournaments and competitive sports and beginners can learn and polish their skills and use them to improve their skills if practiced and noted daily. You can also keep permanent records of the scores and the results.</p>
@@ -774,7 +774,7 @@ The language used in the notebook is English.
 
 It’s a great tool to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
 
-## 7. Keep Calm And Shoot Straight: Archery Score Sheets Book &mdash. Best Design
+## 7. Keep Calm And Shoot Straight: Archery Score Sheets Book &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -785,7 +785,7 @@ It’s a great tool to assess and improve your skills in archery, you can use it
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Keepers</div>
 <h3 class="product-card-name">Keep Calm And Shoot Straight: Archery Score Sheets Book</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Keep calm and shoot straight archery score sheets book is a product which can be used in tournaments, small competitions, and for personal training as well. This scorebook is perfect for strike archery. The sheets are round-shaped and the paper is colored white and black with no bleed.</p>
@@ -846,7 +846,7 @@ Daily recordings of the scores will tell you how your skills are improving and w
 
 Trainers and coaches can also have it to assess the performance of their students and give them the learning tips based on the results.
 
-## 8. Archery Score Book: Archery Target Score Sheets &mdash. Most Durable
+## 8. Archery Score Book: Archery Target Score Sheets &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -857,7 +857,7 @@ Trainers and coaches can also have it to assess the performance of their student
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Keepers</div>
 <h3 class="product-card-name">Archery Score Book: Archery Target Score Sheets</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">This product is a complete package for archery, it includes target sheets, a scorebook, and log records as well. These scorecards can be used in tournaments and competitive sports and beginners can also learn and improve their skills if practiced and noted daily.</p>
@@ -916,7 +916,7 @@ The language used in the notebook is English.
 
 It’s a perfect product to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
 
-## 9. Draw Anchor Aim: Archery Score Keeping Notebook for Target Shooting &mdash. Best for Beginners
+## 9. Draw Anchor Aim: Archery Score Keeping Notebook for Target Shooting &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -927,7 +927,7 @@ It’s a perfect product to assess and improve your skills in archery, you can u
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Keepers</div>
 <h3 class="product-card-name">Draw Anchor Aim: Archery Score Keeping Notebook for Target Shooting</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">This is a perfect daily archery diary, you can call it a notebook or a journal as well. It's a great tool to track distance, score, target, ends, date, and location. You can also note or write what bad happened and where you've to improve.</p>
@@ -990,7 +990,7 @@ If you're a trainer you can record scores and results and you can make notes on 
 
 Can be used in different formats to record scores and final results.
 
-## 10. Follow Your Own Arrow: Archery Target Score Sheets &mdash. Honorable Mention
+## 10. Follow Your Own Arrow: Archery Target Score Sheets &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1001,7 +1001,7 @@ Can be used in different formats to record scores and final results.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Keepers</div>
 <h3 class="product-card-name">Follow Your Own Arrow: Archery Target Score Sheets</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This is a unique record-keeping book made to record all your archery scores, progress, and tournaments in a single place, thanks to this score sheet. You can record a lot of information, for example, name, date, team, target, distance, location, and all of your scores and results.</p>

@@ -350,7 +350,7 @@ These accessories are very beneficial for archers so do read these reviews on ar
 </table>
 </div>
 
-## 1. Trophy Ridge Volt 5 Pin Bow Sight &mdash. Best Overall
+## 1. Trophy Ridge Volt 5 Pin Bow Sight &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -361,7 +361,7 @@ These accessories are very beneficial for archers so do read these reviews on ar
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Lenses</div>
 <h3 class="product-card-name">Trophy Ridge Volt 5 Pin Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">Trophy Ridge is one of the leading brands in making archery accessories. In 2001, Bear Archery declared the acquisition of the assets of Trophy Ridge so now it's owned by the former one. The material used by the manufacturer is Aluminum which gives several advantages to the bowmen.</p>
@@ -430,7 +430,7 @@ It often occurs that during aiming the bow shook but due to soft Ballistix coati
 
 It comes with black color and has dimensions of 9 x 4 x 9 inches.
 
-## 2. CBE Engage Hybrid Bow Sight 3 Pin RH .010 &mdash. Runner Up
+## 2. CBE Engage Hybrid Bow Sight 3 Pin RH .010 &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -441,7 +441,7 @@ It comes with black color and has dimensions of 9 x 4 x 9 inches.
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Lenses</div>
 <h3 class="product-card-name">CBE Engage Hybrid Bow Sight 3 Pin RH .010</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">This hunting sight is produced by a USA company, CBE-Custom Bow Equipment which has the vision to manufacture durable and accurate-shooting archery accessories. CBE also provides replacement or repair of bow sights. This bow sight has a dovetail mounting system i.</p>
@@ -501,7 +501,7 @@ It comes in black color with a yellow aiming ring.
 
 It weighs 14.4 ounces and has dimensions of 10 x 4.2 x 3 inches.
 
-## 3. Bow sight Define Range Finding 5 Pin &mdash. Best Value
+## 3. Bow sight Define Range Finding 5 Pin &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -512,7 +512,7 @@ It weighs 14.4 ounces and has dimensions of 10 x 4.2 x 3 inches.
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Lenses</div>
 <h3 class="product-card-name">Bow sight Define Range Finding 5 Pin</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">IQ Bowsight which was introduced in 2010 is the manufacturer of this bow sight. IQ Bowsight immediately grabbed people’s attention and quickly became one of the world’s most precise archery sighting systems.</p>
@@ -577,7 +577,7 @@ The pins can also be calibrated by a removable red dot laser.
 
 This bow sight runs by a CR2 battery and has a dual mounting system, therefore, can be used by both left-handed and right-handed archers.
 
-## 4. AccuTouch Carbon Pro Sight &mdash. Premium Pick
+## 4. AccuTouch Carbon Pro Sight &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -588,7 +588,7 @@ This bow sight runs by a CR2 battery and has a dual mounting system, therefore, 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Lenses</div>
 <h3 class="product-card-name">AccuTouch Carbon Pro Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Axcel Sights or T.R.U Ball Releases together have produced this bow sight which depicts its great expertise in making this product. The company has a goal to provide archery accessories all over the world and it doesn’t compromise in its quality.</p>
@@ -657,7 +657,7 @@ The windage adjustments are also held in place until you disengage the lock butt
 
 The Axcel Company has designed it with a composite carbon technology which makes it a durable archery gear.
 
-## 5. Range-Rover Pro LED Bow Sight &mdash. Budget Pick
+## 5. Range-Rover Pro LED Bow Sight &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -668,7 +668,7 @@ The Axcel Company has designed it with a composite carbon technology which makes
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Lenses</div>
 <h3 class="product-card-name">Range-Rover Pro LED Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">This 2-dot style Range-Rover Pro sight is produced by TRUGLO Company which beliefs in supporting the hunting community by providing advanced and innovative archery accessories.</p>
@@ -743,7 +743,7 @@ Lastly, using CNC complex designs of bow sights is easily made thus making it ch
 
 The 1-dot style has dimensions of 10 x 10.2 x 4 inches and the 2-dot style has dimensions of 10 x 9 x 3 inches.
 
-## 6. Oracle Rangefinder Bow Sight &mdash. Most Popular
+## 6. Oracle Rangefinder Bow Sight &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -754,7 +754,7 @@ The 1-dot style has dimensions of 10 x 10.2 x 4 inches and the 2-dot style has d
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Lenses</div>
 <h3 class="product-card-name">Oracle Rangefinder Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">This bow sight is manufactured by Burris Optics that's famous and is a trusted supplier for binoculars, scopes, and reticles for all hunting and shooting needs.</p>
@@ -817,7 +817,7 @@ The Oracle bow sight learns the trajectory i.e the path traveled by the arrow, o
 
 This scope weighs 17 ounces and is powered by a CR123 battery.
 
-## 7. React Pro Sight &mdash. Best Design
+## 7. React Pro Sight &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -828,7 +828,7 @@ This scope weighs 17 ounces and is powered by a CR123 battery.
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Lenses</div>
 <h3 class="product-card-name">React Pro Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This Pro Sight is made by Trophy Ridge, a famous company for making archery sights, rests, and quivers. The feedstock used for this material is Aluminum which makes it durable and lightweight. Aluminum also makes the bow sight impermeable that even with 0.</p>
@@ -892,7 +892,7 @@ The right-hand bow sight is available for both 0.10 inch and 0.19-inch pin sizes
 
 The product comes with black color and its dimensions are 5 x 8 x 0.75 inches.
 
-## 8. TOPOINT ARCHERY 3 Pin Bow Sight &mdash. Most Durable
+## 8. TOPOINT ARCHERY 3 Pin Bow Sight &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -903,7 +903,7 @@ The product comes with black color and its dimensions are 5 x 8 x 0.75 inches.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Lenses</div>
 <h3 class="product-card-name">TOPOINT ARCHERY 3 Pin Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">This three-pin bow sight is manufactured by Topoint Archery, a Chinese Company. Topoint Archery has used Aluminum to manufacture this bow sight which gives several advantages to the user. Aluminum makes the bow sight lightweight while being durable. The bow sight becomes stainless as Aluminum makes it corrosion-resistant.</p>
@@ -964,7 +964,7 @@ This gear also contains elevation and windage adjustments.
 
 The sight can be adjusted for both left and right-handed users.
 
-## 9. Define Pro 7-Pin Bow Range Finding Sight &mdash. Best for Beginners
+## 9. Define Pro 7-Pin Bow Range Finding Sight &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -975,7 +975,7 @@ The sight can be adjusted for both left and right-handed users.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Lenses</div>
 <h3 class="product-card-name">Define Pro 7-Pin Bow Range Finding Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">This 7-pin bow sight is manufactured by “IQ Bowsight” just like the 5-pin Range Finding Sight. This bow sight possesses the new Retina Lock Technology that controls the muscle memory and consistency and allows us to shoot at longer distances while also showing the slightest anchor point change.</p>
@@ -1048,7 +1048,7 @@ This archery accessory also has a range-finding unit with +/- 1-yard resolution.
 
 Yardage displayed is always horizontal distance and it also has a built-in angle-compensation.
 
-## 10. RDS-22 Micro Red Dot Sight &mdash. Honorable Mention
+## 10. RDS-22 Micro Red Dot Sight &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1059,7 +1059,7 @@ Yardage displayed is always horizontal distance and it also has a built-in angle
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Lenses</div>
 <h3 class="product-card-name">RDS-22 Micro Red Dot Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This product is supplied by Feyachi that's committed to providing reliable products to its customers. This RDS-22 model comes with two MOA-Minute of Angle i.e. a term denoting the accuracy of the scope, red dot sights that can be used for both-eyes-open shooting.</p>

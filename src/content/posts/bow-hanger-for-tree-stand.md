@@ -346,7 +346,7 @@ Bow holders are compact pieces of equipment that are meant to hold your hunting 
 </table>
 </div>
 
-## 1. Summit Treestands Universal Bow Hanger &mdash. Best Overall
+## 1. Summit Treestands Universal Bow Hanger &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -357,7 +357,7 @@ Bow holders are compact pieces of equipment that are meant to hold your hunting 
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Hangers</div>
 <h3 class="product-card-name">Summit Treestands Universal Bow Hanger</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This product is excellent for those who want the best and worth the investment as it's easy to put on and made with heavy-duty metals to last for a longer time.</p>
@@ -416,7 +416,7 @@ The entire bow holder is coated with a rubber layer. This prevents any unnecessa
 
 The summit bow holder isn't featured with expensive features and designs, but it does the job perfectly quickly and budget-friendly.
 
-## 2. Third Hand Treestand Bow Holder &mdash. Runner Up
+## 2. Third Hand Treestand Bow Holder &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -427,7 +427,7 @@ The summit bow holder isn't featured with expensive features and designs, but it
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Hangers</div>
 <h3 class="product-card-name">Third Hand Treestand Bow Holder</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">This product is for those people looking for a simply designed product that's trustworthy and easy to put on. The third hand is a simple design tress stand that fits most bots with its S-shaped holding arm and also is different as compared to other models in the list.</p>
@@ -485,7 +485,7 @@ Though the mount could be in polygonal shape so that it won't be twisting while 
 
 It has a simple but robust construction that makes it a long-lasting bow holder and is worth the investment.
 
-## 3. Team Realtree Short EZ Hanger &mdash. Best Value
+## 3. Team Realtree Short EZ Hanger &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -496,7 +496,7 @@ It has a simple but robust construction that makes it a long-lasting bow holder 
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Hangers</div>
 <h3 class="product-card-name">Team Realtree Short EZ Hanger</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">This product is great for those looking for a wider bow hook and a sharper screw because team Realtree short EZ hanger has made sure that people won't be disappointed. The extremely popular Realtree short, long EZ hanger has been an age success for hunters nationwide.</p>
@@ -557,7 +557,7 @@ This new EZ guard is great for keeping clothes against your arms for bowstring c
 
 Hunters will also find this product great for multiple reasons and uses around the camp, like hanging lanterns and other accessories.
 
-## 4. HME Products Universally Mountable Bow Holders &mdash. Premium Pick
+## 4. HME Products Universally Mountable Bow Holders &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -568,7 +568,7 @@ Hunters will also find this product great for multiple reasons and uses around t
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Hangers</div>
 <h3 class="product-card-name">HME Products Universally Mountable Bow Holders</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">This product is great for those looking for something affordable. With the ability to mount within seconds as HME products, universally mountable bow holders are the best choice for them. Not only affordable, but it's made for just about any tree stand, may it be a climber or ladder.</p>
@@ -629,7 +629,7 @@ It's versatile and can work with most treestands, and that's the best point of i
 
 Of course, it's not perfect as it also has its dysfunction like, the bow holder fork rotates 360 degrees, and it also has many small screws and pins that can easily be lost in the bushes.
 
-## 5. HME Products Pro-series Super Hanger &mdash. Budget Pick
+## 5. HME Products Pro-series Super Hanger &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -640,7 +640,7 @@ Of course, it's not perfect as it also has its dysfunction like, the bow holder 
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Hangers</div>
 <h3 class="product-card-name">HME Products Pro-series Super Hanger</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">This product is great for those who want a bow holder that can be used for hunting blinds, so you don't need to worry about falling your equipment.</p>
@@ -696,7 +696,7 @@ It's reasonably light, packed in a long way to tree stands, also easy to set up,
 
 It's one of the best bow hangers of its kind as it takes care of the obvious flaws that common bow hangers have.
 
-## 6. RealTree Outfitters EZ Hangers &mdash. Most Popular
+## 6. RealTree Outfitters EZ Hangers &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -707,7 +707,7 @@ It's one of the best bow hangers of its kind as it takes care of the obvious fla
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Hangers</div>
 <h3 class="product-card-name">RealTree Outfitters EZ Hangers</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">This product is great for those looking for products usually available in smaller sizes, so carrying them is less challenging. The Realtree outfitter EZ hanger gives you the best choice for that.</p>
@@ -768,7 +768,7 @@ This new EZ guard is great for keeping clothes against your arms for bowstring c
 
 Hunters will also find this product great for multiple reasons and uses around the camp, like hanging lanterns and other accessories.
 
-## 7. High-Point Product Holder &mdash. Best Design
+## 7. High-Point Product Holder &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -779,7 +779,7 @@ Hunters will also find this product great for multiple reasons and uses around t
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Hangers</div>
 <h3 class="product-card-name">High-Point Product Holder</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This product is excellent for those who want to attach the bow holder on both sides of the tree stand because it has the feature worth it. It offers a versatile solution with innovative engineering and robust materials.</p>
@@ -842,7 +842,7 @@ I'm sure you'll be pleased with your purchase if you decide to purchase this bow
 
 Overall, we like the high point bow holder as it mounts easily, and when it works with your tree stand, it's quite sturdy. It's very easy to grab the bow and remove the holder from the tree stand.
 
-## 8. Bow Buddy Bow Hanger &mdash. Most Durable
+## 8. Bow Buddy Bow Hanger &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -853,7 +853,7 @@ Overall, we like the high point bow holder as it mounts easily, and when it work
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Hangers</div>
 <h3 class="product-card-name">Bow Buddy Bow Hanger</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">This product is great for those looking for a bow hanger for tree stands with the ability to be used on ladder stands and hang on tree stands with solid steel construction.</p>
@@ -911,7 +911,7 @@ Like every product, it's also not perfect and has its unction or flaws, but hone
 
 It works with bows with more horizontal limbs, while curved or vertical ones will have a harder time staying secure and sturdy inside the holder due to the bow hook's shape.
 
-## 9. Team REALTREE 3-Arm EZ Hanger &mdash. Best for Beginners
+## 9. Team REALTREE 3-Arm EZ Hanger &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -922,7 +922,7 @@ It works with bows with more horizontal limbs, while curved or vertical ones wil
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Hangers</div>
 <h3 class="product-card-name">Team REALTREE 3-Arm EZ Hanger</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">This product is great for those looking for a product that can be screwed easily and extended because the Realtree 3 Arms Long EZ Hanger has made sure that people won't be disappointed as it can be screwed easily and extended 34\" to keep your bow in your arms reach.</p>
@@ -982,7 +982,7 @@ This new EZ 3 arm guard is great for keeping clothes against your arms for bowst
 
 Hunters will also find this product great for multiple reasons and uses around the camp, like hanging lanterns and other accessories.
 
-## 10. HME Products Ground Blind Bow Holders &mdash. Honorable Mention
+## 10. HME Products Ground Blind Bow Holders &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -993,7 +993,7 @@ Hunters will also find this product great for multiple reasons and uses around t
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Hangers</div>
 <h3 class="product-card-name">HME Products Ground Blind Bow Holders</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This product is great for those looking for a bow holder that can hold a large bow as this product supports all compound bows because it has three rubberized large accessory hooks to hang.</p>

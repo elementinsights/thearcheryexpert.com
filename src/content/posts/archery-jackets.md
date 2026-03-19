@@ -350,7 +350,7 @@ Now, let's get started.
 </table>
 </div>
 
-## 1. Legendary Whitetails Men's Jacket &mdash. Best Overall
+## 1. Legendary Whitetails Men's Jacket &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -361,7 +361,7 @@ Now, let's get started.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Jackets</div>
 <h3 class="product-card-name">Legendary Whitetails Men's Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The first jacket I've on this listing is the legendary whitetail jacket. It's a revolutionary camo jacket that spots heavy game camo accents and a signature buck logo. It's a jacket optimized for whitetail hunting.</p>
@@ -436,7 +436,7 @@ If you look at the price, then this is the excellent hunting jacket for the cold
 
 Bringing a trophy home is superb and all, but taking a trophy home with style is even better.
 
-## 2. Stika Men Jetstream Jacket &mdash. Runner Up
+## 2. Stika Men Jetstream Jacket &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -447,7 +447,7 @@ Bringing a trophy home is superb and all, but taking a trophy home with style is
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Jackets</div>
 <h3 class="product-card-name">Stika Men Jetstream Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">When it comes to finding an archery jacket that won't only hold you warm in the coldest weather however allow you to move around comfortably while hunting, you want to have something like the SITKA Men's Jetstream Jacket.</p>
@@ -516,7 +516,7 @@ The arms are wholly articulated for an increased range of motion.
 
 Also, the jacket has a hood for an added degree of protection - available sizes for this jacket range from Small to 3XL.
 
-## 3. Gamehide Deerhunter Parka &mdash. Best Value
+## 3. Gamehide Deerhunter Parka &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -527,7 +527,7 @@ Also, the jacket has a hood for an added degree of protection - available sizes 
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Jackets</div>
 <h3 class="product-card-name">Gamehide Deerhunter Parka</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Gamehide Parka is a classic, hip-length Realtree camo winter wear. One fantastic feature of this hunting jacket is the innovative HunterHide fabric. It creates a softshell that's weatherproof for use in mild rain, sleet, and snow. Plus, it's quick-drying, fade-free, and gives high-quality resistance to burrs.</p>
@@ -603,7 +603,7 @@ This hunting jacket is available in 2XL sizes.
 
 This searching jacket is very crucial when you got to survival bow hunting.
 
-## 4. Carhartt Men's Quilted Flannel &mdash. Premium Pick
+## 4. Carhartt Men's Quilted Flannel &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -614,7 +614,7 @@ This searching jacket is very crucial when you got to survival bow hunting.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Jackets</div>
 <h3 class="product-card-name">Carhartt Men's Quilted Flannel</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">If you're in the market for a specifically comfy jacket that never hinders your moves while you're focused on your prey, possibly this Carhartt alternative is a suitable one for you. The Carhartt Men's Quilted Jacket works for you everywhere you need to hide.</p>
@@ -688,7 +688,7 @@ Hence you can stretch them out beside the hazard of tearing.
 
 Carhartt camo jacket comes in different sizes ranging from Medium to 2XL.
 
-## 5. Wildfowler Outfitter Hunting Insulated Parka &mdash. Budget Pick
+## 5. Wildfowler Outfitter Hunting Insulated Parka &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -699,7 +699,7 @@ Carhartt camo jacket comes in different sizes ranging from Medium to 2XL.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Jackets</div>
 <h3 class="product-card-name">Wildfowler Outfitter Hunting Insulated Parka</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Wildfowlers insulated Parka is one of the most famous hunting jackets on amazon with over a hundred positive reviews raving about this hunting jacket and that for a good reason. It's a long parka type jacket, it's water-resistant and has a polar fleece lining and washable fabric construction.</p>
@@ -765,7 +765,7 @@ Having the hood combined with the elastic strap on the waist you can shrug yours
 
 The sole hassle with this jacket is its noisy pockets, because of the Velcro straps used.
 
-## 6. ArcticShield Men's Classic Elite Parka &mdash. Most Popular
+## 6. ArcticShield Men's Classic Elite Parka &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -776,7 +776,7 @@ The sole hassle with this jacket is its noisy pockets, because of the Velcro str
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Jackets</div>
 <h3 class="product-card-name">ArcticShield Men's Classic Elite Parka</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">If you're seeking a warm and cozy looking jacket, then you must check this one out. It's water and windproof which is a must if you're going to hunt in harsh climate conditions.</p>
@@ -843,7 +843,7 @@ The hunting jacket has a stunning camo pattern.
 
 A layer of incredible fleece inside the jacket, its spot on, and as many users have stated on amazon" they couldn't be happier."
 
-## 7. YUKON Gear Men's Waylay Softshell Hunting Jacket &mdash. Best Design
+## 7. YUKON Gear Men's Waylay Softshell Hunting Jacket &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -854,7 +854,7 @@ A layer of incredible fleece inside the jacket, its spot on, and as many users h
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Jackets</div>
 <h3 class="product-card-name">YUKON Gear Men's Waylay Softshell Hunting Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Recent consumers observed this product to be an incredible investment. It stunned the consumers to see an excellent quality product with such a cheap fee tag. It truly is a bargain. It stood out to us for being a fantastic investment for the money.</p>
@@ -925,7 +925,7 @@ It's made from terrific substances that guarantee its sturdiness.
 
 Therefore, you won't regret investing in this product.
 
-## 8. Rothco Special Ops &mdash. Most Durable
+## 8. Rothco Special Ops &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -936,7 +936,7 @@ Therefore, you won't regret investing in this product.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Jackets</div>
 <h3 class="product-card-name">Rothco Special Ops</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">Rotho Special Ops jacket is a superb tactical outdoor casual wear. This jacket has a 3-layered construction that provides a ton of benefits. It includes an outer polyester shell, a sandwich layer, and a fleece lining.</p>
@@ -1015,7 +1015,7 @@ It also comes in 14 sizes, so discovering the one that's right for you shouldn't
 
 This one features multiple layers that help make sure you hold as lots of body heat as needed while you're out on your hunting trip.
 
-## 9. Browning Upland Jacket &mdash. Best for Beginners
+## 9. Browning Upland Jacket &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1026,7 +1026,7 @@ This one features multiple layers that help make sure you hold as lots of body h
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Jackets</div>
 <h3 class="product-card-name">Browning Upland Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Brownings upland jacket is a unique looking jacket that gives it all you need. If you're into dove or quail hunting, then this is a jacket you've to take a look at.</p>
@@ -1095,7 +1095,7 @@ So that you don't have to carry a backpack on your hunt.
 
 When having pockets for both your lunch, birds, and ammo, I don't see why you would bring one.
 
-## 10. ScentLok Taktix Hunting Jacket &mdash. Honorable Mention
+## 10. ScentLok Taktix Hunting Jacket &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1106,7 +1106,7 @@ When having pockets for both your lunch, birds, and ammo, I don't see why you wo
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Jackets</div>
 <h3 class="product-card-name">ScentLok Taktix Hunting Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">The name ScentLok is acknowledged for manufacturing innovative hunting suits, and this one is no exception. Customers have been very completely satisfied with this. They say that it's a great lightweight jacket that's awesome quiet and doesn't make noise while moving around.</p>

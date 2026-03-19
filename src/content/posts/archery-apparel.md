@@ -350,7 +350,7 @@ Without that, it would be really hard for one to identify what sort of event is 
 </table>
 </div>
 
-## 1. King’s Camo Hunter Series Pants &mdash. Best Overall
+## 1. King’s Camo Hunter Series Pants &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -361,7 +361,7 @@ Without that, it would be really hard for one to identify what sort of event is 
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Products</div>
 <h3 class="product-card-name">King’s Camo Hunter Series Pants</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">For $ 41.63 - $ 80 get king’s camo hunter series pants which look phenomenal and are available in different sizes. Made with 100% polyester it’s a perfect choice for archery experts out there.</p>
@@ -430,7 +430,7 @@ These pants are easy to wear like cotton and are 100% polyester with quick dry q
 
 With a good amount of pockets, it can also help carry things.
 
-## 2. King’s Camo KC1 Poly Long Sleeve Tee Shirt &mdash. Runner Up
+## 2. King’s Camo KC1 Poly Long Sleeve Tee Shirt &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -441,7 +441,7 @@ With a good amount of pockets, it can also help carry things.
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Products</div>
 <h3 class="product-card-name">King’s Camo KC1 Poly Long Sleeve Tee Shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">With 3 color combinations to choose from and available in different sizes ranging between 22.99 - 29.99 dollars, there's king’s camo kc1 long sleeve tee shirt. With awesome looks comes great durability and quality. This product is one of its kind. It's lightweight and has 100% polyester.</p>
@@ -506,7 +506,7 @@ This is a perfect choice and can be used as a long camouflage sleeve shirt for p
 
 It’s a perfect choice for a long sleeve base layer shirt that will keep you dry in the summer season.
 
-## 3. Hot Shot’s Youth Boy Camo Defender Gloves &mdash. Best Value
+## 3. Hot Shot’s Youth Boy Camo Defender Gloves &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -517,7 +517,7 @@ It’s a perfect choice for a long sleeve base layer shirt that will keep you dr
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Products</div>
 <h3 class="product-card-name">Hot Shot’s Youth Boy Camo Defender Gloves</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Coming in 3 different sizes and ranging between 17.99 - 24.99 dollars, this is the next best thing you can find on Amazon. Made with 100% polyester it's just a boon for outdoor lovers. These gloves are tailor-made for individuals who love hunting, shooting, archery, fishing, etc.</p>
@@ -582,7 +582,7 @@ The spandex makes it stretchy and hence comfortable for a hunter’s hand.
 
 The camo pattern helps to bring both elements which are realistic to match your surrounding as well as erase your form to deer, turkey, and ducks while keeping you safe and sound and invisibility range.
 
-## 4. Kryptek Vellus Camo Jacket &mdash. Premium Pick
+## 4. Kryptek Vellus Camo Jacket &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -593,7 +593,7 @@ The camo pattern helps to bring both elements which are realistic to match your 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Products</div>
 <h3 class="product-card-name">Kryptek Vellus Camo Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Ranging between 157.08 - 229.99 dollars it's just as amazing as previously mentioned products. Available in 7 different fitting sizes, it's one of the most necessary things you want to own if you're an outdoor sports lover.</p>
@@ -668,7 +668,7 @@ It's fully warranted and 1 year of warranty is included in the deal which will e
 
 With scent control, it's one of the best apparel you would find in the market.
 
-## 5. Hunter Safety System X-1 Bowhunter Treestand Safety Harness &mdash. Budget Pick
+## 5. Hunter Safety System X-1 Bowhunter Treestand Safety Harness &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -679,7 +679,7 @@ With scent control, it's one of the best apparel you would find in the market.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Products</div>
 <h3 class="product-card-name">Hunter Safety System X-1 Bowhunter Treestand Safety Harness</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Ranging between 52.99 - 75.38 dollars this is a tactical safety harness that comes in different sizes. It’s the latest affordable treestand safety. It removes the chances of dangerous weave-through buckles and dangling straps. It weighs around 2.5 lbs which makes it very light in terms of usage.</p>
@@ -750,7 +750,7 @@ It gives an advantage to the users in swift movements and helps them to wield it
 
 The best thing about it's that the company provides 5 whooping years of warranty, hence be sure and buy it.
 
-## 6. Bijia Hunting Rangefinder – 6X 650 Yards Multifunctional Laser Rangefinder for Hunting &mdash. Most Popular
+## 6. Bijia Hunting Rangefinder – 6X 650 Yards Multifunctional Laser Rangefinder for Hunting &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -761,7 +761,7 @@ The best thing about it's that the company provides 5 whooping years of warranty
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Products</div>
 <h3 class="product-card-name">Bijia Hunting Rangefinder  -  6X 650 Yards Multifunctional Laser Rangefinder for Hunting</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">Ranging between 70 - 90 dollars an extremely helpful and tactical device for the individuals who love outdoor activities. Sold by Hunter optics, one of the best tactical devices on Amazon. This is a laser hunting range finder that can measure distance, speed, angle.</p>
@@ -836,7 +836,7 @@ It comes with a lot of customizable modes for your scenes.
 
 The manufacturing company also provides a 1-year warranty so that you don’t have to think about it before buying it.
 
-## 7. ScentLok’s Men’s Full Season Headcover &mdash. Best Design
+## 7. ScentLok’s Men’s Full Season Headcover &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -847,7 +847,7 @@ The manufacturing company also provides a 1-year warranty so that you don’t ha
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Products</div>
 <h3 class="product-card-name">ScentLok’s Men’s Full Season Headcover</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">It comes for around 30-35 dollars but is one of the best products out there if you're an outdoor fun lover. It's manufactured with 100% polyester. It's imported. Can be washed in a washing machine.</p>
@@ -928,7 +928,7 @@ Hence, you can be sure to buy this amazing product without worrying about its ma
 
 It has hundreds of reviews and has been provided 4+ stars in quality.
 
-## 8. T.O.M Horizons Binoculars Harness Case Pack &mdash. Most Durable
+## 8. T.O.M Horizons Binoculars Harness Case Pack &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -939,7 +939,7 @@ It has hundreds of reviews and has been provided 4+ stars in quality.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Products</div>
 <h3 class="product-card-name">T.O.M Horizons Binoculars Harness Case Pack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">This item is available on Amazon for 80 dollars. It’s sold by T.O.M horizons company. This item has a zip closure to make sure all your stuff doesn’t fall and is safe with you while you carry on with your expeditions.</p>
@@ -1017,7 +1017,7 @@ The company offers a 1-year warranty as well as a condition that if you don’t 
 
 Who offers a deal like that in the present world? - Please check it out.
 
-## 9. ALPS Outdoor Z Dark Timber Hunting Day Backpack &mdash. Best for Beginners
+## 9. ALPS Outdoor Z Dark Timber Hunting Day Backpack &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1028,7 +1028,7 @@ Who offers a deal like that in the present world? - Please check it out.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Products</div>
 <h3 class="product-card-name">ALPS Outdoor Z Dark Timber Hunting Day Backpack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Available in 2 color choices and at 59.99 dollars this backpack is one of the best when it comes to outdoor activities. It consists of a large accessory pocket and a main storage compartment that offers plenty of organization space and storage.</p>
@@ -1095,7 +1095,7 @@ It also has mesh side pockets to store extra gear.
 
 A 1-year warranty is also provided on the product with amazing discounts.
 
-## 10. New View Hunting Jacket Silent Water Resistant Hunting Clothes &mdash. Honorable Mention
+## 10. New View Hunting Jacket Silent Water Resistant Hunting Clothes &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1106,7 +1106,7 @@ A 1-year warranty is also provided on the product with amazing discounts.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Products</div>
 <h3 class="product-card-name">New View Hunting Jacket Silent Water Resistant Hunting Clothes</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">One of the best sellers in a range of 87 - 109 dollars this product is built for archery and hunting enthusiasts. All Hunting Rain Suit includes a jacket and pants with a purchase. Amazingly smooth-face polyester meets brushed interior fleece, with waterproof, windproof, breathable, and thermal.</p>

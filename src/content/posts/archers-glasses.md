@@ -318,7 +318,7 @@ No matter your vision level, the glasses will boost your experience.
 </table>
 </div>
 
-## 1. XAegis Shooting Glasses with Case &mdash. Best Overall
+## 1. XAegis Shooting Glasses with Case &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -329,7 +329,7 @@ No matter your vision level, the glasses will boost your experience.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Glasses</div>
 <h3 class="product-card-name">XAegis Shooting Glasses with Case</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you’re still able to see the red laser light.</p>
@@ -390,7 +390,7 @@ This zipper case also helps with portability, and the case has a plastic hanging
 
 However, if you don’t love the glasses, you’re guaranteed a full refund, should they not serve your purpose.
 
-## 2. Smith & Wesson Major Full Frame Shooting Glasses &mdash. Runner Up
+## 2. Smith & Wesson Major Full Frame Shooting Glasses &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -401,7 +401,7 @@ However, if you don’t love the glasses, you’re guaranteed a full refund, sho
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Glasses</div>
 <h3 class="product-card-name">Smith & Wesson Major Full Frame Shooting Glasses</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">When looking for durable glasses, you need not go any further. These glasses are a product of an extra lasting material that makes them not easily breakable. They're real value for your money.</p>
@@ -458,7 +458,7 @@ Regarding dependability, the glasses provide all-around visibility for your full
 
 The Smith & Wesson glasses include a 1-year warranty  -  a guarantee for your money.
 
-## 3. Allen Company Shooting Safety Glasses &mdash. Best Value
+## 3. Allen Company Shooting Safety Glasses &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -469,7 +469,7 @@ The Smith & Wesson glasses include a 1-year warranty  -  a guarantee for your mo
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Glasses</div>
 <h3 class="product-card-name">Allen Company Shooting Safety Glasses</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Allen Company Safety Glasses feature ballistic eye protection with ANSI Z87.1 impact resistance. They work over prescription glasses and come in a convenient 4-pack, making them a great value for archers who want reliable eye protection.</p>
@@ -528,7 +528,7 @@ The semi-rimless glasses consist of: a gift pack that contains an EVA protective
 
 All these features are for your added convenience and to keep you fully charged for your adventure.
 
-## 4. Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass &mdash. Premium Pick
+## 4. Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -539,7 +539,7 @@ All these features are for your added convenience and to keep you fully charged 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Glasses</div>
 <h3 class="product-card-name">Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you’d wish.</p>
@@ -594,7 +594,7 @@ Radians Rock X-Treme glasses are a mixture of fashion and task-oriented. Their f
 
 White, black, and silver, expanding your choice capability.
 
-## 5. Bertoni Shooting Glasses with 4 Interchangeable Lenses &mdash. Budget Pick
+## 5. Bertoni Shooting Glasses with 4 Interchangeable Lenses &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -605,7 +605,7 @@ White, black, and silver, expanding your choice capability.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Glasses</div>
 <h3 class="product-card-name">Bertoni Shooting Glasses with 4 Interchangeable Lenses</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">These premium Bertoni glasses have four interchangeable anti-fog lenses for perfect contrast in various light conditions. The lenses are available in brown to block unwanted blue light while improving orange target contrast. Yellow is good for use in little light conditions.</p>
@@ -674,7 +674,7 @@ What’s more?
 
 The glasses are so sturdy that they have passed the easy breaking test even when they fall.
 
-## 6. Coyote1 Adjustable Shooting Safety Glasses &mdash. Most Popular
+## 6. Coyote1 Adjustable Shooting Safety Glasses &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -685,7 +685,7 @@ The glasses are so sturdy that they have passed the easy breaking test even when
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Glasses</div>
 <h3 class="product-card-name">Coyote1 Adjustable Shooting Safety Glasses</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.7/10</span>
 </div>
 <p class="product-card-desc">When considering total comfort, these adjustable glasses have arms that rotate in eight different positions. You can extend it up to five lengths for a custom fit and ideal comfort.</p>
@@ -748,7 +748,7 @@ That’s not all. You'll enjoy a one year warranty covering all parts apart from
 
 This product is fully multi-purpose as you can use it for a variety of tasks from shooting, sport, military training, woodworking, landscaping, and much more so long as you want to keep your eyes protected.
 
-## 8. Evolution Matrix Archery Shooting Glasses &mdash. Best Design
+## 8. Evolution Matrix Archery Shooting Glasses &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -759,7 +759,7 @@ This product is fully multi-purpose as you can use it for a variety of tasks fro
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Glasses</div>
 <h3 class="product-card-name">Evolution Matrix Archery Shooting Glasses</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.5/10</span>
 </div>
 <p class="product-card-desc">The Evolution Matrix glasses are purpose-built for archery, clay pigeon, and target shooting. They feature multiple interchangeable lenses for different light conditions and shatterproof polycarbonate construction with UV400 protection.</p>
@@ -822,7 +822,7 @@ You're guaranteed maximum comfort.
 
 They come with a one year warranty where you get a full refund of your money should the glasses not serve you as per the manufacturer's indication.
 
-## 9. iLumen8 Yellow Night Vision Driving Glasses &mdash. Most Durable
+## 9. iLumen8 Yellow Night Vision Driving Glasses &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -833,7 +833,7 @@ They come with a one year warranty where you get a full refund of your money sho
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Glasses</div>
 <h3 class="product-card-name">iLumen8 Yellow Night Vision Driving Glasses</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.3/10</span>
 </div>
 <p class="product-card-desc">When looking for a decent and stylish product that's perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that’s preferred and is most desirable for sharpshooters as it allows you to see farther and clearer.</p>
@@ -894,7 +894,7 @@ The distinct glasses further come with a crush-proof storage pouch and a microfi
 
 The glasses also have a thirty-day money-back guarantee for a risk-free trial, and you're free to return to the manufacturer should they not perform to your satisfaction.
 
-## 10. Howard Leight by Honeywell Genesis Sharp-Shooter Glasses &mdash. Best for Beginners
+## 10. Howard Leight by Honeywell Genesis Sharp-Shooter Glasses &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -905,7 +905,7 @@ The glasses also have a thirty-day money-back guarantee for a risk-free trial, a
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Glasses</div>
 <h3 class="product-card-name">Howard Leight by Honeywell Genesis Sharp-Shooter Glasses</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.1/10</span>
 </div>
 <p class="product-card-desc">The glasses are properly ventilated with adequate spacing between the lens and frame, making them anti-fog. Even in extreme conditions, the glasses will give you the most excellent practice.</p>

@@ -346,7 +346,7 @@ We want to make it easy for you to choose your next archery target purchase.
 </table>
 </div>
 
-## 1. KAINOKAI Traditional Hand-Made Straw Archery Target &mdash. Best Overall
+## 1. KAINOKAI Traditional Hand-Made Straw Archery Target &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -357,7 +357,7 @@ We want to make it easy for you to choose your next archery target purchase.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Targets</div>
 <h3 class="product-card-name">KAINOKAI Traditional Hand-Made Straw Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The KAINOKAI Traditional Hand-Made Straw Archery Target ranks 1st in our top-ten best archery targets list as it has amazing features with hundreds of satisfactional reviews on Amazon. KAINOKAI's traditional handmade archery target is a traditional, handmade archery target. Foliage is used as a raw material in it.</p>
@@ -448,7 +448,7 @@ While using the archery target, you must ensure that there's no other target beh
 
 To avoid accidental injuries, the archers should make sure that they should choose a place where there are no routes for pedestrians, for example, forests, parks, etc.
 
-## 2. SinoArt Traditional Solid Straw Round 3 Layers Hand-Made Archery Target Face &mdash. Runner Up
+## 2. SinoArt Traditional Solid Straw Round 3 Layers Hand-Made Archery Target Face &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -459,7 +459,7 @@ To avoid accidental injuries, the archers should make sure that they should choo
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Targets</div>
 <h3 class="product-card-name">SinoArt Traditional Solid Straw Round 3 Layers Hand-Made Archery Target Face</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">The SinoArt Traditional Solid Straw Archery Target ranks 2nd in our top ten archery targets list. Like KAINOKAI's traditional handmade archery target, SinoArt Traditional Solid Straw Archery Target is also handmade. The biodegradable straw is used as a raw material to make it.</p>
@@ -542,7 +542,7 @@ To avoid accidental injuries and safety precautions, the archers should make sur
 
 Preferably, you should make sure that the place where you're practicing must have a solid backstop.
 
-## 3. DOSTYLE Traditional Solid Straw Round Archery Target &mdash. Best Value
+## 3. DOSTYLE Traditional Solid Straw Round Archery Target &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -553,7 +553,7 @@ Preferably, you should make sure that the place where you're practicing must hav
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Targets</div>
 <h3 class="product-card-name">DOSTYLE Traditional Solid Straw Round Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The DOSTYLE Traditional Solid Straw Round Archery Target is a beautifully designed archery target. We've ranked the DOSTYLE Traditional Solid Straw Round Archery Target 3rd in the top ten best straw archery targets. It's a nature-friendly archery target.</p>
@@ -634,7 +634,7 @@ It's harmless to the arrows and can be removed safely.
 
 The central target scoring ring is clear in it, and it helps in shooting.
 
-## 4. SS OPER Tree Branch Decoration Archery Round Coiled Straw Target for Christmas &mdash. Premium Pick
+## 4. SS OPER Tree Branch Decoration Archery Round Coiled Straw Target for Christmas &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -645,7 +645,7 @@ The central target scoring ring is clear in it, and it helps in shooting.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Targets</div>
 <h3 class="product-card-name">SS OPER Tree Branch Decoration Archery Round Coiled Straw Target for Christmas</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The SS OPER Tree Branch Decoration Archery Round Coiled Straw Target ranks 2nd in our top ten archery targets list. Along with its attractive design, it has a lot of features. Aluminum acts as a casing in this archery target.</p>
@@ -710,7 +710,7 @@ Woods, etc.
 
 Preferably, you should make sure that the place where you’re practicing must have a solid backstop.
 
-## 5. TOPARCHERY Traditional Solid Straw Archery Target &mdash. Budget Pick
+## 5. TOPARCHERY Traditional Solid Straw Archery Target &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -721,7 +721,7 @@ Preferably, you should make sure that the place where you’re practicing must h
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Targets</div>
 <h3 class="product-card-name">TOPARCHERY Traditional Solid Straw Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">The TOPARCHERY Traditional Solid Straw Archery Target is ranked 5th in the best top ten straw archery targets. This archery target has been designed traditionally, using straw as a raw material. The beautifully designed concentric circles enhance their value.</p>
@@ -788,7 +788,7 @@ You shouldn't use bladed arrows for the archery as it may reduce the archery tar
 
 Before using, you should remember that before practicing, always opt for the safety measure as it can be hazardous.
 
-## 6. TBONTBY Traditional Solid Straw Archery Target &mdash. Most Popular
+## 6. TBONTBY Traditional Solid Straw Archery Target &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -799,7 +799,7 @@ Before using, you should remember that before practicing, always opt for the saf
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Targets</div>
 <h3 class="product-card-name">TBONTBY Traditional Solid Straw Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The TBONTBY Traditional Solid Straw Archery Target is ranked 6th in the best top straw archery targets. In this archery target, foliage has been used as a raw material. It's a specially designed, handmade, traditionally woven archery target.</p>
@@ -867,7 +867,7 @@ As the core material is foliage, so debris may appear while using it.
 
 Bladed hunting arrows shouldn't be used for shooting, as they may reduce the service life.
 
-## 7. Ogrmar 3 Layers 20 inch Traditional Solid Straw Archery Target &mdash. Best Design
+## 7. Ogrmar 3 Layers 20 inch Traditional Solid Straw Archery Target &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -878,7 +878,7 @@ Bladed hunting arrows shouldn't be used for shooting, as they may reduce the ser
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Targets</div>
 <h3 class="product-card-name">Ogrmar 3 Layers 20 inch Traditional Solid Straw Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This Ogrmar 3 Layers 20 inch Traditional Solid Straw Archery Target is listed 7th in the best top ten archery targets. It's a traditionally designed archery target. Foliage is used as a raw material to make it. Its beautiful design and environmentally friendly nature enhance its value.</p>
@@ -949,7 +949,7 @@ Bladed arrows shouldn't be used in shooting this archery target as they may redu
 
 Debris may appear during use as the foliage is used as a raw material to make it.
 
-## 8. Morrell Youth Field Point Bag Archery Target &mdash. Most Durable
+## 8. Morrell Youth Field Point Bag Archery Target &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -960,7 +960,7 @@ Debris may appear during use as the foliage is used as a raw material to make it
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Targets</div>
 <h3 class="product-card-name">Morrell Youth Field Point Bag Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">The Morrell Youth Field Point Bag Archery Target is a traditional archery target. The Morrell Youth Field Point Bag Archery Target ranks 6th in our top ten archery targets list. This particular archery target has two shooting sides. It has been devised for bows weighing less than 30lbs.</p>
@@ -1033,7 +1033,7 @@ Preferably, you should make sure that the place where you're practicing must hav
 
 Its manufacturers provide a one year warranty.
 
-## 9. Block GenZ XL 20” Youth Archery Arrow Target &mdash. Best for Beginners
+## 9. Block GenZ XL 20” Youth Archery Arrow Target &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1044,7 +1044,7 @@ Its manufacturers provide a one year warranty.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Targets</div>
 <h3 class="product-card-name">Block GenZ XL 20” Youth Archery Arrow Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">With many features like light weightedness, portability, and durability, the Block GenZ XL 20\" Youth Archery Arrow Target is ranked 7th in our list of the top ten best archery targets. This archery target is used with the arrows having a weight of fewer than 40 pounds.</p>
@@ -1119,7 +1119,7 @@ To avoid accidental injuries use safety precautions. The archers should make sur
 
 Preferably, you should make sure that the place where you're practicing must have a solid backstop.
 
-## 10. Block Vault 4-Sided Archery Target with Polyfusion Technology &mdash. Honorable Mention
+## 10. Block Vault 4-Sided Archery Target with Polyfusion Technology &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1130,7 +1130,7 @@ Preferably, you should make sure that the place where you're practicing must hav
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Targets</div>
 <h3 class="product-card-name">Block Vault 4-Sided Archery Target with Polyfusion Technology</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">The Block Vault 4-Sided Archery Target comes with a Polyfusion Technology, and it's ranked 8th in the best top ten straw archery targets. This is a specially designed four-sided archery target. Polyfusion technology has been used while making it. Its core layer has a high density. Its size is 16*16*12.</p>

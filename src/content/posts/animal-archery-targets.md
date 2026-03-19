@@ -348,7 +348,7 @@ There are other 3D animal archery targets such as zombies, dinosaurs, and even a
 </table>
 </div>
 
-## 1. Delta McKenzie Strutter Turkey &mdash. Best Overall
+## 1. Delta McKenzie Strutter Turkey &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -359,7 +359,7 @@ There are other 3D animal archery targets such as zombies, dinosaurs, and even a
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Targets</div>
 <h3 class="product-card-name">Delta McKenzie Strutter Turkey</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It’s a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item.</p>
@@ -426,7 +426,7 @@ However, some challenges such as defects may arise immediately after delivery.
 
 All this is taken care of by the warranty that covers any manufacturer’s defect.
 
-## 2. Shooter Buck 3D Deer Archery Target With Replaceable Core &mdash. Runner Up
+## 2. Shooter Buck 3D Deer Archery Target With Replaceable Core &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -437,7 +437,7 @@ All this is taken care of by the warranty that covers any manufacturer’s defec
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Targets</div>
 <h3 class="product-card-name">Shooter Buck 3D Deer Archery Target With Replaceable Core</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">It’s a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products. If you want to practice your aim on a life-like buck design, this huge target that stands at 48 inches tall and weighs 5.</p>
@@ -499,7 +499,7 @@ It’s a solid 1-piece target with easy one-handed arrow removal.
 
 This animal target can be suitable for both casual and serious hunters.
 
-## 3. Rinehart Peccary Boar Target IBO Pattern &mdash. Best Value
+## 3. Rinehart Peccary Boar Target IBO Pattern &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -510,7 +510,7 @@ This animal target can be suitable for both casual and serious hunters.
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Targets</div>
 <h3 class="product-card-name">Rinehart Peccary Boar Target IBO Pattern</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">This product by Rinehart is a 3D Peccary Boar target that weighs 22.95 pounds and measures 20 inches tall 39 inches long. The use of self-healing foam in its manufacture means that it can take shot after shot without any damage even during vigorous practice.</p>
@@ -573,7 +573,7 @@ This animal target has multiple five-star ratings from most buyers on major onli
 
 It’s a clear indication that this is one of the best middle-sized animal targets ever made.
 
-## 4. Delta McKenzie Aim Rite Bear &mdash. Premium Pick
+## 4. Delta McKenzie Aim Rite Bear &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -584,7 +584,7 @@ It’s a clear indication that this is one of the best middle-sized animal targe
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Targets</div>
 <h3 class="product-card-name">Delta McKenzie Aim Rite Bear</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">This 3D life-like target from Delta McKenzie comes in flexible and durable FlexFoam. This material is tightly compressed in layers for increased durability during vigorous practice or even competition. It's a huge animal target that resembles a real-life bear and is 28 inches high and 45 inches long.</p>
@@ -651,7 +651,7 @@ It comes with two metal stakes that you can simply hammer into the ground and se
 
 It's suitable for practice in your backyard or even in economic competitions for a hunting club setting or 3D tournaments.
 
-## 5. GlenDel Buck 3D Archery Target With Replaceable Insert Core &mdash. Budget Pick
+## 5. GlenDel Buck 3D Archery Target With Replaceable Insert Core &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -662,7 +662,7 @@ It's suitable for practice in your backyard or even in economic competitions for
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Targets</div>
 <h3 class="product-card-name">GlenDel Buck 3D Archery Target With Replaceable Insert Core</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">If you want the biggest buck to practice on right there in your backyard, this 62-inch tall animal target is your best shot at improving your aim. It's a magnificent life-like buck with a shoulder height of 37 inches and weighs 15.88 Kilograms.</p>
@@ -727,7 +727,7 @@ It provides you with self-healing surfaces which stops arrows with friction inst
 
 It's easy to set up as it comes with a 150-inch full rut stand for more stability.
 
-## 6. Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target &mdash. Most Popular
+## 6. Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -738,7 +738,7 @@ It's easy to set up as it comes with a 150-inch full rut stand for more stabilit
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Targets</div>
 <h3 class="product-card-name">Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">This animal target is manufactured by a company known as Morrell which is well known for its block targets. The company only makes a few 3D targets, the Bionic Buck being one of them. It stands at 30 inches tall and 21 inches long while weighing approximately fifty pounds.</p>
@@ -803,7 +803,7 @@ It's easy to set up all the parts together and have it stand on two stakes.
 
 The entire midsection with all the kill zones is replaceable after taking too many shots.
 
-## 7. Delta McKenzie Howling Coyote 3D Target &mdash. Best Design
+## 7. Delta McKenzie Howling Coyote 3D Target &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -814,7 +814,7 @@ The entire midsection with all the kill zones is replaceable after taking too ma
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Targets</div>
 <h3 class="product-card-name">Delta McKenzie Howling Coyote 3D Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This animal target resembles a real-life Coyote with life-sized dimensions which make it an ideal practice for hunting shots. It stands at 35 inches high and 33 inches long and weighs 6.28 kilograms.</p>
@@ -879,7 +879,7 @@ It means that its lifespan is shorter than that of those with a replaceable core
 
 It also comes without any stands and it’s not as stable as it would be with a stand for stability.
 
-## 8. CW-X Delta McKenzie 3D Raccoon Backyard Target &mdash. Most Durable
+## 8. CW-X Delta McKenzie 3D Raccoon Backyard Target &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -890,7 +890,7 @@ It also comes without any stands and it’s not as stable as it would be with a 
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Targets</div>
 <h3 class="product-card-name">CW-X Delta McKenzie 3D Raccoon Backyard Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">If you're looking for a small budget-friendly 3D target, this lightweight option by Delta McKenzie is suitable for beginners and also experienced archers. The use of FlexFoam material which is durable makes it a long-lasting target.</p>
@@ -957,7 +957,7 @@ It provides a fun and realistic shooting practice and kids love to shoot at this
 
 For competitive shooters, it comes with scoring rings that enable you to focus more on the vital areas.
 
-## 9. Delta Riverbottom Series Challenger &mdash. Best for Beginners
+## 9. Delta Riverbottom Series Challenger &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -968,7 +968,7 @@ For competitive shooters, it comes with scoring rings that enable you to focus m
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Targets</div>
 <h3 class="product-card-name">Delta Riverbottom Series Challenger</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club’s member’s economic competition. It’s made from FlexFoam which is light in mass and features a UV-resistant coating. It can handle arrows from some of the most powerful bows.</p>
@@ -1034,7 +1034,7 @@ It's easy to move around weighing approximately 7.78 Kilograms.
 
 This animal target can be for both kids and adults for practice as well as both professional and beginner hunters.
 
-## 10. Rinehart Woodland Boar 3D Target &mdash. Honorable Mention
+## 10. Rinehart Woodland Boar 3D Target &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1045,7 +1045,7 @@ This animal target can be for both kids and adults for practice as well as both 
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Targets</div>
 <h3 class="product-card-name">Rinehart Woodland Boar 3D Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">It’s a Reinhart Target’s product that stands at 29 inches tall and 39 inches long. It’s sturdy and can withstand aluminum, wood, and carbon arrows shot from compound and crossbows. The use of Reinhart FX patented self-healing foam enables it to work this magic.</p>

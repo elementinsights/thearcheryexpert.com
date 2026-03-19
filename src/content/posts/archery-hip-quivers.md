@@ -324,7 +324,7 @@ Check these archery hip quivers out.
 </table>
 </div>
 
-## 2. Easton Flipside 2-Tube Hip Quiver &mdash. Best Overall
+## 2. Easton Flipside 2-Tube Hip Quiver &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -335,7 +335,7 @@ Check these archery hip quivers out.
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Best Overall Quivers</div>
 <h3 class="product-card-name">Easton Flipside 2-Tube Hip Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The Easton Flipside 2-Tube hip quiver is lightweight, durable, and easy to use. The ambidextrous Easton quiver designed with high-denier poly material that's suitable for left or right-handed archers.</p>
@@ -410,7 +410,7 @@ The sturdy, compact, and lightweight design of Easton Quiver makes it a perfect 
 
 Based on the durable built quality, ease of use, Lightweight, and cheap price, the Easton Flipside 2-Tube hip quiver is one of the best unique traditional archery hip quivers.
 
-## 3. Easton Flipside 3-Tube Hip Quiver &mdash. Runner Up
+## 3. Easton Flipside 3-Tube Hip Quiver &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -421,7 +421,7 @@ Based on the durable built quality, ease of use, Lightweight, and cheap price, t
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Runner Up Quivers</div>
 <h3 class="product-card-name">Easton Flipside 3-Tube Hip Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">The Easton Flipside 3-Tube hip quiver is lightweight, durable, and easy to use. The ambidextrous Easton quiver designed with high-denier poly material that's suitable for left or right-handed archers.</p>
@@ -500,7 +500,7 @@ The Easton 3-Tube Quiver offers additional space for your glove or string wax an
 
 Based on the durable built quality, ease of use, Lightweight, and cheap price, the Easton Flipside 3-Tube hip quiver is one of the best unique traditional archery hip quivers.
 
-## 4. Easton Flipside 4-Tube Hip Quiver &mdash. Best Value
+## 4. Easton Flipside 4-Tube Hip Quiver &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -511,7 +511,7 @@ Based on the durable built quality, ease of use, Lightweight, and cheap price, t
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Best Value Quivers</div>
 <h3 class="product-card-name">Easton Flipside 4-Tube Hip Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The Easton Flipside 4-Tube hip quiver is lightweight, durable, and easy to use. The ambidextrous Easton quiver designed with high-denier poly material that's suitable for left or right-handed archers.</p>
@@ -586,7 +586,7 @@ The Easton 4-Tubes Quiver offers additional space for your glove or string wax a
 
 Based on the durable built quality, ease of use, lightweight, and cheap price, the Easton Flipside 4-Tube hip quiver is one of the best unique traditional archery hip quivers.
 
-## 5. October Mountain Products No Spill Tube Quiver &mdash. Premium Pick
+## 5. October Mountain Products No Spill Tube Quiver &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -597,7 +597,7 @@ Based on the durable built quality, ease of use, lightweight, and cheap price, t
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Premium Pick Quivers</div>
 <h3 class="product-card-name">October Mountain Products No Spill Tube Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">No-spill tube hip quiver is manufactured by the OMP that's devoted to building the best traditional hip quivers, archery accessories, and products that enhance the archery experience. The October Mountain Products No-Spill Tube Quiver by OMP is the best product in its nature.</p>
@@ -664,7 +664,7 @@ This quiver is overall one of the best-priced products.
 
 The OMP Quiver can serve you many years without any problem and keep your arrows secure in the right place.
 
-## 6. Legend - XT420 Field Quiver With Adjustable Nylon Belt &mdash. Budget Pick
+## 6. Legend - XT420 Field Quiver With Adjustable Nylon Belt &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -675,7 +675,7 @@ The OMP Quiver can serve you many years without any problem and keep your arrows
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Budget Pick Quivers</div>
 <h3 class="product-card-name">Legend - XT420 Field Quiver With Adjustable Nylon Belt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">The Legend XT420 design features Sturdy, lightweight, durable, and easy to use. It features three individual arrow compartments that are capable of housing multiple target arrows in each compartment. The ambidextrous Legend- XT420 Field Quiver designed with strong nylon fabric that's suitable for left or right-handed archers.</p>
@@ -752,7 +752,7 @@ Based on the durable built quality, ease of use, Lightweight, and at a fraction 
 
 Legend range Quivers are tested for durability and comfort to ensure archers of all sizes and hand preferences.
 
-## 7. Southland Archery Supply SAS Leather Tube 17" Hip Quiver &mdash. Most Popular
+## 7. Southland Archery Supply SAS Leather Tube 17" Hip Quiver &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -763,7 +763,7 @@ Legend range Quivers are tested for durability and comfort to ensure archers of 
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Most Popular Quivers</div>
 <h3 class="product-card-name">Southland Archery Supply SAS Leather Tube 17\" Hip Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.7/10</span>
 </div>
 <p class="product-card-desc">The Southland Archery Supply SAS has manufactured the Leather Tube 17-inch hip quiver arrow holder with Synthetic Leather that's durable. The Leather hip quiver comes with a Clip belt that facilitates easy hanging with a belt. Synthetic Leather makes it lightweight. It can hold up to 18 target arrows.</p>
@@ -830,7 +830,7 @@ This Quiver can provide easy access to arrows during target shooting.
 
 You can convert this hip quiver as a recurve/horse bow for target and hunting with a few strands of 550 cord.
 
-## 8. Archery Arrows Quivers Hip Waist Hanged Arrow Bag &mdash. Best Design
+## 8. Archery Arrows Quivers Hip Waist Hanged Arrow Bag &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -841,7 +841,7 @@ You can convert this hip quiver as a recurve/horse bow for target and hunting wi
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Quivers</div>
 <h3 class="product-card-name">Archery Arrows Quivers Hip Waist Hanged Arrow Bag</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.5/10</span>
 </div>
 <p class="product-card-desc">The archery arrows quiver hip waist hanger Arrow Bag is made-up with Nylon material due to which it's lightweight, durable, and easy to use. This Arrow Quiver facilitates a clip to fasten into the belt loop instead of a waist belt.</p>
@@ -911,7 +911,7 @@ You can order this product, receive it, unbox, and start to use it.
 
 Based on the build quality, ease of use, lightweight, and cheap price hip arrow quiver are the best.
 
-## 9. XTACER Tactical Molle Lite Archery Arrow Hip Quiver &mdash. Most Durable
+## 9. XTACER Tactical Molle Lite Archery Arrow Hip Quiver &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -922,7 +922,7 @@ Based on the build quality, ease of use, lightweight, and cheap price hip arrow 
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Quivers</div>
 <h3 class="product-card-name">XTACER Tactical Molle Lite Archery Arrow Hip Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.3/10</span>
 </div>
 <p class="product-card-desc">The XTACER Tactical Molle Quiver includes 19-inches bag, handy buckles, easy to carry on the waist. The XTACER Tactical Molle Lite hip quiver manufactured with Double Oxford camouflaged cloth that's durable and easy to carry. This hip quiver facilitates holding of 28-31-inch long 12 arrows.</p>
@@ -988,7 +988,7 @@ The tie-down straps of Molle Quiver allow you to manage the arrows separately in
 
 Buyer also recommends its buying to anyone due to pretty look, flawless design, and flawless stitching.
 
-## 10. AMYIPO Hip Quiver Training Archery Arrow Quiver &mdash. Best for Beginners
+## 10. AMYIPO Hip Quiver Training Archery Arrow Quiver &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -999,7 +999,7 @@ Buyer also recommends its buying to anyone due to pretty look, flawless design, 
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Quivers</div>
 <h3 class="product-card-name">AMYIPO Hip Quiver Training Archery Arrow Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.1/10</span>
 </div>
 <p class="product-card-desc">The AMYIPO hip quiver is lightweight, durable, and easy to use. The Right-hand quiver is designed with high-quality material that's suitable for under training archers. This hip quiver comes with a belt and arrow tubes that are compact, reliable, and make it suitable for the beginners.</p>

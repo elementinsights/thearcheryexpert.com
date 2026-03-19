@@ -350,7 +350,7 @@ For this reason, you should ensure that the device is compatible with your bows.
 </table>
 </div>
 
-## 1.  &mdash. Best Overall
+## 1.  &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -361,7 +361,7 @@ For this reason, you should ensure that the device is compatible with your bows.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Lights</div>
 <h3 class="product-card-name"></h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">TRUGLO famous for designing bow sights and their accessories, this brand is known for manufacturing the best Archery sight lights available in the market. For this reason, the best model from TRUGLO deserves inclusion in this Archery Bow sight lights. The TRUGLO Tru-Lite comes with adjustable violet LED sight light.</p>
@@ -436,7 +436,7 @@ Easy installation, convenient use, and optimal function of this model is an aggr
 
 You surely won’t regret choosing this product for the best utilization.
 
-## 2. Trophy Ridge Volt 5 Pin Bow Sight &mdash. Runner Up
+## 2. Trophy Ridge Volt 5 Pin Bow Sight &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -447,7 +447,7 @@ You surely won’t regret choosing this product for the best utilization.
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Lights</div>
 <h3 class="product-card-name">Trophy Ridge Volt 5 Pin Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">The Trophy Ridge Volt 5 is the best bow light that lights up your sight according to your need. The features of light enhance the target accuracy and hunting experience.</p>
@@ -512,7 +512,7 @@ Even though this product emits less light. However, the pins catch enough light 
 
 The device works very well with outstanding functionality, easy use, and convenient installation to make the Trophy Ridge Volt 5 Pin Bow Sight the best product for you.
 
-## 3. TRUGLO TG55 Tru-Lite Sight Light &mdash. Best Value
+## 3. TRUGLO TG55 Tru-Lite Sight Light &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -523,7 +523,7 @@ The device works very well with outstanding functionality, easy use, and conveni
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Lights</div>
 <h3 class="product-card-name">TRUGLO TG55 Tru-Lite Sight Light</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">TRUGLO famous for designing bow sights and their accessories, this brand is known for manufacturing the best Archery sight lights available in the market. For this reason, the best model from TRUGLO deserves inclusion in this Archery Bow sight lights.</p>
@@ -598,7 +598,7 @@ Easy installation, convenient use, and optimal function of this model is an aggr
 
 You surely won’t regret choosing this product for the best utilization.
 
-## 4. SAS Compound Bow Fiber Optic LED Sight Light 3/8-32 Thread Universal Fit &mdash. Premium Pick
+## 4. SAS Compound Bow Fiber Optic LED Sight Light 3/8-32 Thread Universal Fit &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -609,7 +609,7 @@ You surely won’t regret choosing this product for the best utilization.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Lights</div>
 <h3 class="product-card-name">SAS Compound Bow Fiber Optic LED Sight Light 3/8-32 Thread Universal Fit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The SAS Compound Bow Fiber Optic LED Sight Light offers you everything that you need, but with a price tag that won't weigh too much on your pocket.</p>
@@ -668,7 +668,7 @@ Easy installation, convenient use, and optimal function of this model is an aggr
 
 You surely won’t regret choosing this product for the best utilization.
 
-## 5. TRUGLO AG2314BD Apex Gear Covert, 4 Pin Light .019 Sight &mdash. Budget Pick
+## 5. TRUGLO AG2314BD Apex Gear Covert, 4 Pin Light .019 Sight &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -679,7 +679,7 @@ You surely won’t regret choosing this product for the best utilization.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Lights</div>
 <h3 class="product-card-name">TRUGLO AG2314BD Apex Gear Covert, 4 Pin Light .019 Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">TRUGLO famous for designing bow sights and their accessories, this brand is known for manufacturing the best Archery sight lights available in the market. For this reason, the best model from TRUGLO deserves inclusion in this Archery Bow sight lights.</p>
@@ -742,7 +742,7 @@ Easy installation, convenient use, and optimal function of this model is an aggr
 
 You surely won’t regret choosing this product for the best utilization.
 
-## 6. Trophy Ridge Rheostatlight &mdash. Most Popular
+## 6. Trophy Ridge Rheostatlight &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -753,7 +753,7 @@ You surely won’t regret choosing this product for the best utilization.
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Lights</div>
 <h3 class="product-card-name">Trophy Ridge Rheostatlight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The Trophy Ridge Rheostat light is the best bow light that lights up your sight according to your need. The features of light enhance the target accuracy and hunting experience.</p>
@@ -820,7 +820,7 @@ The device works very well with outstanding functionality, easy use, and conveni
 
 Finally, even in low light conditions, this product is specifically designed to rid you of all your light issues.
 
-## 7. Basic Archery Supplies Fiber Optic LED Sight Light 3/8-32 &mdash. Best Design
+## 7. Basic Archery Supplies Fiber Optic LED Sight Light 3/8-32 &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -831,7 +831,7 @@ Finally, even in low light conditions, this product is specifically designed to 
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Lights</div>
 <h3 class="product-card-name">Basic Archery Supplies Fiber Optic LED Sight Light 3/8-32</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">The Basic Archery Supplies Fiber Optic LED Rheostat light is the best bow light that lights up your sight according to your need. The features of light enhance the target accuracy and hunting experience.</p>
@@ -900,7 +900,7 @@ The device works very well with outstanding functionality, easy use, and conveni
 
 Finally, even in low light conditions, this product is specifically designed to rid you of all your light issues.
 
-## 8. Gazelle-Trading Tactical C8T6 1200 Lumen Archery Compound Bow Sight &mdash. Most Durable
+## 8. Gazelle-Trading Tactical C8T6 1200 Lumen Archery Compound Bow Sight &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -911,7 +911,7 @@ Finally, even in low light conditions, this product is specifically designed to 
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Lights</div>
 <h3 class="product-card-name">Gazelle-Trading Tactical C8T6 1200 Lumen Archery Compound Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">For accurate targeting and professional functionality, compound bows are a class apart from standard bows and feature special functions. These enhanced devices demand enhanced accessories. That's where this product by Gazelle Trading fits in. With professional functionality, this product assures you accurate targeting, and that won't disappoint you.</p>
@@ -982,7 +982,7 @@ Finally, you can accessorize your compound bow with the perfect bow sight ("C8T6
 
 The 600 Lumens Flashlight of this product with three filters facilitate shooting more accurately in dark as well.
 
-## 9. HHA 2500 Sight Light, Black &mdash. Best for Beginners
+## 9. HHA 2500 Sight Light, Black &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -993,7 +993,7 @@ The 600 Lumens Flashlight of this product with three filters facilitate shooting
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Lights</div>
 <h3 class="product-card-name">HHA 2500 Sight Light, Black</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">HHA Sports is a leader in the industry. The American company has been around for nearly 30 years in the field and has earned the top brand tag in the sports and outdoor gear industry.</p>
@@ -1064,7 +1064,7 @@ It provides you the exact brightness that you need and ensures the best of funct
 
 Finally, you can grace your HHA sight with the perfect 2500 sight light that's specially designed for it.
 
-## 10. IQ Sight Light &mdash. Honorable Mention
+## 10. IQ Sight Light &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1075,7 +1075,7 @@ Finally, you can grace your HHA sight with the perfect 2500 sight light that's s
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Lights</div>
 <h3 class="product-card-name">IQ Sight Light</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">Based in Superiority, Wisconsin, FeraDyne Outdoors (IQ) has been in the archery business since 2011. The \"FeraDyne outdoors\" company has built a reputation as an Archery industry leader in the manufacturing of target archery and bowhunting equipment, making it one of the top and best brands in the world.</p>

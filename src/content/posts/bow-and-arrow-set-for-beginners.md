@@ -346,7 +346,7 @@ We've included models that are ideal for kids just beginning the game and option
 </table>
 </div>
 
-## 1. Bear Archery Brave Bow Set &mdash. Best Overall
+## 1. Bear Archery Brave Bow Set &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -357,7 +357,7 @@ We've included models that are ideal for kids just beginning the game and option
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Sets</div>
 <h3 class="product-card-name">Bear Archery Brave Bow Set</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This archery manufacturer has a large presence in archery equipment. This Bear Archery Brave Bow Set is perfect for young adults over seven years old. This product's size is 27 x 11 x 3.1 inches, and its weight is 3.3 pounds.</p>
@@ -426,7 +426,7 @@ I highly recommend this archery bow if you want a good functioning and inexpensi
 
 This kit contains Whisker Biscuit, 1-pin sight, finger rollers, armguard, arrow quiver.
 
-## 2. Dude Perfect Signature Bow &mdash. Runner Up
+## 2. Dude Perfect Signature Bow &mdash; Runner Up
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -437,7 +437,7 @@ This kit contains Whisker Biscuit, 1-pin sight, finger rollers, armguard, arrow 
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Sets</div>
 <h3 class="product-card-name">Dude Perfect Signature Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9733. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">The Dude Perfect Signature Bow is the biggest nerf bow at 122 centimeters long. The Nerf Sports Dude Perfect Signature Bow can fire up to 32 meters.</p>
@@ -510,7 +510,7 @@ The Nerf Sports Dude Perfect Signature Bow can be used both indoor and outdoor.
 
 This kit contains a bow, two arrows, target (2 pieces), pole (5 pieces), Instructions Manual.
 
-## 3. Genesis Original Kit &mdash. Best Value
+## 3. Genesis Original Kit &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -521,7 +521,7 @@ This kit contains a bow, two arrows, target (2 pieces), pole (5 pieces), Instruc
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Sets</div>
 <h3 class="product-card-name">Genesis Original Kit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">This Bow is used to teach archery in archery courses. This is a great starter bow for archers of all ages and athletic abilities. It includes a machined aluminum riser, cam and idler wheel, and sturdy composite limbs. This kit comes with high-strength bowstrings.</p>
@@ -595,7 +595,7 @@ This Bow is well made with a good grip, balance, and straightforward poundage ad
 
 This kit contains Bow, five aluminum arrows, adjustable arm guard, belt tube quiver, 3/16" hex wrench, Owner's Manual.
 
-## 4. CenterPoint Archery ABY215 Sentinel Youth Recurve Bow, Right Hand &mdash. Premium Pick
+## 4. CenterPoint Archery ABY215 Sentinel Youth Recurve Bow, Right Hand &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -606,7 +606,7 @@ This kit contains Bow, five aluminum arrows, adjustable arm guard, belt tube qui
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Sets</div>
 <h3 class="product-card-name">CenterPoint Archery ABY215 Sentinel Youth Recurve Bow, Right Hand</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">This product is for right-handed shooters only it's Integrated design allows for optimum hand placement. Its longer limbs are designed for improved balance. This product is excellent for beginners. Its build quality allows you to use the same bow set for years.</p>
@@ -673,7 +673,7 @@ This product is for right-hand shooters.
 
 This kit contains the bow, two-piece quiver, finger tab, two composite youth arrows, pin sight, arm guard, arrow rest.
 
-## 5. Youth Wooden Bow and Arrows &mdash. Budget Pick
+## 5. Youth Wooden Bow and Arrows &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -684,7 +684,7 @@ This kit contains the bow, two-piece quiver, finger tab, two composite youth arr
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Sets</div>
 <h3 class="product-card-name">Youth Wooden Bow and Arrows</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Youth Wooden Bow and Arrows with Quiver is made from solid wood. This set is great for a youth wanting to learn archery. Please note that this doesn't function as a real bow. This is a toy and isn't meant for serious archers.</p>
@@ -747,7 +747,7 @@ The tips of the arrows are rubber, and I plan to replace the feathers with bette
 
 This kit contains a bow, quiver, three arrows with rubber tips.
 
-## 6. Kiddie Play Bow and Arrow &mdash. Most Popular
+## 6. Kiddie Play Bow and Arrow &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -758,7 +758,7 @@ This kit contains a bow, quiver, three arrows with rubber tips.
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Sets</div>
 <h3 class="product-card-name">Kiddie Play Bow and Arrow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">This Kiddie Bow and Arrow Archery Set come with a target attached to a stable stand. You can also use this target without the stand by attaching it to a wall or a tree. This set comes with three arrows that have strong suction cups to stick on the target.</p>
@@ -823,7 +823,7 @@ Kiddie archery set made with a durable ABS plastic which can withstand some stre
 
 This kit contains a bow, three arrows with strong suction cups, Target with a durable and stable stand.
 
-## 7. Marky Sparky Faux Bow Pro &mdash. Best Design
+## 7. Marky Sparky Faux Bow Pro &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -834,7 +834,7 @@ This kit contains a bow, three arrows with strong suction cups, Target with a du
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Sets</div>
 <h3 class="product-card-name">Marky Sparky Faux Bow Pro</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. <span class="star-half">&#9734. </span></span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This product comes with oversized arrows and is ultra-lightweight providing safety, without compromising distance power and fun. Marky Sparky Faux Bow Pro by Marky Sparky is an interesting hunting Archery Set for youth.</p>
@@ -903,7 +903,7 @@ Arrows come with foam tips that are designed to bounce off and shoot any target 
 
 This kit contains Bow, Quiver Clip, 3 Arrows, Bowstring,
 
-## 8. DOSTYLE Bow and Arrow Set &mdash. Most Durable
+## 8. DOSTYLE Bow and Arrow Set &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -914,7 +914,7 @@ This kit contains Bow, Quiver Clip, 3 Arrows, Bowstring,
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Sets</div>
 <h3 class="product-card-name">DOSTYLE Bow and Arrow Set</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">This product is lightweight and made from durable fiberglass material for easy take of kids. If you're a beginner and looking for the best bow and arrow set, this is a great product. This arrow set has 5-16lb of draw weight and a 16-inch draw length.</p>
@@ -975,7 +975,7 @@ This product can be used for both left and right-handed.
 
 This kit contains Bow, 4 Fiberglass Arrows, 5 x Archery Papers(40cmx40cm), Finger Guard, Arm Guard.
 
-## 9. Click N' Play Bow & Arrow Archery Set &mdash. Best for Beginners
+## 9. Click N' Play Bow & Arrow Archery Set &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -986,7 +986,7 @@ This kit contains Bow, 4 Fiberglass Arrows, 5 x Archery Papers(40cmx40cm), Finge
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Sets</div>
 <h3 class="product-card-name">Click N' Play Bow & Arrow Archery Set</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Click N' Play Light Up Bow & Arrow Archery Set is another market-leading brand, introducing three arrows with suction cups bow sets for beginners, kids, and adults. It comes up with three suction cup bows and arrows, a quiver, and a target.</p>
@@ -1057,7 +1057,7 @@ The plastic used to make this bow and arrow set is ABS, and also the suction cup
 
 This kit contains 24 inch Bow, 3 x 16-inch arrows, Quiver, Target.
 
-## 10. Genesis Mini Kit &mdash. Honorable Mention
+## 10. Genesis Mini Kit &mdash; Honorable Mention
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -1068,7 +1068,7 @@ This kit contains 24 inch Bow, 3 x 16-inch arrows, Quiver, Target.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Sets</div>
 <h3 class="product-card-name">Genesis Mini Kit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733. &#9733. &#9733. &#9733. &#9734. </span>
+<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">Genesis Mini compound bows are a great product for younger kids. If your child is younger than eight years old and looking to get into this sport, this kit is an ideal bow for you.</p>
