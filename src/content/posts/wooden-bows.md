@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "We’ve included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Youth Sized"
+      - "Solid Wood"
+      - "Safe Design"
+      - "Starter Kit"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Made from solid wood with a kid-friendly size that's easy to handle"
+      - "Safe design with rounded arrow tips for worry-free backyard use"
+      - "Perfect starter kit for children interested in learning archery"
+      - "Lightweight enough for small hands to hold and draw comfortably"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Not built for serious target practice or any real hunting use"
+      - "Low draw weight means limited arrow distance and speed"
     ctaUrl: "https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20"
   - name: "Longbowmaker Handmade Longbow"
     rank: 2
@@ -76,17 +77,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "Not everyone wants a wooden bow to hunt, some need it for archery."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Handcrafted Wood"
+      - "Traditional Longbow"
+      - "Hungarian Style"
+      - "Practice Ready"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Handcrafted from quality wood with a traditional longbow profile"
+      - "Hungarian-style design delivers smooth shooting for target archery"
+      - "Well-suited for archers who enjoy traditional shooting without modern gadgets"
+      - "Impressive craftsmanship at a reasonable price point"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "No accessories included, so arrows and a string must be sourced separately"
+      - "Handmade construction means slight cosmetic differences between units"
     ctaUrl: "https://www.amazon.com/dp/B00DF4HMTK?tag=thearcheryexpert-20"
   - name: "Southland Robinhood Longbow"
     rank: 3
@@ -95,17 +97,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "Are you an adult looking for a conventional longbow that can be used for both hunting and recreational purposes?"
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Classic Longbow"
+      - "Hunting Ready"
+      - "Laminated Limbs"
+      - "Adult Sized"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Classic English longbow design works for both hunting and recreation"
+      - "Laminated wood construction provides consistent flex and durability"
+      - "Adult-sized length delivers a smooth draw and stable shot"
+      - "Nostalgic Robin Hood aesthetic appeals to traditional archery fans"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Single draw weight option limits flexibility for different archers"
+      - "One-piece design isn't as portable as takedown alternatives"
     ctaUrl: "#"
   - name: "TOPARCHERY Handmade Longbow"
     rank: 4
@@ -114,17 +117,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "With 35 pounds draw weight, this traditional hunting longbow is suitable for those who are new at hunting and are looking for a lightweight bow."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "35 lb Draw"
+      - "Bamboo Laminate"
+      - "Lightweight Build"
+      - "Beginner Ready"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "35 lb draw weight is perfect for newcomers learning proper form"
+      - "Bamboo and fiberglass laminated limbs deliver a smooth release"
+      - "Lightweight build is easy to hold at full draw without arm fatigue"
+      - "Traditional handmade appearance with dependable modern materials"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "35 lb draw may feel too light for experienced traditional archers"
+      - "Limited color and finish options compared to more expensive bows"
     ctaUrl: "#"
   - name: "AF Archery Laminated Longbow"
     rank: 5
@@ -133,17 +137,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "If you’re a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Laminated Build"
+      - "Stable Platform"
+      - "Right Hand"
+      - "Smooth Draw"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Multi-layer laminated construction provides excellent stability and consistency"
+      - "Smooth draw cycle with minimal hand shock on release"
+      - "Durable enough for frequent practice sessions without limb fatigue"
+      - "Quality craftsmanship from AF Archery, a respected traditional bow maker"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Right-hand only design excludes left-handed archers"
+      - "Longer length can be challenging to maneuver in heavy brush"
     ctaUrl: "https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20"
   - name: "Martin Savannah Longbow"
     rank: 6
@@ -152,17 +157,18 @@ products:
     image: "https://m.media-amazon.com/images/I/311LlKtKLjL._SL500_.jpg"
     description: "Martin Savannah is another name in the industry that creates fine wooden longbows."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Martin Heritage"
+      - "Reflex Deflex"
+      - "Gordon Glass"
+      - "American Made"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Martin's reflex-deflex design improves arrow speed while keeping the shot smooth"
+      - "Gordon fiberglass limbs paired with quality wood provide years of use"
+      - "American-made craftsmanship from one of archery's most respected brands"
+      - "Comfortable grip shape works well for instinctive shooting"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Premium price reflects the Martin name and American manufacturing"
+      - "One-piece construction limits portability for travel"
     ctaUrl: "https://www.amazon.com/dp/B00IMHWPKQ?tag=thearcheryexpert-20"
   - name: "SAS Pioneer Longbow"
     rank: 7
@@ -171,17 +177,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31nDvOmBagL._SL500_.jpg"
     description: "This longbow is one of the best choices in 2026 for anyone looking for outstanding comfort and smooth performance It provides a quality archery experience."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Comfortable Grip"
+      - "Maple Laminate"
+      - "Smooth Performance"
+      - "Value Price"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Ergonomic grip design provides outstanding comfort during long shooting sessions"
+      - "Maple and fiberglass laminated limbs deliver smooth, consistent performance"
+      - "Great value for archers wanting a quality longbow without breaking the bank"
+      - "68-inch length offers a forgiving, smooth draw for taller archers"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "68-inch length is too long for hunting in tight woodland areas"
+      - "Basic finish may not impress archers looking for a showpiece bow"
     ctaUrl: "https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20"
   - name: "Bear Archery Montana Longbow"
     rank: 8
@@ -190,17 +197,18 @@ products:
     image: "https://m.media-amazon.com/images/I/21s5r3hJWkL._SL500_.jpg"
     description: "Bear is a recognized name when it comes to archery accessories."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Bear Legacy"
+      - "Crowned Riser"
+      - "Satin Finish"
+      - "Hunting Proven"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Bear Archery's Montana line is a proven performer for traditional hunters"
+      - "Crowned, locator grip riser made from premium hardwoods"
+      - "Satin finish on the limbs looks elegant and protects the wood"
+      - "Delivers enough power for hunting with proper draw weights"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "One of the pricier longbows on this list"
+      - "Non-takedown design makes it harder to store and transport"
     ctaUrl: "https://www.amazon.com/dp/B0017TEG8K?tag=thearcheryexpert-20"
   - name: "SinoArt Sparrow Longbow"
     rank: 9
@@ -209,17 +217,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31ESJa8TGtL._SL500_.jpg"
     description: "Beginners, women, and teens who want a longbow that is precise, smooth, and elegant can opt for this SinoArt Sparrow Longbow."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Beginner Friendly"
+      - "Lightweight Frame"
+      - "Smooth Shooting"
+      - "Women and Teens"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Designed specifically for beginners, women, and teens getting started"
+      - "Lightweight frame is easy to hold and draw without muscle strain"
+      - "Smooth shooting performance helps new archers focus on building form"
+      - "Available in lower draw weights that are comfortable for smaller frames"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Low draw weight range limits usefulness for hunting or advanced practice"
+      - "Basic construction won't satisfy archers who want a premium feel"
     ctaUrl: "https://www.amazon.com/dp/B079J2KM1V?tag=thearcheryexpert-20"
   - name: "SAS Gravity Hunting Traditional Longbow"
     rank: 10
@@ -228,17 +237,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg"
     description: "If hunting and archery are your passion this high in demand SAS Gravity longbow is what you need to boost your experience."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Hunting Focused"
+      - "High Draw Weight"
+      - "Fiberglass Backed"
+      - "Field Ready"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Built for hunting with draw weights that produce enough kinetic energy for game"
+      - "Fiberglass-backed limbs add durability and snap to the shot"
+      - "Field-ready design handles rain, cold, and rough terrain without damage"
+      - "Solid choice for traditional hunters who prefer longbows over recurves"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Higher draw weights can be challenging for newer archers to manage"
+      - "Heavier overall weight compared to lighter recreational longbows"
     ctaUrl: "https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20"
 ---
 
@@ -368,10 +378,10 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 </div>
 <p class="product-card-desc">We’ve included this Wooden shop youth bow because even kids are interested in archery and you've to start from somewhere so this solid wooden bow is just what you need.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Youth Sized</span>
+<span class="highlight-tag">Solid Wood</span>
+<span class="highlight-tag">Safe Design</span>
+<span class="highlight-tag">Starter Kit</span>
 </div>
 <a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -397,8 +407,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Not built for serious target practice or any real hunting use</li>
+<li>Low draw weight means limited arrow distance and speed</li>
 </ul>
 </div>
 </div>
@@ -440,10 +450,10 @@ Since it’s designed for kids, experts should opt for some other more durable b
 </div>
 <p class="product-card-desc">Not everyone wants a wooden bow to hunt, some need it for archery. If you're one of those, this handcrafted bow is for you.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Handcrafted Wood</span>
+<span class="highlight-tag">Traditional Longbow</span>
+<span class="highlight-tag">Hungarian Style</span>
+<span class="highlight-tag">Practice Ready</span>
 </div>
 <a href="https://www.amazon.com/dp/B00DF4HMTK?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -469,8 +479,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>No accessories included, so arrows and a string must be sourced separately</li>
+<li>Handmade construction means slight cosmetic differences between units</li>
 </ul>
 </div>
 </div>
@@ -518,10 +528,10 @@ It offers you a modern draw length ranging from 28 inches to 33 inches while the
 </div>
 <p class="product-card-desc">Are you an adult looking for a conventional longbow that can be used for both hunting and recreational purposes? If the answer is yes, this SAS Robinhood Longbow is for you. Southland Archery Supply produces one of the finest bows and arrows and is known for its high-quality products.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Classic Longbow</span>
+<span class="highlight-tag">Hunting Ready</span>
+<span class="highlight-tag">Laminated Limbs</span>
+<span class="highlight-tag">Adult Sized</span>
 </div>
 <a href="#" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -547,8 +557,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Single draw weight option limits flexibility for different archers</li>
+<li>One-piece design isn't as portable as takedown alternatives</li>
 </ul>
 </div>
 </div>
@@ -594,10 +604,10 @@ A finger tap, a target face, and two pairs of fiberglass arrows are also a part 
 </div>
 <p class="product-card-desc">With 35 pounds draw weight, this traditional hunting longbow is suitable for those who are new at hunting and are looking for a lightweight bow. The riser is crafted with high-quality wood while both limbs are built from a combination of wood and fiberglass making it highly durable.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">35 lb Draw</span>
+<span class="highlight-tag">Bamboo Laminate</span>
+<span class="highlight-tag">Lightweight Build</span>
+<span class="highlight-tag">Beginner Ready</span>
 </div>
 <a href="#" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -623,8 +633,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>35 lb draw may feel too light for experienced traditional archers</li>
+<li>Limited color and finish options compared to more expensive bows</li>
 </ul>
 </div>
 </div>
@@ -672,10 +682,10 @@ Although it’s for beginners, be careful not to let your kids use it without yo
 </div>
 <p class="product-card-desc">If you’re a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice. With too many available right now, it’s nice to have a brand that you can trust. AF Archery is a reputable brand that offers great quality at affordable prices.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Laminated Build</span>
+<span class="highlight-tag">Stable Platform</span>
+<span class="highlight-tag">Right Hand</span>
+<span class="highlight-tag">Smooth Draw</span>
 </div>
 <a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -701,8 +711,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Right-hand only design excludes left-handed archers</li>
+<li>Longer length can be challenging to maneuver in heavy brush</li>
 </ul>
 </div>
 </div>
@@ -752,10 +762,10 @@ This bow is abrasion resistant and its reinforced tips help it in fast flight.
 </div>
 <p class="product-card-desc">Martin Savannah is another name in the industry that creates fine wooden longbows. If you’re someone who takes bow hunting seriously then this bow is for you. This longbow is strengthened with a reflex mechanism that saves energy with each shot while reducing the hand shock.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Martin Heritage</span>
+<span class="highlight-tag">Reflex Deflex</span>
+<span class="highlight-tag">Gordon Glass</span>
+<span class="highlight-tag">American Made</span>
 </div>
 <a href="https://www.amazon.com/dp/B00IMHWPKQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -781,8 +791,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Premium price reflects the Martin name and American manufacturing</li>
+<li>One-piece construction limits portability for travel</li>
 </ul>
 </div>
 </div>
@@ -836,10 +846,10 @@ This bow blends into nearly any setting due to its discrete and elegant design.
 </div>
 <p class="product-card-desc">This longbow is one of the best choices in 2026 for anyone looking for outstanding comfort and smooth performance It provides a quality archery experience. With its draw weights ranging between 35lbs to 55lbs, this bow is best suited for beginners.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Comfortable Grip</span>
+<span class="highlight-tag">Maple Laminate</span>
+<span class="highlight-tag">Smooth Performance</span>
+<span class="highlight-tag">Value Price</span>
 </div>
 <a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -865,8 +875,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>68-inch length is too long for hunting in tight woodland areas</li>
+<li>Basic finish may not impress archers looking for a showpiece bow</li>
 </ul>
 </div>
 </div>
@@ -910,10 +920,10 @@ It's a perfect option for compound archers that are into both hunting and archer
 </div>
 <p class="product-card-desc">Bear is a recognized name when it comes to archery accessories. This specific longbow is an example of unique creativity by the manufacturer and is the most sought after product. The execution of the bow increases due to the reflexed design, tapered limb lamination, and slimmer tips.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Bear Legacy</span>
+<span class="highlight-tag">Crowned Riser</span>
+<span class="highlight-tag">Satin Finish</span>
+<span class="highlight-tag">Hunting Proven</span>
 </div>
 <a href="https://www.amazon.com/dp/B0017TEG8K?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -939,8 +949,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>One of the pricier longbows on this list</li>
+<li>Non-takedown design makes it harder to store and transport</li>
 </ul>
 </div>
 </div>
@@ -982,10 +992,10 @@ Both the left and right-hand archers can use this longbow.
 </div>
 <p class="product-card-desc">Beginners, women, and teens who want a longbow that's precise, smooth, and elegant can opt for this SinoArt Sparrow Longbow. The quality of the bow is amazing with a riser made up of laminated ebony wood.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Beginner Friendly</span>
+<span class="highlight-tag">Lightweight Frame</span>
+<span class="highlight-tag">Smooth Shooting</span>
+<span class="highlight-tag">Women and Teens</span>
 </div>
 <a href="https://www.amazon.com/dp/B079J2KM1V?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1011,8 +1021,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Low draw weight range limits usefulness for hunting or advanced practice</li>
+<li>Basic construction won't satisfy archers who want a premium feel</li>
 </ul>
 </div>
 </div>
@@ -1064,10 +1074,10 @@ This bow helps the newbies to learn archery very easily.
 </div>
 <p class="product-card-desc">If hunting and archery are your passion this high in demand SAS Gravity longbow is what you need to boost your experience. Southland Archery Supply is the recognized brand and produces good quality modern archery products like a bow, arrows, etc.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Hunting Focused</span>
+<span class="highlight-tag">High Draw Weight</span>
+<span class="highlight-tag">Fiberglass Backed</span>
+<span class="highlight-tag">Field Ready</span>
 </div>
 <a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1093,8 +1103,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Higher draw weights can be challenging for newer archers to manage</li>
+<li>Heavier overall weight compared to lighter recreational longbows</li>
 </ul>
 </div>
 </div>

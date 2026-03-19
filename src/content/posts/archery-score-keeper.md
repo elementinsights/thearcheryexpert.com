@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41OXp8NcB-L._SL500_.jpg"
     description: "This product can work as a scorecard or score keeper, notebook, score logbook and you can track your performance if you are a beginner in archery."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Score Logbook"
+      - "Daily Tracking"
+      - "Beginner Friendly"
+      - "Compact Size"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Works as a scorecard, logbook, and performance tracker all in one"
+      - "Helps beginners track daily progress and identify weak areas"
+      - "Compact size fits easily in a range bag or quiver pocket"
+      - "Clean layout makes it simple to record scores quickly"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Paper quality is basic and can bleed with certain pens"
+      - "Limited number of pages for archers who shoot frequently"
     ctaUrl: "https://www.amazon.com/dp/1099411335?tag=thearcheryexpert-20"
   - name: "Archery Score Sheet: Score Cards for Tournaments, Competitions, Practice journal"
     rank: 2
@@ -76,17 +77,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41s0d+xohfL._SL500_.jpg"
     description: "This archery score sheet is a perfect journal for competitive and recreational archers, but beginners can also use it as well."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Tournament Ready"
+      - "Practice Journal"
+      - "Competition Layout"
+      - "Matte Cover"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Designed for both tournament scoring and practice sessions"
+      - "Competition-style layout with fields for ends, rounds, and totals"
+      - "Matte cover resists scuffing when tossed into a gear bag"
+      - "Works well for recreational and competitive archers alike"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Scoring layout may not match every tournament format"
+      - "No built-in target diagrams for marking shot placement"
     ctaUrl: "https://www.amazon.com/dp/B08DSS7JFG?tag=thearcheryexpert-20"
   - name: "Archery Score Sheets Book: Archery Fundamentals Practice Log"
     rank: 3
@@ -95,17 +97,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg"
     description: "With this archery notebook and score keeper, you can keep your practice logs and training notes as well."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Practice Log"
+      - "Training Notes"
+      - "Fundamentals Focus"
+      - "Notebook Style"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Includes space for practice logs and training notes together"
+      - "Fundamentals-focused layout helps archers build good habits"
+      - "Notebook-style binding lays flat for easy writing at the range"
+      - "Affordable price point makes it easy to stock up on extras"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Smaller page count means you may go through it quickly"
+      - "Doesn't include sections for equipment or bow tuning notes"
     ctaUrl: "https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20"
   - name: "Archery Score Sheets Book: Score Cards for Archery Competitions"
     rank: 4
@@ -114,17 +117,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg"
     description: "The score sheets on this journal are perfect for recreational and competitive sports and beginners can also use it to improve their skills if practiced and noted daily and worked on the weak links."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Competition Cards"
+      - "Skill Tracking"
+      - "Beginner + Pro"
+      - "Daily Use"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Score sheets formatted specifically for archery competitions"
+      - "Helps beginners identify weak spots by tracking daily scores"
+      - "Works equally well for casual practice and organized events"
+      - "Durable enough to survive being packed in a range bag"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Very similar to other score sheet books with minimal standout features"
+      - "Glossy cover can show fingerprints and scuff marks"
     ctaUrl: "https://www.amazon.com/dp/1073332888?tag=thearcheryexpert-20"
   - name: "ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK"
     rank: 5
@@ -133,17 +137,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41s7KeZzzfL._SL500_.jpg"
     description: "These archery score sheets come with rules and instructions as well."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Rules Included"
+      - "Scorebook Format"
+      - "Perfect Strike"
+      - "Instruction Pages"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Comes with printed rules and instructions inside the book"
+      - "Perfect Strike format is designed for official-style scoring"
+      - "Thick cardstock pages resist tearing during outdoor use"
+      - "Budget-friendly price for the number of score sheets included"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Instruction pages take up space that could be used for scores"
+      - "Not spiral-bound, so pages don't fold back easily"
     ctaUrl: "https://www.amazon.com/dp/B07SC5SCTV?tag=thearcheryexpert-20"
   - name: "Archery Score Card: Score Sheets for Archery"
     rank: 6
@@ -152,17 +157,18 @@ products:
     image: "https://m.media-amazon.com/images/I/5192tBOVg7L._SL500_.jpg"
     description: "The scorecards on this notebook are ideal for tournaments and competitive sports and beginners can learn and polish their skills and use them to improve their skills if practiced and noted daily."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Tournament Focused"
+      - "Skill Polishing"
+      - "Notebook Format"
+      - "Daily Records"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Ideal layout for recording tournament and competition results"
+      - "Daily use helps polish skills by identifying patterns over time"
+      - "Notebook format is intuitive and easy to pick up right away"
+      - "Good balance of scoring fields and note-taking space"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Standard paper stock can wrinkle in humid outdoor conditions"
+      - "Cover design is plain compared to more eye-catching options"
     ctaUrl: "https://www.amazon.com/dp/B08DSYPJ7L?tag=thearcheryexpert-20"
   - name: "Keep Calm And Shoot Straight: Archery Score Sheets Book"
     rank: 7
@@ -171,17 +177,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg"
     description: "Keep calm and shoot straight archery score sheets book is a product which can be used in tournaments, small competitions, and for personal training as well."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Motivational Cover"
+      - "Multi-Purpose"
+      - "Personal Training"
+      - "Clean Layout"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Fun motivational cover design keeps the archery spirit alive"
+      - "Works for tournaments, local competitions, and personal training"
+      - "Clean column layout is easy to fill in between shooting ends"
+      - "Affordable enough to buy multiples for different seasons"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Same interior layout as many competing score sheet books"
+      - "Softcover won't hold up as well as a hardback journal"
     ctaUrl: "https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20"
   - name: "Archery Score Book: Archery Target Score Sheets"
     rank: 8
@@ -190,17 +197,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41puzx5Eu+L._SL500_.jpg"
     description: "This product is a complete package for archery, it includes target sheets, a scorebook, and log records as well."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Complete Package"
+      - "Target Sheets"
+      - "Log Records"
+      - "All-In-One"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Complete package includes target sheets, scorebook, and log records"
+      - "All-in-one design means fewer items to carry to the range"
+      - "Target sheet layout lets you mark shot placement visually"
+      - "Sturdy binding holds up to regular flipping back and forth"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Bulkier than single-purpose scorebooks due to extra content"
+      - "Target sheet graphics take up pages that could be used for scores"
     ctaUrl: "https://www.amazon.com/dp/1695666844?tag=thearcheryexpert-20"
   - name: "Draw Anchor Aim: Archery Score Keeping Notebook for Target Shooting"
     rank: 9
@@ -209,17 +217,18 @@ products:
     image: "https://m.media-amazon.com/images/I/411YG6KkZBL._SL500_.jpg"
     description: "This is a perfect daily archery diary, you can call it a notebook or a journal as well."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Daily Diary"
+      - "Target Shooting"
+      - "Draw Anchor Aim"
+      - "Beginner Entry"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Works as a daily archery diary for tracking every session"
+      - "Dedicated sections for target shooting notes and observations"
+      - "Beginner-friendly layout doesn't overwhelm new archers"
+      - "Inspiring cover theme motivates consistent practice habits"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Diary format is less structured than competition-style scorebooks"
+      - "Fewer scoring columns per page than tournament-focused alternatives"
     ctaUrl: "https://www.amazon.com/dp/1090675291?tag=thearcheryexpert-20"
   - name: "Follow Your Own Arrow: Archery Target Score Sheets"
     rank: 10
@@ -228,17 +237,18 @@ products:
     image: "https://m.media-amazon.com/images/I/419N1CRtgNL._SL500_.jpg"
     description: "This is a unique record-keeping book made to record all your archery scores, progress, and tournaments in a single place, thanks to this score sheet."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "All-In-One Record"
+      - "Progress Tracking"
+      - "Tournament Log"
+      - "Unique Cover"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Records scores, progress, and tournament results in one place"
+      - "Unique cover design stands out from other plain scorebooks"
+      - "Organized layout with sections for different types of shooting"
+      - "Great as a gift for archers who want to track their journey"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Single-book format means starting over once it's full"
+      - "No waterproof coating so it needs protection from rain"
     ctaUrl: "https://www.amazon.com/dp/1695667840?tag=thearcheryexpert-20"
 ---
 
@@ -364,10 +374,10 @@ Practicing archery regularly boosts self-confidence, and with time when skills a
 </div>
 <p class="product-card-desc">This product can work as a scorecard or score keeper, notebook, score logbook and you can track your performance if you're a beginner in archery. This logbook will help you improve your performance day by day by closely tracking the daily scores.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Score Logbook</span>
+<span class="highlight-tag">Daily Tracking</span>
+<span class="highlight-tag">Beginner Friendly</span>
+<span class="highlight-tag">Compact Size</span>
 </div>
 <a href="https://www.amazon.com/dp/1099411335?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -393,8 +403,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Paper quality is basic and can bleed with certain pens</li>
+<li>Limited number of pages for archers who shoot frequently</li>
 </ul>
 </div>
 </div>
@@ -436,10 +446,10 @@ You'll be able to record information, for example, name, date, team, target, dis
 </div>
 <p class="product-card-desc">This archery score sheet is a perfect journal for competitive and recreational archers, but beginners can also use it as well. Beginners can track and improve their performance by using this practice journal.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Tournament Ready</span>
+<span class="highlight-tag">Practice Journal</span>
+<span class="highlight-tag">Competition Layout</span>
+<span class="highlight-tag">Matte Cover</span>
 </div>
 <a href="https://www.amazon.com/dp/B08DSS7JFG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -465,8 +475,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Scoring layout may not match every tournament format</li>
+<li>No built-in target diagrams for marking shot placement</li>
 </ul>
 </div>
 </div>
@@ -508,10 +518,10 @@ The coaches can also use it very well to train their trainees and improve their 
 </div>
 <p class="product-card-desc">With this archery notebook and score keeper, you can keep your practice logs and training notes as well. You can improve your archery skills by using this 120 pages score sheet.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Practice Log</span>
+<span class="highlight-tag">Training Notes</span>
+<span class="highlight-tag">Fundamentals Focus</span>
+<span class="highlight-tag">Notebook Style</span>
 </div>
 <a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -537,8 +547,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Smaller page count means you may go through it quickly</li>
+<li>Doesn't include sections for equipment or bow tuning notes</li>
 </ul>
 </div>
 </div>
@@ -584,10 +594,10 @@ It has dimensions of 6 x 0.3 x 9 inches.
 </div>
 <p class="product-card-desc">The score sheets on this journal are perfect for recreational and competitive sports and beginners can also use it to improve their skills if practiced and noted daily and worked on the weak links.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Competition Cards</span>
+<span class="highlight-tag">Skill Tracking</span>
+<span class="highlight-tag">Beginner + Pro</span>
+<span class="highlight-tag">Daily Use</span>
 </div>
 <a href="https://www.amazon.com/dp/1073332888?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -613,8 +623,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Very similar to other score sheet books with minimal standout features</li>
+<li>Glossy cover can show fingerprints and scuff marks</li>
 </ul>
 </div>
 </div>
@@ -652,10 +662,10 @@ It’s a great tool to assess and improve your skills in archery, you can use it
 </div>
 <p class="product-card-desc">These archery score sheets come with rules and instructions as well. This scorebook is perfect for strike archery. The sheets can be used in archery tournaments, they're round-shaped and the paper is colored as white and black.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Rules Included</span>
+<span class="highlight-tag">Scorebook Format</span>
+<span class="highlight-tag">Perfect Strike</span>
+<span class="highlight-tag">Instruction Pages</span>
 </div>
 <a href="https://www.amazon.com/dp/B07SC5SCTV?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -681,8 +691,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Instruction pages take up space that could be used for scores</li>
+<li>Not spiral-bound, so pages don't fold back easily</li>
 </ul>
 </div>
 </div>
@@ -722,10 +732,10 @@ Trainers and coaches can also have it to assess the performance of their student
 </div>
 <p class="product-card-desc">The scorecards on this notebook are ideal for tournaments and competitive sports and beginners can learn and polish their skills and use them to improve their skills if practiced and noted daily. You can also keep permanent records of the scores and the results.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Tournament Focused</span>
+<span class="highlight-tag">Skill Polishing</span>
+<span class="highlight-tag">Notebook Format</span>
+<span class="highlight-tag">Daily Records</span>
 </div>
 <a href="https://www.amazon.com/dp/B08DSYPJ7L?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -751,8 +761,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Standard paper stock can wrinkle in humid outdoor conditions</li>
+<li>Cover design is plain compared to more eye-catching options</li>
 </ul>
 </div>
 </div>
@@ -790,10 +800,10 @@ It’s a great tool to assess and improve your skills in archery, you can use it
 </div>
 <p class="product-card-desc">Keep calm and shoot straight archery score sheets book is a product which can be used in tournaments, small competitions, and for personal training as well. This scorebook is perfect for strike archery. The sheets are round-shaped and the paper is colored white and black with no bleed.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Motivational Cover</span>
+<span class="highlight-tag">Multi-Purpose</span>
+<span class="highlight-tag">Personal Training</span>
+<span class="highlight-tag">Clean Layout</span>
 </div>
 <a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -819,8 +829,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Same interior layout as many competing score sheet books</li>
+<li>Softcover won't hold up as well as a hardback journal</li>
 </ul>
 </div>
 </div>
@@ -862,10 +872,10 @@ Trainers and coaches can also have it to assess the performance of their student
 </div>
 <p class="product-card-desc">This product is a complete package for archery, it includes target sheets, a scorebook, and log records as well. These scorecards can be used in tournaments and competitive sports and beginners can also learn and improve their skills if practiced and noted daily.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Complete Package</span>
+<span class="highlight-tag">Target Sheets</span>
+<span class="highlight-tag">Log Records</span>
+<span class="highlight-tag">All-In-One</span>
 </div>
 <a href="https://www.amazon.com/dp/1695666844?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -891,8 +901,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Bulkier than single-purpose scorebooks due to extra content</li>
+<li>Target sheet graphics take up pages that could be used for scores</li>
 </ul>
 </div>
 </div>
@@ -932,10 +942,10 @@ It’s a perfect product to assess and improve your skills in archery, you can u
 </div>
 <p class="product-card-desc">This is a perfect daily archery diary, you can call it a notebook or a journal as well. It's a great tool to track distance, score, target, ends, date, and location. You can also note or write what bad happened and where you've to improve.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Daily Diary</span>
+<span class="highlight-tag">Target Shooting</span>
+<span class="highlight-tag">Draw Anchor Aim</span>
+<span class="highlight-tag">Beginner Entry</span>
 </div>
 <a href="https://www.amazon.com/dp/1090675291?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -961,8 +971,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Diary format is less structured than competition-style scorebooks</li>
+<li>Fewer scoring columns per page than tournament-focused alternatives</li>
 </ul>
 </div>
 </div>
@@ -1006,10 +1016,10 @@ Can be used in different formats to record scores and final results.
 </div>
 <p class="product-card-desc">This is a unique record-keeping book made to record all your archery scores, progress, and tournaments in a single place, thanks to this score sheet. You can record a lot of information, for example, name, date, team, target, distance, location, and all of your scores and results.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">All-In-One Record</span>
+<span class="highlight-tag">Progress Tracking</span>
+<span class="highlight-tag">Tournament Log</span>
+<span class="highlight-tag">Unique Cover</span>
 </div>
 <a href="https://www.amazon.com/dp/1695667840?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1035,8 +1045,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Single-book format means starting over once it's full</li>
+<li>No waterproof coating so it needs protection from rain</li>
 </ul>
 </div>
 </div>

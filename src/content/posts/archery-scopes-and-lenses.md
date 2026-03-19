@@ -949,7 +949,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-SCCONS
+<li>Larger .029 pin size can obscure small targets at longer range</li>
+<li>Fewer features than mid-range sights at a similar price point</li>
 </ul>
 </div>
 </div>
@@ -1020,7 +1021,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-SCCONS
+<li>Seven pins create a crowded sight picture for some archers</li>
+<li>OLED display and rangefinder add complexity for beginners</li>
 </ul>
 </div>
 </div>
@@ -1103,7 +1105,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-SCCONS
+<li>Not a traditional archery sight so it takes time to adapt</li>
+<li>Battery-powered dot can wash out in very bright sunlight</li>
 </ul>
 </div>
 </div>

@@ -366,10 +366,10 @@ It's because you surely don’t want to end up being a left-hander and purchase 
 </div>
 <p class="product-card-desc">Let’s start with the best-seller first, the right-handed archery finger tab. This a high-quality product of hiding & Drink, finely hand-cut and hand-stitched from rustic, durable, Full Grain Leather. The Full Grain leather is retrieved from the topmost layer of the hide that's the finest leather one could find.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Full Grain Leather</span>
+<span class="highlight-tag">Hand Stitched</span>
+<span class="highlight-tag">Right Hand Design</span>
+<span class="highlight-tag">Rustic Finish</span>
 </div>
 <a href="https://www.amazon.com/dp/B07H11W38P?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -396,8 +396,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Right-hand only, left-handed archers need a different tab</li>
+<li>Requires a short break-in period before it feels natural</li>
 </ul>
 </div>
 </div>
@@ -445,10 +445,10 @@ The one mentioned above is only suitable for the right-handed.
 </div>
 <p class="product-card-desc">If you don’t like the glove or the tab you could simply ditch them and go for the WOARCHERY Bowstring Finger Savers. Priced just under $10 this protector is the ideal choice for both beginners and professionals. Available in three different colors.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">String-Mount Design</span>
+<span class="highlight-tag">No Glove Needed</span>
+<span class="highlight-tag">Quick Install</span>
+<span class="highlight-tag">Rubber Cushion</span>
 </div>
 <a href="https://www.amazon.com/dp/B07CGLX9LX?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -475,8 +475,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Adds slight weight to the bowstring that can affect arrow speed</li>
+<li>Rubber can crack and lose grip after months of use</li>
 </ul>
 </div>
 </div>
@@ -528,10 +528,10 @@ It would be more advisable for professionals to choose one of the other products
 </div>
 <p class="product-card-desc">A fine finger saver made of genuine cow leather which is very strong and wear-resisting. The glove is made of moderate thickness to allow you to protect your fingers while still being able to feel the string.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Cow Leather Tab</span>
+<span class="highlight-tag">Wear Resistant</span>
+<span class="highlight-tag">Finger Separator</span>
+<span class="highlight-tag">Adjustable Strap</span>
 </div>
 <a href="https://www.amazon.com/dp/B07YWPNK4G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -558,8 +558,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Leather tabs take time to mold to your finger shape</li>
+<li>Not suited for thumb-draw shooting styles</li>
 </ul>
 </div>
 </div>
@@ -605,10 +605,10 @@ If you're not interested in using a glove please browse the list for other sweat
 </div>
 <p class="product-card-desc">The XTACER finger protector arm guard is also a 2 in 1 product. It consists of a 3-strap ventilated leather arm guard as well as a 3 finger designed archery finger protector.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">2-in-1 Combo</span>
+<span class="highlight-tag">Finger + Arm Guard</span>
+<span class="highlight-tag">Leather Tips</span>
+<span class="highlight-tag">Elastic Fit</span>
 </div>
 <a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -635,8 +635,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Combo design means neither piece is as specialized as standalone options</li>
+<li>Elastic can stretch and loosen after extended use</li>
 </ul>
 </div>
 </div>
@@ -684,10 +684,10 @@ In that case, please refer to the other available options in this list to choose
 </div>
 <p class="product-card-desc">The Votono archery finger guard is a 3 finger guard shooting glove with a recurve bow finger support protector. It's made of high quality, soft, double velvet microfiber fabric that's finely processed with the characteristics of being wear-resistant and tear-resistant.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">3-Finger Guard</span>
+<span class="highlight-tag">Recurve Bow Fit</span>
+<span class="highlight-tag">Padded Tips</span>
+<span class="highlight-tag">Budget Price</span>
 </div>
 <a href="https://www.amazon.com/dp/B083K21GB5?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -714,8 +714,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Thinner padding wears out faster under high draw weights</li>
+<li>One-size approach may not fit very large or small hands</li>
 </ul>
 </div>
 </div>
@@ -761,10 +761,10 @@ If you're one such person then we've listed other substitute gear for you to cho
 </div>
 <p class="product-card-desc">ArcheryMax brings to you a classic leather shooting glove made of genuine cowhide leather. It has a soft and thin texture to accommodate your comfort. You wouldn't be sweating in this glove as much as a normal one.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Cowhide Leather</span>
+<span class="highlight-tag">Classic Glove Style</span>
+<span class="highlight-tag">Finger Tip Coverage</span>
+<span class="highlight-tag">Secure Wrist Strap</span>
 </div>
 <a href="https://www.amazon.com/dp/B016APZ0AS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -791,8 +791,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Glove style reduces bare-finger sensitivity on the string</li>
+<li>Leather gloves run warm in hot summer shooting conditions</li>
 </ul>
 </div>
 </div>
@@ -836,10 +836,10 @@ Professionals are advised to consider using one of the other customized finger s
 </div>
 <p class="product-card-desc">This product is a thumb guard made of thickened, soft cow skin and doesn't require a glove. It provides strong protection and saves the players from getting a sore thumb. Designed to fit both right and left hands it's a great option for everyone.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Thumb Guard</span>
+<span class="highlight-tag">Thick Cow Skin</span>
+<span class="highlight-tag">No Glove Required</span>
+<span class="highlight-tag">Thumb Draw Style</span>
 </div>
 <a href="https://www.amazon.com/dp/B072M71LKW?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -866,8 +866,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Only useful for thumb-draw shooters, not Mediterranean draw</li>
+<li>Takes practice to get comfortable with the thumb release</li>
 </ul>
 </div>
 </div>
@@ -911,10 +911,10 @@ At least until they're confident enough not to hurt their hands while practicing
 </div>
 <p class="product-card-desc">This budget-friendly protector is priced at just under $10 and is available in multiple eye-catching colors. A multi-purpose finger saver that's desirable to many as it can be used for bow hunting as well as bow fishing.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Rubber String-Mount</span>
+<span class="highlight-tag">Multiple Colors</span>
+<span class="highlight-tag">Under $10</span>
+<span class="highlight-tag">Easy Replacement</span>
 </div>
 <a href="https://www.amazon.com/dp/B0072084UO?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -941,8 +941,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Rubber material wears down and needs periodic replacement</li>
+<li>Can slightly dampen string vibration and reduce arrow speed</li>
 </ul>
 </div>
 </div>
@@ -982,10 +982,10 @@ Nevertheless, if you need more protective gear to ensure the safety of your hand
 </div>
 <p class="product-card-desc">The KESHES archery finger saver is a three-finger designed glove with the tabs tipped with high-quality cow leather. While the glove is stitched with high-quality faux leather to ensure durability.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Leather Tipped</span>
+<span class="highlight-tag">3-Finger Glove</span>
+<span class="highlight-tag">Adjustable Fit</span>
+<span class="highlight-tag">Beginner Friendly</span>
 </div>
 <a href="https://www.amazon.com/dp/B07RT6QHMZ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1012,8 +1012,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Leather tips can stiffen if not stored properly</li>
+<li>May feel bulky for archers with smaller hands</li>
 </ul>
 </div>
 </div>
@@ -1061,10 +1061,10 @@ However, the multiple layers in the glove can lead to sweat issues so if you wis
 </div>
 <p class="product-card-desc">The TOPARCHERY handguard protector shooting glove is made up of high-quality cow split leather to ensure durability. A mix of leather with stainless steel sheet is used for the outer side of the glove along with a mix of plastic.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Cow Split Leather</span>
+<span class="highlight-tag">Left Hand Only</span>
+<span class="highlight-tag">Reinforced Seams</span>
+<span class="highlight-tag">Snug Finger Fit</span>
 </div>
 <a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1091,8 +1091,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Left hand only design, so right-hand bow holders need another option</li>
+<li>Split leather isn't as soft as full grain right out of the box</li>
 </ul>
 </div>
 </div>

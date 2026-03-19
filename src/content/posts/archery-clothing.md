@@ -57,10 +57,10 @@ products:
     image: "https://m.media-amazon.com/images/I/51OlKcysGjL._SL500_.jpg"
     description: "This water-resistant hunting suit features quiet fabric with magnet buckles to keep you stealthy in the field. The fleece lining provides reliable warmth during cold weather hunts without adding bulk."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Water-Resistant"
+      - "Quiet Fabric"
+      - "Fleece Lined"
+      - "Jacket + Pants"
     pros:
       - "Water-resistant and windproof outer shell"
       - "Quiet fabric with magnet buckles for stealth"
@@ -435,10 +435,10 @@ Sizing runs a bit generous to allow for layering underneath. Check the TIDEWE si
 </div>
 <p class="product-card-desc">Well, as you know this archery hunting is the best outdoor clothing for the hunters.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">3D Leafy Camo</span>
+<span class="highlight-tag">Under 1 lb Weight</span>
+<span class="highlight-tag">Jacket + Pants</span>
+<span class="highlight-tag">Laser Cut Design</span>
 </div>
 <a href="https://www.amazon.com/dp/B0BJS6Y4HW?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -466,8 +466,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Not insulated, so it won't keep you warm in cold weather</li>
+<li>Leafy material can snag on branches and thorns</li>
 </ul>
 </div>
 </div>
@@ -517,10 +517,10 @@ Hunting Jacket with a hood comes with an archery outfit. Very stylish, naturally
 </div>
 <p class="product-card-desc">Here's a new long shirt and the best selling shirt during archery or hunting. It’s made up of polyester so it‘s very light, comfortable, fit and it’s made up 100% polyester. As you know, these long shirts are very easy to use during archery hunting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Odor Control Tech</span>
+<span class="highlight-tag">Moisture Wicking</span>
+<span class="highlight-tag">100% Polyester</span>
+<span class="highlight-tag">Multiple Colors</span>
 </div>
 <a href="https://www.amazon.com/dp/B086G3TQRB?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -548,8 +548,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Premium Sitka pricing is higher than budget base layers</li>
+<li>Lightweight fabric provides minimal insulation on its own</li>
 </ul>
 </div>
 </div>
@@ -603,10 +603,10 @@ This long sleeves shirt is breathing comfortably, controls odor, and heat sweat 
 </div>
 <p class="product-card-desc">Look check its new product for clothing for winter hunting. It’s a brand for IWOM Outerwear. You can use this product “IWOM XT” for archery hunting. The best products are for the winter season. As you know, it’s waterproof plus windproof products.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">3 Wear Modes</span>
+<span class="highlight-tag">-40F to 40F Range</span>
+<span class="highlight-tag">Waterproof Shell</span>
+<span class="highlight-tag">Full Body Coverage</span>
 </div>
 <a href="https://www.amazon.com/dp/B07Q868JJM?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -634,8 +634,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Premium price point puts it out of reach for casual hunters</li>
+<li>Full-length mode can restrict movement when drawing a bow</li>
 </ul>
 </div>
 </div>
@@ -693,10 +693,10 @@ This quality of this product is the best cold-season hunting system.
 </div>
 <p class="product-card-desc">Well, the new unique “Scentlok Men’s Recon Thermal Pants” is 100% made up of polyester. When you want to hunt during a cold, freeze point, you need warm pants during hunting. These products, the pants thermal warmth when the temperature is cold while hunting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Carbon Alloy Scent</span>
+<span class="highlight-tag">Thermal Insulation</span>
+<span class="highlight-tag">6 Pockets</span>
+<span class="highlight-tag">Machine Washable</span>
 </div>
 <a href="https://www.amazon.com/dp/B010Q8RFG2?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -724,8 +724,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Heavier weight than non-insulated hunting pants</li>
+<li>Carbon scent control needs reactivation after several washes</li>
 </ul>
 </div>
 </div>
@@ -781,10 +781,10 @@ It provides for health and safety during the hunting program.
 </div>
 <p class="product-card-desc">Interestingly, the ScentLok Taktix hunting jacket is a new technology in this market. Within this particular, is the mixture of carbon and zeolite. This new technology helps to remove smell and odor while hunting. It also helps you to absorb sweats, keep you more confident while hunting clothes.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Carbon Odor Control</span>
+<span class="highlight-tag">Water Resistant</span>
+<span class="highlight-tag">Windproof</span>
+<span class="highlight-tag">Multiple Pockets</span>
 </div>
 <a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -811,8 +811,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Carbon technology adds to the overall jacket cost</li>
+<li>Runs warm in mild weather due to heavy insulation</li>
 </ul>
 </div>
 </div>
@@ -864,10 +864,10 @@ It’s made up of morphic water resistance and windproof too.
 </div>
 <p class="product-card-desc">With this particular, this product allows you to hunt longer and stay more comfortable while hunting by providing a barrier to an element. It’s windproof, water-resistant, and fleece-lined and can be used in different conditions. It’s made up of 94 % polyester and 6 % elastane.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Softshell Fabric</span>
+<span class="highlight-tag">Fleece Lined</span>
+<span class="highlight-tag">Raglan Sleeves</span>
+<span class="highlight-tag">6 Pockets</span>
 </div>
 <a href="https://www.amazon.com/dp/B00VGPILTU?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -895,8 +895,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Limited color options for buyers who want variety</li>
+<li>Softshell material isn't fully waterproof in heavy rain</li>
 </ul>
 </div>
 </div>
@@ -950,10 +950,10 @@ So, if you buy this product you won’t regret it.
 </div>
 <p class="product-card-desc">Well, as you know, the new 3-dimensional breathable hunting outfit is the “ Earoomze outfit” in this market. It’s made up of very high quality. It consists of polyester, lightweight, and has a natural feel because it looks like leaves clothing.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">3D Leaf Pattern</span>
+<span class="highlight-tag">Under 1 lb</span>
+<span class="highlight-tag">Zipper Design</span>
+<span class="highlight-tag">Two-Piece Set</span>
 </div>
 <a href="https://www.amazon.com/dp/B06XSSNQDX?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -981,8 +981,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Thin material offers zero insulation for cold weather</li>
+<li>One-size design may not fit all body types perfectly</li>
 </ul>
 </div>
 </div>
@@ -1026,10 +1026,10 @@ This clothes’ suit for forest hunting, forest sniper, watching birds, and so o
 </div>
 <p class="product-card-desc">Here comes a great outdoor product New view hunting suit. This product comes with a set of jackets and pants. It’s also smooth face polyester material with windproof, water-resistance, and breathable. It’s designed with camouflage print, shark skin softshell fabric which lets you be more comfortable.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Shark Skin Softshell</span>
+<span class="highlight-tag">10 Pockets Total</span>
+<span class="highlight-tag">Water Resistant</span>
+<span class="highlight-tag">3D Hood</span>
 </div>
 <a href="https://www.amazon.com/dp/B09V7FKWS9?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1057,8 +1057,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Hand wash or gentle cycle only, no heavy machine washing</li>
+<li>Camo pattern may not match all regional environments</li>
 </ul>
 </div>
 </div>
@@ -1110,10 +1110,10 @@ This suit is also perfect for early morning dew and light rain.
 </div>
 <p class="product-card-desc">This product is a boot type blanket for heavy winter conditions. It’s not designed for walking a distance but keeps your hands and feet warmer in extreme winter situations. The boot blanket is insulated with 2-ply 300-gram insulation placed between the tough poly/cotton outer shell and water resistance inner shell.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">300g Insulation</span>
+<span class="highlight-tag">Non-Slip Sole</span>
+<span class="highlight-tag">Hand Warming Pockets</span>
+<span class="highlight-tag">Extreme Cold Rated</span>
 </div>
 <a href="https://www.amazon.com/dp/B0FQP38KWC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1140,8 +1140,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Not designed for walking distances, only stationary use</li>
+<li>Zipper can come apart if not handled carefully</li>
 </ul>
 </div>
 </div>
