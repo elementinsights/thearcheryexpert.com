@@ -28,7 +28,7 @@ toc:
   - label: "Advantages"
     href: "#advantages"
   - label: "Disadvantages"
-    href: "#advantages"
+    href: "#disadvantages"
   - label: "Bow Design"
     href: "#bow-design"
   - label: "Noise and Vibration"

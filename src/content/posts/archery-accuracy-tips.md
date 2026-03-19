@@ -21,7 +21,7 @@ toc:
   - label: "3. The Anchor Points"
     href: "#3-the-anchor-points"
   - label: "4. Finding The Right Stance & Posture"
-    href: "#4-finding-the-right-stance-posture"
+    href: "#4-finding-the-right-stance--posture"
   - label: "5. Knowing Your Draw Length"
     href: "#5-knowing-your-draw-length"
   - label: "6. Shoot The Draw Weight That You Can Support"

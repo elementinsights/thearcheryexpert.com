@@ -33,7 +33,7 @@ toc:
   - label: "9. Archery Drill Book By Steve Ruis And Mike Gerard"
     href: "#9-archery-drill-book-by-steve-ruis-and-mike-gerard"
   - label: "10. Total Archery  -  Inside The Archer By KiSik Lee And Tyler Benner"
-    href: "#10-total-archery-inside-the-archer-by-kisik-lee-and-tyler-benner"
+    href: "#10-total-archery--inside-the-archer-by-kisik-lee-and-tyler-benner"
   - label: "FAQ"
     href: "#faq"
   - label: "Final Thoughts"
