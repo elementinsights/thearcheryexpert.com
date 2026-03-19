@@ -90,7 +90,12 @@ const popularLinks = siteConfig.footerPopularLinks || [];
           <a href={`/category/${cat.slug}`} class={`sh-path-card sh-path-card--${color} animate-on-scroll`}>
             <div class={`sh-path-icon sh-path-icon--${color}`} set:html={pathIcons[i % pathIcons.length]} />
             <h3>I Need {cat.name}</h3>
-            <p>In-depth reviews, comparisons, and tips covering the best {cat.name.toLowerCase()} for every skill level and budget.</p>
+            <p>{cat.name === 'Accessories' ? 'Arm guards, quivers, sights, releases, and every piece of gear that makes your setup complete.' :
+               cat.name === 'Arrows' ? 'Carbon arrows, broadheads, vanes, and nocks. Find the right shaft and tip combo for your bow.' :
+               cat.name === 'Bows' ? 'Compound, recurve, longbow, and youth bows. We cover every type from beginner to competition grade.' :
+               cat.name === 'Knowledge' ? 'Shooting form, safety, scoring, history, and everything you need to become a better archer.' :
+               cat.name === 'Targets' ? 'Bag targets, 3D animal targets, foam blocks, and DIY options for backyard and range practice.' :
+               `Reviews and guides covering the best ${cat.name.toLowerCase()} for every skill level.`}</p>
             <span class="sh-path-link">Explore {cat.name} &rarr;</span>
           </a>
         );
@@ -137,10 +142,10 @@ const popularLinks = siteConfig.footerPopularLinks || [];
               {link.desc && <div class="sh-guide-item-desc">{link.desc}</div>}
             </a>
           ))}
-          {siteConfig.categories.slice(0, 2).map(cat => (
+          {siteConfig.categories.map(cat => (
             <a href={`/category/${cat.slug}`} class="sh-guide-item">
               <div class="sh-guide-item-title">{cat.name} Reviews</div>
-              <div class="sh-guide-item-desc">Side-by-side comparisons of the top archery brands and models.</div>
+              <div class="sh-guide-item-desc">Detailed side-by-side comparisons of the top {cat.name.toLowerCase()} on the market. We break down features, pricing, durability, and real-world performance so you can pick the right one.</div>
             </a>
           ))}
         </div>
