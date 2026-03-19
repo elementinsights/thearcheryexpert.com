@@ -19,7 +19,7 @@ toc:
   - label: "Quick Comparison Chart"
     href: "#quick-comparison-chart"
   - label: "1. TIDEWE Hunting Clothes with Fleece Lining — Best Overall"
-    href: "#1-tidewe-hunting-clothes-with-fleece-lining--best-overall"
+    href: "#1-tidewe-hunting-clothes-with-fleece-lining-best-overall"
   - label: "2. North Mountain Gear Woodland Camo Ghillie Suit — Runner Up"
     href: "#2-north-mountain-gear-woodland-camo-ghillie-suit-runner-up"
   - label: "3. Sitka Men's Hunting Core Lightweight Crew Long Sleeve Shirt — Best Value"

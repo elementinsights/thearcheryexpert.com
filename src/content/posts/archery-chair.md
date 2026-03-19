@@ -23,7 +23,7 @@ toc:
   - label: "2. Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool — Runner Up"
     href: "#2-shrewd-smssidekickbk-side-kick-archery-chairstool-runner-up"
   - label: "3. </b><b>GigaTent Folding 3 in 1 Stool Backpack Folding Stool< — Best Value"
-    href: "#3-bbgigatent-folding-3-in-1-stool-backpack-folding-stoolbb-best-value"
+    href: "#3-gigatent-folding-3-in-1-stool-backpack-folding-stool-best-value"
   - label: "4. Allen Company Camo Folding Hunting Stool — Premium Pick"
     href: "#4-allen-company-camo-folding-hunting-stool-premium-pick"
   - label: "5. Redcamp 2-Pack Tripod Hunting Chair — Budget Pick"

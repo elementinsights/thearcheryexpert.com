@@ -33,7 +33,7 @@ toc:
   - label: "7. Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust — Best Design"
     href: "#7-archery-7-pin-bow-sight-0019-optical-fiber-micro-adjust-best-design"
   - label: "8. 5 Pin / 7 Pin Bow Sight Micro-Adjustable Aluminum — Most Durable"
-    href: "#8-5-pin--7-pin-bow-sight-micro-adjustable-aluminum-most-durable"
+    href: "#8-5-pin-7-pin-bow-sight-micro-adjustable-aluminum-most-durable"
   - label: "9. Axcel Armortech HD Sight - 7 Pins .010 — Best for Beginners"
     href: "#9-axcel-armortech-hd-sight-7-pins-010-best-for-beginners"
   - label: "10. IQ Define Pro 7-Pin Bow Range Finding Sight — Honorable Mention"

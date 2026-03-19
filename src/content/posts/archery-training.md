@@ -19,7 +19,7 @@ toc:
   - label: "Step 2: Assume a consistent anchor position"
     href: "#step-2-assume-a-consistent-anchor-position"
   - label: "Step 3: Ensure that you are using the right arrows to shoot"
-    href: "#step-3-ensure-that-you-are-using-the-right-arrows-to-shoot"
+    href: "#step-3-ensure-that-youre-using-the-right-arrows-to-shoot"
   - label: "Step 4: Monitor your breathing patterns"
     href: "#step-4-monitor-your-breathing-patterns"
   - label: "Step 5: Practice shooting at a certain distance"

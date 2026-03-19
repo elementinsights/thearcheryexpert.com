@@ -29,7 +29,7 @@ toc:
   - label: "5. Morrell Supreme Range Field Point Bag Archery Target — Budget Pick"
     href: "#5-morrell-supreme-range-field-point-bag-archery-target-budget-pick"
   - label: "6. Delta McKenzie Speedbag 20/20 Archery Target — Most Popular"
-    href: "#6-delta-mckenzie-speedbag-2026-archery-target-most-popular"
+    href: "#6-delta-mckenzie-speedbag-2020-archery-target-most-popular"
   - label: "7. Morrell Keep Hammering Outdoor Range Target — Best Design"
     href: "#7-morrell-keep-hammering-outdoor-range-target-best-design"
   - label: "8. Field Logic Hurricane H21 Crossbow Archery Bag Target — Most Durable"

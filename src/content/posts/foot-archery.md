@@ -19,7 +19,7 @@ toc:
   - label: "Disclaimer"
     href: "#disclaimer"
   - label: "What is Foot Archery?"
-    href: "#what-is-foot-archery"
+    href: "#whats-foot-archery"
   - label: "How Does Foot Archery Work?"
     href: "#how-does-foot-archery-work"
   - label: "Upper Body Exercise For Foot Archery"

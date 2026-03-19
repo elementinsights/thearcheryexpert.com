@@ -29,7 +29,7 @@ toc:
   - label: "5. GlenDel Buck 3D Archery Target With Replaceable Insert Core — Budget Pick"
     href: "#5-glendel-buck-3d-archery-target-with-replaceable-insert-core-budget-pick"
   - label: "6. Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target — Most Popular"
-    href: "#6-morrell-bionic-buck-3d-archery-solid-foam-target-most-popular"
+    href: "#6-morrell-bionic-buck-ⅱ-3d-archery-solid-foam-target-most-popular"
   - label: "7. Delta McKenzie Howling Coyote 3D Target — Best Design"
     href: "#7-delta-mckenzie-howling-coyote-3d-target-best-design"
   - label: "8. CW-X Delta McKenzie 3D Raccoon Backyard Target — Most Durable"

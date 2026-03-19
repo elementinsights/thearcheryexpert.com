@@ -19,7 +19,7 @@ toc:
   - label: "What Is A Simulator?"
     href: "#what-is-a-simulator"
   - label: "The History of Archery"
-    href: "#the-history-of-archery"
+    href: "#the-history-of-archeryhttpsenwikipediaorgwikiarchery"
   - label: "What Is An Archery Simulator?"
     href: "#what-is-an-archery-simulator"
   - label: "How Does It Assist?"

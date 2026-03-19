@@ -29,7 +29,7 @@ toc:
   - label: "Step 7: Where To Practice"
     href: "#step-7-where-to-practice"
   - label: "Step 8: If You are Thinking of Professional Archery"
-    href: "#step-8-if-you-are-thinking-of-professional-archery"
+    href: "#step-8-if-youre-thinking-of-professional-archery"
   - label: "Step 9: Practice, Practice, Practice"
     href: "#step-9-practice-practice-practice"
   - label: "Step 10: Get Strong"
