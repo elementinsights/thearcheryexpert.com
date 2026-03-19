@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-03-02
 author: "Matt Vance"
-image: "/images/posts/archery-chair.webp"
+image: "https://m.media-amazon.com/images/I/41XWgRKlWvL._SL500_.jpg"
 imageAlt: "10 Best Archery Chairs & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

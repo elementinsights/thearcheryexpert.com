@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-16
 updatedDate: 2026-03-04
 author: "Matt Vance"
-image: "/images/posts/archery-score-keeper.webp"
+image: "https://m.media-amazon.com/images/I/5192tBOVg7L._SL500_.jpg"
 imageAlt: "10 Best Archery Score Keepers & Their Reviews For 2026"
 readTime: "12 min read"
 quickAnswer:
@@ -113,7 +113,7 @@ products:
     rank: 4
     badge: "Premium Pick"
     rating: 9.1
-    image: "https://m.media-amazon.com/images/I/410Cw21yKcL._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg"
     description: "The score sheets on this journal are perfect for recreational and competitive sports and beginners can also use it to improve their skills if practiced and noted daily and worked on the weak links."
     highlights:
       - "Quality Build"
@@ -355,7 +355,7 @@ Practicing archery regularly boosts self-confidence, and with time when skills a
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/1099411335?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Archery Score Card: Archery Score Keeper Scoring Helper" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/1099411335?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41OXp8NcB-L._SL500_.jpg" alt="Archery Score Card: Archery Score Keeper Scoring Helper" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Keepers</div>
@@ -575,7 +575,7 @@ It has dimensions of 6 x 0.3 x 9 inches.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/1073332888?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Archery Score Sheets Book: Score Cards for Archery Competitions" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/1073332888?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/410Cw21yKcL._SL500_.jpg" alt="Archery Score Sheets Book: Score Cards for Archery Competitions" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Keepers</div>
@@ -643,7 +643,7 @@ It’s a great tool to assess and improve your skills in archery, you can use it
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07SC5SCTV?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07SC5SCTV?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s7KeZzzfL._SL500_.jpg" alt="ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Keepers</div>
@@ -713,7 +713,7 @@ Trainers and coaches can also have it to assess the performance of their student
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B08DSYPJ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Archery Score Card: Score Sheets for Archery" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B08DSYPJ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/5192tBOVg7L._SL500_.jpg" alt="Archery Score Card: Score Sheets for Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Keepers</div>
@@ -997,7 +997,7 @@ Can be used in different formats to record scores and final results.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/1695667840?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Follow Your Own Arrow: Archery Target Score Sheets" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/1695667840?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/419N1CRtgNL._SL500_.jpg" alt="Follow Your Own Arrow: Archery Target Score Sheets" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Keepers</div>

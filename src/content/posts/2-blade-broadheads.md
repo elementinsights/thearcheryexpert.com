@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-10-16
 updatedDate: 2026-01-08
 author: "Matt Vance"
-image: "/images/posts/2-blade-broadheads.webp"
+image: "https://m.media-amazon.com/images/I/515j6P7nN6L._SL500_.jpg"
 imageAlt: "10 Best 2 Blade Broadheads & Their Reviews For 2026"
 readTime: "13 min read"
 quickAnswer:
@@ -1010,7 +1010,7 @@ So, with this awesome Broadhead, you'll get the perfect results.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gEOoY+gXL._SL500_.jpg" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/515j6P7nN6L._SL500_.jpg" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Broadheads</div>

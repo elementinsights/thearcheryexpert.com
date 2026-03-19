@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-08-16
 updatedDate: 2026-01-02
 author: "Matt Vance"
-image: "/images/posts/archery-scopes-and-lenses.webp"
+image: "https://m.media-amazon.com/images/I/41PZG9fFkFL._SL500_.jpg"
 imageAlt: "10 Best Archery Scopes And Lenses Reviewed For 2026"
 readTime: "15 min read"
 quickAnswer:
@@ -437,7 +437,7 @@ It comes with black color and has dimensions of 9 x 4 x 9 inches.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41I7l4fjyJL._SL500_.jpg" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Lenses</div>
@@ -584,7 +584,7 @@ This bow sight runs by a CR2 battery and has a dual mounting system, therefore, 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31Vo-rF5QWL._SL500_.jpg" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Lenses</div>
@@ -750,7 +750,7 @@ The 1-dot style has dimensions of 10 x 10.2 x 4 inches and the 2-dot style has d
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51IIO6Bqf7L._SL500_.jpg" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Lenses</div>

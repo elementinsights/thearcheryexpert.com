@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-01-28
 author: "Matt Vance"
-image: "/images/posts/left-handed-bow.webp"
+image: "https://m.media-amazon.com/images/I/41XogoDEfEL._SL500_.jpg"
 imageAlt: "10 Best Left-Handed Bows & Their Reviews For 2026"
 readTime: "9 min read"
 quickAnswer:

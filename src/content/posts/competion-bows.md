@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-01-12
 author: "Matt Vance"
-image: "/images/posts/competion-bows.webp"
+image: "https://m.media-amazon.com/images/I/51w3+bVXptL._SL500_.jpg"
 imageAlt: "10 Best Competion Bows & Their Reviews For 2026"
 readTime: "8 min read"
 quickAnswer:
@@ -75,7 +75,7 @@ products:
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "https://m.media-amazon.com/images/I/31kNTlt5f6L._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/31dPEB309tL._SL500_.jpg"
     description: "Unlike the Genesis Original Bow, which has a Single Cam System, the Diamond Archery bow has a Binary Cam System."
     highlights:
       - "Quality Build"

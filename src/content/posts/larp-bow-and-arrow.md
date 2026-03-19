@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-01-04
 author: "Matt Vance"
-image: "/images/posts/larp-bow-and-arrow.webp"
+image: "https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg"
 imageAlt: "10 Best Larp Bow And Arrow Products Reviewed For 2026"
 readTime: "10 min read"
 quickAnswer:
@@ -273,7 +273,7 @@ They can be homemade or bought depending on a specific activity.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="WOARCHERY Combat Archery" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41wujN4mxeL._SL500_.jpg" alt="WOARCHERY Combat Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Products</div>

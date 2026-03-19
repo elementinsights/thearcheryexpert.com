@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-02-03
 author: "Matt Vance"
-image: "/images/posts/archery-target-pins.webp"
+image: "https://m.media-amazon.com/images/I/31gMTpVpAHL._SL500_.jpg"
 imageAlt: "10 Best Archery Target Pins & Their Reviews For 2026"
 readTime: "14 min read"
 quickAnswer:
@@ -306,7 +306,7 @@ Archery target pins range between different sizes of 0.5-6 inches; they're of ma
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg" alt="BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS CIRCULAR ARCHERY TARGET FACE PINS/P</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -355,7 +355,7 @@ Archery target pins range between different sizes of 0.5-6 inches; they're of ma
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="SAS ARCHERY TARGET FACE PINS" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z6lNXDfeL._SL500_.jpg" alt="SAS ARCHERY TARGET FACE PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Pins</div>
@@ -641,7 +641,7 @@ They're good to use indoors and outdoors; frankly speaking, these target pins ar
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg" alt="BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Pins</div>
@@ -863,7 +863,7 @@ These pins also come with a complimentary non-slip surface grip design that make
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg" alt="RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Pins</div>

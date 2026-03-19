@@ -6,7 +6,7 @@ postType: "review"
 publishDate: 2026-03-18
 updatedDate: 2026-01-15
 author: "Matt Vance"
-image: "/images/posts/diamond-archery-infinite-edge-pro-review.webp"
+image: "https://m.media-amazon.com/images/I/41p39BsMTEL._SL500_.jpg"
 imageAlt: "Diamond Archery Inifinite Edge Pro Review (Updated 2026)"
 readTime: "14 min read"
 verdict: "The Diamond Archery Inifinite Edge Pro is a solid choice for archers looking for quality and versatility."

@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-01-09
 author: "Matt Vance"
-image: "/images/posts/archery-tee-shirts.webp"
+image: "https://m.media-amazon.com/images/I/51EeXQVlWKL._SL500_.jpg"
 imageAlt: "10 Best Archery Tee Shirts & Their Reviews For 2026"
 readTime: "13 min read"
 quickAnswer:
@@ -1054,7 +1054,7 @@ You can give this to your Mom, sister, favorite cousin, best friend, or aunt; th
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51EeXQVlWKL._SL500_.jpg" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Shirts</div>

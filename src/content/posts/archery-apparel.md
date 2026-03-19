@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-10-18
 updatedDate: 2026-03-09
 author: "Matt Vance"
-image: "/images/posts/archery-apparel.webp"
+image: "https://m.media-amazon.com/images/I/61tSbzJZD8L._SL500_.jpg"
 imageAlt: "10 Best Archey Apparel Products & Their Reviews For 2026"
 readTime: "14 min read"
 quickAnswer:
@@ -437,7 +437,7 @@ With a good amount of pockets, it can also help carry things.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51BquQT1ToL._SL500_.jpg" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51tpfKDi9tL._SL500_.jpg" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Products</div>

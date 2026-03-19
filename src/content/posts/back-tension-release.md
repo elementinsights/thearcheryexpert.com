@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-03-04
 author: "Matt Vance"
-image: "/images/posts/back-tension-release.webp"
+image: "https://m.media-amazon.com/images/I/31ZStncczVL._SL500_.jpg"
 imageAlt: "10 Best Back Tension Releases Reviewed"
 readTime: "15 min read"
 quickAnswer:
@@ -79,7 +79,7 @@ products:
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "https://m.media-amazon.com/images/I/31KzvVO8fDL._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg"
     description: "Again amazing back tension release by True-Fire; its design, color combinations, and power is amazing, and you will love it."
     highlights:
       - "Quality Build"
@@ -560,7 +560,7 @@ Tru-Fire has tested their back tension releases, and they can handle an excessiv
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Scott Archery Ascent Micro" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31daxgCM9ML._SL500_.jpg" alt="Scott Archery Ascent Micro" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Releases</div>
@@ -923,7 +923,7 @@ At first, it's a little much harder to adjust it, but once it's done, you'll enj
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31BlOt7y+sL._SL500_.jpg" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Releases</div>
@@ -997,7 +997,7 @@ This USA made great quality product to improves your shots; the triggers are fan
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31DqPjqYHuS._SL500_.jpg" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Releases</div>

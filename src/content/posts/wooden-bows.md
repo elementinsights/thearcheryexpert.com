@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-07-16
 updatedDate: 2026-03-06
 author: "Matt Vance"
-image: "/images/posts/wooden-bows.webp"
+image: "https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg"
 imageAlt: "10 Best Wooden Bows & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:
@@ -75,7 +75,7 @@ products:
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "https://m.media-amazon.com/images/I/31fS3AE7M-L._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "Not everyone wants a wooden bow to hunt, some need it for archery."
     highlights:
       - "Quality Build"
@@ -827,7 +827,7 @@ This bow blends into nearly any setting due to its discrete and elegant design.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="SAS Pioneer Longbow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31nDvOmBagL._SL500_.jpg" alt="SAS Pioneer Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
@@ -1055,7 +1055,7 @@ This bow helps the newbies to learn archery very easily.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="SAS Gravity Hunting Traditional Longbow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg" alt="SAS Gravity Hunting Traditional Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
