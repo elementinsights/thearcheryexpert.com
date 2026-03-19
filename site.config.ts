@@ -45,9 +45,9 @@ export const siteConfig = {
   // ============================================================
   footerDescription: "Your trusted source for archery information, tips, tutorials, and honest product reviews. From bows to arrows to accessories, we cover it all.",
   footerPopularLinks: [
-    { name: "Best Compound Bows", href: "/", desc: "Our top-rated picks for compound bows." },
-    { name: "Best Arrows", href: "/", desc: "Top arrow picks for every skill level." },
-    { name: "Archery Tips", href: "/", desc: "Improve your accuracy and technique." },
+    { name: "Best Bow & Arrow Sets for Beginners", href: "/bow-and-arrow-set-for-beginners/", desc: "The top beginner-friendly bow sets we've reviewed, from youth kits to adult starter packages." },
+    { name: "Best Recurve Bows for Barebow", href: "/barebow-recurve/", desc: "Our favorite takedown and one-piece recurve bows for traditional barebow shooting." },
+    { name: "Archery for Beginners: How to Get Started", href: "/archery-for-beginners/", desc: "A complete 10-step guide covering everything from choosing your first bow to hitting your first bullseye." },
   ],
   amazonDisclaimer: "The Archery Expert is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.",
 

@@ -53,7 +53,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 <section class="sh-hero">
   <div class="container">
     <h1 class="sh-hero-title animate-on-scroll">Welcome to {siteConfig.name}</h1>
-    <p class="sh-hero-subtitle animate-on-scroll">We help you find the right products for your needs &mdash; with honest reviews, real-world testing data, and expert guides you can actually trust.</p>
+    <p class="sh-hero-subtitle animate-on-scroll">Whether you're picking your first bow or upgrading your competition setup, we've got guides, gear reviews, and tips to help you shoot better.</p>
   </div>
 </section>
 
@@ -69,8 +69,8 @@ const popularLinks = siteConfig.footerPopularLinks || [];
         <div class="sh-avatar">{siteConfig.author.initial}</div>
       )}
       <div class="sh-intro-text">
-        <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've spent years testing hundreds of products so you don't have to rely on spec sheets and sponsored reviews. I started this site because most product reviews are written by people who've never actually used what they recommend &mdash; and that's not good enough when you're spending your hard-earned money.</p>
-        <p>Here, every product gets hands-on testing in real-world conditions. Below you'll find our most popular content organized by topic and the fastest way to find the right product for your needs. No matter what you're looking for, there's something here for you.</p>
+        <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've been shooting bows for over 15 years, from backyard target practice to competitive tournaments. I built The Archery Expert because I got tired of gear reviews written by people who've never drawn a bowstring.</p>
+        <p>Every product on this site gets real range time before we write a single word. Below you'll find our most popular content sorted by topic. Whether you're shopping for your first recurve or dialing in a new compound sight, start here.</p>
       </div>
     </div>
   </div>
@@ -90,7 +90,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
           <a href={`/category/${cat.slug}`} class={`sh-path-card sh-path-card--${color} animate-on-scroll`}>
             <div class={`sh-path-icon sh-path-icon--${color}`} set:html={pathIcons[i % pathIcons.length]} />
             <h3>I Need {cat.name}</h3>
-            <p>In-depth reviews, comparisons, and buying guides to help you find the best {cat.name.toLowerCase()} for your needs and budget.</p>
+            <p>In-depth reviews, comparisons, and tips covering the best {cat.name.toLowerCase()} for every skill level and budget.</p>
             <span class="sh-path-link">Explore {cat.name} &rarr;</span>
           </a>
         );
@@ -105,7 +105,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 <section class="sh-guides">
   <div class="container">
     <h2 class="sh-section-title animate-on-scroll">Most Popular Guides</h2>
-    <p class="sh-section-subtitle animate-on-scroll">Our readers' favorites &mdash; the posts people come back to again and again.</p>
+    <p class="sh-section-subtitle animate-on-scroll">The articles our readers keep coming back to, from gear roundups to shooting technique breakdowns.</p>
     <div class="sh-guides-groups">
 
       {/* Group 1: Top Picks — first 2 footer links */}
@@ -121,7 +121,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
           {siteConfig.categories.map(cat => (
             <a href={`/category/${cat.slug}`} class="sh-guide-item">
               <div class="sh-guide-item-title">Best {cat.name} of {new Date().getFullYear()}</div>
-              <div class="sh-guide-item-desc">Our top-tested {cat.name.toLowerCase()} picks across every type and budget.</div>
+              <div class="sh-guide-item-desc">Our top-rated {cat.name.toLowerCase()} picks for beginners and experienced archers alike.</div>
             </a>
           ))}
         </div>
@@ -140,7 +140,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
           {siteConfig.categories.slice(0, 2).map(cat => (
             <a href={`/category/${cat.slug}`} class="sh-guide-item">
               <div class="sh-guide-item-title">{cat.name} Reviews</div>
-              <div class="sh-guide-item-desc">Head-to-head comparisons of the top brands.</div>
+              <div class="sh-guide-item-desc">Side-by-side comparisons of the top archery brands and models.</div>
             </a>
           ))}
         </div>
@@ -152,12 +152,12 @@ const popularLinks = siteConfig.footerPopularLinks || [];
         <div class="sh-guide-list">
           <a href="/about" class="sh-guide-item">
             <div class="sh-guide-item-title">About {siteConfig.name}</div>
-            <div class="sh-guide-item-desc">Our mission, testing process, and the team behind the reviews.</div>
+            <div class="sh-guide-item-desc">How we evaluate archery gear and the story behind The Archery Expert.</div>
           </a>
           {siteConfig.categories.map(cat => (
             <a href={`/category/${cat.slug}`} class="sh-guide-item">
               <div class="sh-guide-item-title">{cat.name} Buying Guide</div>
-              <div class="sh-guide-item-desc">Everything you need to know about choosing the right {cat.name.toLowerCase()}.</div>
+              <div class="sh-guide-item-desc">A complete guide to choosing the right {cat.name.toLowerCase()} for your shooting style.</div>
             </a>
           ))}
           <a href="/contact" class="sh-guide-item">
