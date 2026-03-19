@@ -64,12 +64,12 @@ products:
       - "No mounting points for sights or accessories"
       - "30-40 lb draw weight may be too strong for young children"
     ctaUrl: "https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20"
-  - name: "TOP ARCHERY Traditional Recurve Bow 53''"
+  - name: "TOP ARCHERY Traditional Recurve Bow 53’’"
     rank: 2
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/41+7yjlflFL._SL500_.jpg"
-    description: "If you're looking for a traditional bow, look no further."
+    description: "If you’re looking for a traditional bow, look no further."
     highlights:
       - "Handmade Build"
       - "Leather Laminate"
@@ -81,7 +81,7 @@ products:
       - "53-inch length with a 28-inch draw provides solid traditional feel"
       - "Doubles as a rustic wall-mounted decoration piece"
     cons:
-      - "Arrows aren't included and must be purchased separately"
+      - "Arrows aren’t included and must be purchased separately"
       - "Some users report it wears down with daily heavy use"
     ctaUrl: "https://www.amazon.com/dp/B0722K6DY3?tag=thearcheryexpert-20"
   - name: "Feathered Indian Bow and Arrow Set"
@@ -109,7 +109,27 @@ products:
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg"
-    description: "If you love beautifully handcrafted archers with a touch of tradition, then you'll love KAINOKAI."
+    description: "If you love beautifully handcrafted archers with a touch of tradition, then you’ll love KAINOKAI."
+    highlights:
+      - "Native Art Style"
+      - "Faux Fur Wrap"
+      - "Ambidextrous"
+      - "40-50 lb Draw"
+    pros:
+      - "Beautifully crafted with brown faux fur and Native American-inspired design"
+      - "Designed for both left and right-hand users"
+      - "Elastic bow provides a generous draw length without snapping"
+      - "Available in draw weights from 40 to 50 lbs"
+    cons:
+      - "Only one arrow included, so you'll need to buy more separately"
+      - "More of a decorative piece than a dedicated LARP combat bow"
+    ctaUrl: "https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20"
+  - name: "Enrack Recurve Bow for Archery"
+    rank: 7
+    badge: "Budget Pick"
+    rating: 8.9
+    image: "https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg"
+    description: "This one is for archery lovers who love simply designed bows and arrows."
     highlights:
       - "Locust Wood Handle"
       - "Handcrafted Build"
@@ -123,13 +143,13 @@ products:
     cons:
       - "Not collapsible, which makes transportation more difficult"
       - "Longer length can be unwieldy in tight indoor LARP spaces"
-    ctaUrl: "https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20"
-  - name: "Enrack Recurve Bow for Archery"
-    rank: 7
-    badge: "Budget Pick"
-    rating: 8.9
-    image: "https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg"
-    description: "This one is for archery lovers who love simply designed bows and arrows."
+    ctaUrl: "https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20"
+  - name: "Rootmemory Bow And Arrow Archery"
+    rank: 8
+    badge: "Most Popular"
+    rating: 8.7
+    image: "https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg"
+    description: "If you’ve been withholding that game hunting expedition due to lack of proper gear, we’ve got you covered."
     highlights:
       - "Hardwood Riser"
       - "Waterproof Limbs"
@@ -143,13 +163,13 @@ products:
     cons:
       - "Right-hand use only, so lefty archers will need to look elsewhere"
       - "30-inch draw length may be short for taller adult archers"
-    ctaUrl: "https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20"
-  - name: "Rootmemory Bow And Arrow Archery"
-    rank: 8
-    badge: "Most Popular"
-    rating: 8.7
-    image: "https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg"
-    description: "If you've been withholding that game hunting expedition due to lack of proper gear, we've got you covered."
+    ctaUrl: "https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20"
+  - name: "Adventure Awaits! Handmade Wooden Bow and Arrow Set"
+    rank: 9
+    badge: "Best Design"
+    rating: 8.5
+    image: "https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg"
+    description: "If you’re looking for a lightweight but sturdy bow and arrow, Adventure Awaits! is your best option."
     highlights:
       - "6 Carbon Arrows"
       - "Hardwood Build"
@@ -163,26 +183,6 @@ products:
     cons:
       - "Right-hand design only with no left-hand option available"
       - "30-40 lb draw weight range limits versatility for advanced shooters"
-    ctaUrl: "https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20"
-  - name: "Adventure Awaits! Handmade Wooden Bow and Arrow Set"
-    rank: 9
-    badge: "Best Design"
-    rating: 8.5
-    image: "https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg"
-    description: "If you're looking for a lightweight but sturdy bow and arrow, Adventure Awaits! is your best option."
-    highlights:
-      - "Bamboo Build"
-      - "57 Inch Length"
-      - "Leather Grip"
-      - "30-60 lb Range"
-    pros:
-      - "Lightweight bamboo construction is easy to handle for all ages"
-      - "Supports a wide draw weight range from 30 to 60 lbs"
-      - "Comfortable leather-bound handle for extended shooting sessions"
-      - "Comes with 20 bamboo arrows, two quivers, and an arm guard"
-    cons:
-      - "Right-hand use only with no ambidextrous option"
-      - "Bamboo arrows aren't as durable as carbon or fiberglass options"
     ctaUrl: "https://www.amazon.com/dp/B07CCZ2CX6?tag=thearcheryexpert-20"
 ---
 

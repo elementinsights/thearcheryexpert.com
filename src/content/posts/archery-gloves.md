@@ -12,7 +12,7 @@ readTime: "13 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Archery Max Handmade Brown Leather 3 Finger Archery Gloves"
-  text: "Archery Max Handmade Brown Leather Three Finger Archery Glove's materials are cow leather and these gloves have outstanding sensitivity to the absolute feel of the string and these gloves have an adjustable Velcro wrist strap. Definitely, it helps keep your fingers from trouble when you are shooting your recurve bow."
+  text: "Archery Max Handmade Brown Leather Three Finger Archery Glove’s materials are cow leather and these gloves have outstanding sensitivity to the absolute feel of the string and these gloves have an adjustable Velcro wrist strap. Definitely, it helps keep your fingers from trouble when you are shooting your recurve bow."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B013XF5LAW?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/41qdHuwxqyL._SL500_.jpg"
-    description: "Archery Max Handmade Brown Leather Three Finger Archery Glove's materials are cow leather and these gloves have outstanding sensitivity to the absolute feel of the string and these gloves have an adjustable Velcro wrist strap."
+    description: "Archery Max Handmade Brown Leather Three Finger Archery Glove’s materials are cow leather and these gloves have outstanding sensitivity to the absolute feel of the string and these gloves have an adjustable Velcro wrist strap."
     highlights:
       - "Cow Leather"
       - "Velcro Wrist Strap"
@@ -75,7 +75,7 @@ products:
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/31sAB7e7MOL._SL500_.jpg"
-    description: "Coolrunner Archery Glove's material is made of quality thickened leather, also it breathable stretch knitted fabric, sewing is too good, very lightweight and it is durable."
+    description: "Coolrunner Archery Glove’s material is made of quality thickened leather, also it breathable stretch knitted fabric, sewing is too good, very lightweight and it is durable."
     highlights:
       - "Thickened Leather"
       - "Breathable Fabric"
@@ -85,7 +85,7 @@ products:
       - "Thickened leather with breathable knitted fabric backing"
       - "Non-slip finger design improves cushioning effect"
       - "Adjustable Velcro strap fits various hand sizes"
-      - "Very lightweight so you won't feel weighed down"
+      - "Very lightweight so you won’t feel weighed down"
     cons:
       - "Sizing can run a bit large for smaller hands"
       - "Leather pads may need breaking in before they soften"
@@ -127,7 +127,7 @@ products:
       - "Hook and loop fastener makes it easy to put on and remove"
       - "Soft leather stays comfortable during long shooting sessions"
     cons:
-      - "Wrist strap doesn't adjust enough for very large wrists"
+      - "Wrist strap doesn’t adjust enough for very large wrists"
       - "Finger coverage may feel short for archers with longer fingers"
     ctaUrl: "https://www.amazon.com/dp/B0C64D1VQ2?tag=thearcheryexpert-20"
   - name: "Damascus Doeskin Shooting Glove"
@@ -147,7 +147,7 @@ products:
       - "Reinforced fingertips hold up to repeated string contact"
       - "Velcro closure wrist strap keeps the fit snug"
     cons:
-      - "Thinner leather won't handle bows above 50 lb draw weight as well"
+      - "Thinner leather won’t handle bows above 50 lb draw weight as well"
       - "Full palm design can feel warm in hot weather"
     ctaUrl: "https://www.amazon.com/dp/B000P9WFF4?tag=thearcheryexpert-20"
   - name: "Toparchery Leather 2 Straps Arm Guard & 3 Finger Protective Gloves"
@@ -187,7 +187,7 @@ products:
       - "Soft leather gives a natural feel on the bowstring"
       - "Fits both men and women comfortably"
     cons:
-      - "Doesn't come in as many sizes as some competitors"
+      - "Doesn’t come in as many sizes as some competitors"
       - "Premium leather price point is higher than synthetic options"
     ctaUrl: "https://www.amazon.com/dp/B0097RGAWO?tag=thearcheryexpert-20"
   - name: "YJYWZH 1pc Archery Cowhide Finger Guard Protector Archery"
@@ -195,7 +195,7 @@ products:
     badge: "Most Durable"
     rating: 8.4
     image: "https://m.media-amazon.com/images/I/31DRjf3It0L._SL500_.jpg"
-    description: "The leather material finger tab has a double layers protector and it will protect the archer's thumb."
+    description: "The leather material finger tab has a double layers protector and it will protect the archer’s thumb."
     highlights:
       - "Double Layer Pad"
       - "Thumb Protection"
@@ -227,7 +227,7 @@ products:
       - "Thick cow leather fingertips absorb string pressure"
       - "Adjustable Velcro strap fits most hand sizes"
     cons:
-      - "Polyester body isn't as durable as full leather gloves"
+      - "Polyester body isn’t as durable as full leather gloves"
       - "Need to measure carefully as sizes run slightly off"
     ctaUrl: "https://www.amazon.com/dp/B07P627W23?tag=thearcheryexpert-20"
   - name: "Neet Suede Leather Archery Glove"

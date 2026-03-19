@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Huntingdoor Archery Traditional Recurve Mongolian Horse Bow"
-  text: "The Mongolians have the fiercest army in the ancient world. They're swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians' secrets in battle is their horsemen, particularly the horse bow infantry."
+  text: "The Mongolians have the fiercest army in the ancient world. They’re swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians’ secrets in battle is their horsemen, particularly the horse bow infantry."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B077QGH19V?tag=thearcheryexpert-20"
 toc:
@@ -95,7 +95,7 @@ products:
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg"
-    description: "Another bow of AF Archery that I'll be talking about is the AF Archery Horse Bow."
+    description: "Another bow of AF Archery that I’ll be talking about is the AF Archery Horse Bow."
     highlights:
       - "Crimean Tatar Style"
       - "Handcrafted"
@@ -235,7 +235,7 @@ products:
     badge: "Honorable Mention"
     rating: 8.0
     image: "https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg"
-    description: "If you're looking for an archery store with a long history, then you must visit Bear Archery."
+    description: "If you’re looking for an archery store with a long history, then you must visit Bear Archery."
     highlights:
       - "Bear Heritage"
       - "Satin Finish"

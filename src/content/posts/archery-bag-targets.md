@@ -67,7 +67,7 @@ products:
       - "Only 5 pounds with heavy-duty carry handle"
       - "Available in three sizes (20, 25, and 28 inch)"
     cons:
-      - "Can't withstand prolonged sun or rain exposure"
+      - "Can’t withstand prolonged sun or rain exposure"
       - "Not designed for broadhead use"
     ctaUrl: "#"
   - name: "Morrell Yellow Jacket Crossbow Target"
@@ -87,7 +87,7 @@ products:
       - "Grommets let you hang it from a tree for angled practice"
       - "One-hand arrow removal makes retrieval effortless"
     cons:
-      - "Weighs 30 pounds, so it's not the lightest option"
+      - "Weighs 30 pounds, so it’s not the lightest option"
       - "Needs support behind it when placed on the ground"
     ctaUrl: "#"
   - name: "Morrell Yellow Jacket Supreme 3"
@@ -115,7 +115,7 @@ products:
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/51qYkXC9VsL._SL500_.jpg"
-    description: "If you have just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn't rip apart in the center."
+    description: "If you have just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center."
     highlights:
       - "38-Layer Center"
       - "Waterproof Cover"
@@ -188,7 +188,7 @@ products:
       - "Full-size bullseyes on both sides with varied aiming dots"
     cons:
       - "Weighs 54 pounds, making it difficult to move around"
-      - "Large size won't fit in smaller indoor shooting spaces"
+      - "Large size won’t fit in smaller indoor shooting spaces"
     ctaUrl: "https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20"
   - name: "Field Logic Hurricane H21 Crossbow Archery Bag Target"
     rank: 8
@@ -208,7 +208,7 @@ products:
       - "Compact 21x15 inch size is ideal for indoor and close-range practice"
     cons:
       - "Smaller shooting surface limits long-range practice options"
-      - "At 30 pounds, it's heavier than the larger H25 model"
+      - "At 30 pounds, it’s heavier than the larger H25 model"
     ctaUrl: "https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20"
   - name: "Bulldog Targets Doghouse Field Point Archery Target Plus"
     rank: 9
@@ -247,7 +247,7 @@ products:
       - "7 medium and 3 small bullseyes offer varied aiming points"
       - "High contrast graphics are easy to acquire from long distances"
     cons:
-      - "Weighs 45 pounds, so it's meant to stay in one spot"
+      - "Weighs 45 pounds, so it’s meant to stay in one spot"
       - "Arrow removal requires more effort than lighter bag targets"
     ctaUrl: "https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20"
 ---

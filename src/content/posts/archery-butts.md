@@ -46,7 +46,7 @@ toc:
     href: "#history-of-archery-in-mesopotamia"
   - label: "Decline Of Archery & Development Of Firearms"
     href: "#decline-of-archery-development-of-firearms"
-  - label: "Best Archery Tips For You & The Don'ts"
+  - label: "Best Archery Tips For You & The Don’ts"
     href: "#best-archery-tips-for-you-the-donts"
   - label: "FAQ"
     href: "#faq"

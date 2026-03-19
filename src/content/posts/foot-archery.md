@@ -26,7 +26,7 @@ toc:
     href: "#upper-body-exercise-for-foot-archery"
   - label: "Lower Body Exercise For Foot Archery"
     href: "#lower-body-exercise-for-foot-archery"
-  - label: "Beginners' Foot Archery Set Buying Guidelines"
+  - label: "Beginners’ Foot Archery Set Buying Guidelines"
     href: "#beginners-foot-archery-set-buying-guidelines"
   - label: "Best Bows For Foot Archery Beginners"
     href: "#best-bows-for-foot-archery-beginners"

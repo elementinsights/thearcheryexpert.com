@@ -36,7 +36,7 @@ toc:
     href: "#step-10-get-strong"
   - label: "Step 11: Learn How to Perform Under Pressure"
     href: "#step-11-learn-how-to-perform-under-pressure"
-  - label: "Step 12: Don't Quit Your Day Job Just Yet"
+  - label: "Step 12: Don’t Quit Your Day Job Just Yet"
     href: "#step-12-dont-quit-your-day-job-just-yet"
   - label: "FAQ"
     href: "#faq"

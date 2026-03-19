@@ -215,7 +215,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg"
-    description: "This 7-pin bow sight is manufactured by "IQ Bowsight" just like the 5-pin Range Finding Sight."
+    description: "This 7-pin bow sight is manufactured by “IQ Bowsight” just like the 5-pin Range Finding Sight."
     highlights:
       - "Retina Lock Tech"
       - "7 Fiber Optic Pins"

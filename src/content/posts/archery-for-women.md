@@ -28,7 +28,7 @@ toc:
     href: "#what-to-prepare"
   - label: "Upgrades"
     href: "#upgrades"
-  - label: "Getting A Pro's Advice"
+  - label: "Getting A Pro’s Advice"
     href: "#getting-a-pros-advice"
   - label: "Joining Groups & Classes"
     href: "#joining-groups-classes"

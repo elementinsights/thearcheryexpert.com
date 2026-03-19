@@ -28,7 +28,7 @@ toc:
     href: "#4-iq-bowsights-7-pin-micro-bow-sight-premium-pick"
   - label: "5. TRUGLO Hyper-Strike Ultra-Light Long Range Bow Sight — Budget Pick"
     href: "#5-truglo-hyper-strike-ultra-light-long-range-bow-sight-budget-pick"
-  - label: "6. 7 Pins Compound Bow Sight. 019" — Most Popular"
+  - label: "6. 7 Pins Compound Bow Sight. 019” — Most Popular"
     href: "#6-7-pins-compound-bow-sight-019-most-popular"
   - label: "7. Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust — Best Design"
     href: "#7-archery-7-pin-bow-sight-0019-optical-fiber-micro-adjust-best-design"
@@ -152,25 +152,25 @@ products:
       - "Carbon composite frame isn't as rugged as full aluminum"
       - "Rotary light limited to 3 brightness positions"
     ctaUrl: "https://www.amazon.com/dp/B078J9Q77F?tag=thearcheryexpert-20"
-  - name: "7 Pins Compound Bow Sight. 019""
+  - name: “7 Pins Compound Bow Sight. 019””
     rank: 6
-    badge: "Most Popular"
+    badge: “Most Popular”
     rating: 8.8
-    image: "https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg"
-    description: "You can go for 7Pins Compound Bow Sight as it is one of the best options for you if you cannot spend a large amount of money or you are just starting."
+    image: “https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg”
+    description: “You can go for 7Pins Compound Bow Sight as it is one of the best options for you if you cannot spend a large amount of money or you are just starting.”
     highlights:
-      - "Starter Friendly"
-      - "LED Sight Light"
-      - "Steel Hardware"
-      - "Ambidextrous"
+      - “Starter Friendly”
+      - “LED Sight Light”
+      - “Steel Hardware”
+      - “Ambidextrous”
     pros:
-      - "Solid aluminum frame with stainless steel hardware for durability"
-      - "Detachable LED sight light with adjustable brightness"
-      - "Works for both left-handed and right-handed shooters"
-      - "One of the most affordable 7-pin sights on the market"
+      - “Solid aluminum frame with stainless steel hardware for durability”
+      - “Detachable LED sight light with adjustable brightness”
+      - “Works for both left-handed and right-handed shooters”
+      - “One of the most affordable 7-pin sights on the market”
     cons:
-      - "Basic feature set compared to premium models"
-      - "LED light requires separate battery replacement"
+      - “Basic feature set compared to premium models”
+      - “LED light requires separate battery replacement”
     ctaUrl: "https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20"
   - name: "Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust"
     rank: 7

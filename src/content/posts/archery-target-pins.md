@@ -95,7 +95,7 @@ products:
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg"
-    description: "Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins' minor problems with their galvanized steel body."
+    description: "Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins’ minor problems with their galvanized steel body."
     highlights:
       - "10-Pack Value"
       - "Easy Removal"
@@ -135,7 +135,7 @@ products:
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg"
-    description: "There aren't many target pins that can be used as both target pins and a point of aim for the shooter, so that is why we include BOBS Archery Target Face pins/Point of Aim Pins in this list."
+    description: "There aren’t many target pins that can be used as both target pins and a point of aim for the shooter, so that is why we include BOBS Archery Target Face pins/Point of Aim Pins in this list."
     highlights:
       - "Circular Design"
       - "Point of Aim"

@@ -34,7 +34,7 @@ toc:
     href: "#7-ogrmar-3-layers-20-inch-traditional-solid-straw-archery-target-best-design"
   - label: "8. Morrell Youth Field Point Bag Archery Target — Most Durable"
     href: "#8-morrell-youth-field-point-bag-archery-target-most-durable"
-  - label: "9. Block GenZ XL 20" Youth Archery Arrow Target — Best for Beginners"
+  - label: "9. Block GenZ XL 20” Youth Archery Arrow Target — Best for Beginners"
     href: "#9-block-genz-xl-20-youth-archery-arrow-target-best-for-beginners"
   - label: "10. Block Vault 4-Sided Archery Target with Polyfusion Technolog — Honorable Mention"
     href: "#10-block-vault-4-sided-archery-target-with-polyfusion-technology-honorable-mention"
@@ -210,7 +210,7 @@ products:
       - "Not a traditional straw target, so it has a different feel on arrow impact"
       - "Heavier than pure straw targets when you need to move it"
     ctaUrl: "https://www.amazon.com/dp/B001EY9QI8?tag=thearcheryexpert-20"
-  - name: "Block GenZ XL 20" Youth Archery Arrow Target"
+  - name: "Block GenZ XL 20” Youth Archery Arrow Target"
     rank: 9
     badge: "Best for Beginners"
     rating: 8.2

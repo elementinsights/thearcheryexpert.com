@@ -16,7 +16,7 @@ quickAnswer:
 toc:
   - label: "1. The Impact of Hand Grip Strength on the Target Shooting Accuracy Score"
     href: "#1-the-impact-of-hand-grip-strength-on-the-target-shooting-accuracy-score-for-archers-by-surreya-yonca-sezer"
-  - label: "2. Strength Training those "Archery Muscles" by Annette M. Musta"
+  - label: "2. Strength Training those “Archery Muscles” by Annette M. Musta"
     href: "#2-strength-training-those-archery-muscles-by-annette-m-musta"
   - label: "3. Specific Physical Training Handbook by Kisik Lee"
     href: "#3-specific-physical-training-handbook-by-kisik-lee"
@@ -42,7 +42,7 @@ quickFacts:
   - value: "#1"
     label: "The Impact of Hand Grip Strength on the Target Shooting Accuracy Score"
   - value: "#2"
-    label: "Strength Training those "Archery Muscles" by Annette M. Musta"
+    label: "Strength Training those “Archery Muscles” by Annette M. Musta"
   - value: "#3"
     label: "Specific Physical Training Handbook by Kisik Lee"
   - value: "#4"

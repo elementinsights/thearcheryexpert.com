@@ -60,12 +60,12 @@ products:
       - "Cow Split Leather"
       - "Sweat Resistant"
       - "Left-Hand Design"
-      - "Won't Crack"
+      - "Won’t Crack"
     pros:
       - "Smooth cow split leather is comfortable inside and out"
       - "Sweat-resistant surface keeps your hand dry during long sessions"
       - "Adjustable wrist strap accommodates different hand sizes"
-      - "Sturdy construction that doesn't crack under repeated stress"
+      - "Sturdy construction that doesn’t crack under repeated stress"
     cons:
       - "Feels stiff at first until the leather stretches and breaks in"
       - "Designed for the left hand only"
@@ -108,7 +108,7 @@ products:
       - "Backed by a 12-month warranty for peace of mind"
     cons:
       - "Runs slightly loose so check the size chart before ordering"
-      - "Nylon body isn't as durable as full leather options"
+      - "Nylon body isn’t as durable as full leather options"
     ctaUrl: "https://www.amazon.com/dp/B07HG6VMQ9?tag=thearcheryexpert-20"
   - name: "HUNTINGDOOR Archery Hand Guard"
     rank: 4
@@ -143,8 +143,8 @@ products:
       - "2 Color Options"
     pros:
       - "Handmade from quality cow leather with a stylish finish"
-      - "Soft feel that's also sweat-resistant for long shooting days"
-      - "Reinforced with rivets so it won't fracture over time"
+      - "Soft feel that’s also sweat-resistant for long shooting days"
+      - "Reinforced with rivets so it won’t fracture over time"
       - "Available in both black and brown colors"
     cons:
       - "Left-hand design only, no right-hand option"
@@ -155,7 +155,7 @@ products:
     badge: "Most Popular"
     rating: 8.8
     image: "https://m.media-amazon.com/images/I/41xsNWsb48L._SL500_.jpg"
-    description: "There are quite a lot of debates regarding the usage of Archery gloves as some archers don't feel the need to use gloves and consider it a mere accessory."
+    description: "There are quite a lot of debates regarding the usage of Archery gloves as some archers don’t feel the need to use gloves and consider it a mere accessory."
     highlights:
       - "Faux Leather"
       - "Money-Back Guarantee"
@@ -175,7 +175,7 @@ products:
     badge: "Best Design"
     rating: 8.6
     image: "https://m.media-amazon.com/images/I/31vkCPRPEyL._SL500_.jpg"
-    description: "If archery handguards were to participate at the Paris Fashion Week, we'd make way for the haute couture model, the HWZ Cowhide Archery handguard."
+    description: "If archery handguards were to participate at the Paris Fashion Week, we’d make way for the haute couture model, the HWZ Cowhide Archery handguard."
     highlights:
       - "Genuine Leather"
       - "Premium Finish"
@@ -195,7 +195,7 @@ products:
     badge: "Most Durable"
     rating: 8.4
     image: "https://m.media-amazon.com/images/I/41-juFaIRTL._SL500_.jpg"
-    description: "Here's another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand."
+    description: "Here’s another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand."
     highlights:
       - "Two-Finger Guard"
       - "Belt Fastener"
@@ -227,7 +227,7 @@ products:
       - "Elegant historic-style rivet design looks great"
       - "Protects against wear from feathered arrows"
     cons:
-      - "One-size approach won't fit very small or very large hands perfectly"
+      - "One-size approach won’t fit very small or very large hands perfectly"
       - "Leather quality is a step below pricier competitors"
     ctaUrl: "https://www.amazon.com/dp/B019YVTS1C?tag=thearcheryexpert-20"
   - name: "ARCHERYMAX Three-finger Archery Gloves"

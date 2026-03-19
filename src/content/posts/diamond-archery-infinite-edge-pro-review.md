@@ -33,7 +33,7 @@ toc:
     href: "#bow-design"
   - label: "Noise and Vibration"
     href: "#noise-and-vibration"
-  - label: "What's Included?"
+  - label: "What’s Included?"
     href: "#whats-included"
   - label: "The Power of the Compound"
     href: "#the-power-of-the-compound"

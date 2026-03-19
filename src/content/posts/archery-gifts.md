@@ -207,7 +207,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/511gVMVNcoL._SL500_.jpg"
-    description: "If your archer is a regular hunter, what is one thing that's going to help him when he is out there hunting in the wild? Camouflage cloth."
+    description: "If your archer is a regular hunter, what is one thing that’s going to help him when he is out there hunting in the wild? Camouflage cloth."
     highlights:
       - "5-Piece Suit"
       - "3D Leaf Camo"

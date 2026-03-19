@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Slap-Art Bowhunter Arrow Archery Shooting Bow Vinyl Decal Bumper Sticker"
-  text: "Slap-Art's design is on point - from their brand name itself, its visuals will slap the reality out of you in this decal type."
+  text: "Slap-Art’s design is on point - from their brand name itself, its visuals will slap the reality out of you in this decal type."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B00EXCHA2W?tag=thearcheryexpert-20"
 toc:
@@ -20,7 +20,7 @@ toc:
     href: "#quick-comparison-chart"
   - label: "1. Slap-Art Bowhunter Arrow Archery Shooting Bow Vinyl Decal Bu — Best Overall"
     href: "#1-slap-art-bowhunter-arrow-archery-shooting-bow-vinyl-decal-bumper-sticker-best-overall"
-  - label: "2. Decal Serpent's Archery Mom Sports Vinyl 6-Inch Decal — Runner Up"
+  - label: "2. Decal Serpent’s Archery Mom Sports Vinyl 6-Inch Decal — Runner Up"
     href: "#2-decal-serpents-archery-mom-sports-vinyl-6-inch-decal-runner-up"
   - label: "3. Mathews Archery Logo with Arrow - White Hunting Window Decal — Best Value"
     href: "#3-mathews-archery-logo-with-arrow-white-hunting-window-decal-sticker-best-value"
@@ -28,9 +28,9 @@ toc:
     href: "#4-d1062-silent-entry-deer-hunting-bowhunting-decal-for-truck-premium-pick"
   - label: "5. White Bowtech Logo Vinyl Decal Sticker — Budget Pick"
     href: "#5-white-bowtech-logo-vinyl-decal-sticker-budget-pick"
-  - label: "7. Duckits LLC's Arrow Minded Archery Decal Vinyl Sticker — Most Popular"
+  - label: "7. Duckits LLC’s Arrow Minded Archery Decal Vinyl Sticker — Most Popular"
     href: "#7-duckits-llcs-arrow-minded-archery-decal-vinyl-sticker-most-popular"
-  - label: "8. Graphecs' Archery Vinyl Decal Sticker Hunting Bow And Arrow  — Best Design"
+  - label: "8. Graphecs’ Archery Vinyl Decal Sticker Hunting Bow And Arrow  — Best Design"
     href: "#8-graphecs-archery-vinyl-decal-sticker-hunting-bow-and-arrow-woman-warrior-best-design"
   - label: "9. 3-Pack Addicted To Archery Vinyl Sticker Decal — Most Durable"
     href: "#9-3-pack-addicted-to-archery-vinyl-sticker-decal-most-durable"
@@ -53,7 +53,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/41X-5ngEOOL._SL500_.jpg"
-    description: "Slap-Art's design is on point - from their brand name itself, its visuals will slap the reality out of you in this decal type."
+    description: "Slap-Art’s design is on point - from their brand name itself, its visuals will slap the reality out of you in this decal type."
     highlights:
       - "Minimalist Design"
       - "Long-Lasting Vinyl"
@@ -67,7 +67,7 @@ products:
       - "Single color option limits customization"
       - "Smaller size may not stand out on larger vehicles"
     ctaUrl: "https://www.amazon.com/dp/B00EXCHA2W?tag=thearcheryexpert-20"
-  - name: "Decal Serpent's Archery Mom Sports Vinyl 6-Inch Decal"
+  - name: "Decal Serpent’s Archery Mom Sports Vinyl 6-Inch Decal"
     rank: 2
     badge: "Runner Up"
     rating: 9.5
@@ -143,7 +143,7 @@ products:
       - "Brand-specific appeal limits the audience"
       - "White color can yellow slightly over years of sun exposure"
     ctaUrl: "https://www.amazon.com/dp/B0D4QSBRMY?tag=thearcheryexpert-20"
-  - name: "Duckits LLC's Arrow Minded Archery Decal Vinyl Sticker"
+  - name: "Duckits LLC’s Arrow Minded Archery Decal Vinyl Sticker"
     rank: 7
     badge: "Most Popular"
     rating: 8.7
@@ -163,7 +163,7 @@ products:
       - "Deer-focused design may not appeal to target-only archers"
       - "Larger size may overwhelm smaller surfaces"
     ctaUrl: "https://www.amazon.com/dp/B082VNVJ2W?tag=thearcheryexpert-20"
-  - name: "Graphecs' Archery Vinyl Decal Sticker Hunting Bow And Arrow Woman Warrior"
+  - name: "Graphecs’ Archery Vinyl Decal Sticker Hunting Bow And Arrow Woman Warrior"
     rank: 8
     badge: "Best Design"
     rating: 8.5
@@ -206,7 +206,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.1
     image: "https://m.media-amazon.com/images/I/51vx1H9ma9L._SL500_.jpg"
-    description: "This piece from Red Clay Designs is an epitome of the line, "you don't need to be grand all the time to stand out" for its aesthetically pleasing look that is elegant enough to make things lively and adorable."
+    description: "This piece from Red Clay Designs is an epitome of the line, “you don’t need to be grand all the time to stand out” for its aesthetically pleasing look that is elegant enough to make things lively and adorable."
     highlights:
       - "Heart + Arrow Art"
       - "Teal Vinyl"

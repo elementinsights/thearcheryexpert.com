@@ -30,7 +30,7 @@ toc:
     href: "#types-of-bows-anchor-points"
   - label: "How To Maintain Consistency With Your Anchor Point"
     href: "#how-to-maintain-consistency-with-your-anchor-point"
-  - label: "How Can You Tell You're At The Right Anchor Point?"
+  - label: "How Can You Tell You’re At The Right Anchor Point?"
     href: "#how-can-you-tell-youre-at-the-right-anchor-point"
   - label: "FAQ"
     href: "#faq"

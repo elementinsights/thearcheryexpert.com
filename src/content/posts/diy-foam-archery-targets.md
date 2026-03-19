@@ -14,7 +14,7 @@ quickAnswer:
   title: "How To Make Your Own DIY Foam Archery Targets | 10 Steps"
   text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
 toc:
-  - label: "Step 1: Make a Shortlist of What You'll Need"
+  - label: "Step 1: Make a Shortlist of What You’ll Need"
     href: "#step-1-make-a-shortlist-of-what-youll-need"
   - label: "Step 2: Assembling the Foam"
     href: "#step-2-assembling-the-foam"

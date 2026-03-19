@@ -12,7 +12,7 @@ readTime: "12 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the M.SJUMPPER ARCHERY Arrows Vanes (51 Pack)"
-  text: "These vanes are made of flexible, soft plastic and can be quickly installed on arrow shafts. They're light, almost as light as a feather vane, and can therefore reduce drag in flight after arrow release."
+  text: "These vanes are made of flexible, soft plastic and can be quickly installed on arrow shafts. They’re light, almost as light as a feather vane, and can therefore reduce drag in flight after arrow release."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B081YTY2S9?tag=thearcheryexpert-20"
 toc:
@@ -30,7 +30,7 @@ toc:
     href: "#5-bohning-225-inch-best-arrow-vanes-for-accuracy-budget-pick"
   - label: "6. Q2i Fusion X-II  -  Best Light Weighted Arrow Vanes — Most Popular"
     href: "#6-q2i-fusion-x-ii-best-light-weighted-arrow-vanes-most-popular"
-  - label: "7. ISPORT 3" Archery Vanes  -  Best Carbon Arrow Vanes — Best Design"
+  - label: "7. ISPORT 3” Archery Vanes  -  Best Carbon Arrow Vanes — Best Design"
     href: "#7-isport-3-archery-vanes-best-carbon-arrow-vanes-best-design"
   - label: "8. Bohning Blazer Vanes Silver 100 pk. — Most Durable"
     href: "#8-bohning-blazer-vanes-silver-100-pk-most-durable"
@@ -165,7 +165,7 @@ products:
       - "Lightweight construction can be less forgiving in crosswinds"
       - "Limited availability in some local archery shops"
     ctaUrl: "https://www.amazon.com/dp/B00XXJ5RFS?tag=thearcheryexpert-20"
-  - name: "ISPORT 3" Archery Vanes  -  Best Carbon Arrow Vanes"
+  - name: "ISPORT 3” Archery Vanes  -  Best Carbon Arrow Vanes"
     rank: 7
     badge: "Best Design"
     rating: 8.6
@@ -189,7 +189,7 @@ products:
     badge: "Most Durable"
     rating: 8.4
     image: "https://m.media-amazon.com/images/I/21z1VYpOLdL._SL500_.jpg"
-    description: "We're back to talking about Bohning, a brand that has been established for 30 years and is very popular to this day."
+    description: "We’re back to talking about Bohning, a brand that has been established for 30 years and is very popular to this day."
     highlights:
       - "100 Pack Silver"
       - "30 Year Brand Trust"
@@ -208,7 +208,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/2188LbYA+fL._SL500_.jpg"
-    description: "The product's usual description is 2" X .6" in length and breadth."
+    description: "The product’s usual description is 2” X .6” in length and breadth."
     highlights:
       - "Tiger Stripe Pattern"
       - "100 Pack Green"

@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the XAegis Shooting Glasses with Case"
-  text: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you're still able to see the red laser light."
+  text: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you’re still able to see the red laser light."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20"
 toc:
@@ -53,7 +53,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/417gFKGig8L._SL500_.jpg"
-    description: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you're still able to see the red laser light."
+    description: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you’re still able to see the red laser light."
     highlights:
       - "UV Protection"
       - "Polycarbonate Lens"
@@ -65,7 +65,7 @@ products:
       - "Comes with a protective carrying case"
       - "Lightweight and comfortable for long range sessions"
     cons:
-      - "Clear lens doesn't reduce glare in bright sunlight"
+      - "Clear lens doesn’t reduce glare in bright sunlight"
       - "One-size design may not fit all face shapes perfectly"
     ctaUrl: "https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20"
   - name: "Smith & Wesson Major Full Frame Shooting Glasses"
@@ -113,7 +113,7 @@ products:
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/31HmXDoXEdL._SL500_.jpg"
-    description: "The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you'd wish."
+    description: "The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you’d wish."
     highlights:
       - "Anti-Fog Lens"
       - "Wraparound View"
@@ -125,7 +125,7 @@ products:
       - "Impact-resistant lens handles flying debris on the range"
       - "Distortion-free optics for accurate target sighting"
     cons:
-      - "Single clear lens doesn't help with bright glare"
+      - "Single clear lens doesn’t help with bright glare"
       - "Wraparound fit can feel tight on wider face shapes"
     ctaUrl: "https://www.amazon.com/dp/B0095I6GC4?tag=thearcheryexpert-20"
   - name: "Bertoni Shooting Glasses with 4 Interchangeable Lenses"
@@ -193,7 +193,7 @@ products:
     badge: "Most Durable"
     rating: 8.3
     image: "https://m.media-amazon.com/images/I/41+WK93FaML._SL500_.jpg"
-    description: "When looking for a decent and stylish product that is perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that's preferred and is most desirable for sharpshooters as it allows you to see farther and clearer."
+    description: "When looking for a decent and stylish product that is perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that’s preferred and is most desirable for sharpshooters as it allows you to see farther and clearer."
     highlights:
       - "Yellow Tint"
       - "Night Vision"
@@ -205,7 +205,7 @@ products:
       - "Stylish design you can wear off the range without looking out of place"
       - "Optical precision helps you see targets farther and clearer"
     cons:
-      - "Yellow tint isn't ideal for bright sunny conditions"
+      - "Yellow tint isn’t ideal for bright sunny conditions"
       - "Not rated for ballistic impact like dedicated safety glasses"
     ctaUrl: "https://www.amazon.com/dp/B06Y12NL7N?tag=thearcheryexpert-20"
   - name: "Howard Leight by Honeywell Genesis Sharp-Shooter Glasses"

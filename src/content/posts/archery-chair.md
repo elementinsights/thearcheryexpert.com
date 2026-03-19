@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Southwest Archery Shooter Stool"
-  text: "Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings. You'll have full confidence in its heavy-duty foldable chair that can hold an archer as heavy as 300 pounds. This detachable chair can be swapped left or right, depending on the need of the shooter."
+  text: "Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings. You’ll have full confidence in its heavy-duty foldable chair that can hold an archer as heavy as 300 pounds. This detachable chair can be swapped left or right, depending on the need of the shooter."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20"
 toc:

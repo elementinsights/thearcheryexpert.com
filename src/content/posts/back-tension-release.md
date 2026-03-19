@@ -155,7 +155,7 @@ products:
     badge: "Most Popular"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/417-hujlEBL._SL500_.jpg"
-    description: "Scott archery's longhorn hunter release is built for the hunter; you can take into the woods with confidence."
+    description: "Scott archery’s longhorn hunter release is built for the hunter; you can take into the woods with confidence."
     highlights:
       - "Hunter Oriented"
       - "Nylon Connector"

@@ -30,7 +30,7 @@ toc:
     href: "#7-joad-star-pins"
   - label: "8. Adult Star Pins"
     href: "#8-adult-star-pins"
-  - label: "9. " Doc" Counsilman Science Award"
+  - label: "9. “ Doc” Counsilman Science Award"
     href: "#9-doc-counsilman-science-award"
   - label: "10. Archery Sculpture Resin Trophy"
     href: "#10-archery-sculpture-resin-trophy"

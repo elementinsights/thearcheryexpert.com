@@ -30,7 +30,7 @@ toc:
     href: "#5-southland-archery-supply-explorer-metal-rise-takedown-recurve-bow-budget-pick"
   - label: "6. Samick Sage Takedown Recurve Bow — Most Popular"
     href: "#6-samick-sage-takedown-recurve-bow-most-popular"
-  - label: "7. SinoArt 68" Takedown Recurve Bow — Best Design"
+  - label: "7. SinoArt 68” Takedown Recurve Bow — Best Design"
     href: "#7-sinoart-68-takedown-recurve-bow-best-design"
   - label: "8. SinoArt Metal Riser Takedown Recurve Bow — Most Durable"
     href: "#8-sinoart-metal-riser-takedown-recurve-bow-most-durable"
@@ -170,7 +170,7 @@ products:
       - "Doesn't include accessories, so you'll need to buy a rest and string separately"
       - "Heavier riser may tire some archers during long practice sessions"
     ctaUrl: "https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20"
-  - name: "SinoArt 68" Takedown Recurve Bow"
+  - name: "SinoArt 68” Takedown Recurve Bow"
     rank: 7
     badge: "Best Design"
     rating: 8.6

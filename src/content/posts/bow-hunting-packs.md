@@ -12,7 +12,7 @@ readTime: "12 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Badlands Pursuit Hunting Backpack"
-  text: "The Badlands Pursuit Hunting Backpack is designed with Badlands' AirTrack technology. This technology puts channels into the foam suspension so that air can pass between your body and your Backpack. It also has a breathable mesh over the foam as another layer of comfort and ventilation."
+  text: "The Badlands Pursuit Hunting Backpack is designed with Badlands’ AirTrack technology. This technology puts channels into the foam suspension so that air can pass between your body and your Backpack. It also has a breathable mesh over the foam as another layer of comfort and ventilation."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B01B2E2YOW?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/51mlFbNJWpL._SL500_.jpg"
-    description: "The Badlands Pursuit Hunting Backpack is designed with Badlands' AirTrack technology."
+    description: "The Badlands Pursuit Hunting Backpack is designed with Badlands’ AirTrack technology."
     highlights:
       - "AirTrack Suspension"
       - "Waterproof Build"
@@ -235,7 +235,7 @@ products:
     badge: "Honorable Mention"
     rating: 8.0
     image: "https://m.media-amazon.com/images/I/51IP6Kab7yL._SL500_.jpg"
-    description: "This Insights' Hunting Backpack is dubbed the most comprehensive designed hunting backpack available."
+    description: "This Insights’ Hunting Backpack is dubbed the most comprehensive designed hunting backpack available."
     highlights:
       - "TS3 Front Panel"
       - "Bow Carrier"

@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Wooden Shop Youth Wooden Bow And Arrows"
-  text: "We've included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
+  text: "We’ve included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
-    description: "We've included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
+    description: "We’ve included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
     highlights:
       - "Youth Sized"
       - "Solid Wood"
@@ -135,7 +135,7 @@ products:
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
-    description: "If you're a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice."
+    description: "If you’re a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice."
     highlights:
       - "Laminated Build"
       - "Stable Platform"

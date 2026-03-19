@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Delta McKenzie Strutter Turkey"
-  text: "It's the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It's a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item."
+  text: "It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It’s a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/51tdw3Xlt9L._SL500_.jpg"
-    description: "It's the best target practice for those who love pursuing elusive wild turkeys with bows and arrows."
+    description: "It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows."
     highlights:
       - "Self-Healing Foam"
       - "Life-Size Turkey"
@@ -75,7 +75,7 @@ products:
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/312XJNx+7yL._SL500_.jpg"
-    description: "It's a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products."
+    description: "It’s a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products."
     highlights:
       - "Replaceable Core"
       - "48\" Tall Deer"
@@ -217,7 +217,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/41Ch4eytSKL._SL500_.jpg"
-    description: "This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club's member's economic competition."
+    description: "This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club’s member’s economic competition."
     highlights:
       - "UV Resistant"
       - "Dual-Side Core"
@@ -230,21 +230,21 @@ products:
       - "Lightweight at 7.78 kg for easy transport between locations"
     cons:
       - "Smaller 40-inch size may not simulate full-size deer well"
-      - "FlexFoam body isn't as durable as layered compression models"
+      - "FlexFoam body isn’t as durable as layered compression models"
     ctaUrl: "https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20"
   - name: "Rinehart Woodland Boar 3D Target"
     rank: 10
     badge: "Honorable Mention"
     rating: 8.0
     image: "https://m.media-amazon.com/images/I/41aJeEoDLoL._SL500_.jpg"
-    description: "It's a Reinhart Target's product that stands at 29 inches tall and 39 inches long."
+    description: "It’s a Reinhart Target’s product that stands at 29 inches tall and 39 inches long."
     highlights:
       - "Woodland Boar"
       - "Signature Foam"
       - "Locking Insert"
       - "IBO Scored"
     pros:
-      - "Rinehart's signature self-healing foam takes thousands of shots"
+      - "Rinehart’s signature self-healing foam takes thousands of shots"
       - "Locking insert core is simple to swap when worn out"
       - "IBO competition-grade scoring rings for serious practice"
       - "Realistic woodland boar shape for hog hunting preparation"

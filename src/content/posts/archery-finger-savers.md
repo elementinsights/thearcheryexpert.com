@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Hide & Drink Finger Protector"
-  text: "Let's start with the best-seller first, the right-handed archery finger tab. This a high-quality product of hiding & Drink, finely hand-cut and hand-stitched from rustic, durable, Full Grain Leather. The Full Grain leather is retrieved from the topmost layer of the hide that is the finest leather one could find."
+  text: "Let’s start with the best-seller first, the right-handed archery finger tab. This a high-quality product of hiding & Drink, finely hand-cut and hand-stitched from rustic, durable, Full Grain Leather. The Full Grain leather is retrieved from the topmost layer of the hide that is the finest leather one could find."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B07H11W38P?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/41rYskl8FcL._SL500_.jpg"
-    description: "Let's start with the best-seller first, the right-handed archery finger tab."
+    description: "Let’s start with the best-seller first, the right-handed archery finger tab."
     highlights:
       - "Full Grain Leather"
       - "Hand Stitched"
@@ -74,7 +74,7 @@ products:
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/31oZ9bpIrdL._SL500_.jpg"
-    description: "If you don't like the glove or the tab you could simply ditch them and go for the WOARCHERY Bowstring Finger Savers."
+    description: "If you don’t like the glove or the tab you could simply ditch them and go for the WOARCHERY Bowstring Finger Savers."
     highlights:
       - "String-Mount Design"
       - "No Glove Needed"
