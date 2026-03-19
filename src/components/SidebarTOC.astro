@@ -1,0 +1,117 @@
+---
+interface Props {
+  items: { label: string; href: string }[];
+}
+const { items } = Astro.props;
+---
+
+<div class="widget sidebar-toc expanded">
+  <h3 class="widget-title">Table of Contents</h3>
+  <nav class="sidebar-toc-list">
+    {items.map(item => (
+      <a href={item.href}>{item.label}</a>
+    ))}
+  </nav>
+</div>
+
+<script>
+  const tocWidget = document.querySelector('.sidebar-toc');
+  const tocTitle = tocWidget?.querySelector('.widget-title');
+  tocTitle?.addEventListener('click', () => {
+    tocWidget?.classList.toggle('expanded');
+  });
+
+  // Active link highlighting
+  const tocLinks = document.querySelectorAll('.sidebar-toc-list a');
+  const sections = Array.from(tocLinks).map(link => {
+    const href = link.getAttribute('href');
+    if (href && href.startsWith('#')) return document.getElementById(href.slice(1));
+    return null;
+  }).filter(Boolean);
+
+  let tocTicking = false;
+  window.addEventListener('scroll', () => {
+    if (!tocTicking) {
+      requestAnimationFrame(() => {
+        const scrollPos = window.scrollY + 100;
+        let activeIndex = 0;
+        sections.forEach((section, i) => {
+          if (section && (section as HTMLElement).offsetTop <= scrollPos) {
+            activeIndex = i;
+          }
+        });
+        tocLinks.forEach((link, i) => {
+          link.classList.toggle('active', i === activeIndex);
+        });
+        tocTicking = false;
+      });
+      tocTicking = true;
+    }
+  });
+</script>
+
+<style>
+  .sidebar-toc {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 14px 18px;
+  }
+  .sidebar-toc .widget-title {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    user-select: none;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 800;
+    transition: border-color 0.35s ease 0s, margin-bottom 0.35s ease, padding-bottom 0.35s ease;
+  }
+  .sidebar-toc.expanded .widget-title {
+    border-bottom-color: var(--accent);
+    margin-bottom: 12px;
+    padding-bottom: 10px;
+    transition: border-color 0s ease 0s, margin-bottom 0.35s ease, padding-bottom 0.35s ease;
+  }
+  .sidebar-toc .widget-title::after {
+    content: '';
+    width: 8px; height: 8px;
+    border-right: 2px solid var(--text-secondary);
+    border-bottom: 2px solid var(--text-secondary);
+    transform: rotate(45deg) translateY(-2px);
+    transition: transform 0.25s;
+    flex-shrink: 0;
+    margin-left: 10px;
+  }
+  .sidebar-toc.expanded .widget-title::after {
+    transform: rotate(-135deg) translateY(-2px);
+  }
+  .sidebar-toc-list {
+    display: flex; flex-direction: column; gap: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease;
+  }
+  .sidebar-toc.expanded .sidebar-toc-list {
+    max-height: 600px;
+  }
+  .sidebar-toc-list a {
+    display: block; font-size: 13px; font-weight: 500;
+    color: var(--text-secondary); padding: 8px 0 8px 14px;
+    border-left: 2px solid var(--border);
+    transition: color var(--transition), border-left-color var(--transition), background var(--transition);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .sidebar-toc-list a:hover { color: var(--accent); border-left-color: var(--accent); }
+  .sidebar-toc-list a.active {
+    color: var(--accent); font-weight: 700;
+    border-left-color: var(--accent);
+    background: var(--accent-light);
+    border-radius: 0 var(--radius) var(--radius) 0;
+  }
+</style>

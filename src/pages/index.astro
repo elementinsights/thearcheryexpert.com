@@ -1,0 +1,670 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SidebarAbout from '../components/SidebarAbout.astro';
+import SidebarStartHere from '../components/SidebarStartHere.astro';
+import SidebarPopular from '../components/SidebarPopular.astro';
+import { siteConfig } from '../../site.config';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const latestPosts = allPosts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf()).slice(0, 20);
+
+// Get article counts per category
+const categoryCounts: Record<string, number> = {};
+allPosts.forEach(p => {
+  const cat = p.data.category;
+  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+});
+
+// Explore posts (next 4 after latest)
+const explorePosts = latestPosts.slice(5, 9);
+
+const socialLinks = Object.values(siteConfig.social).filter(Boolean);
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": siteConfig.name,
+    "url": siteConfig.url,
+    "description": siteConfig.tagline,
+    "publisher": { "@id": `${siteConfig.url}/#organization` },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${siteConfig.url}/#organization`,
+    "name": siteConfig.name,
+    "url": siteConfig.url,
+    "description": siteConfig.tagline,
+    ...(socialLinks.length > 0 && { "sameAs": socialLinks }),
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": siteConfig.contactEmail,
+    },
+  },
+];
+---
+
+<BaseLayout title="Home" activeNav="home" schema={schema}>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-bg" style={`background-image: url(${siteConfig.heroImage})`}></div>
+    <div class="hero-content">
+      <div class="container">
+        <span class="hero-badge">Featured</span>
+        {latestPosts.length > 0 ? (
+          <h1 class="hero-title">
+            <a href={`/${latestPosts[0].id}/`}>{latestPosts[0].data.title}</a>
+          </h1>
+          <div class="hero-meta">
+            <span class="hero-meta-author">
+              <span class="hero-meta-avatar">{siteConfig.author.initial}</span>
+              {latestPosts[0].data.author || siteConfig.author.name}
+            </span>
+            <span class="hero-meta-dot"></span>
+            <span>{latestPosts[0].data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+            {latestPosts[0].data.readTime && (
+              <>
+                <span class="hero-meta-dot"></span>
+                <span>{latestPosts[0].data.readTime}</span>
+              </>
+            )}
+          </div>
+          <a href={`/${latestPosts[0].id}/`} class="hero-cta">
+            Read the Guide
+            <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        ) : (
+          <h1 class="hero-title">Welcome to {siteConfig.name}</h1>
+          <p style="color: rgba(255,255,255,0.7); font-size: 16px;">{siteConfig.tagline}</p>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <!-- TRENDING BAR -->
+  {latestPosts.length > 0 && (
+    <div class="trending-bar">
+      <div class="container trending-inner">
+        <span class="trending-label">
+          <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="5"/></svg>
+          Trending
+        </span>
+        <div class="trending-list">
+          <div class="trending-track">
+            {latestPosts.slice(0, 5).map(post => (
+              <a href={`/${post.id}/`}>{post.data.title}</a>
+            ))}
+            {latestPosts.slice(0, 5).map(post => (
+              <a href={`/${post.id}/`}>{post.data.title}</a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  )}
+
+  <!-- AS FEATURED IN -->
+  {siteConfig.featuredIn.length > 0 && (
+    <section class="featured-in animate-on-scroll">
+      <div class="container">
+        <div class="featured-in-inner">
+          <span class="featured-in-label">As Featured In</span>
+          <div class="featured-in-logos">
+            {siteConfig.featuredIn.map(name => (
+              <span class="featured-in-logo">{name}</span>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- CATEGORIES -->
+  <section class="categories-section">
+    <div class="container">
+      <div class="section-header animate-on-scroll">
+        <h2 class="section-title">Browse by Category</h2>
+        <p class="section-subtitle">Explore our most popular topics and find exactly what you're looking for.</p>
+      </div>
+      <div class="cat-grid">
+        {siteConfig.categories.map(cat => (
+          <a href={`/category/${cat.slug}/`} class="cat-card animate-on-scroll">
+            {cat.image && <img src={cat.image} alt={cat.name} loading="lazy" width="420" height="280" />}
+            <div class="cat-card-overlay">
+              <span class="cat-card-name">{cat.name}</span>
+              <span class="cat-card-count">{categoryCounts[cat.name] || 0} articles</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+
+  <!-- LATEST POSTS + SIDEBAR -->
+  <section class="latest-section">
+    <div class="container">
+      <div class="latest-layout">
+        <div class="latest-main">
+          <div class="latest-header">
+            <h2 class="latest-title">Latest Articles</h2>
+          </div>
+          {latestPosts.slice(0, 20).map((post, i) => (
+            <div class:list={['post-card', 'animate-on-scroll', { 'post-card-hidden': i >= 5 }]}>
+              {post.data.image && (
+                <a href={`/${post.id}/`} class="post-card-img">
+                  <img src={post.data.image} alt={post.data.imageAlt || post.data.title} loading="lazy" width="240" height="160" />
+                </a>
+              )}
+              <div class="post-card-body">
+                <span class="post-card-cat">{post.data.category}</span>
+                <h3 class="post-card-title"><a href={`/${post.id}/`}>{post.data.title}</a></h3>
+                <p class="post-card-excerpt">{post.data.description}</p>
+                <div class="post-card-meta">
+                  <span>{post.data.author || siteConfig.author.name}</span>
+                  <span>&bull;</span>
+                  <span>{post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+                  {post.data.readTime && (
+                    <>
+                      <span>&bull;</span>
+                      <span>{post.data.readTime}</span>
+                    </>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+          <div class="load-more-wrap">
+            <button class="load-more-btn" id="load-more-btn">Load More Articles</button>
+          </div>
+        </div>
+
+        <aside class="sidebar">
+          <SidebarAbout />
+          {siteConfig.startHere && siteConfig.startHere.length > 0 && (
+            <SidebarStartHere items={siteConfig.startHere} />
+          )}
+          <SidebarPopular
+            title="Most Popular"
+            posts={latestPosts.slice(0, 5).map(p => ({
+              title: p.data.title,
+              href: `/${p.id}/`,
+              date: p.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
+            }))}
+          />
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- EXPLORE MORE -->
+  {explorePosts.length > 0 && (
+    <section class="explore-section">
+      <div class="container">
+        <div class="section-header animate-on-scroll">
+          <h2 class="section-title">Explore More</h2>
+          <p class="section-subtitle">Dive deeper into our most popular guides and resources.</p>
+        </div>
+        <div class="explore-grid">
+          {explorePosts.map(post => (
+            <a href={`/${post.id}/`} class="explore-card animate-on-scroll">
+              {post.data.image && (
+                <div class="explore-card-img">
+                  <img src={post.data.image} alt={post.data.title} loading="lazy" width="280" height="160" />
+                </div>
+              )}
+              <div class="explore-card-body">
+                <div class="explore-card-cat">{post.data.category}</div>
+                <h3 class="explore-card-title">{post.data.title}</h3>
+                {post.data.readTime && (
+                  <div class="explore-card-meta">{post.data.readTime}</div>
+                )}
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  /* ============================================================
+     HERO
+     ============================================================ */
+  .hero {
+    position: relative;
+    min-height: 520px;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+    background: var(--bg-dark);
+  }
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    background: center/cover no-repeat;
+  }
+  .hero-bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.3) 50%, rgba(0,0,0,0.15) 100%);
+  }
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    padding: 60px 0;
+    width: 100%;
+  }
+  .hero-badge {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 5px 14px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+  }
+  .hero-title {
+    font-size: 2.8rem;
+    color: #fff;
+    margin-bottom: 16px;
+    max-width: 700px;
+    line-height: 1.15;
+  }
+  .hero-title a { color: #fff; }
+  .hero-title a:hover { color: rgba(255,255,255,0.85); }
+  .hero-meta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    color: rgba(255,255,255,0.7);
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+  .hero-meta-author {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    color: #fff;
+  }
+  .hero-meta-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: var(--accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 700;
+  }
+  .hero-meta-dot {
+    width: 4px;
+    height: 4px;
+    background: rgba(255,255,255,0.4);
+    border-radius: 50%;
+  }
+  .hero-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--accent);
+    color: #fff;
+    padding: 14px 28px;
+    border-radius: var(--radius);
+    font-size: 15px;
+    font-weight: 700;
+    transition: background var(--transition), transform var(--transition);
+  }
+  .hero-cta:hover {
+    background: var(--accent-hover);
+    color: #fff;
+    transform: translateY(-1px);
+  }
+  .hero-cta svg { transition: transform var(--transition); position: relative; top: 0.5px; }
+  .hero-cta:hover svg { transform: translateX(3px); }
+
+  /* ============================================================
+     TRENDING BAR
+     ============================================================ */
+  .trending-bar {
+    background: var(--bg-alt);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 0;
+  }
+  .trending-inner {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .trending-label {
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .trending-label svg { width: 16px; height: 16px; position: relative; top: -0.5px; }
+  .trending-list {
+    display: flex;
+    gap: 28px;
+    overflow: hidden;
+    flex: 1;
+    mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 5%, black 95%, transparent 100%);
+  }
+  .trending-track {
+    display: flex;
+    gap: 28px;
+    animation: trending-scroll 60s linear infinite;
+  }
+  .trending-list:hover .trending-track {
+    animation-play-state: paused;
+  }
+  @keyframes trending-scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  .trending-track a {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text);
+    white-space: nowrap;
+    transition: color var(--transition);
+  }
+  .trending-track a:hover { color: var(--accent); }
+
+  /* ============================================================
+     AS FEATURED IN
+     ============================================================ */
+  .featured-in {
+    padding: 35px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .featured-in-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+    flex-wrap: wrap;
+  }
+  .featured-in-label {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-light);
+    white-space: nowrap;
+  }
+  .featured-in-logos {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .featured-in-logo {
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--text-light);
+    opacity: 0.45;
+    transition: opacity var(--transition);
+    white-space: nowrap;
+    letter-spacing: -0.02em;
+  }
+  .featured-in-logo:hover { opacity: 0.7; }
+
+  /* ============================================================
+     CATEGORIES
+     ============================================================ */
+  .categories-section { padding: 55px 0 50px; }
+  .section-header { text-align: center; margin-bottom: 35px; }
+  .section-title { font-size: 1.8rem; margin-bottom: 8px; }
+  .section-subtitle {
+    font-size: 15px;
+    color: var(--text-secondary);
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  .cat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
+  .cat-card {
+    position: relative;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    aspect-ratio: 3 / 2;
+    cursor: pointer;
+    background: var(--bg-dark);
+  }
+  .cat-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  .cat-card:hover img { transform: scale(1.08); }
+  .cat-card-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.1) 60%);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 18px;
+    transition: background var(--transition);
+  }
+  .cat-card:hover .cat-card-overlay {
+    background: linear-gradient(to top, rgba(var(--accent-rgb),0.85) 0%, rgba(var(--accent-rgb),0.3) 60%);
+  }
+  .cat-card-name { color: #fff; font-size: 16px; font-weight: 700; }
+  .cat-card-count { color: rgba(255,255,255,0.7); font-size: 13px; }
+
+  /* ============================================================
+     LATEST POSTS + SIDEBAR
+     ============================================================ */
+  .latest-section { padding: 55px 0 60px; }
+  .latest-layout {
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 40px;
+    align-items: start;
+  }
+  .latest-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+  }
+  .latest-title { font-size: 1.5rem; }
+  .sidebar { display: flex; flex-direction: column; gap: 30px; }
+
+  /* Post card */
+  .post-card {
+    display: flex;
+    gap: 20px;
+    padding: 22px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .post-card:first-child { padding-top: 0; }
+  .post-card:last-child { border-bottom: none; }
+  .post-card-img {
+    flex-shrink: 0;
+    width: 240px;
+    height: 160px;
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .post-card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  .post-card:hover .post-card-img img { transform: scale(1.05); }
+  .post-card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .post-card-cat {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+    margin-bottom: 6px;
+  }
+  .post-card-title { font-size: 1.15rem; font-weight: 800; margin-bottom: 8px; line-height: 1.35; }
+  .post-card-title a { color: var(--text); }
+  .post-card-title a:hover { color: var(--accent); }
+  .post-card-excerpt {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.55;
+    margin-bottom: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .post-card-meta {
+    font-size: 13px;
+    color: var(--text-light);
+    display: flex;
+    gap: 12px;
+  }
+
+  .post-card-hidden { display: none; }
+
+  /* ============================================================
+     EXPLORE MORE
+     ============================================================ */
+  .explore-section {
+    padding: 55px 0 60px;
+    background: var(--bg-alt);
+  }
+  .explore-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+  .explore-card {
+    background: var(--bg);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow var(--transition), transform var(--transition);
+    display: block;
+    color: var(--text);
+  }
+  .explore-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-3px);
+    color: var(--text);
+  }
+  .explore-card-img {
+    height: 160px;
+    overflow: hidden;
+  }
+  .explore-card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  .explore-card:hover .explore-card-img img { transform: scale(1.05); }
+  .explore-card-body { padding: 18px 18px 20px; }
+  .explore-card-cat {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+    margin-bottom: 6px;
+  }
+  .explore-card-title {
+    font-size: 1rem;
+    font-weight: 800;
+    line-height: 1.35;
+    margin-bottom: 6px;
+  }
+  .explore-card-meta {
+    font-size: 12px;
+    color: var(--text-light);
+  }
+
+  /* ============================================================
+     LOAD MORE
+     ============================================================ */
+  .load-more-wrap { text-align: center; margin-top: 30px; }
+  .load-more-btn {
+    display: inline-block;
+    padding: 12px 36px;
+    border: 2px solid var(--accent);
+    color: var(--accent);
+    font-size: 14px;
+    font-weight: 700;
+    border-radius: var(--radius);
+    background: none;
+    cursor: pointer;
+    transition: all var(--transition);
+    text-decoration: none;
+  }
+  .load-more-btn:hover { background: var(--accent); color: #fff; }
+
+  /* ============================================================
+     RESPONSIVE
+     ============================================================ */
+  @media (max-width: 1024px) {
+    .latest-layout { grid-template-columns: 1fr; }
+    .explore-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 768px) {
+    .hero { min-height: 400px; }
+    .hero-title { font-size: 2rem; }
+    .cat-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+    .post-card { flex-direction: column; }
+    .post-card-img { width: 100%; height: 200px; }
+    .latest-header { flex-direction: column; align-items: flex-start; gap: 12px; }
+    .featured-in-logos { gap: 25px; }
+    .trending-inner { overflow-x: auto; }
+  }
+  @media (max-width: 480px) {
+    .hero { min-height: 360px; }
+    .hero-title { font-size: 1.65rem; }
+    .hero-content { padding: 40px 0; }
+    .cat-grid { grid-template-columns: 1fr; gap: 10px; }
+    .section-title { font-size: 1.5rem; }
+    .featured-in-logo { font-size: 16px; }
+    .explore-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<script>
+  const btn = document.getElementById('load-more-btn');
+  if (btn) {
+    btn.addEventListener('click', () => {
+      const hidden = document.querySelectorAll('.post-card-hidden');
+      hidden.forEach(el => el.classList.remove('post-card-hidden'));
+      btn.style.display = 'none';
+    });
+  }
+</script>

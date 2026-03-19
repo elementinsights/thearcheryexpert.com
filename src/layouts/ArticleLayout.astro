@@ -1,0 +1,105 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  activeNav?: string;
+  schema?: object | object[];
+}
+
+const { title, description, image, activeNav, schema } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} image={image} activeNav={activeNav} schema={schema} isArticle={true}>
+  <slot name="head" slot="head" />
+
+  <div class="article-wrapper">
+    <div class="article-container">
+      <div class="article-layout">
+        <article class="article-main">
+          <slot />
+        </article>
+        <aside class="sidebar">
+          <div class="sidebar-spacer"></div>
+          <div class="sidebar-sticky">
+            <slot name="sidebar" />
+          </div>
+        </aside>
+      </div>
+    </div>
+  </div>
+  <slot name="after-article" />
+</BaseLayout>
+
+<script is:inline>
+(function() {
+  var sidebar = document.querySelector('.sidebar-sticky');
+  var spacer = document.querySelector('.sidebar-spacer');
+  var articleTitle = document.querySelector('.article-title');
+  if (!sidebar || !spacer || !articleTitle) return;
+
+  function calc() {
+    if (window.innerWidth <= 1024) {
+      spacer.style.height = '';
+      sidebar.style.top = '';
+      return;
+    }
+    var layout = document.querySelector('.article-layout');
+    spacer.style.height = (articleTitle.offsetTop - layout.offsetTop) + 'px';
+
+    var padding = 20;
+    var sidebarH = sidebar.offsetHeight;
+    var viewportH = window.innerHeight;
+    if (sidebarH > viewportH - padding) {
+      sidebar.style.top = -(sidebarH - viewportH + padding) + 'px';
+    } else {
+      sidebar.style.top = padding + 'px';
+    }
+  }
+
+  calc();
+  window.addEventListener('load', calc);
+  window.addEventListener('resize', calc);
+})();
+</script>
+
+<style is:global>
+  :root { --container: 1122px; }
+</style>
+
+<style>
+  .article-wrapper {
+    padding-bottom: 60px;
+  }
+  .article-container {
+    max-width: 1122px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .article-layout {
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 32px;
+    min-width: 0;
+  }
+  .article-main {
+    min-width: 0;
+  }
+  .sidebar-sticky {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    position: sticky;
+    top: 20px;
+  }
+  @media (max-width: 1024px) {
+    .article-layout {
+      grid-template-columns: 1fr;
+    }
+    .sidebar {
+      display: none;
+    }
+  }
+</style>

@@ -1,0 +1,74 @@
+---
+interface Props {
+  winner: { name: string; image: string; rating: string; score: string; ctaUrl: string };
+  loser: { name: string; image: string; rating: string; score: string; ctaUrl: string };
+  summary: string;
+}
+const { winner, loser, summary } = Astro.props;
+
+function renderStars(ratingStr: string): string {
+  const val = parseFloat(ratingStr) / 2;
+  const rounded = Math.round(val * 2) / 2;
+  const full = Math.floor(rounded);
+  const half = rounded > full ? 1 : 0;
+  const empty = 5 - full - half;
+  return '★'.repeat(full) + (half ? '<span class="star-half">☆</span>' : '') + '☆'.repeat(empty);
+}
+---
+
+<div class="widget sidebar-verdict">
+
+  <h3 class="widget-title">Quick Verdict</h3>
+  <div class="verdict-winner">
+    <div class="verdict-badge">Winner</div>
+    <a href={winner.ctaUrl} class="verdict-winner-img" target="_blank" rel="nofollow sponsored">
+      <img src={winner.image} alt={winner.name} loading="lazy" />
+    </a>
+    <div class="verdict-winner-name">{winner.name}</div>
+    <div class="verdict-winner-rating"><span class="stars" set:html={renderStars(winner.rating)} /> <span class="rating-text">{winner.rating}</span></div>
+    <div class="verdict-winner-score">Our Rating: {winner.score}</div>
+    <a href={winner.ctaUrl} class="verdict-cta" rel="nofollow sponsored" target="_blank">Check Price</a>
+  </div>
+  <div class="verdict-divider">vs.</div>
+  <div class="verdict-loser">
+    <a href={loser.ctaUrl} class="verdict-loser-img" target="_blank" rel="nofollow sponsored">
+      <img src={loser.image} alt={loser.name} loading="lazy" />
+    </a>
+    <div class="verdict-loser-name">{loser.name}</div>
+    <div class="verdict-loser-rating"><span class="stars" set:html={renderStars(loser.rating)} /> <span class="rating-text">{loser.rating}</span></div>
+    <div class="verdict-loser-score">Our Rating: {loser.score}</div>
+    <a href={loser.ctaUrl} class="verdict-cta" rel="nofollow sponsored" target="_blank">Check Price</a>
+  </div>
+  <div class="verdict-summary">
+    <p>{summary}</p>
+  </div>
+</div>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--accent);
+    display: block;
+  }
+  .stars { color: #f59e0b; }
+  .star-half {
+    position: relative;
+    display: inline-block;
+  }
+  .star-half::before {
+    content: '★';
+    position: absolute;
+    left: 0;
+    width: 50%;
+    overflow: hidden;
+  }
+</style>

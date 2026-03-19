@@ -1,0 +1,94 @@
+---
+interface Props {
+  items: {
+    label: string;
+    href: string;
+    readTime?: string;
+  }[];
+}
+
+const { items } = Astro.props;
+---
+
+<div class="widget sidebar-chapters">
+  <h3 class="widget-title">Chapter Guide</h3>
+  <div class="chapter-list">
+    {items.map((item, i) => (
+      <a href={item.href} class="chapter-item">
+        <div class="chapter-num">{String(i + 1).padStart(2, '0')}</div>
+        <div class="chapter-info">
+          <div class="chapter-name">{item.label}</div>
+          {item.readTime && <div class="chapter-read">{item.readTime}</div>}
+        </div>
+      </a>
+    ))}
+  </div>
+</div>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--accent);
+    display: block;
+  }
+  .chapter-list {
+    display: flex;
+    flex-direction: column;
+  }
+  .chapter-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    transition: all var(--transition);
+  }
+  .chapter-item:first-child { padding-top: 0; }
+  .chapter-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .chapter-item:hover { padding-left: 6px; }
+  .chapter-num {
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: 2px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    color: var(--text-light);
+    transition: all var(--transition);
+  }
+  .chapter-item:hover .chapter-num {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-light);
+  }
+  .chapter-item.active .chapter-num {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .chapter-name {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text);
+  }
+  .chapter-item:hover .chapter-name { color: var(--accent); }
+  .chapter-read {
+    font-size: 11px;
+    color: var(--text-light);
+    margin-top: 1px;
+  }
+</style>

@@ -1,0 +1,234 @@
+---
+// Sticky bottom bar for mobile only — shows the #1 product on roundup posts.
+// Scrapes #1 product data from the DOM since product cards are raw HTML in markdown.
+---
+
+<div class="sticky-product-bar" id="sticky-product-bar" aria-hidden="true">
+  <div class="sticky-product-inner">
+    <div class="sticky-product-left">
+      <div class="sticky-product-rank">#1</div>
+      <img class="sticky-product-img" id="sticky-product-img" src="" alt="" width="48" height="48" />
+      <div class="sticky-product-info">
+        <div class="sticky-product-label">Our Top Pick</div>
+        <div class="sticky-product-name" id="sticky-product-name"></div>
+      </div>
+    </div>
+    <a class="sticky-product-cta" id="sticky-product-cta" href="#" target="_blank" rel="nofollow sponsored">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 01-8 0"/></svg>
+      Check Price
+    </a>
+  </div>
+</div>
+
+<script>
+  const bar = document.getElementById('sticky-product-bar');
+  const barImg = document.getElementById('sticky-product-img') as HTMLImageElement;
+  const barName = document.getElementById('sticky-product-name');
+  const barCta = document.getElementById('sticky-product-cta') as HTMLAnchorElement;
+  const cards = document.querySelectorAll('.product-card');
+
+  if (bar && barImg && barName && barCta && cards.length > 0) {
+    // Find the #1 product card (first one on the page)
+    const topCard = cards[0];
+    const nameEl = topCard.querySelector('.product-card-name');
+    const imgEl = topCard.querySelector('.product-card-img img') as HTMLImageElement | null;
+    const ctaEl = topCard.querySelector('.product-card-cta') as HTMLAnchorElement | null;
+
+    // Populate the bar once with #1 product data
+    barName.textContent = nameEl?.textContent?.trim() || '';
+    barCta.href = ctaEl?.href || '#';
+    if (imgEl?.src) {
+      barImg.src = imgEl.src;
+      barImg.alt = nameEl?.textContent?.trim() || '';
+    } else {
+      barImg.style.display = 'none';
+    }
+
+    let barVisible = false;
+
+    function showBar() {
+      if (!barVisible && window.innerWidth <= 768) {
+        bar!.classList.add('visible');
+        bar!.setAttribute('aria-hidden', 'false');
+        barVisible = true;
+      }
+    }
+
+    function hideBar() {
+      if (barVisible) {
+        bar!.classList.remove('visible');
+        bar!.setAttribute('aria-hidden', 'true');
+        barVisible = false;
+      }
+    }
+
+    // Show bar once user scrolls past the first product card
+    const observer = new IntersectionObserver((entries) => {
+      for (const entry of entries) {
+        if (!entry.isIntersecting && entry.boundingClientRect.top < 0) {
+          showBar();
+        }
+      }
+    }, { threshold: 0 });
+    observer.observe(topCard);
+
+    // Hide when scrolled back above the first product card
+    let ticking = false;
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          if (topCard.getBoundingClientRect().top > 0) {
+            hideBar();
+          }
+          if (window.innerWidth > 768) {
+            hideBar();
+          }
+          ticking = false;
+        });
+        ticking = true;
+      }
+    });
+
+    window.addEventListener('resize', () => {
+      if (window.innerWidth > 768) hideBar();
+    });
+  }
+</script>
+
+<style>
+  /* Hidden on desktop entirely */
+  @media (min-width: 769px) {
+    .sticky-product-bar { display: none !important; }
+  }
+
+  .sticky-product-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 900;
+    background: var(--bg);
+    border-top: 1px solid var(--border);
+    box-shadow: 0 -2px 16px rgba(0, 0, 0, 0.08), 0 -8px 32px rgba(0, 0, 0, 0.04);
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom, 0px)) 16px;
+    transform: translateY(100%);
+    transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+    pointer-events: none;
+  }
+  .sticky-product-bar.visible {
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+  .sticky-product-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .sticky-product-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    min-width: 0;
+  }
+  .sticky-product-rank {
+    background: var(--accent);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 800;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: 0 2px 6px rgba(var(--accent-rgb), 0.35);
+  }
+  .sticky-product-img {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+    object-fit: contain;
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    flex-shrink: 0;
+    padding: 3px;
+  }
+  .sticky-product-info {
+    flex: 1;
+    min-width: 0;
+  }
+  .sticky-product-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin-bottom: 1px;
+  }
+  .sticky-product-name {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.3;
+  }
+  .sticky-product-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--accent);
+    color: #fff !important;
+    padding: 11px 18px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: background 0.2s ease, transform 0.2s ease;
+    text-decoration: none !important;
+    box-shadow: 0 2px 8px rgba(var(--accent-rgb), 0.3);
+  }
+  .sticky-product-cta:hover {
+    background: var(--accent-hover);
+    color: #fff !important;
+    transform: scale(1.02);
+  }
+  .sticky-product-cta:active {
+    transform: scale(0.98);
+  }
+  .sticky-product-cta svg {
+    flex-shrink: 0;
+  }
+
+  /* Small phones */
+  @media (max-width: 380px) {
+    .sticky-product-rank {
+      width: 24px;
+      height: 24px;
+      font-size: 10px;
+    }
+    .sticky-product-img {
+      width: 38px;
+      height: 38px;
+    }
+    .sticky-product-name {
+      font-size: 12px;
+    }
+    .sticky-product-cta {
+      padding: 10px 14px;
+      font-size: 13px;
+    }
+  }
+
+  :global(.dark) .sticky-product-bar {
+    box-shadow: 0 -2px 16px rgba(0, 0, 0, 0.2), 0 -8px 32px rgba(0, 0, 0, 0.15);
+  }
+  :global(.dark) .sticky-product-cta {
+    box-shadow: 0 2px 8px rgba(var(--accent-rgb), 0.2);
+  }
+</style>

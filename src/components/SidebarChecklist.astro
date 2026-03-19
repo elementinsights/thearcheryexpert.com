@@ -1,0 +1,76 @@
+---
+interface Props {
+  sections: {
+    heading: string;
+    items: string[];
+  }[];
+}
+
+const { sections } = Astro.props;
+---
+
+<div class="widget sidebar-checklist">
+  <h3 class="widget-title">What You'll Need</h3>
+  {sections.map(section => (
+    <div class="checklist-section">
+      <h4 class="checklist-heading">{section.heading}</h4>
+      {section.items.map(item => (
+        <label class="checklist-item">
+          <input type="checkbox" />
+          <span>{item}</span>
+        </label>
+      ))}
+    </div>
+  ))}
+</div>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--accent);
+    display: block;
+  }
+  .checklist-section { margin-bottom: 16px; }
+  .checklist-section:last-child { margin-bottom: 0; }
+  .checklist-heading {
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+  .checklist-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 7px 0;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--text-secondary);
+    border-bottom: 1px solid var(--border);
+    transition: color var(--transition);
+  }
+  .checklist-item:last-child { border-bottom: none; }
+  .checklist-item:hover { color: var(--text); }
+  .checklist-item input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    accent-color: var(--accent);
+    cursor: pointer;
+  }
+  .checklist-item input:checked + span {
+    text-decoration: line-through;
+    color: var(--text-light);
+  }
+</style>

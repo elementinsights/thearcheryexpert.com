@@ -1,0 +1,90 @@
+---
+interface Props {
+  items: {
+    title: string;
+    subtitle: string;
+    href: string;
+  }[];
+}
+
+const { items } = Astro.props;
+---
+
+<div class="widget widget-start-here">
+  <h3 class="widget-title">Start Here</h3>
+  <div class="widget-start-here-list">
+    {items.map((item, i) => (
+      <a href={item.href} class="start-here-link">
+        <span class="start-here-icon">{i + 1}</span>
+        <span class="start-here-text">
+          {item.title}
+          <small>{item.subtitle}</small>
+        </span>
+      </a>
+    ))}
+  </div>
+</div>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 18px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--accent);
+    display: inline-block;
+  }
+  .widget-start-here {
+    background: var(--accent-light);
+    border-color: var(--accent);
+  }
+  .widget-start-here-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .start-here-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    color: var(--text);
+    transition: color var(--transition);
+    text-decoration: none;
+  }
+  .start-here-link:last-child { border-bottom: none; padding-bottom: 0; }
+  .start-here-link:first-child { padding-top: 0; }
+  .start-here-link:hover { color: var(--accent); }
+  .start-here-icon {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: var(--radius);
+    background: var(--accent);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 800;
+  }
+  .start-here-text {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+  .start-here-text small {
+    display: block;
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--text-secondary);
+    margin-top: 2px;
+  }
+</style>

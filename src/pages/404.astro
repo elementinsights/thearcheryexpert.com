@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteConfig } from '../../site.config';
+
+export const prerender = true;
+---
+
+<BaseLayout title="Page Not Found">
+  <section class="not-found">
+    <div class="not-found-inner">
+      <span class="not-found-code">404</span>
+      <h1>Page Not Found</h1>
+      <p>The page you're looking for doesn't exist or has been moved.</p>
+      <a href="/" class="not-found-btn">Back to Homepage</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .not-found {
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  .not-found-inner {
+    max-width: 500px;
+  }
+  .not-found-code {
+    font-size: 6rem;
+    font-weight: 900;
+    color: var(--accent);
+    line-height: 1;
+    display: block;
+    margin-bottom: 10px;
+  }
+  .not-found h1 {
+    font-size: 1.8rem;
+    margin-bottom: 12px;
+  }
+  .not-found p {
+    color: var(--text-secondary);
+    font-size: 17px;
+    margin-bottom: 30px;
+    line-height: 1.6;
+  }
+  .not-found-btn {
+    display: inline-block;
+    padding: 14px 32px;
+    background: var(--accent);
+    color: #fff;
+    border-radius: var(--radius);
+    font-weight: 700;
+    font-size: 15px;
+    transition: background var(--transition);
+  }
+  .not-found-btn:hover {
+    background: var(--accent-hover);
+    color: #fff;
+  }
+</style>

@@ -1,0 +1,225 @@
+---
+import LegalLayout from '../layouts/LegalLayout.astro';
+import { siteConfig } from '../../site.config';
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Terms of Service",
+  "description": `${siteConfig.name}'s terms of service governing the use of our website.`,
+  "url": `${siteConfig.url}/terms`,
+  "isPartOf": { "@type": "WebSite", "name": siteConfig.name, "url": siteConfig.url }
+};
+---
+
+<LegalLayout
+  title="Terms of Service"
+  description={`${siteConfig.name}'s terms of service governing the use of our website.`}
+  lastUpdated="March 11, 2026"
+  schema={schema}
+>
+
+<!-- 1. ACCEPTANCE OF TERMS -->
+<h2>1. Acceptance of Terms</h2>
+<p>Welcome to {siteConfig.name} ("we," "us," "our," or the "Site"). By accessing, browsing, or using this website in any manner, you ("you," "your," or "user") acknowledge that you have read, understood, and agree to be bound by these Terms of Service ("Terms"), our <a href="/privacy-policy">Privacy Policy</a>, and our <a href="/disclosure">Disclosure Policy</a>, all of which are incorporated herein by reference. If you do not agree to all of these Terms, you must immediately cease using the Site.</p>
+<p>You represent and warrant that you are at least thirteen (13) years of age, or at least sixteen (16) years of age if you reside in the European Economic Area (EEA), and that you possess the legal right, capacity, and authority to agree to and be bound by these Terms. If you are accessing or using the Site on behalf of a company, organization, or other legal entity, you represent and warrant that you have the authority to bind that entity to these Terms, and references to "you" and "your" shall include both you and such entity.</p>
+<p>Your continued use of the Site following the posting of any changes to these Terms constitutes your acceptance of those changes. We reserve the right, in our sole discretion, to deny access to the Site to anyone, at any time, for any reason.</p>
+
+<!-- 2. DESCRIPTION OF SERVICE -->
+<h2>2. Description of Service</h2>
+<p>{siteConfig.name} is an informational content website that publishes blog posts, articles, guides, reviews, tutorials, and other editorial content for general informational and educational purposes only. The Site may also feature user comments, affiliate links to third-party products and services, advertising, sponsored content, and email newsletters.</p>
+<p>The content on this Site is NOT professional advice of any kind. Nothing on this Site should be construed as financial, investment, tax, legal, medical, health, psychological, or any other form of professional advice. All content is provided solely for informational purposes and should not be relied upon as a substitute for consultation with a qualified professional in the relevant field.</p>
+<p>We do not guarantee the availability, uptime, performance, or uninterrupted operation of the Site. The Site, its features, and its content may be modified, suspended, or discontinued at any time without notice.</p>
+
+<!-- 3. USE OF THE SITE -->
+<h2>3. Use of the Site</h2>
+<p>You agree to use the Site only for lawful purposes and in accordance with these Terms. You are solely responsible for your conduct while using the Site.</p>
+<p>You expressly agree NOT to:</p>
+<ul>
+  <li>Use the Site in any way that violates any applicable federal, state, local, or international law or regulation, including but not limited to laws regarding the export of data or software, patent, trademark, trade secret, copyright, or other intellectual property laws</li>
+  <li>Send, knowingly receive, upload, download, use, or re-use any material that does not comply with these Terms</li>
+  <li>Transmit, or procure the sending of, any advertising or promotional material without our prior written consent, including any "junk mail," "chain letter," "spam," or any other similar solicitation</li>
+  <li>Impersonate or attempt to impersonate {siteConfig.name}, a {siteConfig.name} employee, another user, or any other person or entity, including by using email addresses or screen names associated with any of the foregoing</li>
+  <li>Engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Site, or which, as determined by us, may harm {siteConfig.name} or users of the Site, or expose them to liability</li>
+  <li>Use the Site in any manner that could disable, overburden, damage, impair, or interfere with any other party's use of the Site, including their ability to engage in real-time activities through the Site</li>
+  <li>Use any robot, spider, crawler, scraper, or other automated means or interface not provided by us to access the Site or to extract, collect, harvest, or gather data or content from the Site</li>
+  <li>Attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of the Site, the server on which the Site is stored, or any server, computer, or database connected to the Site</li>
+  <li>Introduce any viruses, Trojan horses, worms, logic bombs, ransomware, keyloggers, rootkits, or other material that is malicious or technologically harmful</li>
+  <li>Attack the Site via a denial-of-service attack, distributed denial-of-service attack, or any other method designed to disrupt the Site's availability</li>
+  <li>Attempt to circumvent, disable, or otherwise interfere with any security-related features of the Site, including features that prevent or restrict the use or copying of any content or that enforce limitations on use</li>
+  <li>Harvest, collect, gather, or assemble information or data regarding other users, including email addresses, without their explicit consent</li>
+  <li>Create derivative works based on, or otherwise reproduce, redistribute, publicly display, publicly perform, republish, download, store, or transmit any of the content on the Site, except as expressly permitted in these Terms</li>
+  <li>Frame, mirror, or otherwise incorporate the Site or any portion thereof into any other website, application, or service without our prior written authorization</li>
+  <li>Reverse-engineer, decompile, disassemble, or otherwise attempt to derive the source code, underlying algorithms, or structure of any software or technology used on or in connection with the Site</li>
+  <li>Use the Site or any content obtained from the Site for any commercial purpose not expressly permitted by us</li>
+  <li>Otherwise attempt to interfere with the proper working of the Site</li>
+</ul>
+
+<!-- 4. INTELLECTUAL PROPERTY RIGHTS -->
+<h2>4. Intellectual Property Rights</h2>
+<p>The Site and its entire contents, features, and functionality, including but not limited to all text, articles, graphics, photographs, illustrations, images, icons, logos, page headers, button icons, software, audio clips, video clips, digital downloads, data compilations, code, designs, layouts, and the selection and arrangement thereof, are owned by {siteConfig.name}, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.</p>
+<p>The {siteConfig.name} name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of {siteConfig.name} or its affiliates or licensors. You must not use such marks without our prior written permission. All other names, logos, product and service names, designs, and slogans on this Site are the trademarks of their respective owners.</p>
+<p>Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Site and to view, download, and print individual pages of the Site solely for your personal, non-commercial, informational use. This license does not include: (a) any resale or commercial use of the Site or its contents; (b) any collection and use of any product listings, descriptions, or prices; (c) any derivative use of the Site or its contents; (d) any downloading, copying, or other use of account information for the benefit of any third party; or (e) any use of data mining, robots, or similar data gathering and extraction tools.</p>
+<p>All rights not expressly granted in these Terms are reserved by {siteConfig.name} and its licensors.</p>
+<p><strong>DMCA Notice Procedure:</strong> If you believe that any content on the Site infringes upon your copyright, you may submit a notification pursuant to the Digital Millennium Copyright Act ("DMCA") by providing our designated agent with the following information in writing: (a) a physical or electronic signature of the person authorized to act on behalf of the owner of the copyrighted work; (b) identification of the copyrighted work(s) claimed to have been infringed; (c) identification of the material that is claimed to be infringing and information reasonably sufficient to locate the material on the Site; (d) your contact information, including address, telephone number, and email address; (e) a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (f) a statement, under penalty of perjury, that the information in the notification is accurate and that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed. DMCA notices should be sent to our <a href="/contact">Contact page</a>.</p>
+
+<!-- 5. USER-GENERATED CONTENT -->
+<h2>5. User-Generated Content</h2>
+<p>The Site may allow you to post, submit, publish, display, or transmit comments, feedback, suggestions, reviews, ideas, or other user-generated content (collectively, "User Content"). By posting or submitting any User Content on or through the Site, you grant {siteConfig.name} a perpetual, irrevocable, worldwide, non-exclusive, royalty-free, fully paid-up, sublicensable, and transferable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, display, and otherwise exploit such User Content in any form, media, or technology now known or hereafter developed, for any purpose, including but not limited to commercial, advertising, or promotional purposes, without notice, compensation, or attribution to you.</p>
+<p>You represent and warrant that: (a) you own or control all rights in and to the User Content and have the right to grant the license set forth above; (b) all of your User Content does and will comply with these Terms; and (c) your User Content does not violate the rights of any third party.</p>
+<p>You agree that your User Content will not:</p>
+<ul>
+  <li>Contain any material that is illegal, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, pornographic, invasive of another's privacy, hateful, or racially, ethnically, or otherwise objectionable</li>
+  <li>Contain any material that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party</li>
+  <li>Contain any unsolicited or unauthorized advertising, promotional materials, or any other form of solicitation</li>
+  <li>Contain software viruses, malware, or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software, hardware, or telecommunications equipment</li>
+  <li>Contain any false, misleading, or deceptive information or content</li>
+  <li>Violate any applicable law, regulation, or rule</li>
+</ul>
+<p>We reserve the right, but are under no obligation, to review, monitor, edit, remove, or disable access to any User Content at any time and without notice, in our sole discretion, for any reason or no reason, including but not limited to User Content that, in our sole judgment, violates these Terms, is objectionable, or may expose {siteConfig.name} or its users to any harm or liability of any type. We take no responsibility and assume no liability for any User Content posted by you or any third party.</p>
+
+<!-- 6. DISCLAIMER OF WARRANTIES -->
+<h2>6. Disclaimer of Warranties</h2>
+<p><strong>THE SITE, INCLUDING ALL CONTENT, MATERIALS, INFORMATION, SERVICES, PRODUCTS, SOFTWARE, AND OTHER RESOURCES AVAILABLE ON OR ACCESSIBLE THROUGH THE SITE, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.</strong></p>
+<p><strong>TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, {siteConfig.name.toUpperCase()} AND ITS PARENT COMPANIES, SUBSIDIARIES, AFFILIATES, PARTNERS, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, CONTRACTORS, LICENSORS, SERVICE PROVIDERS, SUBCONTRACTORS, SUPPLIERS, INTERNS, AND ASSIGNS (COLLECTIVELY, THE "{siteConfig.name.toUpperCase()} PARTIES") EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, QUIET ENJOYMENT, ACCURACY, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE.</strong></p>
+<p><strong>WITHOUT LIMITING THE FOREGOING, NEITHER {siteConfig.name.toUpperCase()} NOR ANY {siteConfig.name.toUpperCase()} PARTY MAKES ANY WARRANTY OR REPRESENTATION THAT: (A) THE SITE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS; (B) THE SITE WILL BE AVAILABLE ON AN UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE BASIS; (C) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITE WILL BE ACCURATE, RELIABLE, COMPLETE, OR CURRENT; (D) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SITE WILL MEET YOUR EXPECTATIONS; (E) ANY ERRORS IN THE SITE WILL BE CORRECTED; (F) THE SITE OR THE SERVERS THAT MAKE THE SITE AVAILABLE ARE FREE OF VIRUSES, MALWARE, OR OTHER HARMFUL COMPONENTS; OR (G) THE CONTENT, DATA, OR INFORMATION ON THE SITE IS TIMELY, COMPLETE, SUITABLE, OR APPROPRIATE FOR ANY PARTICULAR PURPOSE.</strong></p>
+<p><strong>ANY CONTENT DOWNLOADED FROM OR OTHERWISE ACCESSED THROUGH THE SITE IS ACCESSED AT YOUR OWN RISK, AND YOU SHALL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY, INCLUDING YOUR COMPUTER SYSTEM OR MOBILE DEVICE, OR LOSS OF DATA THAT RESULTS THEREFROM.</strong></p>
+<p><strong>NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM {siteConfig.name.toUpperCase()} OR THROUGH THE SITE SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.</strong></p>
+<p>Some jurisdictions do not allow the exclusion of certain warranties. In such jurisdictions, the foregoing exclusions may not apply to you. In such cases, the exclusions set forth herein shall be applied to the greatest extent enforceable under applicable law.</p>
+
+<!-- 7. NOT PROFESSIONAL ADVICE -->
+<h2>7. Not Professional Advice</h2>
+<p><strong>THE CONTENT ON THIS SITE IS NOT FINANCIAL ADVICE. IT IS NOT INVESTMENT ADVICE. IT IS NOT TAX ADVICE. IT IS NOT LEGAL ADVICE. IT IS NOT MEDICAL ADVICE. IT IS NOT PROFESSIONAL ADVICE OF ANY KIND.</strong></p>
+<p><strong>All content published on the Site, including but not limited to articles, blog posts, reviews, guides, tutorials, opinions, commentary, calculations, estimates, projections, strategies, and any other information, is provided for general informational and educational purposes only and does not constitute professional advice in any field or discipline.</strong></p>
+<p><strong>No fiduciary, advisory, consultant-client, attorney-client, doctor-patient, or any other professional relationship is created between you and {siteConfig.name} by your use of the Site or by your reliance on any information provided on the Site.</strong></p>
+<p><strong>You should always consult with a qualified, licensed professional in the relevant field before making any decisions or taking any actions based on the information found on the Site.</strong> This includes, but is not limited to, consulting with a licensed financial advisor before making any financial or investment decisions, a qualified tax professional before making any tax-related decisions, a licensed attorney before taking any legal actions, and a licensed medical professional before making any health-related decisions.</p>
+<p><strong>{siteConfig.name} is not responsible or liable for any decisions made, actions taken, or outcomes experienced by you or any third party based on the content published on this Site.</strong> Any reliance you place on information from the Site is strictly at your own risk. We strongly encourage you to independently verify any information you find on the Site before relying upon it.</p>
+
+<!-- 8. LIMITATION OF LIABILITY -->
+<h2>8. Limitation of Liability</h2>
+<p><strong>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL {siteConfig.name.toUpperCase()} OR ANY OF THE {siteConfig.name.toUpperCase()} PARTIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, REVENUE, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR IN CONNECTION WITH:</strong></p>
+<ul>
+  <li><strong>YOUR ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, THE SITE;</strong></li>
+  <li><strong>ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON, CONNECTED TO, OR LINKED FROM THE SITE;</strong></li>
+  <li><strong>ANY CONTENT, DATA, OR INFORMATION OBTAINED FROM OR THROUGH THE SITE;</strong></li>
+  <li><strong>UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS, DATA, OR CONTENT;</strong></li>
+  <li><strong>ANY FINANCIAL, INVESTMENT, TAX, LEGAL, MEDICAL, OR OTHER DECISIONS MADE OR ACTIONS TAKEN BY YOU BASED ON CONTENT PUBLISHED ON THE SITE;</strong></li>
+  <li><strong>ANY PRODUCTS OR SERVICES PURCHASED OR OBTAINED THROUGH LINKS ON THE SITE, INCLUDING AFFILIATE LINKS;</strong></li>
+  <li><strong>STATEMENTS, ERRORS, OR OMISSIONS OF ANY THIRD PARTY ON THE SITE;</strong></li>
+  <li><strong>ANY BUGS, VIRUSES, TROJAN HORSES, MALWARE, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY;</strong></li>
+  <li><strong>ANY OTHER MATTER RELATING TO THE SITE;</strong></li>
+</ul>
+<p><strong>WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT {siteConfig.name.toUpperCase()} HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</strong></p>
+<p><strong>NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, THE TOTAL AGGREGATE LIABILITY OF {siteConfig.name.toUpperCase()} AND THE {siteConfig.name.toUpperCase()} PARTIES TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE USE OF, OR INABILITY TO USE, THE SITE OR THE CONTENT, MATERIALS, OR INFORMATION AVAILABLE ON OR THROUGH THE SITE, SHALL NOT EXCEED ONE HUNDRED UNITED STATES DOLLARS (US $100.00).</strong></p>
+<p>Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you. In such jurisdictions, the liability of the {siteConfig.name} Parties shall be limited to the greatest extent permitted by law.</p>
+
+<!-- 9. INDEMNIFICATION -->
+<h2>9. Indemnification</h2>
+<p>You agree to defend, indemnify, and hold harmless {siteConfig.name} and the {siteConfig.name} Parties from and against any and all claims, actions, suits, proceedings, demands, losses, damages, liabilities, judgments, settlements, fines, penalties, costs, and expenses (including, without limitation, reasonable attorneys' fees, expert witness fees, and court costs) arising out of or in any way connected with:</p>
+<ul>
+  <li>Your access to or use of the Site</li>
+  <li>Your violation of any provision of these Terms</li>
+  <li>Your violation of any third-party right, including without limitation any intellectual property right, publicity right, confidentiality right, property right, or privacy right</li>
+  <li>Your violation of any applicable law, rule, regulation, or order</li>
+  <li>Any User Content you submit or post on or through the Site</li>
+  <li>Any claim that your User Content caused damage to a third party</li>
+  <li>Any misrepresentation made by you</li>
+  <li>Any dispute or issue between you and any third party</li>
+</ul>
+<p>This indemnification obligation will survive the termination or expiration of these Terms and your use of the Site. {siteConfig.name} reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with {siteConfig.name} in the defense of such matter.</p>
+
+<!-- 10. THIRD-PARTY LINKS AND CONTENT -->
+<h2>10. Third-Party Links and Content</h2>
+<p>The Site may contain links to third-party websites, resources, products, services, advertisements, or other content that is not owned or controlled by {siteConfig.name}. These links are provided solely as a convenience to you and do not constitute an endorsement, sponsorship, recommendation, or approval by {siteConfig.name} of any third-party website, resource, product, service, or content.</p>
+<p>{siteConfig.name} has no control over, and assumes no responsibility or liability for, the content, privacy policies, terms of service, practices, or opinions of any third-party websites or services. You access and use third-party websites and services entirely at your own risk, and such access and use is subject to the terms and conditions and privacy policies of those third-party websites and services.</p>
+<p>{siteConfig.name} shall not be responsible or liable, directly or indirectly, for any damage, loss, or liability caused or alleged to be caused by or in connection with the use of or reliance on any content, goods, products, services, or other material available on or through any third-party website or resource.</p>
+<p>We strongly recommend that you review the terms of service and privacy policies of any third-party website you visit through links on the Site.</p>
+
+<!-- 11. AFFILIATE LINKS AND COMMERCIAL RELATIONSHIPS -->
+<h2>11. Affiliate Links and Commercial Relationships</h2>
+<p>This Site contains affiliate links, meaning that if you click on certain links and subsequently purchase a product or service, {siteConfig.name} may receive a commission or other compensation from the merchant or advertiser. This commission comes at no additional cost to you. Our use of affiliate links does not influence the price you pay for any product or service.</p>
+<p>By clicking on an affiliate link on this Site, you acknowledge and agree that:</p>
+<ul>
+  <li>You will be redirected to a third-party website that is not owned, controlled, or operated by {siteConfig.name}</li>
+  <li>Your interaction with that third-party website is governed by that website's own terms of service, privacy policy, and other applicable agreements</li>
+  <li>{siteConfig.name} is not responsible for the products, services, content, accuracy, availability, or practices of any third-party merchant or advertiser</li>
+  <li>{siteConfig.name} makes no representations or warranties regarding any products or services offered through affiliate links</li>
+  <li>Any purchases, transactions, or interactions you make through affiliate links are solely between you and the third-party merchant</li>
+  <li>{siteConfig.name} shall not be liable for any claims, disputes, damages, or losses arising from your transactions with third-party merchants accessed through affiliate links</li>
+</ul>
+<p>For full details about our affiliate relationships and how we earn revenue, please see our <a href="/disclosure">Disclosure Policy</a>.</p>
+
+<!-- 12. PRIVACY -->
+<h2>12. Privacy</h2>
+<p>Your use of the Site is also governed by our <a href="/privacy-policy">Privacy Policy</a>, which describes how we collect, use, store, disclose, and protect your personal information. By using the Site, you consent to the collection, use, and disclosure of your information as described in our Privacy Policy. Our Privacy Policy is incorporated into and made a part of these Terms by this reference.</p>
+<p>You acknowledge and agree that internet-based data transmissions are inherently insecure, and no data transmission over the internet or any wireless network can be guaranteed to be 100% secure. While we use commercially reasonable measures to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.</p>
+
+<!-- 13. TERMINATION -->
+<h2>13. Termination</h2>
+<p>{siteConfig.name} reserves the right, in its sole and absolute discretion, to terminate, suspend, restrict, or deny your access to all or any part of the Site at any time, with or without cause, with or without notice, and without liability to you. Without limiting the foregoing, we may terminate or suspend your access if we reasonably believe that:</p>
+<ul>
+  <li>You have violated any provision of these Terms</li>
+  <li>You have engaged in conduct that could harm {siteConfig.name}, other users, or any third party</li>
+  <li>Your use of the Site creates risk or possible legal exposure for {siteConfig.name}</li>
+  <li>Providing the Site to you is no longer commercially viable or technically feasible</li>
+  <li>We are required to do so by law, legal process, or law enforcement request</li>
+</ul>
+<p>Upon termination, all rights and licenses granted to you under these Terms shall immediately cease. The following sections of these Terms shall survive termination: Intellectual Property Rights, User-Generated Content (with respect to licenses granted), Disclaimer of Warranties, Not Professional Advice, Limitation of Liability, Indemnification, Governing Law and Jurisdiction, Dispute Resolution, and all other provisions that by their nature should survive termination.</p>
+
+<!-- 14. GOVERNING LAW AND JURISDICTION -->
+<h2>14. Governing Law and Jurisdiction</h2>
+<p>These Terms and any dispute or claim arising out of or in connection with them, their subject matter, or their formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of the United States of America and the applicable state laws, without giving effect to any principles of conflicts of law.</p>
+<p>To the extent that any lawsuit or court proceeding is permitted hereunder, you agree to submit to the exclusive personal jurisdiction of the federal and state courts located within the United States for the purpose of litigating all such disputes. You waive any objection to the exercise of jurisdiction over you by such courts and to venue in such courts.</p>
+
+<!-- 15. DISPUTE RESOLUTION -->
+<h2>15. Dispute Resolution</h2>
+<p><strong>PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT AND TO HAVE A JURY TRIAL.</strong></p>
+<p><strong>Informal Resolution Period:</strong> Before initiating any arbitration or legal proceeding, you agree to first contact us through our <a href="/contact">Contact page</a> and attempt to resolve any dispute informally for a period of at least thirty (30) days. During this informal resolution period, the parties shall engage in a good-faith effort to resolve the dispute through negotiation. If the dispute is not resolved within this thirty (30) day period, either party may then proceed with arbitration as set forth below.</p>
+<p><strong>Mandatory Binding Arbitration:</strong> If the parties are unable to resolve a dispute through the informal resolution process described above, any controversy, dispute, or claim arising out of or relating to these Terms, or the breach thereof, shall be determined by binding arbitration administered by the American Arbitration Association ("AAA") in accordance with its then-current Consumer Arbitration Rules, as modified by these Terms. The arbitration shall be conducted by a single arbitrator. The arbitrator's decision shall be final and binding, and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof. The arbitration shall be conducted in the English language.</p>
+<p><strong>CLASS ACTION WAIVER: YOU AND {siteConfig.name.toUpperCase()} AGREE THAT EACH PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, CONSOLIDATED, REPRESENTATIVE, COLLECTIVE, OR MULTI-PARTY ACTION OR PROCEEDING. UNLESS BOTH YOU AND {siteConfig.name.toUpperCase()} AGREE OTHERWISE IN WRITING, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON'S OR PARTY'S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, CLASS, OR COLLECTIVE PROCEEDING. THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF WARRANTED BY THAT PARTY'S INDIVIDUAL CLAIM(S).</strong></p>
+<p><strong>Small Claims Court Exception:</strong> Notwithstanding the foregoing, either party may bring an individual action in small claims court for disputes within the jurisdiction of such court, provided the action remains in small claims court and is not removed or appealed to a court of general jurisdiction.</p>
+<p><strong>Opt-Out Right:</strong> You have the right to opt out of binding arbitration within thirty (30) days of the date you first accepted these Terms by sending written notice of your decision to opt out to our <a href="/contact">Contact page</a>. Your opt-out notice must include your full name, mailing address, and a clear statement that you wish to opt out of binding arbitration. If you opt out of binding arbitration, you and {siteConfig.name} agree to submit to the exclusive jurisdiction of the courts specified in the Governing Law and Jurisdiction section above.</p>
+
+<!-- 16. SEVERABILITY -->
+<h2>16. Severability</h2>
+<p>If any provision of these Terms is held by a court of competent jurisdiction or arbitrator to be invalid, illegal, void, or unenforceable for any reason, such provision shall be modified to the minimum extent necessary to make it valid, legal, and enforceable while preserving the original intent of the parties to the greatest extent possible. If such modification is not possible, the invalid provision shall be severed from these Terms. The invalidity, illegality, or unenforceability of any provision shall not affect the validity, legality, or enforceability of any other provision of these Terms, and the remaining provisions shall remain in full force and effect.</p>
+
+<!-- 17. WAIVER -->
+<h2>17. Waiver</h2>
+<p>No waiver by {siteConfig.name} of any term or condition set forth in these Terms shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure by {siteConfig.name} to assert a right or provision under these Terms shall not constitute a waiver of such right or provision. The rights and remedies provided in these Terms are cumulative and are not exclusive of any rights or remedies provided by law or equity. No single or partial exercise of any right or remedy hereunder shall preclude any other or further exercise thereof or the exercise of any other right or remedy.</p>
+
+<!-- 18. ENTIRE AGREEMENT -->
+<h2>18. Entire Agreement</h2>
+<p>These Terms, together with the <a href="/privacy-policy">Privacy Policy</a> and the <a href="/disclosure">Disclosure Policy</a>, constitute the sole and entire agreement between you and {siteConfig.name} regarding your use of the Site and supersede all prior and contemporaneous understandings, agreements, representations, warranties, and communications, both written and oral, with respect to the Site. No other terms, conditions, representations, warranties, or agreements, whether written or oral, express or implied, which are not set forth herein shall be binding upon either party.</p>
+
+<!-- 19. ASSIGNMENT -->
+<h2>19. Assignment</h2>
+<p>{siteConfig.name} may freely assign, transfer, or delegate its rights and obligations under these Terms, in whole or in part, at any time without notice to you. You may not assign, transfer, or delegate any of your rights or obligations under these Terms without the prior written consent of {siteConfig.name}. Any attempted assignment, transfer, or delegation by you without such consent shall be null and void. These Terms shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns.</p>
+
+<!-- 20. FORCE MAJEURE -->
+<h2>20. Force Majeure</h2>
+<p>{siteConfig.name} shall not be liable or responsible for any failure to perform, or delay in performance of, any of our obligations under these Terms that is caused by events outside our reasonable control, including but not limited to:</p>
+<ul>
+  <li>Acts of God, natural disasters, earthquakes, floods, hurricanes, tornadoes, wildfires, volcanic eruptions, or other extreme weather events</li>
+  <li>Epidemics, pandemics, quarantines, or other public health emergencies</li>
+  <li>War, armed conflict, terrorism, riots, civil unrest, insurrection, or revolution</li>
+  <li>Government actions, sanctions, embargoes, regulations, or orders</li>
+  <li>Strikes, lockouts, labor disputes, or industrial actions</li>
+  <li>Failures or disruptions of the internet, telecommunications networks, power grids, or other utility services</li>
+  <li>Cyberattacks, hacking, distributed denial-of-service attacks, or other malicious activities directed at {siteConfig.name} or its service providers</li>
+  <li>Failure or disruption of third-party hosting providers, cloud services, content delivery networks, or other technology infrastructure</li>
+  <li>Any other event beyond the reasonable control of {siteConfig.name}</li>
+</ul>
+<p>In the event of a force majeure occurrence, our obligation to perform under these Terms shall be suspended for the duration of the event and for a reasonable period thereafter. We shall use commercially reasonable efforts to mitigate the effects of the force majeure event and resume performance as soon as practicable.</p>
+
+<!-- 21. CHANGES TO TERMS -->
+<h2>21. Changes to Terms</h2>
+<p>{siteConfig.name} reserves the right, in its sole discretion, to modify, revise, update, or change these Terms at any time and for any reason. Any changes to these Terms will be effective immediately upon posting of the revised Terms on this page, with an updated "Last Updated" date. It is your sole responsibility to review these Terms periodically to stay informed of any updates.</p>
+<p>Your continued use of the Site following the posting of revised Terms means that you accept and agree to the changes. If you do not agree to the revised Terms, you must immediately stop using the Site. We may, but are not obligated to, provide additional notice of significant changes to these Terms through the Site or by other means.</p>
+<p>We encourage you to bookmark this page and check it periodically to ensure you are familiar with the most current version of these Terms.</p>
+
+<!-- 22. CONTACT INFORMATION -->
+<h2>22. Contact Information</h2>
+<p>If you have any questions, concerns, or comments regarding these Terms of Service, or if you need to provide any notices required or permitted under these Terms, please contact us through our <a href="/contact">Contact page</a>.</p>
+
+</LegalLayout>

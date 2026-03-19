@@ -1,0 +1,122 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  lastUpdated?: string;
+  schema?: object | object[];
+}
+
+const { title, description, lastUpdated, schema } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} schema={schema}>
+  <slot name="head" slot="head" />
+
+  <section class="page-header">
+    <div class="container">
+      <h1>{title}</h1>
+      {lastUpdated && <p class="page-date">Last Updated: {lastUpdated}</p>}
+    </div>
+  </section>
+
+  <section class="legal-section">
+    <div class="legal-container">
+      <div class="legal-content">
+        <slot />
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .page-header {
+    background: var(--bg-dark);
+    padding: 60px 0;
+    text-align: center;
+  }
+  .page-header h1 {
+    color: #fff;
+    font-size: 2.4rem;
+    font-weight: 900;
+    margin-bottom: 10px;
+  }
+  .page-header .page-date {
+    color: rgba(255,255,255,0.5);
+    font-size: 15px;
+  }
+
+  .legal-section {
+    padding: 50px 0 70px;
+  }
+  .legal-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .legal-content :global(h2) {
+    font-size: 1.35rem;
+    font-weight: 800;
+    margin-top: 44px;
+    margin-bottom: 16px;
+    color: var(--text);
+  }
+  .legal-content :global(h2:first-child) {
+    margin-top: 0;
+  }
+  .legal-content :global(h3) {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 20px 0 8px;
+    color: var(--text);
+  }
+  .legal-content :global(p) {
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 14px;
+  }
+  .legal-content :global(ul) {
+    padding-left: 24px;
+    list-style: disc;
+    margin-bottom: 14px;
+  }
+  .legal-content :global(ul li) {
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin-bottom: 4px;
+  }
+  .legal-content :global(a) {
+    color: var(--accent);
+    text-decoration: underline;
+  }
+  .legal-content :global(a:hover) {
+    color: var(--accent-hover);
+  }
+  .legal-content :global(.disclosure-intro) {
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    padding: 20px 24px;
+    border-radius: 0;
+    margin-bottom: 24px;
+  }
+  .legal-content :global(.disclosure-intro p) {
+    color: var(--text);
+    margin-bottom: 0;
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  @media (max-width: 768px) {
+    .page-header h1 { font-size: 1.8rem; }
+    .page-header { padding: 40px 0; }
+    .legal-section { padding: 35px 0 50px; }
+  }
+  @media (max-width: 480px) {
+    .page-header h1 { font-size: 1.5rem; }
+    .page-header { padding: 35px 0; }
+    .legal-content :global(h2) { font-size: 1.2rem; }
+  }
+</style>

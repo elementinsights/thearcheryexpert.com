@@ -1,0 +1,128 @@
+---
+// "Find Your Filter" decision helper for buyers-guide posts
+---
+
+<div class="widget sidebar-decision">
+  <h3 class="widget-title">Find Your Filter</h3>
+  <p class="decision-intro">Answer these to find your match:</p>
+  <div class="decision-question">
+    <div class="decision-q">Do you own or rent?</div>
+    <div class="decision-options">
+      <button class="decision-opt" data-answer="own">Own</button>
+      <button class="decision-opt" data-answer="rent">Rent</button>
+    </div>
+  </div>
+  <div class="decision-question">
+    <div class="decision-q">What's your budget?</div>
+    <div class="decision-options">
+      <button class="decision-opt" data-answer="low">Under $50</button>
+      <button class="decision-opt" data-answer="mid">$50-200</button>
+      <button class="decision-opt" data-answer="high">$200+</button>
+    </div>
+  </div>
+  <div class="decision-question">
+    <div class="decision-q">What matters most?</div>
+    <div class="decision-options">
+      <button class="decision-opt" data-answer="filtration">Filtration</button>
+      <button class="decision-opt" data-answer="ease">Ease of Use</button>
+      <button class="decision-opt" data-answer="cost">Low Cost</button>
+    </div>
+  </div>
+  <div class="decision-result" id="decision-result" style="display:none;">
+    <div class="decision-result-label">We Recommend:</div>
+    <div class="decision-result-name" id="decision-result-name"></div>
+    <a href="#best-filters-by-category" class="decision-result-cta">Learn More</a>
+  </div>
+</div>
+
+<script>
+  const decisionBtns = document.querySelectorAll('.decision-opt');
+  const answers: Record<number, string> = {};
+  decisionBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const question = btn.closest('.decision-question');
+      if (!question) return;
+      question.querySelectorAll('.decision-opt').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+      const qIndex = [...document.querySelectorAll('.decision-question')].indexOf(question);
+      answers[qIndex] = (btn as HTMLElement).dataset.answer || '';
+      if (Object.keys(answers).length === 3) {
+        const result = document.getElementById('decision-result');
+        const name = document.getElementById('decision-result-name');
+        let rec = 'Clearly Filtered Pitcher';
+        if (answers[0] === 'own' && answers[1] === 'high') rec = 'APEC ROES-50 (Under-Sink RO)';
+        else if (answers[0] === 'own' && answers[2] === 'filtration') rec = 'Clearly Filtered Pitcher';
+        else if (answers[1] === 'low') rec = 'Brita Elite Pitcher';
+        else if (answers[2] === 'ease') rec = 'Brita Elite Pitcher';
+        if (name) name.textContent = rec;
+        if (result) result.style.display = 'block';
+      }
+    });
+  });
+</script>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--accent);
+    display: block;
+  }
+  .decision-intro { font-size: 13px; color: var(--text-secondary); margin-bottom: 14px; }
+  .decision-question { margin-bottom: 14px; }
+  .decision-q {
+    font-size: 13px; font-weight: 700; color: var(--text);
+    margin-bottom: 8px;
+  }
+  .decision-options { display: flex; gap: 6px; flex-wrap: wrap; }
+  .decision-opt {
+    flex: 1; min-width: 0;
+    padding: 7px 8px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg);
+    font-size: 12px; font-weight: 600;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all var(--transition);
+    font-family: inherit;
+    text-align: center;
+  }
+  .decision-opt:hover { border-color: var(--accent); color: var(--accent); }
+  .decision-opt.selected {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+  .decision-result {
+    margin-top: 14px;
+    padding: 14px;
+    background: var(--accent-light);
+    border-radius: var(--radius);
+    text-align: center;
+  }
+  .decision-result-label {
+    font-size: 11px; font-weight: 800; text-transform: uppercase;
+    letter-spacing: 0.06em; color: var(--accent); margin-bottom: 4px;
+  }
+  .decision-result-name {
+    font-size: 15px; font-weight: 800; color: var(--text); margin-bottom: 10px;
+  }
+  .decision-result-cta {
+    display: inline-block;
+    padding: 8px 18px;
+    background: var(--accent); color: #fff !important;
+    border-radius: var(--radius); font-size: 13px; font-weight: 700;
+    text-decoration: none !important;
+    transition: background var(--transition);
+  }
+  .decision-result-cta:hover { background: var(--accent-hover); }
+</style>

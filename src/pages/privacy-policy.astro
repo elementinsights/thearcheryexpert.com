@@ -1,0 +1,286 @@
+---
+import LegalLayout from '../layouts/LegalLayout.astro';
+import { siteConfig } from '../../site.config';
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Privacy Policy",
+  "description": `${siteConfig.name}'s privacy policy explaining how we collect, use, and protect your personal information.`,
+  "url": `${siteConfig.url}/privacy-policy`,
+  "isPartOf": { "@type": "WebSite", "name": siteConfig.name, "url": siteConfig.url }
+};
+---
+
+<LegalLayout
+  title="Privacy Policy"
+  description={`${siteConfig.name}'s privacy policy explaining how we collect, use, and protect your personal information.`}
+  lastUpdated="March 11, 2026"
+  schema={schema}
+>
+
+<!-- 1. INTRODUCTION -->
+<h2>1. Introduction</h2>
+<p>Welcome to {siteConfig.name} ("we," "us," "our," or the "Company"). We operate the website located at {siteConfig.domain} (together with any subdomains, mobile versions, and related services, the "Site" or "Website"). This Privacy Policy explains how we collect, use, disclose, retain, and protect your personal information when you visit, interact with, or use our Site.</p>
+<p>By accessing or using our Site, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree with any part of this Privacy Policy, you must immediately discontinue use of the Site. This Privacy Policy applies to all visitors, users, subscribers, and any other person who accesses or uses the Site.</p>
+<p>We may update this Privacy Policy from time to time. We encourage you to review this page periodically for the latest information on our privacy practices. Your continued use of the Site following the posting of changes constitutes your acceptance of such changes.</p>
+
+<!-- 2. INFORMATION WE COLLECT -->
+<h2>2. Information We Collect</h2>
+<p>We collect information about you in several ways when you interact with our Site. The types of information we collect depend on how you use our Site and the services we provide.</p>
+
+<h3>2.1 Information You Provide Directly</h3>
+<p>We collect personal information that you voluntarily provide to us when you interact with the Site, including but not limited to:</p>
+<ul>
+  <li><strong>Newsletter and Email Subscriptions:</strong> When you subscribe to our newsletter, email list, or any lead magnet, we collect your email address and, if provided, your first name, last name, and any other information you choose to supply.</li>
+  <li><strong>Contact Forms:</strong> When you fill out a contact form, inquiry form, or feedback form on the Site, we collect the information you provide, which may include your name, email address, subject line, message content, and any attachments.</li>
+  <li><strong>Blog Comments:</strong> If you leave a comment on any blog post, article, or content page, we may collect your name, email address, website URL, IP address, and the content of your comment.</li>
+  <li><strong>Surveys and Polls:</strong> If you participate in any survey, poll, quiz, or interactive content, we collect your responses and any personal information you provide in connection with your participation.</li>
+  <li><strong>Account Registration:</strong> If you create an account on our Site, we collect your username, email address, password, and any profile information you choose to provide.</li>
+  <li><strong>Purchases and Transactions:</strong> If you purchase any product, service, course, ebook, or digital download, we collect your name, billing address, shipping address (if applicable), payment information, email address, and phone number. Note: payment card details are processed directly by our third-party payment processor and are not stored on our servers.</li>
+  <li><strong>User-Generated Content:</strong> Any content you submit, upload, or post to the Site, including text, images, videos, reviews, testimonials, and forum posts.</li>
+</ul>
+
+<h3>2.2 Information Collected Automatically</h3>
+<p>When you access or use our Site, we automatically collect certain information about your device, browsing activity, and usage patterns, including:</p>
+<ul>
+  <li><strong>IP Address:</strong> Your Internet Protocol (IP) address, which may indicate your approximate geographic location.</li>
+  <li><strong>Browser Information:</strong> Your browser type, version, language preference, and configuration settings.</li>
+  <li><strong>Device Information:</strong> The type of device you use (desktop, laptop, tablet, smartphone), operating system and version, device identifiers, screen resolution, and hardware model.</li>
+  <li><strong>Pages Visited:</strong> The pages, articles, and content you view on our Site, including the order and duration of your visits.</li>
+  <li><strong>Referring and Exit URLs:</strong> The website or page that referred you to our Site and the page you visit when you leave our Site.</li>
+  <li><strong>Timestamps:</strong> The date and time of each visit, including the time spent on each page.</li>
+  <li><strong>Click Data:</strong> Which links, buttons, and interactive elements you click on within the Site.</li>
+  <li><strong>Scroll Depth:</strong> How far down the page you scroll on individual pages.</li>
+  <li><strong>Search Queries:</strong> Any search terms you enter using the Site's internal search functionality.</li>
+  <li><strong>Error and Performance Data:</strong> Information about errors, crashes, load times, and performance metrics encountered during your use of the Site.</li>
+</ul>
+
+<h3>2.3 Cookies and Tracking Technologies</h3>
+<p>We and our third-party partners use cookies, web beacons, pixels, tags, scripts, local storage objects, and similar tracking technologies (collectively, "Cookies") to collect and store information about your interactions with the Site. The types of Cookies we use include:</p>
+<ul>
+  <li><strong>Essential Cookies:</strong> These Cookies are strictly necessary for the Site to function properly. They enable core functionalities such as page navigation, access to secure areas, remembering your preferences (such as dark mode or cookie consent), and maintaining your session. Without these Cookies, the Site cannot operate as intended. These Cookies do not collect personal information used for marketing purposes.</li>
+  <li><strong>Analytics and Performance Cookies:</strong> These Cookies help us understand how visitors interact with the Site by collecting information about traffic patterns, page views, time on page, bounce rates, scroll depth, click paths, and error occurrences. This information is aggregated and used to improve the Site's performance, content, and user experience. We use services such as Google Analytics, which may set its own cookies. You can learn more about Google Analytics' data practices at <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">https://policies.google.com/technologies/partner-sites</a>.</li>
+  <li><strong>Advertising and Targeting Cookies:</strong> These Cookies are placed by our advertising partners and ad networks to deliver advertisements that are relevant to your interests. They track your browsing activity across websites, build a profile of your interests, and limit the number of times you see a particular advertisement. These Cookies may collect your IP address, device identifiers, browsing history, and interaction data. Our display advertising partners may include Raptive (formerly AdThrive), Google AdSense, Mediavine, and other programmatic advertising networks.</li>
+  <li><strong>Affiliate Tracking Cookies:</strong> When you click on an affiliate link on our Site, our affiliate partners (such as Amazon Associates, ShareASale, CJ Affiliate, Impact, Awin, Rakuten Advertising, and others) may place a cookie on your device to track the referral. These cookies enable us to earn a commission if you make a qualifying purchase through our affiliate link. The cookie duration, data collected, and tracking mechanisms vary by affiliate network.</li>
+  <li><strong>Social Media Cookies:</strong> If you interact with social media widgets, share buttons, or embedded content from social media platforms (such as Facebook, Pinterest, Twitter/X, Instagram, YouTube, or TikTok), those platforms may set their own cookies to identify you and track your interactions.</li>
+  <li><strong>Functional Cookies:</strong> These Cookies remember your preferences and choices (such as language, region, theme preference, font size, or layout preferences) to provide a more personalized experience. They may also be used to remember whether you have already been shown a specific popup, notification, or promotional message.</li>
+</ul>
+<p>Most web browsers allow you to manage your cookie preferences through browser settings. You can set your browser to refuse all cookies, accept only certain cookies, or alert you when a cookie is being placed. However, if you disable or delete cookies, some features of the Site may not function properly.</p>
+
+<h3>2.4 Information from Third Parties</h3>
+<p>We may receive information about you from third-party sources and combine it with other information we collect about you. This may include:</p>
+<ul>
+  <li><strong>Social Media Platforms:</strong> If you interact with us through social media or log in using a social media account, we may receive information from that platform, such as your profile name, email address, profile picture, and publicly available information.</li>
+  <li><strong>Analytics Providers:</strong> We may receive aggregated demographic, interest, and behavioral data from analytics services and advertising networks.</li>
+  <li><strong>Advertising Partners:</strong> Our advertising partners may share information about your interactions with advertisements displayed on our Site or other websites.</li>
+  <li><strong>Service Providers:</strong> Our hosting, email marketing, payment processing, and other service providers may provide us with technical information, usage data, or error reports related to your interactions with the Site.</li>
+  <li><strong>Publicly Available Sources:</strong> We may collect information from publicly available databases, directories, or other publicly accessible sources.</li>
+</ul>
+
+<!-- 3. LEGAL BASIS FOR PROCESSING (GDPR) -->
+<h2>3. Legal Basis for Processing (GDPR)</h2>
+<p>If you are located in the European Economic Area (EEA), United Kingdom (UK), or Switzerland, we process your personal data only when we have a valid legal basis under the General Data Protection Regulation (GDPR) or the UK GDPR. Our legal bases for processing include:</p>
+<ul>
+  <li><strong>Consent:</strong> You have given us explicit, informed, and freely given consent to process your personal data for one or more specific purposes. For example, when you subscribe to our newsletter, you consent to receive email communications from us. You may withdraw your consent at any time, and we will cease processing your data for the purpose for which consent was given, unless another legal basis applies.</li>
+  <li><strong>Legitimate Interest:</strong> Processing is necessary for our legitimate interests or those of a third party, provided those interests are not overridden by your fundamental rights and freedoms. Our legitimate interests include improving and optimizing our Site, understanding our audience, preventing fraud and abuse, ensuring network and information security, and marketing our products and services.</li>
+  <li><strong>Contractual Necessity:</strong> Processing is necessary for the performance of a contract to which you are a party, or to take steps at your request before entering into a contract. For example, processing your payment information when you purchase a product or service from us.</li>
+  <li><strong>Legal Obligation:</strong> Processing is necessary for compliance with a legal obligation to which we are subject, such as tax reporting requirements, responding to lawful requests from public authorities, or complying with applicable laws and regulations.</li>
+</ul>
+
+<!-- 4. HOW WE USE YOUR INFORMATION -->
+<h2>4. How We Use Your Information</h2>
+<p>We use the information we collect for a wide range of purposes, including but not limited to:</p>
+<ul>
+  <li><strong>Provide and Maintain the Site:</strong> To operate, maintain, and improve the Site's functionality, features, content, and overall user experience.</li>
+  <li><strong>Send Newsletters and Email Communications:</strong> To send you newsletters, updates, promotional content, marketing materials, free resources, course content, and other communications that you have opted in to receive.</li>
+  <li><strong>Respond to Inquiries:</strong> To respond to your questions, comments, feedback, support requests, and other communications submitted through contact forms, email, or other channels.</li>
+  <li><strong>Analyze Usage and Trends:</strong> To monitor, analyze, and understand how visitors use the Site, including traffic patterns, content performance, user demographics, popular pages, and engagement metrics, in order to make data-driven decisions about content creation, site design, and feature development.</li>
+  <li><strong>Personalize Content and Recommendations:</strong> To tailor the content, articles, recommendations, and advertisements you see based on your browsing behavior, preferences, interests, and past interactions with the Site.</li>
+  <li><strong>Display Advertising:</strong> To serve display advertisements, including personalized and contextual advertisements, through our advertising partners and networks.</li>
+  <li><strong>Process Transactions:</strong> To process purchases, payments, refunds, and other transactions for products, services, courses, or digital downloads.</li>
+  <li><strong>Deliver Affiliate Content:</strong> To track and attribute affiliate referrals when you click on affiliate links and make purchases through our affiliate partners.</li>
+  <li><strong>Detect and Prevent Fraud:</strong> To detect, investigate, and prevent fraudulent activity, spam, abuse, unauthorized access, and other illegal or harmful activities on the Site.</li>
+  <li><strong>Ensure Security:</strong> To protect the security, integrity, and availability of the Site, our systems, and our users' data.</li>
+  <li><strong>Comply with Legal Obligations:</strong> To comply with applicable laws, regulations, legal processes, governmental requests, court orders, and industry standards.</li>
+  <li><strong>Enforce Our Policies:</strong> To enforce our Terms of Service, Acceptable Use Policy, and other agreements and policies.</li>
+  <li><strong>Conduct Research and Development:</strong> To conduct research, surveys, and analysis to develop new features, products, services, and content.</li>
+  <li><strong>Communicate Changes:</strong> To notify you about changes to our Site, policies, terms, or services.</li>
+  <li><strong>Aggregate and Anonymize Data:</strong> To create aggregated, anonymized, or de-identified data sets that do not identify you personally, which we may use for any lawful purpose.</li>
+</ul>
+
+<!-- 5. ADVERTISING -->
+<h2>5. Advertising</h2>
+<p>We display advertisements on the Site to help fund our operations and provide free content to our readers. Our advertising practices are described below.</p>
+<p><strong>Display Advertising Partners:</strong> We partner with third-party advertising companies and ad networks to serve display advertisements on the Site. These partners use automated technologies, including real-time bidding (RTB), header bidding, and programmatic advertising platforms, to select and deliver advertisements based on various factors, including your browsing history, interests, demographics, geographic location, device type, and contextual relevance of the page content.</p>
+<p><strong>Raptive (formerly AdThrive) Disclosure:</strong> We are a participant in the Raptive advertising program (formerly known as AdThrive). Raptive serves as our exclusive ad management partner and works with demand-side platforms (DSPs), supply-side platforms (SSPs), and ad exchanges to maximize ad revenue. As part of this program, Raptive and its advertising partners may collect and use data about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Raptive's use of your data is governed by <a href="https://raptive.com/creator-advertising-privacy-statement/" target="_blank" rel="noopener noreferrer">Raptive's Privacy Statement</a>.</p>
+<p><strong>How Ads Are Selected and Targeted:</strong> Advertisements displayed on the Site may be selected using one or more of the following methods:</p>
+<ul>
+  <li><strong>Contextual Targeting:</strong> Ads are matched to the content and subject matter of the page you are viewing.</li>
+  <li><strong>Behavioral Targeting:</strong> Ads are selected based on your browsing behavior, interests, and online activity across multiple websites.</li>
+  <li><strong>Demographic Targeting:</strong> Ads are targeted based on inferred demographic information such as age range, gender, household income, and education level.</li>
+  <li><strong>Geographic Targeting:</strong> Ads are selected based on your approximate geographic location, derived from your IP address.</li>
+  <li><strong>Retargeting/Remarketing:</strong> Ads for products or services you have previously viewed or interacted with on other websites may be displayed to you on our Site, and vice versa.</li>
+</ul>
+<p><strong>Opting Out of Personalized Advertising:</strong> You can opt out of personalized advertising by visiting the following industry opt-out pages:</p>
+<ul>
+  <li>Network Advertising Initiative (NAI): <a href="https://optout.networkadvertising.org/" target="_blank" rel="noopener noreferrer">https://optout.networkadvertising.org/</a></li>
+  <li>Digital Advertising Alliance (DAA): <a href="https://optout.aboutads.info/" target="_blank" rel="noopener noreferrer">https://optout.aboutads.info/</a></li>
+  <li>European Interactive Digital Advertising Alliance (EDAA): <a href="https://www.youronlinechoices.eu/" target="_blank" rel="noopener noreferrer">https://www.youronlinechoices.eu/</a></li>
+</ul>
+<p>Please note that opting out of personalized advertising does not mean you will no longer see advertisements on the Site. You will still see ads, but they may be less relevant to your interests.</p>
+
+<!-- 6. HOW WE SHARE YOUR INFORMATION -->
+<h2>6. How We Share Your Information</h2>
+<p>We do not sell your personal information to third parties, except as described in Section 8.5 (California Residents) where "sale" may have a broader legal definition under the CCPA/CPRA. We may share your information in the following circumstances:</p>
+<ul>
+  <li><strong>Service Providers:</strong> We share information with third-party service providers who perform functions on our behalf, such as web hosting, email delivery, content delivery networks (CDNs), payment processing, analytics, customer support, form processing, and security services. These service providers are contractually obligated to use your information only for the purposes of providing services to us and in accordance with this Privacy Policy.</li>
+  <li><strong>Advertising Partners:</strong> We share information with our advertising partners, ad networks, demand-side platforms, supply-side platforms, and ad exchanges as described in Section 5 (Advertising). This information may include cookies, device identifiers, IP addresses, browsing data, and other information used for ad targeting and measurement.</li>
+  <li><strong>Affiliate Partners:</strong> When you click on an affiliate link on the Site, our affiliate partners may receive information about the referral, including your IP address, device information, the referring page, and transaction details if you complete a purchase.</li>
+  <li><strong>Legal Requirements:</strong> We may disclose your information if required to do so by law, regulation, legal process, governmental request, court order, subpoena, or similar legal mechanism, or if we believe in good faith that such disclosure is necessary to (a) comply with applicable law, (b) protect our rights, property, or safety, or the rights, property, or safety of our users or the public, (c) investigate or prevent illegal activity, fraud, or security threats, or (d) respond to an emergency involving danger of death or serious physical injury to any person.</li>
+  <li><strong>Business Transfers:</strong> In the event of a merger, acquisition, reorganization, bankruptcy, dissolution, sale of assets, or other business transaction, your personal information may be transferred to the acquiring or successor entity as part of the transaction. We will notify you via email and/or a prominent notice on the Site of any change in ownership or use of your personal information.</li>
+  <li><strong>Aggregated or Anonymized Data:</strong> We may share aggregated, anonymized, or de-identified data that cannot reasonably be used to identify you with third parties for research, marketing, analytics, or other purposes.</li>
+  <li><strong>With Your Consent:</strong> We may share your information with third parties when you have provided explicit consent for us to do so.</li>
+</ul>
+
+<!-- 7. THIRD-PARTY SERVICES -->
+<h2>7. Third-Party Services</h2>
+<p>We use a number of third-party services to operate, analyze, and improve our Site. Each of these services has its own privacy policy governing its collection and use of data. We encourage you to review the privacy policies of these third parties:</p>
+<ul>
+  <li><strong>Google Analytics:</strong> We use Google Analytics to analyze traffic, user behavior, and usage trends on the Site. Google Analytics uses cookies to collect information such as how often users visit the Site, what pages they visit, what other sites they used prior to coming to the Site, and demographic and interest data. Google's ability to use and share information collected by Google Analytics is governed by the <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a> and the <a href="https://marketingplatform.google.com/about/analytics/terms/us/" target="_blank" rel="noopener noreferrer">Google Analytics Terms of Service</a>. You can opt out of Google Analytics tracking by installing the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">Google Analytics Opt-out Browser Add-on</a>.</li>
+  <li><strong>Advertising Networks:</strong> We work with advertising networks including, but not limited to, Raptive (formerly AdThrive), Google AdSense, Google Ad Manager, Amazon Publisher Services, Index Exchange, OpenX, Sovrn, PubMatic, Magnite (formerly Rubicon Project), and other programmatic advertising partners. These networks may use cookies, web beacons, and similar technologies to collect data for ad targeting and measurement. Please refer to their respective privacy policies for detailed information about their data practices.</li>
+  <li><strong>Amazon Associates Program:</strong> We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites. Amazon may collect information about your interactions with affiliate links and purchases. Please review the <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496" target="_blank" rel="noopener noreferrer">Amazon Privacy Notice</a>.</li>
+  <li><strong>Email Marketing Platform:</strong> We use a third-party email marketing service (such as MailerLite, ConvertKit, Mailchimp, ActiveCampaign, or similar) to manage our email subscriber list and send newsletters, automated email sequences, and promotional content. When you subscribe to our email list, your email address and any additional information you provide is stored on the email marketing platform's servers. Please review the privacy policy of our email service provider for information about how they handle your data.</li>
+  <li><strong>Hosting Provider:</strong> Our Site is hosted by a third-party hosting provider (such as Cloudflare, AWS, SiteGround, or similar) that may collect server logs, IP addresses, and technical data as part of providing hosting services. Please review the privacy policy of our hosting provider for details.</li>
+  <li><strong>Content Delivery Network (CDN):</strong> We may use a CDN to serve content faster to visitors around the world. The CDN provider may collect IP addresses, request headers, and usage data as part of its service.</li>
+  <li><strong>Form Processing Services:</strong> We may use third-party form services (such as Google Forms, Typeform, JotForm, or similar) to collect information through surveys, quizzes, or contact forms. Information submitted through these forms may be stored on the third-party provider's servers.</li>
+  <li><strong>Social Media Platforms:</strong> We may embed content from or link to social media platforms including Facebook, Pinterest, Twitter/X, Instagram, YouTube, TikTok, and others. These platforms may collect data about your interactions with embedded content through their own cookies and tracking technologies.</li>
+  <li><strong>Comment Systems:</strong> We may use third-party comment systems (such as Disqus, WordPress comments, or similar) that collect personal information to facilitate commenting on our content.</li>
+</ul>
+
+<!-- 8. YOUR RIGHTS AND CHOICES -->
+<h2>8. Your Rights and Choices</h2>
+<p>Depending on your location and applicable law, you may have certain rights regarding your personal information. We are committed to honoring your privacy rights and making it easy for you to exercise them.</p>
+
+<h3>8.1 Email Communications</h3>
+<p>You may opt out of receiving promotional emails, newsletters, or marketing communications from us at any time by clicking the "unsubscribe" or "manage preferences" link at the bottom of any email you receive from us, or by contacting us directly using the information provided in Section 17. Please note that even if you opt out of marketing emails, we may still send you transactional or administrative emails, such as order confirmations, account notifications, security alerts, and other non-promotional communications.</p>
+
+<h3>8.2 Cookies</h3>
+<p>Most web browsers allow you to control cookies through their settings. You can typically set your browser to block all cookies, block third-party cookies, accept all cookies, or alert you when a cookie is being set. You can also delete existing cookies from your browser. Please note that disabling cookies may cause some features of the Site to not function properly. You can also opt out of interest-based advertising cookies by visiting:</p>
+<ul>
+  <li>Network Advertising Initiative: <a href="https://optout.networkadvertising.org/" target="_blank" rel="noopener noreferrer">https://optout.networkadvertising.org/</a></li>
+  <li>Digital Advertising Alliance: <a href="https://optout.aboutads.info/" target="_blank" rel="noopener noreferrer">https://optout.aboutads.info/</a></li>
+  <li>Google Ads Settings: <a href="https://adssettings.google.com/" target="_blank" rel="noopener noreferrer">https://adssettings.google.com/</a></li>
+</ul>
+
+<h3>8.3 Do Not Track</h3>
+<p>Some web browsers transmit "Do Not Track" (DNT) signals to websites. Because there is no uniform standard for interpreting DNT signals, our Site does not currently respond to or alter its practices when it receives DNT signals from your browser. However, you may use the opt-out mechanisms described in this Privacy Policy to manage your privacy preferences.</p>
+
+<h3>8.4 Rights for EEA, UK, and Swiss Residents (GDPR)</h3>
+<p>If you are located in the European Economic Area, United Kingdom, or Switzerland, you have the following rights under the General Data Protection Regulation (GDPR) and/or the UK GDPR:</p>
+<ul>
+  <li><strong>Right of Access:</strong> You have the right to request a copy of the personal data we hold about you, along with information about how we process it, the purposes of processing, and the categories of recipients.</li>
+  <li><strong>Right to Rectification:</strong> You have the right to request that we correct any inaccurate or incomplete personal data we hold about you without undue delay.</li>
+  <li><strong>Right to Erasure (Right to Be Forgotten):</strong> You have the right to request that we delete your personal data in certain circumstances, such as when the data is no longer necessary for the purposes for which it was collected, when you withdraw your consent, or when the data has been unlawfully processed.</li>
+  <li><strong>Right to Restriction of Processing:</strong> You have the right to request that we restrict the processing of your personal data in certain circumstances, such as when you contest the accuracy of the data, when the processing is unlawful, or when we no longer need the data but you require it for the establishment, exercise, or defense of legal claims.</li>
+  <li><strong>Right to Data Portability:</strong> You have the right to receive a copy of your personal data in a structured, commonly used, and machine-readable format, and to transmit that data to another controller without hindrance from us, where the processing is based on consent or contract and carried out by automated means.</li>
+  <li><strong>Right to Object:</strong> You have the right to object to the processing of your personal data where we are relying on a legitimate interest (or that of a third party) as the legal basis, including processing for direct marketing purposes. We will cease processing unless we can demonstrate compelling legitimate grounds for the processing that override your interests, rights, and freedoms, or the processing is necessary for the establishment, exercise, or defense of legal claims.</li>
+  <li><strong>Right to Withdraw Consent:</strong> Where we rely on your consent as the legal basis for processing your personal data, you have the right to withdraw your consent at any time. Withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.</li>
+  <li><strong>Right to Lodge a Complaint:</strong> You have the right to lodge a complaint with your local data protection supervisory authority if you believe that our processing of your personal data infringes applicable data protection law.</li>
+  <li><strong>Right Related to Automated Decision-Making:</strong> You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you, unless such processing is necessary for entering into or performing a contract, authorized by applicable law, or based on your explicit consent.</li>
+</ul>
+<p>To exercise any of these rights, please contact us using the information provided in Section 17. We will respond to your request within 30 days (or such shorter period as required by applicable law). We may request additional information from you to verify your identity before processing your request.</p>
+
+<h3>8.5 Rights for California Residents (CCPA/CPRA)</h3>
+<p>If you are a California resident, you have the following rights under the California Consumer Privacy Act (CCPA), as amended by the California Privacy Rights Act (CPRA):</p>
+<ul>
+  <li><strong>Right to Know:</strong> You have the right to request that we disclose the categories of personal information we have collected about you, the categories of sources from which we collected the information, the business or commercial purposes for collecting, selling, or sharing the information, the categories of third parties to whom we have disclosed the information, and the specific pieces of personal information we have collected about you, covering the 12-month period preceding your request.</li>
+  <li><strong>Right to Delete:</strong> You have the right to request that we delete the personal information we have collected about you, subject to certain exceptions provided by law (such as information needed to complete a transaction, detect security incidents, comply with legal obligations, or for certain internal uses consistent with your expectations).</li>
+  <li><strong>Right to Opt-Out of Sale or Sharing:</strong> You have the right to opt out of the "sale" or "sharing" of your personal information to third parties. Under the CCPA/CPRA, "sale" includes disclosing personal information in exchange for monetary or other valuable consideration, and "sharing" includes disclosing personal information for cross-context behavioral advertising purposes. The use of certain advertising cookies and tracking technologies on our Site may constitute a "sale" or "sharing" of your personal information under the CCPA/CPRA. To opt out, please contact us using the information in Section 17, or use the cookie consent tools available on the Site.</li>
+  <li><strong>Right to Correct:</strong> You have the right to request that we correct any inaccurate personal information we hold about you, taking into account the nature of the information and the purposes for which we process it.</li>
+  <li><strong>Right to Limit Use and Disclosure of Sensitive Personal Information:</strong> If we collect sensitive personal information (as defined by the CPRA), you have the right to limit our use and disclosure of that information to purposes that are necessary to perform the services or provide the goods you have requested, or as otherwise permitted by law.</li>
+  <li><strong>Right to Non-Discrimination:</strong> We will not discriminate against you for exercising any of your CCPA/CPRA rights. We will not deny you goods or services, charge you different prices or rates, provide a different level or quality of goods or services, or suggest that you will receive a different price or quality of goods or services because you exercised your privacy rights.</li>
+</ul>
+<p>To submit a verifiable consumer request to exercise your rights under the CCPA/CPRA, please contact us using the information provided in Section 17. You may also designate an authorized agent to make a request on your behalf by providing the agent with signed written permission and verifying your own identity directly with us.</p>
+
+<h3>8.6 Other US State Privacy Laws</h3>
+<p>If you are a resident of another US state with comprehensive consumer privacy legislation, you may have additional rights under applicable law. We endeavor to honor the privacy rights of all our users, regardless of location. Below is a summary of key state laws that may apply:</p>
+<ul>
+  <li><strong>Virginia Consumer Data Protection Act (VCDPA):</strong> Virginia residents have the right to access, correct, delete, and obtain a copy of their personal data, as well as the right to opt out of the processing of personal data for targeted advertising, the sale of personal data, and profiling that produces legal or similarly significant effects. To appeal a decision regarding your request, please contact us.</li>
+  <li><strong>Colorado Privacy Act (CPA):</strong> Colorado residents have the right to access, correct, delete, and obtain a portable copy of their personal data, and to opt out of the processing of personal data for targeted advertising, the sale of personal data, and certain profiling activities. You may designate an authorized agent to exercise opt-out rights on your behalf via a universal opt-out mechanism.</li>
+  <li><strong>Connecticut Data Privacy Act (CTDPA):</strong> Connecticut residents have rights similar to those under the VCDPA, including access, correction, deletion, data portability, and the right to opt out of targeted advertising, the sale of personal data, and profiling. You may appeal our decision regarding your privacy request.</li>
+  <li><strong>Utah Consumer Privacy Act (UCPA):</strong> Utah residents have the right to access and delete their personal data, and to opt out of the processing of personal data for targeted advertising and the sale of personal data.</li>
+  <li><strong>Texas Data Privacy and Security Act (TDPSA):</strong> Texas residents have the right to access, correct, delete, and obtain a portable copy of their personal data, as well as the right to opt out of targeted advertising, the sale of personal data, and profiling. You may appeal our decision, and if the appeal is denied, you may contact the Texas Attorney General.</li>
+  <li><strong>Oregon Consumer Privacy Act (OCPA):</strong> Oregon residents have the right to access, correct, delete, and obtain a copy of their personal data, as well as opt-out rights for targeted advertising, sales, and profiling.</li>
+  <li><strong>Montana Consumer Data Privacy Act (MCDPA):</strong> Montana residents have similar rights to those described above, including access, correction, deletion, portability, and opt-out rights for targeted advertising and sales.</li>
+</ul>
+<p>To exercise any rights under state privacy laws, please contact us using the information in Section 17. We will verify your identity and respond within the timeframe required by applicable law.</p>
+
+<!-- 9. DATA SECURITY -->
+<h2>9. Data Security</h2>
+<p>We implement commercially reasonable administrative, technical, organizational, and physical safeguards designed to protect your personal information against unauthorized access, alteration, disclosure, destruction, loss, and misuse. Our security measures include, but are not limited to:</p>
+<ul>
+  <li>Encryption of data in transit using TLS/SSL (HTTPS).</li>
+  <li>Secure storage of personal data with access controls and authentication mechanisms.</li>
+  <li>Regular security assessments, vulnerability scanning, and monitoring of our systems.</li>
+  <li>Limiting access to personal information to authorized personnel on a need-to-know basis.</li>
+  <li>Use of firewalls, intrusion detection systems, and other network security tools.</li>
+  <li>Contractual obligations requiring our service providers to maintain appropriate security measures.</li>
+</ul>
+<p>Despite our efforts, no method of data transmission over the Internet or method of electronic storage is completely secure. We cannot guarantee the absolute security of your personal information. You acknowledge that you provide your personal information at your own risk. If we become aware of a security breach that affects your personal information, we will notify you in accordance with applicable law.</p>
+
+<!-- 10. DATA RETENTION -->
+<h2>10. Data Retention</h2>
+<p>We retain your personal information only for as long as reasonably necessary to fulfill the purposes for which it was collected, as described in this Privacy Policy, unless a longer retention period is required or permitted by applicable law. The criteria we use to determine appropriate retention periods include:</p>
+<ul>
+  <li>The duration of our ongoing relationship with you (e.g., for as long as you remain subscribed to our email list or have an active account).</li>
+  <li>Whether there is a legal obligation to which we are subject (e.g., tax records, financial transaction records, or other records required to be maintained by law).</li>
+  <li>Whether retention is advisable in light of our legal position (e.g., retaining information relevant to pending or potential litigation, regulatory investigations, or disputes).</li>
+  <li>The sensitivity and nature of the information collected.</li>
+  <li>The purposes for which the information was collected and whether those purposes have been fulfilled.</li>
+</ul>
+<p>When we no longer need your personal information for the purposes described in this Privacy Policy, we will securely delete or anonymize it. If deletion is not feasible (for example, because information has been stored in backup archives), we will securely store the information and isolate it from further processing until deletion is possible.</p>
+
+<!-- 11. CHILDREN'S PRIVACY -->
+<h2>11. Children's Privacy</h2>
+<p>Our Site is not directed to, and we do not knowingly collect personal information from, children under the age of 13 (or under the age of 16 in the European Economic Area). We comply with the Children's Online Privacy Protection Act (COPPA) and similar international regulations designed to protect children's privacy.</p>
+<p>If we discover that we have inadvertently collected personal information from a child under 13 (or under 16 in the EEA), we will take immediate steps to delete that information from our records. If you are a parent or guardian and believe that your child has provided personal information to us without your consent, please contact us immediately using the information provided in Section 17, and we will take prompt action to remove the information and terminate any associated accounts.</p>
+<p>We do not knowingly sell or share the personal information of consumers under 16 years of age.</p>
+
+<!-- 12. INTERNATIONAL DATA TRANSFERS -->
+<h2>12. International Data Transfers</h2>
+<p>Our Site is operated from the United States. If you are located outside the United States, please be aware that any information you provide to us or that we collect may be transferred to, stored in, and processed in the United States or other countries where our servers, service providers, and partners are located. These countries may have data protection laws that are different from, and potentially less protective than, the laws of your country of residence.</p>
+<p>If you are located in the European Economic Area, United Kingdom, or Switzerland, we will ensure that any transfer of your personal data to countries outside the EEA/UK is subject to appropriate safeguards as required by the GDPR and/or UK GDPR, such as Standard Contractual Clauses (SCCs) approved by the European Commission, adequacy decisions, binding corporate rules, or your explicit consent.</p>
+<p>By using our Site, submitting your information, or engaging with our services, you acknowledge and consent to the transfer, storage, and processing of your information in the United States and other jurisdictions as described in this Privacy Policy.</p>
+
+<!-- 13. LINKS TO OTHER WEBSITES -->
+<h2>13. Links to Other Websites</h2>
+<p>Our Site may contain links to third-party websites, services, products, or resources that are not owned or controlled by us. These links are provided for your convenience and informational purposes only. We do not endorse, monitor, or have any control over the content, privacy policies, practices, or security of these third-party websites.</p>
+<p>This Privacy Policy applies only to our Site. We are not responsible or liable for the privacy practices, terms of service, content, data collection, or security of any third-party website, service, or resource. We encourage you to read the privacy policy and terms of service of every website you visit, especially before providing any personal information. Your interactions with third-party websites are governed solely by the privacy policies and terms of those websites.</p>
+<p>The inclusion of a link on our Site does not imply any affiliation, sponsorship, recommendation, or endorsement by us of the linked website or its operators.</p>
+
+<!-- 14. CALIFORNIA "SHINE THE LIGHT" -->
+<h2>14. California "Shine the Light"</h2>
+<p>Under California Civil Code Section 1798.83, also known as the "Shine the Light" law, California residents who have an established business relationship with us have the right to request, once per calendar year, free of charge, information about the categories of personal information (if any) that we disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and the names and addresses of all third parties with which we shared personal information during that year.</p>
+<p>If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided in Section 17. In your request, please attest that you are a California resident and provide a current California address for our response. We will respond to your request within 30 days.</p>
+
+<!-- 15. NEVADA RESIDENTS -->
+<h2>15. Nevada Residents</h2>
+<p>Under Nevada Revised Statutes Chapter 603A (NRS 603A.345), Nevada residents have the right to submit a verified request directing us not to sell their "covered information" (as defined under Nevada law) that we have collected or will collect about them. A "sale" under Nevada law means the exchange of covered information for monetary consideration to a person for that person to license or sell the covered information to additional persons.</p>
+<p>If you are a Nevada resident and wish to exercise your right to opt out of the sale of your covered information, please contact us using the information provided in Section 17. We will respond to your request within 60 days, or 90 days if we reasonably need additional time, in which case we will notify you of the delay and the reason for the extension.</p>
+
+<!-- 16. CHANGES TO THIS PRIVACY POLICY -->
+<h2>16. Changes to This Privacy Policy</h2>
+<p>We reserve the right to update, modify, or replace this Privacy Policy at any time at our sole discretion. When we make material changes to this Privacy Policy, we will update the "Last Updated" date at the top of this page. We may also provide notice of significant changes through other means, such as a notice on the Site's homepage, a banner or popup notification, or an email notification (if we have your email address).</p>
+<p>We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices. Your continued use of the Site after the posting of changes to this Privacy Policy constitutes your acceptance of those changes. If you do not agree with the revised Privacy Policy, you must discontinue your use of the Site.</p>
+<p>For significant or material changes that may adversely affect your rights, we will make reasonable efforts to provide at least 30 days' notice before the changes take effect, where practicable and required by applicable law.</p>
+
+<!-- 17. CONTACT US -->
+<h2>17. Contact Us</h2>
+<p>If you have any questions, concerns, complaints, or requests regarding this Privacy Policy, our data practices, or your rights under applicable privacy law, please contact us at:</p>
+<p><a href="/contact">Contact Page</a></p>
+<p>When you contact us regarding a privacy matter, please provide sufficient detail about your request so that we can understand, evaluate, and respond to it. We may need to verify your identity before processing your request. We will respond to all verifiable requests within the timeframes required by applicable law (typically 30 to 45 days, depending on your jurisdiction and the nature of the request).</p>
+<p>If you are located in the European Economic Area and have a concern about our data processing practices that we have not satisfactorily addressed, you have the right to lodge a complaint with your local Data Protection Authority (DPA). You can find the contact details for your DPA at <a href="https://edpb.europa.eu/about-edpb/about-edpb/members_en" target="_blank" rel="noopener noreferrer">https://edpb.europa.eu/about-edpb/about-edpb/members_en</a>.</p>
+<p>If you are located in the United Kingdom, you may contact the Information Commissioner's Office (ICO) at <a href="https://ico.org.uk/" target="_blank" rel="noopener noreferrer">https://ico.org.uk/</a>.</p>
+
+</LegalLayout>

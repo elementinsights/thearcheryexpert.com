@@ -1,0 +1,53 @@
+---
+/**
+ * /go/[slug] — Affiliate redirect for NON-Amazon programs only.
+ * Amazon links must be direct (no redirects) per Associates TOS.
+ *
+ * Reads slug→URL mappings from a published Google Sheet CSV.
+ * Sheet format: column A = slug, column B = destination URL
+ *
+ * To set up:
+ * 1. Create a Google Sheet with slugs in column A, URLs in column B
+ * 2. File → Share → Publish to web → CSV
+ * 3. Paste the published CSV URL into site.config.ts → affiliateSheetUrl
+ */
+import { siteConfig } from '../../../site.config';
+
+export const prerender = false;
+
+const slug = Astro.params.slug;
+
+if (!slug) {
+  return Astro.redirect('/', 301);
+}
+
+if (!siteConfig.affiliateSheetUrl) {
+  return new Response('Affiliate redirects not configured.', { status: 404 });
+}
+
+let destination: string | null = null;
+
+try {
+  const res = await fetch(siteConfig.affiliateSheetUrl);
+  if (!res.ok) throw new Error(`Sheet fetch failed: ${res.status}`);
+
+  const csv = await res.text();
+  const rows = csv.split('\n').map(row => row.split(',').map(cell => cell.trim().replace(/^"|"$/g, '')));
+
+  for (const row of rows) {
+    if (row[0]?.toLowerCase() === slug.toLowerCase() && row[1]) {
+      destination = row[1];
+      break;
+    }
+  }
+} catch (e) {
+  console.error('Affiliate redirect error:', e);
+  return new Response('Error loading redirect data.', { status: 500 });
+}
+
+if (!destination) {
+  return Astro.redirect('/', 302);
+}
+
+return Astro.redirect(destination, 302);
+---

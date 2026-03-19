@@ -1,0 +1,256 @@
+---
+import { siteConfig } from '../../site.config';
+
+interface Props {
+  activeNav?: string;
+}
+
+const { activeNav } = Astro.props;
+const nameParts = siteConfig.name.split(siteConfig.nameHighlight);
+const namePrefix = nameParts[0] || '';
+---
+
+<header class="header" id="header">
+  <div class="scroll-progress" id="scroll-progress"></div>
+  <div class="container header-main">
+    {siteConfig.logo ? (
+      <a href="/" class="logo logo-img"><img src={siteConfig.logo} alt={siteConfig.name} width="188" height="36" /></a>
+    ) : (
+      <a href="/" class="logo">{namePrefix}<span>{siteConfig.nameHighlight}</span></a>
+    )}
+    <nav class="nav">
+      {siteConfig.categories.map(cat => (
+        <a href={`/category/${cat.slug}/`} class:list={[{ active: activeNav === cat.slug }]}>{cat.name}</a>
+      ))}
+      <a href="/start-here/" class="nav-start-here">Start Here</a>
+    </nav>
+    <div class="header-actions">
+      <button class="header-btn" id="search-btn" aria-label="Search">
+        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </button>
+      <button class="header-btn" id="dark-mode-btn" aria-label="Toggle dark mode">
+        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3a7 7 0 0 0 9.79 9.79z"/></svg>
+      </button>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- MOBILE NAV DRAWER -->
+<div class="mobile-nav-overlay" id="mobile-nav-overlay"></div>
+<nav class="mobile-nav" id="mobile-nav">
+  {siteConfig.categories.map(cat => (
+    <a href={`/category/${cat.slug}/`}>{cat.name}</a>
+  ))}
+  <a href="/start-here/" class="nav-start-here">Start Here</a>
+</nav>
+
+<style>
+  /* HEADER */
+  .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    transition: box-shadow var(--transition), top 0.3s ease-in-out;
+  }
+  .header.scrolled { box-shadow: var(--shadow); }
+  .header.header-hidden { top: -70px; }
+  .scroll-progress {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    background: var(--accent);
+    width: 0%;
+    transition: width 0.1s linear;
+    z-index: 10;
+  }
+  .header-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    gap: 20px;
+  }
+  .logo {
+    font-size: 1.6rem;
+    font-weight: 900;
+    color: var(--text);
+    letter-spacing: -0.02em;
+    white-space: nowrap;
+  }
+  .logo span { color: var(--accent); }
+  .logo-img img { height: 36px; width: auto; display: block; }
+  :global(.dark) .logo-img img { filter: invert(1); }
+
+  /* Nav */
+  .nav { display: flex; align-items: center; gap: 6px; }
+  .nav a {
+    color: var(--text);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 8px 14px;
+    border-radius: var(--radius);
+    transition: background var(--transition), color var(--transition);
+  }
+  .nav a:hover,
+  .nav a.active {
+    color: var(--accent);
+  }
+  .nav a.nav-start-here {
+    background: var(--accent);
+    color: #fff;
+    padding: 8px 18px;
+  }
+  .nav a.nav-start-here:hover {
+    background: var(--accent-hover);
+    color: #fff;
+  }
+
+  /* Header actions */
+  .header-actions { display: flex; align-items: center; gap: 6px; }
+  .header-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-secondary);
+    font-size: 20px;
+    padding: 8px;
+    border-radius: var(--radius);
+    transition: color var(--transition), background var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .header-btn:hover { color: var(--accent); background: var(--accent-light); }
+
+  /* Mobile menu toggle */
+  .menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .menu-toggle span {
+    display: block;
+    width: 24px;
+    height: 2.5px;
+    background: var(--text);
+    border-radius: 2px;
+    transition: transform 0.3s, opacity 0.3s;
+  }
+  .menu-toggle.active span:nth-child(1) { transform: translateY(7.5px) rotate(45deg); }
+  .menu-toggle.active span:nth-child(2) { opacity: 0; }
+  .menu-toggle.active span:nth-child(3) { transform: translateY(-7.5px) rotate(-45deg); }
+
+  /* Mobile nav overlay */
+  .mobile-nav-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: 998;
+  }
+  .mobile-nav-overlay.open { display: block; }
+
+  /* Mobile nav drawer */
+  .mobile-nav {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 280px;
+    height: 100vh;
+    background: var(--bg);
+    z-index: 999;
+    box-shadow: var(--shadow-lg);
+    padding: 80px 24px 24px;
+    flex-direction: column;
+    gap: 4px;
+    transition: right 0.3s ease;
+  }
+  .mobile-nav.open { right: 0; }
+  .header.menu-open { box-shadow: none !important; }
+  .mobile-nav a {
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text);
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    transition: color var(--transition);
+  }
+  .mobile-nav a:hover { color: var(--accent); }
+  .mobile-nav a.nav-start-here {
+    background: var(--accent);
+    color: #fff;
+    padding: 12px 18px;
+    border-radius: var(--radius);
+    text-align: center;
+    margin-top: 12px;
+    border-bottom: none;
+  }
+  .mobile-nav a.nav-start-here:hover {
+    background: var(--accent-hover);
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .nav { display: none; }
+    .menu-toggle { display: flex; }
+    .mobile-nav { display: flex; }
+  }
+</style>
+
+<script>
+  // Mobile nav toggle
+  const menuToggle = document.getElementById('menu-toggle');
+  const mobileNav = document.getElementById('mobile-nav');
+  const mobileOverlay = document.getElementById('mobile-nav-overlay');
+
+  const headerEl2 = document.getElementById('header');
+  menuToggle?.addEventListener('click', () => {
+    menuToggle.classList.toggle('active');
+    mobileNav?.classList.toggle('open');
+    mobileOverlay?.classList.toggle('open');
+    headerEl2?.classList.toggle('menu-open');
+  });
+  mobileOverlay?.addEventListener('click', () => {
+    menuToggle?.classList.remove('active');
+    mobileNav?.classList.remove('open');
+    mobileOverlay?.classList.remove('open');
+    headerEl2?.classList.remove('menu-open');
+  });
+
+  // Hide header on scroll down, show on scroll up (after 450px)
+  // Defer to avoid false trigger from browser scroll restoration on navigation
+  const headerEl = document.getElementById('header');
+  let lastScrollTop = window.scrollY;
+  let scrollReady = false;
+  requestAnimationFrame(() => {
+    lastScrollTop = window.scrollY;
+    if (lastScrollTop < 450 && headerEl) {
+      headerEl.classList.remove('header-hidden');
+    }
+    scrollReady = true;
+  });
+  window.addEventListener('scroll', () => {
+    if (!scrollReady) return;
+    const st = window.scrollY;
+    if (st > lastScrollTop && st >= 450) {
+      headerEl?.classList.add('header-hidden');
+    } else {
+      headerEl?.classList.remove('header-hidden');
+    }
+    lastScrollTop = st;
+  });
+</script>

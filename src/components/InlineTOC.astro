@@ -1,0 +1,79 @@
+---
+interface Props {
+  items: { label: string; href: string }[];
+}
+const { items } = Astro.props;
+---
+
+<div class="toc">
+  <div class="toc-title collapsed" id="toc-toggle">
+    <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+    Table of Contents
+  </div>
+  <div class="toc-list" id="toc-list" style="display:none">
+    {items.map(item => (
+      <a href={item.href}>{item.label}</a>
+    ))}
+  </div>
+</div>
+
+<script>
+  const tocToggle = document.getElementById('toc-toggle');
+  const tocList = document.getElementById('toc-list');
+  if (tocToggle && tocList) {
+    tocToggle.addEventListener('click', () => {
+      tocToggle.classList.toggle('collapsed');
+      tocList.style.display = tocToggle.classList.contains('collapsed') ? 'none' : 'flex';
+    });
+  }
+</script>
+
+<style>
+  .toc {
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 18px 22px;
+    margin-bottom: 32px;
+    display: none;
+  }
+  .toc-title {
+    font-size: 15px;
+    font-weight: 800;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .toc-title svg { transition: transform var(--transition); }
+  .toc-title.collapsed svg { transform: rotate(-90deg); }
+  .toc-title.collapsed { margin-bottom: 0; }
+  .toc-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .toc-list a {
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+    transition: color var(--transition), padding-left var(--transition);
+    text-decoration: none;
+  }
+  .toc-list a:last-child { border-bottom: none; }
+  .toc-list a:hover { color: var(--accent); padding-left: 6px; }
+
+  @media (max-width: 1024px) {
+    .toc { display: block; }
+  }
+  @media (max-width: 768px) {
+    .toc { padding: 14px 18px; margin-bottom: 24px; }
+    .toc-title { margin-bottom: 0; font-size: 14px; }
+    .toc-list a { padding: 6px 0; font-size: 13px; }
+  }
+</style>

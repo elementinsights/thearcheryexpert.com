@@ -1,0 +1,168 @@
+---
+import LegalLayout from '../layouts/LegalLayout.astro';
+import { siteConfig } from '../../site.config';
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Affiliate Disclosure",
+  "description": `${siteConfig.name}'s affiliate disclosure and FTC compliance information.`,
+  "url": `${siteConfig.url}/disclosure`,
+  "isPartOf": { "@type": "WebSite", "name": siteConfig.name, "url": siteConfig.url }
+};
+---
+
+<LegalLayout
+  title="Disclosure Policy"
+  description={`${siteConfig.name}'s affiliate disclosure and FTC compliance information.`}
+  lastUpdated="March 11, 2026"
+  schema={schema}
+>
+
+<div class="disclosure-intro">
+  <p>Transparency is a core value of {siteConfig.name}. This disclosure policy explains how we earn money, how affiliate relationships work, and how we maintain editorial integrity. We believe you deserve to know exactly how this site is funded so you can make informed decisions about the content you read and the recommendations we make.</p>
+</div>
+
+<!-- 1. FTC COMPLIANCE STATEMENT -->
+<h2>1. FTC Compliance Statement</h2>
+<p>This disclosure is provided in accordance with the Federal Trade Commission's 16 CFR Part 255: <em>"Guides Concerning the Use of Endorsements and Testimonials in Advertising"</em> and the FTC's updated guidance on endorsements, effective June 2023.</p>
+<p>In compliance with FTC guidelines, please assume that any and all links on this website are affiliate links, and that we may receive compensation if you click on any of these and make a purchase or take a qualifying action. This site is a participant in various affiliate advertising programs designed to provide a means for sites to earn advertising fees by advertising and linking to third-party websites.</p>
+<p>We have a <strong>material connection</strong> to some of the products, services, and companies mentioned on this site. This means we may receive compensation, free products, or other benefits when you click on links, purchase products, sign up for services, or otherwise engage with the offers we present. This material connection may influence which products or services we write about and where and how they appear on this site, although it does not influence the honesty of our opinions or reviews.</p>
+
+<!-- 2. AFFILIATE RELATIONSHIPS -->
+<h2>2. Affiliate Relationships</h2>
+<p>{siteConfig.name} participates in a number of affiliate programs and partnerships. When you click an affiliate link on our site and complete a qualifying action (such as making a purchase or signing up for a service), we may earn a commission at no additional cost to you. Our affiliate relationships include, but are not limited to, the following categories:</p>
+<ul>
+  <li><strong>Amazon Associates:</strong> As an Amazon Associate, we earn from qualifying purchases. Product links to Amazon.com and its affiliated sites may earn us referral fees.</li>
+  <li><strong>Survey and Rewards Platforms:</strong> We may link to survey sites, cashback programs, rewards apps, and similar platforms that pay us a referral commission when you sign up or complete qualifying activities through our links.</li>
+  <li><strong>Financial Products:</strong> We may receive compensation for referring you to banks, credit unions, credit card issuers, investment platforms, insurance providers, loan providers, budgeting apps, and other financial services. These referrals may involve flat-rate payments, per-lead fees, or revenue-sharing arrangements.</li>
+  <li><strong>SaaS and Software Products:</strong> We may earn commissions when you purchase or subscribe to software tools, apps, hosting services, website builders, email marketing platforms, and other technology products through our affiliate links.</li>
+  <li><strong>Other Affiliate Networks:</strong> We participate in various third-party affiliate networks including, but not limited to, ShareASale, CJ Affiliate (Commission Junction), Impact, Awin, Rakuten Advertising, FlexOffers, PartnerStack, and other similar programs that connect publishers with advertisers.</li>
+</ul>
+<p>The presence of an affiliate relationship does not guarantee that a product or service will be reviewed or recommended. We only promote products and services that we believe provide genuine value to our readers.</p>
+
+<!-- 3. ADVERTISING DISCLOSURE -->
+<h2>3. Advertising Disclosure</h2>
+<p>This website displays advertisements, including but not limited to display ads, banner ads, native ads, video ads, and interstitial ads. These advertisements are served through programmatic advertising networks and direct advertising partnerships.</p>
+<p>Advertising on this site may be managed by third-party ad networks and demand-side platforms that use cookies, web beacons, pixel tags, and similar technologies to serve ads based on your browsing behavior, interests, and demographics. These ad networks may include, but are not limited to, Raptive (formerly AdThrive/CafeMedia), Mediavine, Google AdSense, Google Ad Manager, Ezoic, and other programmatic advertising platforms.</p>
+<p>We do not directly control which specific advertisements appear on our pages. Ad content is selected algorithmically by our advertising partners based on a variety of factors, including your geographic location, browsing history, device type, and the content of the page you are viewing. The appearance of an advertisement on this site does not constitute an endorsement of the advertised product or service by {siteConfig.name}.</p>
+<p>We earn revenue from these advertisements on a cost-per-impression (CPM), cost-per-click (CPC), or cost-per-action (CPA) basis. This advertising revenue helps support the ongoing operation, maintenance, and content creation efforts of this website.</p>
+
+<!-- 4. SPONSORED CONTENT POLICY -->
+<h2>4. Sponsored Content Policy</h2>
+<p>From time to time, {siteConfig.name} may publish content that is sponsored by, created in partnership with, or financially supported by a third-party brand, company, or organization. This includes, but is not limited to, sponsored blog posts, sponsored reviews, brand collaborations, and paid endorsements.</p>
+<p>All sponsored content on this site will be <strong>clearly and conspicuously labeled</strong> with one or more of the following disclosures: "Sponsored," "Paid Partnership," "In Collaboration With [Brand]," "This post is sponsored by [Brand]," or similar clear language that identifies the content as commercially supported.</p>
+<p>Even when content is sponsored, we maintain <strong>full editorial independence</strong> over the opinions, conclusions, and recommendations expressed. Sponsors do not have approval rights over our editorial content, and we will never publish content that we believe is misleading, inaccurate, or contrary to the best interests of our readers, regardless of any sponsorship arrangement. If a sponsor requests changes to our honest assessment, we reserve the right to decline the sponsorship entirely.</p>
+
+<!-- 5. COMPENSATION DISCLOSURE -->
+<h2>5. Compensation Disclosure</h2>
+<p>{siteConfig.name} generates revenue through multiple channels. In the interest of full transparency, here is a comprehensive list of the ways this website earns money:</p>
+<ul>
+  <li><strong>Affiliate Commissions:</strong> We earn commissions when you click affiliate links on our site and complete qualifying purchases, sign-ups, or other actions with our affiliate partners.</li>
+  <li><strong>Display Advertising:</strong> We earn revenue from display advertisements shown on our pages, including banner ads, video ads, native ads, and other ad formats served by our advertising partners.</li>
+  <li><strong>Sponsored Content:</strong> We may receive payment from brands and companies in exchange for creating and publishing sponsored articles, reviews, or other content.</li>
+  <li><strong>Referral Bonuses:</strong> Some products and services offer one-time referral bonuses or incentives when new users sign up through our links. We may receive these bonuses in addition to, or instead of, ongoing commissions.</li>
+  <li><strong>Digital Products:</strong> We may sell or promote our own digital products, including ebooks, courses, templates, worksheets, and other downloadable resources.</li>
+  <li><strong>Email Marketing:</strong> We may include affiliate links, sponsored mentions, or advertisements within our email newsletters and automated email sequences.</li>
+</ul>
+<p>All compensation, regardless of its form, is disclosed in accordance with applicable FTC guidelines and regulations. The methods by which we earn revenue are subject to change, and this disclosure will be updated accordingly.</p>
+
+<!-- 6. EDITORIAL INDEPENDENCE -->
+<h2>6. Editorial Independence</h2>
+<p>The compensation we receive from affiliate partnerships, advertising, sponsored content, and other revenue sources does <strong>not</strong> influence the editorial content, opinions, recommendations, or rankings published on this website.</p>
+<p>Our editorial decisions are based on our own research, analysis, personal experience, and assessment of what provides the most value to our readers. We are committed to the following principles:</p>
+<ul>
+  <li>We only recommend products, services, and resources that we genuinely believe provide value to our audience.</li>
+  <li>We will never recommend a product or service solely because it offers a higher commission or financial incentive.</li>
+  <li>If we have a negative experience with a product or service, we will share that honestly, even if we have an affiliate relationship with the provider.</li>
+  <li>Our product rankings and comparisons are based on merit, features, value, and our honest evaluation, not on compensation levels.</li>
+  <li>We strive to present balanced perspectives that include both advantages and disadvantages of the products and services we review.</li>
+  <li>If a product or service deteriorates in quality after we have recommended it, we will update our content to reflect the change when we become aware of it.</li>
+</ul>
+
+<!-- 7. EARNINGS DISCLAIMER -->
+<h2>7. Earnings Disclaimer</h2>
+<p>Any earnings, income, or revenue figures referenced on this website, in our content, in our email communications, or on any of our associated platforms are <strong>estimates only</strong> and should not be considered as a promise, guarantee, or assurance of your own actual earnings or results.</p>
+<p>There is <strong>no guarantee</strong> that you will earn any money using the techniques, strategies, ideas, products, or services mentioned on this website. Nothing on this site should be interpreted as a "get-rich-quick" scheme or a promise of easy money. The information we provide is intended for educational and informational purposes only.</p>
+<p>Your results will vary and will depend on many factors, including but not limited to:</p>
+<ul>
+  <li>Your individual background, education, skills, and experience</li>
+  <li>Your work ethic, dedication, motivation, and the amount of effort you invest</li>
+  <li>Your financial situation, starting capital, and ability to take on risk</li>
+  <li>Market conditions, economic factors, and industry trends beyond your control</li>
+  <li>The specific actions you take and decisions you make</li>
+  <li>Your geographic location and local economic conditions</li>
+  <li>Timing, competition, and other unforeseeable variables</li>
+</ul>
+<p>There is always an inherent risk of loss of capital associated with any money-making endeavor, and there is no guarantee of income or success at any level. You are solely responsible for your own actions, decisions, and results. By using this website, you agree that {siteConfig.name} is not responsible for any financial losses or damages you may incur as a result of information presented on this site.</p>
+<p>Any references to specific income amounts, financial results, or success stories are individual cases and do not represent typical results. Past performance is not indicative of future results.</p>
+
+<!-- 8. TESTIMONIALS AND REVIEWS DISCLAIMER -->
+<h2>8. Testimonials and Reviews Disclaimer</h2>
+<p>Testimonials, case studies, user reviews, and success stories published on this website represent <strong>individual experiences and results</strong>. They are not intended to represent or guarantee that anyone will achieve the same or similar results.</p>
+<p>Each individual's experience with any product, service, strategy, or method discussed on this site will vary based on their unique circumstances, including their background, skills, dedication, and many other factors. The results described in any testimonial or review are <strong>not typical</strong> and should not be relied upon as an indication of the results you can expect.</p>
+<p>Product reviews published on this site reflect our honest opinions based on our personal experience, research, and evaluation at the time of writing. Our reviews may include information provided by the manufacturer, seller, or service provider, as well as information gathered from other users and publicly available sources. While we strive for accuracy, we cannot guarantee that every detail is current or error-free.</p>
+<p>Some testimonials or reviews may have been provided by individuals who received the product or service for free or at a discount. When this is the case, it will be disclosed.</p>
+
+<!-- 9. PRODUCT AND SERVICE INFORMATION -->
+<h2>9. Product and Service Information</h2>
+<p>We make our best efforts to ensure that the information we provide about products, services, pricing, features, availability, and promotions is accurate and up to date. However, this information is subject to change without notice by the product or service provider, and we cannot guarantee that all details on our site will be current at all times.</p>
+<ul>
+  <li><strong>Pricing:</strong> Product and service prices mentioned on this site are subject to change without notice. We make reasonable efforts to keep pricing information updated, but you should always verify the current price directly with the retailer or service provider before making a purchase.</li>
+  <li><strong>Availability:</strong> Products and services may become unavailable, discontinued, or altered after the time of our writing. We are not responsible for changes in product availability.</li>
+  <li><strong>Features and Specifications:</strong> Product features, specifications, terms of service, and other details may change without notice. Always refer to the official product page or provider website for the most current information.</li>
+  <li><strong>Promotions and Offers:</strong> Special offers, discounts, coupon codes, bonuses, and promotional deals mentioned on this site may expire, change, or be withdrawn at any time. We do not guarantee the availability or validity of any offer mentioned on our site.</li>
+</ul>
+<p>Before making any purchase or financial decision, we strongly encourage you to verify all relevant information directly with the product manufacturer, retailer, or service provider.</p>
+
+<!-- 10. NOT PROFESSIONAL ADVICE -->
+<h2>10. Not Professional Advice</h2>
+<p>The content published on {siteConfig.name} is for <strong>general informational and educational purposes only</strong>. It is not intended to be, and should not be construed as, professional advice of any kind. Specifically, the content on this site does <strong>not</strong> constitute:</p>
+<ul>
+  <li><strong>Financial advice:</strong> We are not licensed financial advisors, certified financial planners, or registered investment advisors. Nothing on this site should be interpreted as personalized financial advice.</li>
+  <li><strong>Legal advice:</strong> We are not attorneys. Nothing on this site should be considered legal counsel or guidance.</li>
+  <li><strong>Tax advice:</strong> We are not certified public accountants or enrolled agents. Tax laws are complex and vary by jurisdiction. Nothing on this site should be used as a substitute for professional tax preparation or planning.</li>
+  <li><strong>Investment advice:</strong> We are not registered broker-dealers or investment advisors. Any discussion of investments, securities, cryptocurrencies, or other financial instruments is for informational purposes only and should not be relied upon when making investment decisions.</li>
+  <li><strong>Medical or health advice:</strong> We are not licensed healthcare professionals. Any health-related content is for informational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment.</li>
+  <li><strong>Accounting advice:</strong> Any references to bookkeeping, accounting practices, or financial reporting are general in nature and should not replace the guidance of a qualified accountant.</li>
+</ul>
+<p>You should always consult with a qualified, licensed professional who can provide advice tailored to your specific circumstances before making any important financial, legal, tax, investment, health, or other decisions. Reliance on any information provided by this website is solely at your own risk.</p>
+
+<!-- 11. ACCURACY AND ERRORS -->
+<h2>11. Accuracy and Errors</h2>
+<p>While we make every reasonable effort to ensure that the information published on {siteConfig.name} is accurate, current, and reliable, we make <strong>no warranties or representations</strong> of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained on this website for any purpose.</p>
+<p>Despite our best efforts, our content may contain:</p>
+<ul>
+  <li>Typographical errors, inaccuracies, or omissions</li>
+  <li>Outdated information that has not yet been updated</li>
+  <li>Errors in data, statistics, figures, or calculations</li>
+  <li>Broken or expired links to third-party websites</li>
+  <li>Information that was accurate at the time of publication but has since changed</li>
+</ul>
+<p>We reserve the right to correct any errors, inaccuracies, or omissions and to change or update information at any time without prior notice. If you believe you have found an error on our site, we encourage you to <a href="/contact">contact us</a> so we can review and correct it.</p>
+<p>Any reliance you place on the information published on this site is strictly at your own risk. In no event will {siteConfig.name} be liable for any loss or damage, including without limitation indirect or consequential loss or damage, arising from the use of or reliance on information published on this website.</p>
+
+<!-- 12. AFFILIATE LINK IDENTIFICATION -->
+<h2>12. Affiliate Link Identification</h2>
+<p>We want our readers to clearly understand how affiliate links work and how to identify them:</p>
+<ul>
+  <li><strong>How affiliate links work:</strong> When you click on an affiliate link on our site, a small tracking code is added to your browser (typically via a cookie). If you complete a qualifying action (such as making a purchase) within a certain timeframe after clicking, our affiliate partner tracks that action and credits us with a commission.</li>
+  <li><strong>No extra cost to you:</strong> Clicking an affiliate link and making a purchase through it does <strong>not</strong> cost you any extra money. The price you pay is the same whether you use our link or go directly to the retailer's website. In some cases, our affiliate links may actually provide you with exclusive discounts, bonuses, or special offers that are not available through other channels.</li>
+  <li><strong>How to identify affiliate links:</strong> Affiliate links on this site may be identified by disclosure statements near the link or at the top of the article (such as "This post contains affiliate links"), link text that includes phrases like "check price," "get started," "sign up," or "learn more," or by URLs that contain tracking parameters, redirect paths (such as "/go/" or "/recommends/"), or recognizable affiliate network domains.</li>
+  <li><strong>Opting out:</strong> If you prefer not to use our affiliate links, you are free to navigate directly to any product or service website by typing the URL into your browser. We respect your choice, and we appreciate your readership regardless of whether you use our affiliate links.</li>
+</ul>
+
+<!-- 13. AMAZON ASSOCIATES SPECIFIC DISCLOSURE -->
+<h2>13. Amazon Associates Program Disclosure</h2>
+<p><strong>{siteConfig.name} is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.</strong></p>
+<p>As an Amazon Associate, we earn from qualifying purchases. This means that when you click on an Amazon affiliate link on our site and make a purchase on Amazon.com or its affiliated sites (including but not limited to Amazon.ca, Amazon.co.uk, and other international Amazon marketplaces), we may earn a small referral fee at no additional cost to you.</p>
+<p>Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. The inclusion of Amazon product links, product images, pricing data, and product descriptions on this site does not constitute an endorsement by Amazon. Product information is provided by Amazon and is subject to change at any time. Pricing and availability information displayed on our site may differ from what is shown on Amazon at the time of purchase. The price and availability of products on Amazon are subject to change and the final terms of any sale will be determined by Amazon at the point of purchase.</p>
+<p>We are required by our agreement with the Amazon Associates Program to disclose this relationship. For more information about the Amazon Associates Program, please visit <a href="https://affiliate-program.amazon.com/" target="_blank" rel="noopener noreferrer">Amazon's affiliate program page</a>.</p>
+
+<!-- 14. QUESTIONS -->
+<h2>14. Questions About This Disclosure</h2>
+<p>We are committed to transparency and want you to feel confident about the content you read on our site. If you have any questions, concerns, or feedback about this Disclosure Policy, our affiliate relationships, our advertising practices, or any other aspect of how this site is funded and operated, please do not hesitate to reach out to us.</p>
+<p>You can contact us through our <a href="/contact">Contact page</a> or by sending an email directly. We will do our best to respond to your inquiry in a timely manner.</p>
+<p>Thank you for reading our Disclosure Policy and for your continued trust in {siteConfig.name}. Your support, whether through reading our content, sharing our articles, or using our affiliate links, helps us continue to create high-quality, helpful content for our community.</p>
+
+</LegalLayout>

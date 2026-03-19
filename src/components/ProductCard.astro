@@ -1,0 +1,271 @@
+---
+interface Props {
+  rank?: number;
+  name: string;
+  image?: string;
+  rating?: number;
+  description?: string;
+  highlights?: string[];
+  pros?: string[];
+  cons?: string[];
+  ctaText?: string;
+  ctaUrl?: string;
+  badge?: string;
+  reviewCount?: number;
+}
+
+const { rank, name, image, rating, description, highlights = [], pros = [], cons = [], ctaText = 'Check Price', ctaUrl = '#', badge, reviewCount } = Astro.props;
+function renderStars(r: number): string {
+  const val = r / 2;
+  const rounded = Math.round(val * 2) / 2;
+  const full = Math.floor(rounded);
+  const half = rounded > full ? 1 : 0;
+  const empty = 5 - full - half;
+  return '★'.repeat(full) + (half ? '<span class="star-half">☆</span>' : '') + '☆'.repeat(empty);
+}
+---
+
+<div class="product-card animate-on-scroll" id={rank ? `product-${rank}` : undefined}>
+  <div class="product-card-top">
+    {image && (
+      <div class="product-card-img">
+        <a href={ctaUrl} target="_blank" rel="nofollow sponsored">
+          <img src={image} alt={name} loading="lazy" />
+        </a>
+      </div>
+    )}
+    <div class="product-card-body">
+      {rank && (
+        <div class="product-card-rank">
+          <span class="rank-badge">#{rank}</span>
+          {badge && <span>{badge}</span>}
+        </div>
+      )}
+      <h3 class="product-card-name">{name}</h3>
+      {rating && (
+        <div class="product-card-rating">
+          <span class="stars" set:html={renderStars(rating!)} />
+          <span class="rating-text">{rating}/10</span>
+          {reviewCount && <span class="review-count">({reviewCount.toLocaleString()} reviews)</span>}
+        </div>
+      )}
+      {description && <p class="product-card-desc">{description}</p>}
+      {highlights.length > 0 && (
+        <div class="product-card-highlights">
+          {highlights.map(h => <span class="highlight-tag">{h}</span>)}
+        </div>
+      )}
+      <a href={ctaUrl} class="product-card-cta" target="_blank" rel="nofollow sponsored">
+        {ctaText}
+        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+  {(pros.length > 0 || cons.length > 0) && (
+    <div class="product-card-details">
+      {pros.length > 0 && (
+        <div class="pros-cons">
+          <h4 class="pros-title">
+            <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg>
+            Pros
+          </h4>
+          <ul class="pros-list">
+            {pros.map(p => <li>{p}</li>)}
+          </ul>
+        </div>
+      )}
+      {cons.length > 0 && (
+        <div class="pros-cons">
+          <h4 class="cons-title">
+            <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            Cons
+          </h4>
+          <ul class="cons-list">
+            {cons.map(c => <li>{c}</li>)}
+          </ul>
+        </div>
+      )}
+    </div>
+  )}
+</div>
+
+<style>
+  .product-card {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    margin: 28px 0;
+    background: var(--bg);
+    box-shadow: var(--shadow-sm);
+    max-width: 100%;
+  }
+  .product-card-top {
+    display: flex;
+    gap: 24px;
+    padding: 24px;
+  }
+  .product-card-img {
+    flex-shrink: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--bg-alt);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .product-card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    padding: 12px;
+  }
+  .product-card-body { flex: 1; }
+  .product-card-rank {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin-bottom: 6px;
+  }
+  .product-card-rank .rank-badge {
+    background: var(--accent);
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+  }
+  .product-card-name {
+    font-size: 1.4rem;
+    font-weight: 800;
+    margin-bottom: 8px;
+    line-height: 1.3;
+  }
+  .product-card-rating {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  .stars { color: #f59e0b; letter-spacing: 2px; }
+  .star-half {
+    position: relative;
+    display: inline-block;
+  }
+  .star-half::before {
+    content: '★';
+    position: absolute;
+    left: 0;
+    width: 50%;
+    overflow: hidden;
+  }
+  .rating-text { color: var(--text-secondary); font-weight: 500; }
+  .review-count { color: var(--text-light); font-size: 13px; }
+  .product-card-desc {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .product-card-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .highlight-tag {
+    font-size: 12px;
+    font-weight: 600;
+    padding: 4px 12px;
+    border-radius: 20px;
+    background: var(--accent-light);
+    color: var(--accent);
+  }
+  .product-card-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--accent);
+    color: #fff !important;
+    padding: 12px 24px;
+    border-radius: var(--radius);
+    font-size: 15px;
+    font-weight: 700;
+    transition: background var(--transition), transform var(--transition);
+    box-sizing: border-box;
+    text-decoration: none !important;
+  }
+  .product-card-cta:hover {
+    background: var(--accent-hover);
+    color: #fff !important;
+    transform: translateY(-1px);
+    text-decoration: none !important;
+  }
+  .product-card-cta svg {
+    transition: transform var(--transition);
+    position: relative;
+    top: 0.5px;
+  }
+  .product-card-cta:hover svg { transform: translateX(3px); }
+
+  /* Pros / Cons */
+  .product-card-details {
+    border-top: 1px solid var(--border);
+    padding: 20px 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  .pros-cons h4 {
+    font-size: 14px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .pros-cons h4.pros-title { color: var(--green); }
+  .pros-cons h4.cons-title { color: var(--red); }
+  .pros-cons ul { padding: 0; }
+  .pros-cons li {
+    font-size: 14px;
+    line-height: 1.55;
+    padding: 5px 0 5px 22px;
+    position: relative;
+    list-style: none;
+    color: var(--text-secondary);
+  }
+  .pros-cons li::before {
+    position: absolute;
+    left: 0;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .pros-list li::before { content: '+'; color: var(--green); }
+  .cons-list li::before { content: '\2013'; color: var(--red); }
+
+  @media (max-width: 768px) {
+    .product-card-top { flex-direction: column; padding: 18px; }
+    .product-card-img { width: 100%; height: 200px; }
+    .product-card-details { grid-template-columns: 1fr; padding: 18px; }
+    .product-card-name { font-size: 1.2rem; }
+    .product-card-desc { font-size: 14px; }
+    .product-card-cta { width: 100%; justify-content: center; }
+    .highlight-tag { font-size: 11px; padding: 3px 10px; }
+  }
+  @media (max-width: 480px) {
+    .product-card-name { font-size: 1.1rem; }
+    .product-card-top { padding: 16px; gap: 16px; }
+    .product-card-img { height: 180px; }
+  }
+</style>

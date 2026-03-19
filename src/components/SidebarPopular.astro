@@ -1,0 +1,63 @@
+---
+interface Props {
+  title?: string;
+  posts: { title: string; href: string; date?: string }[];
+}
+const { title = 'Most Popular', posts } = Astro.props;
+---
+
+<div class="widget">
+  <h3 class="widget-title">{title}</h3>
+  {posts.map((post, i) => (
+    <div class="widget-post">
+      <span class="widget-post-num">{i + 1}</span>
+      <div>
+        <div class="widget-post-title"><a href={post.href}>{post.title}</a></div>
+        {post.date && <div class="widget-post-date">{post.date}</div>}
+      </div>
+    </div>
+  ))}
+</div>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--accent);
+    display: inline-block;
+  }
+  .widget-post {
+    display: flex;
+    gap: 12px;
+    padding: 15px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .widget-post:first-of-type { padding-top: 0; }
+  .widget-post:last-of-type { border-bottom: none; padding-bottom: 0; }
+  .widget-post-num {
+    flex-shrink: 0;
+    width: 32px;
+    height: 32px;
+    background: var(--accent-light);
+    color: var(--accent);
+    font-size: 14px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    margin-top: 2px;
+  }
+  .widget-post-title { font-size: 14px; font-weight: 700; line-height: 1.4; }
+  .widget-post-title a { color: var(--text); }
+  .widget-post-title a:hover { color: var(--accent); }
+  .widget-post-date { font-size: 12px; color: var(--text-light); margin-top: 3px; }
+</style>

@@ -1,0 +1,76 @@
+---
+interface Props {
+  posts: { title: string; href: string; image?: string; category?: string; date?: string; readTime?: string }[];
+}
+const { posts } = Astro.props;
+---
+
+{posts.length > 0 && (
+  <section class="related-section">
+    <div class="container">
+      <div class="section-header animate-on-scroll">
+        <h2 class="section-title" style="font-size:1.5rem; margin-bottom: 28px;">You Might Also Like</h2>
+      </div>
+      <div class="related-grid">
+        {posts.map(post => (
+          <a href={post.href} class="related-card animate-on-scroll">
+            <div class="related-card-img">
+              {post.image && <img src={`${post.image}${post.image.includes('?') ? '&' : '?'}w=500&q=70`} alt={post.title} loading="lazy" width="500" height="280" />}
+            </div>
+            <div class="related-card-body">
+              {post.category && <div class="related-card-cat">{post.category}</div>}
+              <h3 class="related-card-title">{post.title}</h3>
+              <div class="related-card-meta">{post.date}{post.readTime && ` \u2022 ${post.readTime}`}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+<style>
+  .related-section {
+    padding: 55px 0 60px;
+    background: var(--bg-alt);
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .related-card {
+    background: var(--bg);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    transition: box-shadow var(--transition), transform var(--transition);
+    display: block;
+    color: var(--text);
+  }
+  .related-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-3px);
+    color: var(--text);
+  }
+  .related-card-img { height: 180px; overflow: hidden; }
+  .related-card-img img {
+    width: 100%; height: 100%; object-fit: cover;
+    transition: transform 0.4s ease;
+  }
+  .related-card:hover .related-card-img img { transform: scale(1.05); }
+  .related-card-body { padding: 20px; }
+  .related-card-cat {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.05em; color: var(--accent); margin-bottom: 8px;
+  }
+  .related-card-title { font-size: 1.05rem; font-weight: 800; line-height: 1.35; margin-bottom: 8px; }
+  .related-card-meta { font-size: 13px; color: var(--text-light); }
+
+  @media (max-width: 1024px) {
+    .related-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 768px) {
+    .related-grid { grid-template-columns: 1fr; }
+  }
+</style>

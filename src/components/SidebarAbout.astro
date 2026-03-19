@@ -1,0 +1,43 @@
+---
+import { siteConfig } from '../../site.config';
+---
+
+<div class="widget widget-about">
+  <div class="widget-about-img">&#9997;</div>
+  <h3 class="widget-title">About Us</h3>
+  <p>{siteConfig.author.bio}</p>
+</div>
+
+<style>
+  .widget {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 800;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--accent);
+    display: inline-block;
+  }
+  .widget-about-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: var(--accent-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    margin: 0 auto 14px auto;
+  }
+  .widget-about p {
+    font-size: 14px;
+    color: var(--text-secondary);
+    text-align: left;
+    line-height: 1.6;
+  }
+</style>

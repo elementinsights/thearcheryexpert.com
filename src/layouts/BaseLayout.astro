@@ -1,0 +1,174 @@
+---
+import { siteConfig } from '../../site.config';
+import Header from '../components/Header.astro';
+import SearchOverlay from '../components/SearchOverlay.astro';
+import Footer from '../components/Footer.astro';
+import BackToTop from '../components/BackToTop.astro';
+import '../styles/base.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  activeNav?: string;
+  schema?: object | object[];
+  isArticle?: boolean;
+}
+
+const {
+  title,
+  description = siteConfig.tagline,
+  image,
+  activeNav,
+  schema,
+  isArticle = false,
+} = Astro.props;
+
+const pageTitle = title === 'Home'
+  ? `${siteConfig.name} - ${siteConfig.tagline}`
+  : `${title} - ${siteConfig.name}`;
+
+const canonicalUrl = new URL(Astro.url.pathname, siteConfig.url).href;
+const ogImage = image ? new URL(image, siteConfig.url).href : undefined;
+const twitterHandle = siteConfig.social?.twitter
+  ? '@' + siteConfig.social.twitter.replace(/^https?:\/\/(www\.)?(twitter|x)\.com\//, '')
+  : undefined;
+
+const schemas = schema
+  ? Array.isArray(schema) ? schema : [schema]
+  : [];
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{pageTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content={isArticle ? "article" : "website"} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={description} />
+  {ogImage && <meta property="og:image" content={ogImage} />}
+  <meta property="og:site_name" content={siteConfig.name} />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content={ogImage ? "summary_large_image" : "summary"} />
+  {twitterHandle && <meta name="twitter:site" content={twitterHandle} />}
+  <meta name="twitter:title" content={pageTitle} />
+  <meta name="twitter:description" content={description} />
+  {ogImage && <meta name="twitter:image" content={ogImage} />}
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title={siteConfig.name} href="/rss.xml" />
+
+  <!-- Inter font — preload + inline @font-face for zero CLS -->
+  <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
+  <style is:inline>
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: block;
+      src: url('/fonts/inter-latin.woff2') format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    @font-face {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: block;
+      src: url('/fonts/inter-latin-ext.woff2') format('woff2');
+      unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    .header-main { padding-top: 10px; padding-bottom: 10px; }
+    .header-spacer { height: 57px; }
+  </style>
+
+  <!-- Dark mode: prevent flash -->
+  <script is:inline>
+    if (localStorage.getItem('theme') === 'dark') {
+      document.documentElement.classList.add('dark');
+    }
+  </script>
+
+  <!-- Dynamic theme colors from config -->
+  <style define:vars={{
+    accent: siteConfig.theme.accent,
+    'accent-hover': siteConfig.theme.accentHover,
+    'accent-light': siteConfig.theme.accentLight,
+    'accent-rgb': siteConfig.theme.accentRgb,
+  }}>
+  </style>
+
+  <!-- Schema markup -->
+  {schemas.map(s => (
+    <script type="application/ld+json" set:html={JSON.stringify(s)} />
+  ))}
+
+  <!-- Head slot for per-page additions -->
+  <slot name="head" />
+</head>
+<body>
+  <SearchOverlay />
+  <Header activeNav={activeNav} />
+  <div class="header-spacer"></div>
+
+  <main>
+    <slot />
+  </main>
+
+  <Footer />
+  <BackToTop />
+
+  <!-- Shared scripts -->
+  <script>
+    // Sticky header shadow + scroll progress (throttled with rAF)
+    const header = document.getElementById('header');
+    const progressBar = document.getElementById('scroll-progress');
+    const backToTop = document.getElementById('back-to-top');
+
+    let scrollTicking = false;
+    window.addEventListener('scroll', () => {
+      if (!scrollTicking) {
+        requestAnimationFrame(() => {
+          const scrollY = window.scrollY;
+          header?.classList.toggle('scrolled', scrollY > 10);
+
+          const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+          const progress = docHeight > 0 ? (scrollY / docHeight) * 100 : 0;
+          if (progressBar) progressBar.style.width = progress + '%';
+
+          backToTop?.classList.toggle('visible', scrollY > 500);
+          scrollTicking = false;
+        });
+        scrollTicking = true;
+      }
+    });
+
+    // Dark mode toggle
+    const darkBtn = document.getElementById('dark-mode-btn');
+    darkBtn?.addEventListener('click', () => {
+      document.documentElement.classList.toggle('dark');
+      const isDark = document.documentElement.classList.contains('dark');
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    });
+
+    // Scroll-triggered animations
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1 });
+
+    document.querySelectorAll('.animate-on-scroll').forEach((el) => observer.observe(el));
+  </script>
+</body>
+</html>

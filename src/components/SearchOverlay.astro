@@ -1,0 +1,210 @@
+---
+---
+
+<div class="search-overlay" id="search-overlay">
+  <div class="search-container">
+    <div class="search-box">
+      <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="search-input" placeholder="Search articles..." autocomplete="off" />
+      <button class="search-close" id="search-close" aria-label="Close search">&times;</button>
+    </div>
+    <div class="search-results" id="search-results"></div>
+  </div>
+</div>
+
+<style>
+  .search-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    z-index: 9999;
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 120px;
+    backdrop-filter: blur(4px);
+  }
+  .search-overlay.open { display: flex; }
+  .search-container {
+    width: 90%;
+    max-width: 600px;
+    animation: searchSlideDown 0.25s ease;
+  }
+  .search-box {
+    background: var(--bg);
+    border-radius: var(--radius-lg);
+    padding: 8px;
+    box-shadow: var(--shadow-lg);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  @keyframes searchSlideDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .search-box svg { margin-left: 12px; color: var(--text-light); flex-shrink: 0; }
+  .search-box input {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-family: inherit;
+    background: transparent;
+    color: var(--text);
+    padding: 12px 0;
+  }
+  .search-box input::placeholder { color: var(--text-light); }
+  .search-close {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: var(--text-light);
+    padding: 8px 12px;
+    transition: color var(--transition);
+  }
+  .search-close:hover { color: var(--text); }
+
+  /* Results */
+  .search-results {
+    background: var(--bg);
+    border-radius: var(--radius-lg);
+    margin-top: 8px;
+    max-height: 400px;
+    overflow-y: auto;
+    box-shadow: var(--shadow-lg);
+  }
+  .search-results:empty {
+    display: none;
+  }
+  .search-results .search-result-item {
+    display: block;
+    padding: 14px 20px;
+    text-decoration: none;
+    color: var(--text);
+    border-bottom: 1px solid var(--border);
+    transition: background var(--transition);
+  }
+  .search-results .search-result-item:last-child {
+    border-bottom: none;
+  }
+  .search-results .search-result-item:hover {
+    background: var(--bg-alt, rgba(0,0,0,0.04));
+  }
+  .search-results .result-title {
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 4px;
+  }
+  .search-results .result-meta {
+    font-size: 13px;
+    color: var(--text-light);
+    display: flex;
+    gap: 12px;
+  }
+  .search-results .no-results {
+    padding: 20px;
+    text-align: center;
+    color: var(--text-light);
+    font-size: 15px;
+  }
+</style>
+
+<script>
+  let searchIndex: Array<{
+    title: string;
+    description: string;
+    category: string;
+    slug: string;
+    date: string;
+  }> | null = null;
+
+  let debounceTimer: ReturnType<typeof setTimeout> | null = null;
+
+  const searchBtn = document.getElementById('search-btn');
+  const searchOverlay = document.getElementById('search-overlay');
+  const searchClose = document.getElementById('search-close');
+  const searchInput = document.getElementById('search-input') as HTMLInputElement | null;
+  const searchResults = document.getElementById('search-results');
+
+  async function loadIndex() {
+    if (searchIndex) return;
+    try {
+      const res = await fetch('/search-index.json');
+      searchIndex = await res.json();
+    } catch {
+      searchIndex = [];
+    }
+  }
+
+  function renderResults(query: string) {
+    if (!searchResults || !searchIndex) return;
+
+    const trimmed = query.trim().toLowerCase();
+    if (!trimmed) {
+      searchResults.innerHTML = '';
+      return;
+    }
+
+    const matches = searchIndex.filter(
+      (item) =>
+        item.title.toLowerCase().includes(trimmed) ||
+        item.description.toLowerCase().includes(trimmed)
+    );
+
+    if (matches.length === 0) {
+      searchResults.innerHTML = '<div class="no-results">No results found</div>';
+      return;
+    }
+
+    searchResults.innerHTML = matches
+      .map(
+        (item) =>
+          `<a class="search-result-item" href="/${item.slug}/">
+            <div class="result-title">${escapeHtml(item.title)}</div>
+            <div class="result-meta">
+              <span>${escapeHtml(item.category)}</span>
+              <span>${escapeHtml(item.date)}</span>
+            </div>
+          </a>`
+      )
+      .join('');
+  }
+
+  function escapeHtml(str: string): string {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  function openSearch() {
+    searchOverlay?.classList.add('open');
+    searchInput?.focus();
+    loadIndex();
+  }
+
+  function closeSearch() {
+    searchOverlay?.classList.remove('open');
+    if (searchInput) searchInput.value = '';
+    if (searchResults) searchResults.innerHTML = '';
+  }
+
+  searchBtn?.addEventListener('click', openSearch);
+  searchClose?.addEventListener('click', closeSearch);
+
+  searchOverlay?.addEventListener('click', (e) => {
+    if (e.target === searchOverlay) closeSearch();
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeSearch();
+  });
+
+  searchInput?.addEventListener('input', () => {
+    if (debounceTimer) clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      renderResults(searchInput.value);
+    }, 200);
+  });
+</script>

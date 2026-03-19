@@ -1,0 +1,186 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import SidebarAbout from '../components/SidebarAbout.astro';
+import SidebarPopular from '../components/SidebarPopular.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  subtitle?: string;
+  activeNav?: string;
+  schema?: object | object[];
+  popularPosts?: { title: string; href: string; date?: string }[];
+  postCount?: number;
+}
+
+const { title, description, subtitle, activeNav, schema, popularPosts = [], postCount = 0 } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} activeNav={activeNav} schema={schema}>
+  <slot name="head" slot="head" />
+
+  <!-- Category Hero -->
+  <section class="category-hero">
+    <div class="container">
+      <h1>{title}</h1>
+      {subtitle && <p class="category-hero-subtitle">{subtitle}</p>}
+      <div class="breadcrumb">
+        <a href="/">Home</a>
+        <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>
+        <span>{title}</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter / Sort Bar -->
+  <div class="filter-bar">
+    <div class="container filter-bar-inner">
+      <span class="filter-bar-count">Showing {postCount} {postCount === 1 ? 'article' : 'articles'}</span>
+      <div class="filter-bar-sort">
+        <label for="sort-select">Sort by:</label>
+        <select id="sort-select">
+          <option value="latest">Latest</option>
+          <option value="popular">Popular</option>
+          <option value="az">A-Z</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <section class="cat-section">
+    <div class="container">
+      <div class="cat-grid">
+        <div class="cat-main">
+          <slot />
+        </div>
+        <aside class="cat-sidebar">
+          <SidebarAbout />
+          {popularPosts.length > 0 && (
+            <SidebarPopular title={`Popular in ${title}`} posts={popularPosts} />
+          )}
+        </aside>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .category-hero {
+    background: var(--bg-dark);
+    padding: 50px 0 45px;
+    text-align: center;
+  }
+  .category-hero h1 {
+    font-size: 2.6rem;
+    color: #fff;
+    margin-bottom: 14px;
+    line-height: 1.15;
+  }
+  .category-hero-subtitle {
+    font-size: 17px;
+    color: rgba(255,255,255,0.65);
+    max-width: 650px;
+    margin: 0 auto 22px;
+    line-height: 1.6;
+  }
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 14px;
+    color: rgba(255,255,255,0.4);
+  }
+  .breadcrumb a {
+    color: rgba(255,255,255,0.55);
+    transition: color var(--transition);
+  }
+  .breadcrumb a:hover { color: var(--accent); }
+  .breadcrumb svg {
+    width: 14px;
+    height: 14px;
+    stroke: rgba(255,255,255,0.35);
+  }
+
+  /* Filter / Sort Bar */
+  .filter-bar {
+    background: var(--bg-alt);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 0;
+  }
+  .filter-bar-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .filter-bar-count {
+    font-size: 14px;
+    color: var(--text-secondary);
+    font-weight: 600;
+  }
+  .filter-bar-sort {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .filter-bar-sort label {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-secondary);
+  }
+  .filter-bar-sort select {
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 7px 32px 7px 12px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--bg);
+    color: var(--text);
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='none' stroke='%2394a3b8' stroke-width='2' viewBox='0 0 24 24'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    transition: border-color var(--transition);
+  }
+  .filter-bar-sort select:hover { border-color: var(--accent); }
+
+  .cat-section {
+    padding: 45px 0 60px;
+  }
+  .cat-grid {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 40px;
+    align-items: start;
+  }
+  .cat-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    position: sticky;
+    top: 80px;
+  }
+
+  @media (max-width: 1024px) {
+    .cat-grid {
+      grid-template-columns: 1fr;
+    }
+    .cat-sidebar {
+      position: static;
+    }
+  }
+  @media (max-width: 768px) {
+    .category-hero h1 { font-size: 2rem; }
+    .category-hero-subtitle { font-size: 15px; }
+    .filter-bar-inner { flex-direction: column; align-items: flex-start; gap: 10px; }
+  }
+  @media (max-width: 480px) {
+    .category-hero { padding: 35px 0 30px; }
+    .category-hero h1 { font-size: 1.65rem; }
+  }
+</style>

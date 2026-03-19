@@ -1,0 +1,80 @@
+---
+interface Props {
+  label?: string;
+  title: string;
+  text: string;
+  ctaText?: string;
+  ctaUrl?: string;
+}
+const { label = 'Quick Answer', title, text, ctaText, ctaUrl } = Astro.props;
+---
+
+<div class="quick-answer">
+  <div class="quick-answer-label">{label}</div>
+  <p class="quick-answer-title">{title}</p>
+  <p>{text}</p>
+  {ctaText && ctaUrl && (
+    <a href={ctaUrl} class="quick-answer-cta" {...(ctaUrl.startsWith('#') ? {} : { target: '_blank', rel: 'noopener noreferrer nofollow' })}>
+      {ctaText.replace(/\s*→\s*$/, '')}
+      <svg class="quick-answer-arrow" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+    </a>
+  )}
+</div>
+
+<style>
+  .quick-answer {
+    background: var(--accent-light);
+    border: 2px solid var(--accent);
+    border-radius: var(--radius-lg);
+    padding: 24px 28px;
+    margin-bottom: 32px;
+  }
+  .quick-answer-label {
+    font-size: 12px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .quick-answer-title {
+    font-size: 1.1rem;
+    font-weight: 800;
+    margin: 0 0 8px;
+    line-height: 1.4;
+  }
+  .quick-answer p {
+    font-size: 15px;
+    color: var(--text-secondary);
+    margin: 0;
+    line-height: 1.6;
+  }
+  .quick-answer-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 18px;
+    padding: 10px 22px;
+    background: var(--accent);
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: var(--radius);
+    text-decoration: none !important;
+    transition: background var(--transition);
+  }
+  .quick-answer-cta:hover {
+    background: var(--accent-hover);
+    color: #fff !important;
+    text-decoration: none !important;
+  }
+  .quick-answer-arrow {
+    position: relative;
+    top: 0.5px;
+    transition: transform var(--transition);
+  }
+  .quick-answer-cta:hover .quick-answer-arrow { transform: translateX(3px); }
+  @media (max-width: 768px) {
+    .quick-answer { padding: 20px; }
+  }
+</style>

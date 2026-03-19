@@ -1,0 +1,95 @@
+---
+import { siteConfig } from '../../site.config';
+
+interface Props {
+  name?: string;
+  role?: string;
+  bio?: string;
+  initial?: string;
+}
+
+const {
+  name = siteConfig.author.name,
+  role = siteConfig.author.role,
+  bio = siteConfig.author.bio,
+  initial = siteConfig.author.initial,
+} = Astro.props;
+---
+
+<div class="author-box animate-on-scroll">
+  {siteConfig.author.image ? (
+    <img class="author-box-avatar-img" src={siteConfig.author.image} alt={name} width="72" height="72" />
+  ) : (
+    <div class="author-box-avatar">{initial}</div>
+  )}
+  <div class="author-box-info">
+    <div class="author-box-name">{name}</div>
+    <div class="author-box-role">{role}</div>
+    <p class="author-box-bio">{bio}</p>
+    <a href="/about/" class="author-box-link">More about the author &rarr;</a>
+  </div>
+</div>
+
+<style>
+  .author-box {
+    display: flex;
+    gap: 20px;
+    padding: 28px;
+    background: var(--bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border);
+    margin: 32px 0 0;
+  }
+  .author-box-avatar-img {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .author-box-avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    background: var(--accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 28px;
+    font-weight: 800;
+  }
+  .author-box-info { flex: 1; }
+  .author-box-name {
+    font-size: 1.1rem;
+    font-weight: 800;
+    margin-bottom: 4px;
+  }
+  .author-box-role {
+    font-size: 13px;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .author-box-bio {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  .author-box-link {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--accent);
+    text-decoration: none;
+    display: inline-block;
+  }
+  .author-box-link:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+  }
+  @media (max-width: 480px) {
+    .author-box { flex-direction: column; align-items: center; text-align: center; }
+  }
+</style>

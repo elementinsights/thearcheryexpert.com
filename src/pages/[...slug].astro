@@ -1,0 +1,553 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+import { siteConfig } from '../../site.config';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import QuickAnswer from '../components/QuickAnswer.astro';
+import FAQ from '../components/FAQ.astro';
+import AuthorBox from '../components/AuthorBox.astro';
+import ShareBar from '../components/ShareBar.astro';
+import ProductCard from '../components/ProductCard.astro';
+import SidebarTOC from '../components/SidebarTOC.astro';
+import SidebarRelated from '../components/SidebarRelated.astro';
+import SidebarVerdict from '../components/SidebarVerdict.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+import InlineTOC from '../components/InlineTOC.astro';
+import SidebarAlternatives from '../components/SidebarAlternatives.astro';
+import SidebarPicks from '../components/SidebarPicks.astro';
+import SidebarChapters from '../components/SidebarChapters.astro';
+import SidebarChecklist from '../components/SidebarChecklist.astro';
+import SidebarFacts from '../components/SidebarFacts.astro';
+import SidebarDecision from '../components/SidebarDecision.astro';
+import StickyProductBar from '../components/StickyProductBar.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return posts.map(post => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const relatedPosts = allPosts
+  .filter(p => p.id !== post.id && p.data.category === post.data.category)
+  .slice(0, 4)
+  .map(p => ({
+    title: p.data.title,
+    href: `/${p.id}/`,
+    image: p.data.image,
+    date: (p.data.updatedDate ?? p.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
+  }));
+
+const bottomRelatedPosts = allPosts
+  .filter(p => p.id !== post.id)
+  .slice(0, 3)
+  .map(p => ({
+    title: p.data.title,
+    href: `/${p.id}/`,
+    image: p.data.image,
+    category: p.data.category,
+    date: (p.data.updatedDate ?? p.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
+    readTime: p.data.readTime,
+  }));
+
+const publishDate = post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const pageUrl = new URL(`/${post.id}/`, siteConfig.url).href;
+
+// Schema
+const schemas = [];
+
+// Article schema
+schemas.push({
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": post.data.title,
+  "description": post.data.description,
+  "datePublished": post.data.publishDate.toISOString(),
+  "dateModified": (post.data.updatedDate || post.data.publishDate).toISOString(),
+  "author": {
+    "@type": "Person",
+    "name": post.data.author || siteConfig.author.name,
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": siteConfig.name,
+  },
+});
+
+// BreadcrumbList
+schemas.push({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": siteConfig.url },
+    { "@type": "ListItem", "position": 2, "name": post.data.category, "item": `${siteConfig.url}/category/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+    { "@type": "ListItem", "position": 3, "name": post.data.title, "item": pageUrl },
+  ],
+});
+
+// FAQ schema
+if (post.data.faq && post.data.faq.length > 0) {
+  schemas.push({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": post.data.faq.map(item => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.answer,
+      },
+    })),
+  });
+}
+
+// Product + Review schema (for review posts)
+if (post.data.postType === 'review' && post.data.products && post.data.products.length > 0) {
+  const product = post.data.products[0];
+  schemas.push({
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": product.name,
+    ...(product.image && { "image": product.image }),
+    ...(product.description && { "description": product.description }),
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": post.data.author || siteConfig.author.name,
+      },
+      "datePublished": post.data.publishDate.toISOString(),
+      "reviewBody": post.data.description,
+      ...(product.rating && {
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": product.rating.toString(),
+          "bestRating": "10",
+          "worstRating": "1",
+        },
+      }),
+    },
+  });
+}
+
+// Product + Review schema (for comparison posts — one per product)
+if (post.data.postType === 'comparison' && post.data.products && post.data.products.length >= 2) {
+  for (const product of post.data.products) {
+    schemas.push({
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": product.name,
+      ...(product.image && { "image": product.image }),
+      ...(product.description && { "description": product.description }),
+      "review": {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": post.data.author || siteConfig.author.name,
+        },
+        "datePublished": post.data.publishDate.toISOString(),
+        ...(product.rating && {
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": (product.rating / 2).toFixed(1),
+            "bestRating": "5",
+            "worstRating": "1",
+          },
+        }),
+      },
+    });
+  }
+}
+
+// ItemList schema (for roundup posts)
+if (post.data.postType === 'roundup' && post.data.products && post.data.products.length > 0) {
+  const rankedProducts = post.data.products
+    .filter(p => p.rank)
+    .sort((a, b) => (a.rank || 0) - (b.rank || 0));
+  schemas.push({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": post.data.title,
+    "numberOfItems": rankedProducts.length,
+    "itemListElement": rankedProducts.map(p => ({
+      "@type": "ListItem",
+      "position": p.rank,
+      "name": p.name,
+      "url": pageUrl,
+      ...(p.image && { "image": p.image }),
+    })),
+  });
+}
+
+// HowTo schema (for how-to posts)
+if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0) {
+  const steps = post.data.toc
+    .filter(item => /^step\s+\d/i.test(item.label))
+    .map((item, i) => ({
+      "@type": "HowToStep",
+      "position": i + 1,
+      "name": item.label,
+      "url": `${pageUrl}${item.href}`,
+    }));
+  if (steps.length > 0) {
+    schemas.push({
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      "name": post.data.title,
+      "description": post.data.description,
+      ...(post.data.image && { "image": post.data.image }),
+      "totalTime": post.data.readTime || undefined,
+      "step": steps,
+    });
+  }
+}
+---
+
+<ArticleLayout title={post.data.title} description={post.data.description} schema={schemas}>
+  <!-- SIDEBAR -->
+  <Fragment slot="sidebar">
+    {post.data.toc && post.data.toc.length > 0 && (
+      <SidebarTOC items={post.data.toc} />
+    )}
+    {post.data.postType === 'buyers-guide' && (
+      <SidebarDecision />
+    )}
+    {relatedPosts.length > 0 && (
+      <SidebarRelated posts={relatedPosts} />
+    )}
+    {post.data.postType === 'roundup' && post.data.products && post.data.products.length > 0 && (
+      <SidebarPicks items={post.data.products.filter(p => p.rank && p.rank <= 3).sort((a, b) => (a.rank || 0) - (b.rank || 0)).map(p => ({
+        name: p.name,
+        image: p.image || '',
+        rating: `${p.rating}/10`,
+        rank: p.rank!,
+        ctaUrl: p.ctaUrl,
+      }))} />
+    )}
+    {post.data.postType === 'guide' && post.data.chapters && post.data.chapters.length > 0 && (
+      <SidebarChapters items={post.data.chapters} />
+    )}
+    {post.data.postType === 'how-to' && post.data.checklist && post.data.checklist.length > 0 && (
+      <SidebarChecklist sections={post.data.checklist} />
+    )}
+    {post.data.postType === 'listicle' && post.data.quickFacts && post.data.quickFacts.length > 0 && (
+      <SidebarFacts items={post.data.quickFacts} />
+    )}
+    {post.data.postType === 'review' && post.data.alternatives && post.data.alternatives.length > 0 && (
+      <SidebarAlternatives items={post.data.alternatives} />
+    )}
+    {post.data.postType === 'comparison' && post.data.products && post.data.products.length >= 2 && (
+      <SidebarVerdict
+        winner={{
+          name: post.data.products.find(p => p.rank === 1)?.name || post.data.products[1].name,
+          image: post.data.products.find(p => p.rank === 1)?.image || post.data.products[1].image || '',
+          rating: `${post.data.products.find(p => p.rank === 1)?.rating || post.data.products[1].rating} / 10`,
+          score: `${post.data.products.find(p => p.rank === 1)?.rating || post.data.products[1].rating}/10`,
+          ctaUrl: post.data.products.find(p => p.rank === 1)?.ctaUrl || '#',
+        }}
+        loser={{
+          name: post.data.products.find(p => p.rank === 2)?.name || post.data.products[0].name,
+          image: post.data.products.find(p => p.rank === 2)?.image || post.data.products[0].image || '',
+          rating: `${post.data.products.find(p => p.rank === 2)?.rating || post.data.products[0].rating} / 10`,
+          score: `${post.data.products.find(p => p.rank === 2)?.rating || post.data.products[0].rating}/10`,
+          ctaUrl: post.data.products.find(p => p.rank === 2)?.ctaUrl || '#',
+        }}
+        summary={post.data.verdict || `${post.data.products.find(p => p.rank === 1)?.name || post.data.products[1].name} edges out ${post.data.products.find(p => p.rank === 2)?.name || post.data.products[0].name} overall, but both are solid choices depending on your priorities.`}
+      />
+    )}
+  </Fragment>
+
+  <!-- BREADCRUMBS -->
+  <Breadcrumbs items={[
+    { label: 'Home', href: '/' },
+    { label: post.data.category, href: `/category/${post.data.category.toLowerCase().replace(/\s+/g, '-')}/` },
+    { label: post.data.title.split(':')[0].split('(')[0].trim() },
+  ]} />
+
+  <!-- AFFILIATE DISCLOSURE -->
+  <p class="affiliate-disclosure">This post may contain affiliate links. We earn a small commission if you make a purchase, at no extra cost to&nbsp;you. All ratings are based on our own editorial review criteria and are not sourced from any&nbsp;external&nbsp;platform.</p>
+
+  <!-- ARTICLE HEADER -->
+  <header class="article-header">
+    <span class="article-cat">{post.data.category}</span>
+    <h1 class="article-title">{post.data.title}</h1>
+    <p class="article-excerpt">{post.data.description}</p>
+    <div class="article-meta">
+      <div class="article-author">
+        <div class="article-author-avatar">{siteConfig.author.initial}</div>
+        <div class="article-author-info">
+          <div class="article-author-name">{post.data.author || siteConfig.author.name}</div>
+          <div class="article-author-date">Last Updated: {publishDate}{post.data.readTime && ` \u2022 ${post.data.readTime}`}</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- FEATURED IMAGE -->
+  {post.data.image && (
+    <div class="article-featured-img">
+      <img src={post.data.image} alt={post.data.imageAlt || post.data.title} width="750" height="422" fetchpriority="high" />
+    </div>
+  )}
+
+  <!-- QUICK ANSWER -->
+  {post.data.quickAnswer && (
+    <QuickAnswer
+      label={post.data.quickAnswer.label}
+      title={post.data.quickAnswer.title}
+      text={post.data.quickAnswer.text}
+      ctaText={post.data.quickAnswer.ctaText}
+      ctaUrl={post.data.quickAnswer.ctaUrl}
+    />
+  )}
+
+  <!-- TABLE OF CONTENTS (mobile/inline — hidden on desktop, shown when sidebar is hidden) -->
+  {post.data.toc && post.data.toc.length > 0 && (
+    <InlineTOC items={post.data.toc} />
+  )}
+
+  <!-- PRODUCTS: rendered inline in markdown for all post types -->
+
+  <!-- ARTICLE CONTENT (Markdown) -->
+  <div class="article-content">
+    <Content />
+    {post.data.faq && post.data.faq.length > 0 && (
+      <FAQ items={post.data.faq} />
+    )}
+  </div>
+
+  <!-- SHARE BAR -->
+  <ShareBar url={pageUrl} title={post.data.title} />
+
+  <!-- AUTHOR BOX -->
+  <AuthorBox />
+
+  <!-- YOU MIGHT ALSO LIKE -->
+  <Fragment slot="after-article">
+    <RelatedPosts posts={bottomRelatedPosts} />
+  </Fragment>
+</ArticleLayout>
+
+{post.data.postType === 'roundup' && post.data.products && post.data.products.length > 0 && (
+  <StickyProductBar />
+)}
+
+<script>
+  // Move FAQ section above "Final Thoughts" heading if present
+  const faq = document.querySelector('.faq-section');
+  if (faq) {
+    const headings = document.querySelectorAll('.article-content h2');
+    for (const h2 of headings) {
+      const text = h2.textContent?.trim().toLowerCase() || '';
+      if (text.includes('final thoughts') || text.includes('final verdict') || text.includes('conclusion') || text.includes('summary') || text.includes('final recommendations') || text.includes('bottom line')) {
+        h2.parentNode?.insertBefore(faq, h2);
+        break;
+      }
+    }
+  }
+</script>
+
+
+<style>
+  /* ============================================================
+     ARTICLE HEADER
+     ============================================================ */
+  .article-header { margin-bottom: 32px; }
+  .article-cat {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin-bottom: 12px;
+  }
+  .article-title {
+    font-size: 2.4rem;
+    line-height: 1.2;
+    margin-bottom: 16px;
+  }
+  .article-excerpt {
+    font-size: 18px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  .article-meta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--border);
+  }
+  .article-author {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .article-author-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--accent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+  }
+  .article-author-info { font-size: 14px; }
+  .article-author-name { font-weight: 700; color: var(--text); }
+  .article-author-date { color: var(--text-light); font-size: 13px; }
+  .article-meta-dot {
+    width: 4px;
+    height: 4px;
+    background: var(--text-light);
+    border-radius: 50%;
+  }
+  .article-meta-read {
+    font-size: 14px;
+    color: var(--text-light);
+  }
+
+  /* ============================================================
+     FEATURED IMAGE
+     ============================================================ */
+  .article-featured-img {
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    margin-bottom: 32px;
+    aspect-ratio: 750 / 422;
+  }
+  .article-featured-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* ============================================================
+     ARTICLE CONTENT (Markdown)
+     ============================================================ */
+  .article-content {
+    font-size: 17px;
+    line-height: 1.75;
+    color: var(--text);
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+  .article-content :global(h2) {
+    font-size: 1.7rem;
+    margin: 28px 0 14px;
+    font-weight: 800;
+  }
+  .article-content :global(h3) {
+    font-size: 1.3rem;
+    margin: 28px 0 12px;
+    font-weight: 700;
+  }
+  .article-content :global(p) {
+    margin-bottom: 18px;
+  }
+  .article-content :global(.testing-step-content p) {
+    margin-bottom: 5px;
+  }
+  .article-content :global(ul),
+  .article-content :global(ol) {
+    margin: 0 0 18px 18px;
+    padding-left: 24px;
+  }
+  .article-content :global(ul) { list-style: disc; }
+  .article-content :global(ol) { list-style: decimal; }
+  .article-content :global(.pros-list),
+  .article-content :global(.cons-list) { margin-bottom: 0; }
+  .article-content :global(li) {
+    margin-bottom: 8px;
+  }
+  .article-content :global(a) {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .article-content :global(a:hover) {
+    color: var(--accent-hover);
+  }
+  .article-content :global(strong) {
+    font-weight: 700;
+  }
+  .article-content :global(blockquote) {
+    border-left: 4px solid var(--accent);
+    padding: 16px 20px;
+    margin: 24px 0;
+    background: var(--accent-light);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-style: italic;
+    color: var(--text-secondary);
+  }
+  .article-content :global(blockquote p) {
+    margin: 0;
+  }
+  .article-content :global(img) {
+    border-radius: var(--radius);
+    margin: 20px 0;
+  }
+  .article-content :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    font-size: 14px;
+  }
+  .article-content :global(th) {
+    background: var(--bg-dark);
+    color: #fff;
+    font-weight: 700;
+    padding: 12px 16px;
+    text-align: center;
+  }
+  .article-content :global(th:first-child) {
+    text-align: left;
+  }
+  .article-content :global(td) {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+    text-align: center;
+  }
+  .article-content :global(td:first-child) {
+    text-align: left;
+  }
+  .article-content :global(tr:last-child td) {
+    border-bottom: none;
+  }
+  .article-content :global(tr:nth-child(even) td) {
+    background: var(--bg-alt);
+  }
+
+  /* Affiliate disclosure */
+  .affiliate-disclosure {
+    font-size: 12px;
+    color: var(--text-light);
+    line-height: 1.5;
+    margin-bottom: 4px;
+  }
+
+  @media (max-width: 768px) {
+    .article-title { font-size: 1.8rem; }
+    .article-excerpt { font-size: 16px; }
+    .article-meta { flex-direction: column; align-items: flex-start; }
+    .article-content { font-size: 16px; }
+    .article-content :global(h2) { font-size: 1.4rem; }
+    .article-content :global(h3) { font-size: 1.15rem; }
+    .article-featured-img { width: 100%; }
+  }
+  @media (max-width: 480px) {
+    .article-title { font-size: 1.45rem; }
+  }
+</style>
