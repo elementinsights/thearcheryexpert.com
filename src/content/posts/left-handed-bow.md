@@ -255,63 +255,63 @@ The string, as well, might be made of an assortment of materials, the imperative
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00269U5RG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31fyXmDNaJL._SL500_.jpg" alt="Genesis Original Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00269U5RG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31fyXmDNaJL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Genesis Original Bow</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00269U5RG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B006R8SWUO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg" alt="Samick Sage Takedown Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B006R8SWUO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Samick Sage Takedown Recurve Bow</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B006R8SWUO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B006JAQRF2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rONYK2RlL._SL500_.jpg" alt="Barnett Outdoors Lil Banshee Jr. Compound Youth Archery Set" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B006JAQRF2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rONYK2RlL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Barnett Outdoors Lil Banshee Jr. Compoun</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B006JAQRF2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00RGAPMRS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41yug-l6-xL._SL500_.jpg" alt="Diamond Archery Infinite Edge Pro Bow Package" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00RGAPMRS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41yug-l6-xL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Diamond Archery Infinite Edge Pro Bow Pa</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00RGAPMRS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B077N54RDM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzaZhxx9L._SL500_.jpg" alt="Bear Archery Cruzer G2 Adult Compound Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B077N54RDM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzaZhxx9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bear Archery Cruzer G2 Adult Compound Bo</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B077N54RDM?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B078XJM5LQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41dBCEHL2aL._SL500_.jpg" alt="Bear Archery Approach RTH Compound Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B078XJM5LQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41dBCEHL2aL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bear Archery Approach RTH Compound Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.7</span></td>
 <td><a href="https://www.amazon.com/dp/B078XJM5LQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003WHP7AG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/316JPtA1B8L._SL500_.jpg" alt="Genesis Mini Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003WHP7AG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/316JPtA1B8L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Genesis Mini Bow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.5</span></td>
 <td><a href="https://www.amazon.com/dp/B003WHP7AG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0792LK8KJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41ezP1drw0L._SL500_.jpg" alt="PSE ARCHERY Mini Burner Compound Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0792LK8KJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41ezP1drw0L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">PSE ARCHERY Mini Burner Compound Bow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.3</span></td>
 <td><a href="https://www.amazon.com/dp/B0792LK8KJ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07KC5C9RL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XogoDEfEL._SL500_.jpg" alt="SinoArt Bow and Arrow Set for Teen" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07KC5C9RL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XogoDEfEL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">SinoArt Bow and Arrow Set for Teen</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07KC5C9RL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

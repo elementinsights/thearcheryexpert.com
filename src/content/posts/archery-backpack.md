@@ -284,70 +284,70 @@ You can pick your archery backpacks from various colors of bright and bold color
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07H3F2GQ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RORJ+lzUL._SL500_.jpg" alt="Legend - XT720 Recurve Bow Case | Backpack Style Bag" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07H3F2GQ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RORJ+lzUL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Legend - XT720 Recurve Bow Case | Backpa</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07H3F2GQ6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07N5Q46DD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31wE2SogoaL._SL500_.jpg" alt="Legend Archery ProTour Backpack - Premium Recurve Bow Case" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07N5Q46DD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31wE2SogoaL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Legend Archery ProTour Backpack - Premiu</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07N5Q46DD?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00RLTGTIA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31WgKgl9nVL._SL500_.jpg" alt="Easton Club XT Recurve Pack Black" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00RLTGTIA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31WgKgl9nVL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Easton Club XT Recurve Pack Black</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B00RLTGTIA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B072K136FL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RORJ+lzUL._SL500_.jpg" alt="SAS Archery Recurve Takedown Bow Backpack With Arrow Tube" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B072K136FL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41FQpMxK3VL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">SAS Archery Recurve Takedown Bow Backpac</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B072K136FL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07P2B369H?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31GbNx6MLfL._SL500_.jpg" alt="Lug Women's Archer Backpack, One Size" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07P2B369H?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31GbNx6MLfL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Lug Women's Archer Backpack, One Size</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07P2B369H?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00RLTPST6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414h7XbU6AL._SL500_.jpg" alt="Easton Club XT Recurve Pack Blue" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00RLTPST6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414h7XbU6AL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Easton Club XT Recurve Pack Blue</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00RLTPST6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00RLUKL6A?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31wE2SogoaL._SL500_.jpg" alt="Easton Club XT Recurve Pack Red" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00RLUKL6A?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Zb81HMrKL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Easton Club XT Recurve Pack Red</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B00RLUKL6A?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B072K4537K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31WgKgl9nVL._SL500_.jpg" alt="XTACER Multi-Function 4-Tubes Back Field Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B072K4537K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41V9FjNFLTL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">XTACER Multi-Function 4-Tubes Back Field</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B072K4537K?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00RLU0PNE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41QI1ngh1rL._SL500_.jpg" alt="Easton Club XT Recurve Pack Gray" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00RLU0PNE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41QI1ngh1rL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Easton Club XT Recurve Pack Gray</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B00RLU0PNE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00NLIME52?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/519C3lgS4eL._SL500_.jpg" alt="ALPS OutdoorZ Crossfire Hunting Pack Field Quiver Training Archery" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00NLIME52?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/519C3lgS4eL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ALPS OutdoorZ Crossfire Hunting Pack Fie</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B00NLIME52?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

@@ -282,70 +282,70 @@ They all come in different sizes, textures, and colors which are durable, comfor
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="TOPARCHERY Archery Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TOPARCHERY Archery Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="XTACER Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">XTACER Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07HG6VMQ9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41l4ltkbbCL._SL500_.jpg" alt="JKER TECH Archery Gloves" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07HG6VMQ9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41l4ltkbbCL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">JKER TECH Archery Gloves</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B07HG6VMQ9?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B019SMVPC2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31mPuflTNIL._SL500_.jpg" alt="HUNTINGDOOR Archery Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B019SMVPC2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31mPuflTNIL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">HUNTINGDOOR Archery Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B019SMVPC2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07NXQJY5C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41wcE2LSzzL._SL500_.jpg" alt="NACHVORN Two-finger Archery Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07NXQJY5C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41wcE2LSzzL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">NACHVORN Two-finger Archery Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07NXQJY5C?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="KESHES Archery Glove" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41xsNWsb48L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">KESHES Archery Glove</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="HWZ Cowhide Archery Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31vkCPRPEyL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">HWZ Cowhide Archery Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07254CS8D?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41-juFaIRTL._SL500_.jpg" alt="TOPARCHERY Two-finger Protective Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07254CS8D?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41-juFaIRTL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TOPARCHERY Two-finger Protective Hand Gu</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07254CS8D?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B019YVTS1C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41C6a6rMP+L._SL500_.jpg" alt="HUNTINGDOOR Archery Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B019YVTS1C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41C6a6rMP+L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">HUNTINGDOOR Archery Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B019YVTS1C?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B013XF5Q0M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qdHuwxqyL._SL500_.jpg" alt="ARCHERYMAX Three-finger Archery Gloves" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B013XF5Q0M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qdHuwxqyL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ARCHERYMAX Three-finger Archery Gloves</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B013XF5Q0M?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

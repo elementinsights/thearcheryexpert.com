@@ -280,70 +280,70 @@ It's because you surely don’t want to end up being a left-hander and purchase 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07H11W38P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rYskl8FcL._SL500_.jpg" alt="Hide & Drink Finger Protector" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07H11W38P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rYskl8FcL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Hide & Drink Finger Protector</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07H11W38P?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07CGLX9LX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31oZ9bpIrdL._SL500_.jpg" alt="WOARCHERY Bowstring Finger Savers" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07CGLX9LX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31oZ9bpIrdL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">WOARCHERY Bowstring Finger Savers</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07CGLX9LX?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07YWPNK4G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41BvNbbbPXL._SL500_.jpg" alt="EAmber Finger Tab" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07YWPNK4G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41BvNbbbPXL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">EAmber Finger Tab</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B07YWPNK4G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412l41XjGPS._SL500_.jpg" alt="XTACER Finger Protector Arm Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412l41XjGPS._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">XTACER Finger Protector Arm Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B083K21GB5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41pUaDoozjL._SL500_.jpg" alt="Votono Archery Finger Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B083K21GB5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41pUaDoozjL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Votono Archery Finger Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B083K21GB5?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B016APZ0AS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31+FO107wOL._SL500_.jpg" alt="ArcheryMax 3 Finger Archery Glove" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B016APZ0AS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31+FO107wOL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ArcheryMax 3 Finger Archery Glove</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B016APZ0AS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B072M71LKW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gD4riF+gL._SL500_.jpg" alt="Huntingdoor Thumb Guard Finger Tab" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B072M71LKW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gD4riF+gL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Huntingdoor Thumb Guard Finger Tab</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B072M71LKW?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0072084UO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ttoupuv0L._SL500_.jpg" alt="Pine Ridge Archery Finger Savers" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0072084UO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ttoupuv0L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Pine Ridge Archery Finger Savers</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B0072084UO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07RT6QHMZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41xsNWsb48L._SL500_.jpg" alt="KESHES Archery Finger Saver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07RT6QHMZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41xsNWsb48L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">KESHES Archery Finger Saver</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07RT6QHMZ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="TOPARCHERY Archery Protector" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TOPARCHERY Archery Protector</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

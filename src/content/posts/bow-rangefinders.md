@@ -276,63 +276,63 @@ As you know, everybody should keep in mind several factors while purchasing thes
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00IN6ENWY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61MOFujFPNL._SL500_.jpg" alt="Bushnell Bone Collector 4x Laser Rangefinder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00IN6ENWY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61MOFujFPNL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bushnell Bone Collector 4x Laser Rangefi</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00IN6ENWY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07NNVFKKL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="Nikon Monarch 2000" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07NNVFKKL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51eRIrw192L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Nikon Monarch 2000</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07NNVFKKL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079HNKGGG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="Vortex Optics Ranger 1800 Laser Rangefinders" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079HNKGGG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41R2uztdHHL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Vortex Optics Ranger 1800 Laser Rangefin</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B079HNKGGG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07DX1WXCD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="Sig Sauer Kilo 2200 BDX LASER Rangefinder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07DX1WXCD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41oaZRhrDWS._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Sig Sauer Kilo 2200 BDX LASER Rangefinde</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07DX1WXCD?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51SMAa0HQrL._SL500_.jpg" alt="Leupold RX-1600i TBR Laser Rangefinder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51SMAa0HQrL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Leupold RX-1600i TBR Laser Rangefinder</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="Leica Rangemaster CRF 1600B" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Leica Rangemaster CRF 1600B</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B077XM7X6T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Em073BYuL._SL500_.jpg" alt="Simmons Hunting Laser Rangefinder; Volt & Venture Models" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B077XM7X6T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Em073BYuL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Simmons Hunting Laser Rangefinder; Volt </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B077XM7X6T?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07Q7N63P1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="TecTecTec ProWild S with Angle Compensation - Laser Rangefinder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07Q7N63P1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51wzCHg-qWL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TecTecTec ProWild S with Angle Compensat</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07Q7N63P1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XKN8N61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41IBeCBnH0L._SL500_.jpg" alt="Halo XL450-7 Rangefinder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XKN8N61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41IBeCBnH0L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Halo XL450-7 Rangefinder</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B06XKN8N61?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

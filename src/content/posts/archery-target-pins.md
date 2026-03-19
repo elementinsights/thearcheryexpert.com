@@ -278,28 +278,28 @@ Archery target pins range between different sizes of 0.5-6 inches; they're of ma
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="SAS ARCHERY TARGET FACE PINS" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z6lNXDfeL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">SAS ARCHERY TARGET FACE PINS</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31eBwH+UYZL._SL500_.jpg" alt="SAUNDERS CSI 4-INCH ARCHERY TARGET PINS" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31eBwH+UYZL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">SAUNDERS CSI 4-INCH ARCHERY TARGET PINS</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="BCP ARCHERY TARGET FACE PINS (PACK OF 10)" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">BCP ARCHERY TARGET FACE PINS (PACK OF 10</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPIXEC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31upxk-SikL._SL500_.jpg" alt="BOBS ARCHERY TARGET FACE PINS" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPIXEC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31upxk-SikL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS ARCHERY TARGET FACE PINS</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGPIXEC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -313,35 +313,35 @@ Archery target pins range between different sizes of 0.5-6 inches; they're of ma
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGOW0UG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ftq5RgWIL._SL500_.jpg" alt="BOBS ARCHERY 3D TARGET BALLS" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGOW0UG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ftq5RgWIL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS ARCHERY 3D TARGET BALLS</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGOW0UG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41NaqBWJO-L._SL500_.jpg" alt="E510E Plastic Archery Paper Target Face Pins (25 PCS)" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41NaqBWJO-L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">E510E Plastic Archery Paper Target Face </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">RUSOJI PLASTIC ARCHERY PAPER TARGET FACE</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MQJAREE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3107-r+X53L._SL500_.jpg" alt="COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MQJAREE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3107-r+X53L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">COSMOS PLASTIC ARCHERY PAPER TARGET FACE</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B01MQJAREE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPDB94?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gMTpVpAHL._SL500_.jpg" alt="BOBS ARCHERY BALLS FITA TARGET FACE PINS" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPDB94?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gMTpVpAHL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS ARCHERY BALLS FITA TARGET FACE PINS</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGPDB94?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

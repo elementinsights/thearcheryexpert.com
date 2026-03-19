@@ -320,84 +320,84 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Tru-Fire Edge 4 Finger Hand Held Bow Rel</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07S41P2MZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31KzvVO8fDL._SL500_.jpg" alt="Tru-Fire Sear Hand-Held Archery Compound" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07S41P2MZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31KzvVO8fDL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Tru-Fire Sear Hand-Held Archery Compound</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07S41P2MZ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Scott Archery Ascent Micro" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31daxgCM9ML._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Scott Archery Ascent Micro</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.4</span></td>
 <td><a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07BB5M6YF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/416GBxQ4SgL._SL500_.jpg" alt="Stanislawski Perfex Resistance" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07BB5M6YF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/416GBxQ4SgL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Stanislawski Perfex Resistance</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07BB5M6YF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0097RJOF4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EKk7-QhQL._SL500_.jpg" alt="Scott Pro Adv Back" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0097RJOF4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EKk7-QhQL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Scott Pro Adv Back</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B0097RJOF4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004RDPIJE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417-hujlEBL._SL500_.jpg" alt="Scott Archery Longhorn Hunter Release" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004RDPIJE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417-hujlEBL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Scott Archery Longhorn Hunter Release</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B004RDPIJE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007D0HECM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31xMzWNAIOL._SL500_.jpg" alt="Carter Enterprises Inc Carter 2 Moons Release" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007D0HECM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31xMzWNAIOL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Carter Enterprises Inc Carter 2 Moons Re</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B007D0HECM?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31BlOt7y+sL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Tru-Fire Hardcore Buckle Foldback</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31DqPjqYHuS._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Tru Ball V-Lock Buckle Strap</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.5</span></td>
 <td><a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000KKD3G8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31W6ogxYdcL._SL500_.jpg" alt="Tru-Fire Patriot Archery Compound Bow Release" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000KKD3G8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31W6ogxYdcL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Tru-Fire Patriot Archery Compound Bow Re</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.3</span></td>
 <td><a href="https://www.amazon.com/dp/B000KKD3G8?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">11</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07DKVW9MN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ZStncczVL._SL500_.jpg" alt="Spot Hogg Purple WiseGuy Release" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07DKVW9MN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ZStncczVL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Spot Hogg Purple WiseGuy Release</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07DKVW9MN?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">12</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Cobra Archery Switch Thumb and Back Tension Release" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Cobra Archery Switch Thumb and Back Tens</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

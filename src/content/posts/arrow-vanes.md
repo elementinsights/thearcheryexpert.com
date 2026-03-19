@@ -278,70 +278,70 @@ The better the quality of the vane, the better the stability and aim will be.
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B081YTY2S9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3129h1evT3L._SL500_.jpg" alt="M.SJUMPPER ARCHERY Arrows Vanes (51 Pack)" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B081YTY2S9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3129h1evT3L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">M.SJUMPPER ARCHERY Arrows Vanes (51 Pack</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B081YTY2S9?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg" alt="Bohning Blazer Vanes Flannel 36 pk. Red" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bohning Blazer Vanes Flannel 36 pk. Red</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg" alt="Bohning 1.75-Inch Shield Cut X-Vanes (100-Pack)" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bohning 1.75-Inch Shield Cut X-Vanes (10</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07TRP35BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41PjZOhSc0L._SL500_.jpg" alt="Bohning Blazer -  Best Arrow Hunting Vanes" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07TRP35BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41PjZOhSc0L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bohning Blazer -  Best Arrow Hunting Vanes</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07TRP35BF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00B5Q6FJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21xRobRr6oL._SL500_.jpg" alt="Bohning 2.25-Inch  -  Best Arrow Vanes for Accuracy" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00B5Q6FJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21xRobRr6oL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bohning 2.25-Inch  -  Best Arrow Vanes for</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00B5Q6FJS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00XXJ5RFS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/11THaBtUOZL._SL500_.jpg" alt="Q2i Fusion X-II  -  Best Light Weighted Arrow Vanes" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00XXJ5RFS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/11THaBtUOZL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Q2i Fusion X-II  -  Best Light Weighted Ar</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00XXJ5RFS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00VDQLCLQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CdUYth80L._SL500_.jpg" alt="ISPORT 3” Archery Vanes  -  Best Carbon Arrow Vanes" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00VDQLCLQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CdUYth80L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ISPORT 3” Archery Vanes  -  Best Carbon Ar</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B00VDQLCLQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B071RLRQ3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21z1VYpOLdL._SL500_.jpg" alt="Bohning Blazer Vanes Silver 100 pk." loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B071RLRQ3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21z1VYpOLdL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bohning Blazer Vanes Silver 100 pk.</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B071RLRQ3T?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003DQXZA0?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/2188LbYA+fL._SL500_.jpg" alt="Bohning Blazer Tiger Archery Vane (100-Pack), Green" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003DQXZA0?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/2188LbYA+fL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bohning Blazer Tiger Archery Vane (100-P</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B003DQXZA0?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg" alt="TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TAC Vanes 2.25 Matrix Shield Cut Vanes, </td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

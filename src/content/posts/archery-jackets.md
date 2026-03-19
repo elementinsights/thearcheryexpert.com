@@ -287,7 +287,7 @@ Now, let's get started.
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Stika Men Jetstream Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Stika Men Jetstream Jacket</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -301,7 +301,7 @@ Now, let's get started.
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Carhartt Men's Quilted Flannel" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Carhartt Men's Quilted Flannel</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -329,7 +329,7 @@ Now, let's get started.
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41e9rIZkwYL._SL500_.jpg" alt="Rothco Special Ops" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Rothco Special Ops</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -343,7 +343,7 @@ Now, let's get started.
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg" alt="ScentLok Taktix Hunting Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ScentLok Taktix Hunting Jacket</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

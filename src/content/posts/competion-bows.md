@@ -272,70 +272,70 @@ It's easy because the more there's to choose from, the more chances to find some
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31dPEB309tL._SL500_.jpg" alt="Genesis Original Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31dPEB309tL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Genesis Original Bow</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01BE8I38M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31kNTlt5f6L._SL500_.jpg" alt="Diamond Archery" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01BE8I38M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31kNTlt5f6L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Diamond Archery</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B01BE8I38M?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31dPEB309tL._SL500_.jpg" alt="Genesis Pro Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31dPEB309tL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Genesis Pro Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00FATX878?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41nv2llnt3L._SL500_.jpg" alt="Southland Archery Supply Outrage Compound Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00FATX878?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41nv2llnt3L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Southland Archery Supply Outrage Compoun</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00FATX878?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B014X4NERY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31E3fJ+gO8L._SL500_.jpg" alt="Southland Archery Supply Explorer Metal Rise Takedown Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B014X4NERY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31E3fJ+gO8L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Southland Archery Supply Explorer Metal </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B014X4NERY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg" alt="Samick Sage Takedown Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Samick Sage Takedown Recurve Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg" alt="SinoArt 68” Takedown Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">SinoArt 68” Takedown Recurve Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07JM8KKC5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41H5d2m5FSL._SL500_.jpg" alt="SinoArt Metal Riser Takedown Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07JM8KKC5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41H5d2m5FSL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">SinoArt Metal Riser Takedown Recurve Bow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07JM8KKC5?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07WRTH2QP?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41sdnI8UlqL._SL500_.jpg" alt="Gonex Takedown Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07WRTH2QP?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41sdnI8UlqL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Gonex Takedown Recurve Bow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07WRTH2QP?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B077ZBRZ15?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51w3+bVXptL._SL500_.jpg" alt="Southwest Archery Tigershark Takedown Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B077ZBRZ15?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51w3+bVXptL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Southwest Archery Tigershark Takedown Re</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B077ZBRZ15?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

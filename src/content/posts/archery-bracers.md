@@ -284,70 +284,70 @@ As you search for your target archery brace, as Effie Trinke says in Hunger game
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Southland Archery Supply Armguard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Southland Archery Supply Armguard</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07PTS2Z9M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uW5BV+jaL._SL500_.jpg" alt="Goabroa Archery Arm Guards" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07PTS2Z9M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uW5BV+jaL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Goabroa Archery Arm Guards</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07PTS2Z9M?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Allen Company Mesh Archery Arm Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MsIc2FORL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Allen Company Mesh Archery Arm Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B081HVRCL2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fPAl+-NPL._SL500_.jpg" alt="KESHES Archery Armguard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B081HVRCL2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fPAl+-NPL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">KESHES Archery Armguard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B081HVRCL2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00GTJUXGW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MVZHOKEeL._SL500_.jpg" alt="Huntingdoor Arm Guards" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00GTJUXGW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MVZHOKEeL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Huntingdoor Arm Guards</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00GTJUXGW?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Krayner Archery Arm Protector" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Krayner Archery Arm Protector</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07K27PFMD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31S5IEMpNbL._SL500_.jpg" alt="KRATARC Archery Arm Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07K27PFMD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31S5IEMpNbL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">KRATARC Archery Arm Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B07K27PFMD?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B001F0M5UW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31V6QezQAzL._SL500_.jpg" alt="Sportsman's Camo Armguard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B001F0M5UW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31V6QezQAzL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Sportsman's Camo Armguard</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B001F0M5UW?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004VQ5VDA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41OmkOHRuyL._SL500_.jpg" alt="Mossy Oak Strap Armguard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004VQ5VDA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41OmkOHRuyL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Mossy Oak Strap Armguard</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B004VQ5VDA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MSN4KUO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RelydEjQL._SL500_.jpg" alt="Southland Archery Supply Leather Suede Arm Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MSN4KUO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RelydEjQL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Southland Archery Supply Leather Suede A</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B01MSN4KUO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

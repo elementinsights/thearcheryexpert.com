@@ -282,7 +282,7 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="Southwest Archery Shooter Stool" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Southwest Archery Shooter Stool</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -303,49 +303,49 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07M7FGG82?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51W3zff22gL._SL500_.jpg" alt="Allen Company Camo Folding Hunting Stool" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07M7FGG82?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51W3zff22gL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Allen Company Camo Folding Hunting Stool</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07M7FGG82?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07KP8ZZR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51bopppeVRL._SL500_.jpg" alt="Redcamp 2-Pack Tripod Hunting Chair" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07KP8ZZR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51bopppeVRL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Redcamp 2-Pack Tripod Hunting Chair</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07KP8ZZR4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XDSS2BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411M3S2azLL._SL500_.jpg" alt="Baronett Blinds BC101 Tripod XL Folding Hunting Chair" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XDSS2BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411M3S2azLL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Baronett Blinds BC101 Tripod XL Folding </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B06XDSS2BF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07SQYK4G6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417Tm03-R9L._SL500_.jpg" alt="Portal Extra Large Quick Folding Tripod Stool" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07SQYK4G6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417Tm03-R9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Portal Extra Large Quick Folding Tripod </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B07SQYK4G6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01C34XE30?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fvIzsY7UL._SL500_.jpg" alt="ALPS OutdoorZ Stealth Hunter Blind Chair" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01C34XE30?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fvIzsY7UL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ALPS OutdoorZ Stealth Hunter Blind Chair</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B01C34XE30?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007PIR8N2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Xu8QQxMcL._SL500_.jpg" alt="Browning Camping Dove Shooter Hunting Chair" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007PIR8N2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Xu8QQxMcL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Browning Camping Dove Shooter Hunting Ch</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B007PIR8N2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00WOLOPVS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XWgRKlWvL._SL500_.jpg" alt="Muddy MGS400 Swivel-Ease Ground Seat" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00WOLOPVS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XWgRKlWvL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Muddy MGS400 Swivel-Ease Ground Seat</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B00WOLOPVS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

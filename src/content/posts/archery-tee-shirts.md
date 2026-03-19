@@ -280,70 +280,70 @@ Many of these tee shirts are light in weight, making people opt for them during 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0784STKRT?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41oHF48ubcL._SL500_.jpg" alt="Vintage Hoyt Archery Brawling Bucks T-shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0784STKRT?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41oHF48ubcL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Vintage Hoyt Archery Brawling Bucks T-sh</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B0784STKRT?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="We Are US Archery - National Team Supporter T-Shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">We Are US Archery - National Team Suppor</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01EI81BES?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="A & E Designs Rambo Shirt Archery T-shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01EI81BES?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">A & E Designs Rambo Shirt Archery T-shir</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B01EI81BES?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07JL8THR2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41okCevWDlL._SL500_.jpg" alt="Smokem’ Whitetail Soldier Deer Hunting T-shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07JL8THR2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41okCevWDlL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Smokem’ Whitetail Soldier Deer Hunting T</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07JL8THR2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Idakoos I Love Archery Men's T-shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Idakoos I Love Archery Men's T-shirt</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00E6RKTI6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51p9OwhuN7L._SL500_.jpg" alt="King’s Camo Ladies Hunter Series Long Sleeve Camo Tee" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00E6RKTI6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51p9OwhuN7L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">King’s Camo Ladies Hunter Series Long Sl</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00E6RKTI6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CR1UFBO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51WCNHAFGCL._SL500_.jpg" alt="King’s Camo Cotton Short Sleeve Hunting Tee" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CR1UFBO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51WCNHAFGCL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">King’s Camo Cotton Short Sleeve Hunting </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B00CR1UFBO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07XV5K8K7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qkDo66ixL._SL500_.jpg" alt="Teeburon Archery Only For the Brave Women Tee" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07XV5K8K7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qkDo66ixL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Teeburon Archery Only For the Brave Wome</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07XV5K8K7?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00BEV4OGA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41i0kRkyfQL._SL500_.jpg" alt="Buxsbaum Girlie T-shirt Archery Logo" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00BEV4OGA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41i0kRkyfQL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Buxsbaum Girlie T-shirt Archery Logo</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B00BEV4OGA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51EeXQVlWKL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bear Archery Retro Kodiak Tee Shirt</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

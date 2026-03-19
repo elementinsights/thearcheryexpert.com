@@ -276,70 +276,70 @@ We've included models that are ideal for kids just beginning the game and option
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00OYIT07S?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31tf7XICbbL._SL500_.jpg" alt="Bear Archery Brave Bow Set" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00OYIT07S?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31tf7XICbbL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bear Archery Brave Bow Set</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00OYIT07S?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MUHDRZY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41honQ65YvL._SL500_.jpg" alt="Dude Perfect Signature Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MUHDRZY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41honQ65YvL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Dude Perfect Signature Bow</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B01MUHDRZY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B002KMNWTC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ZTWO7x1-L._SL500_.jpg" alt="Genesis Original Kit" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B002KMNWTC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ZTWO7x1-L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Genesis Original Kit</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B002KMNWTC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B001PO5QVS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DEwiCIphL._SL500_.jpg" alt="CenterPoint Archery ABY215 Sentinel Youth Recurve Bow, Right Hand" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B001PO5QVS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DEwiCIphL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">CenterPoint Archery ABY215 Sentinel Yout</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B001PO5QVS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="Youth Wooden Bow and Arrows" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Youth Wooden Bow and Arrows</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Kiddie Play Bow and Arrow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Kiddie Play Bow and Arrow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Marky Sparky Faux Bow Pro" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31+eu4aDdbL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Marky Sparky Faux Bow Pro</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="DOSTYLE Bow and Arrow Set" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41YDGUAj31L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">DOSTYLE Bow and Arrow Set</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Click N' Play Bow & Arrow Archery Set" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/5151gpoMYML._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Click N' Play Bow & Arrow Archery Set</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0042J5QGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/315v+BCSB3L._SL500_.jpg" alt="Genesis Mini Kit" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0042J5QGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/315v+BCSB3L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Genesis Mini Kit</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B0042J5QGI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

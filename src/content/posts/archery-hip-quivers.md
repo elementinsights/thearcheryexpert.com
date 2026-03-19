@@ -261,63 +261,63 @@ Check these archery hip quivers out!
 <tbody>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00IEPFCGU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gP5BCowPL._SL500_.jpg" alt="Easton Flipside 2-Tube Hip Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00IEPFCGU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gP5BCowPL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Easton Flipside 2-Tube Hip Quiver</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00IEPFCGU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00IEPFDLO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzVH1zgEL._SL500_.jpg" alt="Easton Flipside 3-Tube Hip Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00IEPFDLO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzVH1zgEL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Easton Flipside 3-Tube Hip Quiver</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B00IEPFDLO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00IE7PX30?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/317QmJAxeVL._SL500_.jpg" alt="Easton Flipside 4-Tube Hip Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00IE7PX30?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/317QmJAxeVL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Easton Flipside 4-Tube Hip Quiver</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B00IE7PX30?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00IQ5RTTQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gP5BCowPL._SL500_.jpg" alt="October Mountain Products No Spill Tube Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00IQ5RTTQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/319+3sC9RLL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">October Mountain Products No Spill Tube </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00IQ5RTTQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07H3F2P17?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41c0Zju0P5L._SL500_.jpg" alt="Legend - XT420 Field Quiver With Adjustable Nylon Belt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07H3F2P17?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41c0Zju0P5L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Legend - XT420 Field Quiver With Adjusta</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07H3F2P17?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00PWYHAUW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzVH1zgEL._SL500_.jpg" alt="Southland Archery Supply SAS Leather Tube 17\" Hip Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00PWYHAUW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412WdChYstL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Southland Archery Supply SAS Leather Tub</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00PWYHAUW?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07DMMGF6N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/317QmJAxeVL._SL500_.jpg" alt="Archery Arrows Quivers Hip Waist Hanged Arrow Bag" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07DMMGF6N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41sQeGfkENL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Arrows Quivers Hip Waist Hanged </td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07DMMGF6N?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B077Z8CR65?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MkuSO+0JL._SL500_.jpg" alt="XTACER Tactical Molle Lite Archery Arrow Hip Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B077Z8CR65?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MkuSO+0JL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">XTACER Tactical Molle Lite Archery Arrow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.3</span></td>
 <td><a href="https://www.amazon.com/dp/B077Z8CR65?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XFTRM61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415ktDL+0iL._SL500_.jpg" alt="AMYIPO Hip Quiver Training Archery Arrow Quiver" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XFTRM61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415ktDL+0iL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">AMYIPO Hip Quiver Training Archery Arrow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.1</span></td>
 <td><a href="https://www.amazon.com/dp/B06XFTRM61?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

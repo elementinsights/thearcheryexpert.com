@@ -278,70 +278,70 @@ There are other 3D animal archery targets such as zombies, dinosaurs, and even a
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51tdw3Xlt9L._SL500_.jpg" alt="Delta McKenzie Strutter Turkey" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51tdw3Xlt9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Delta McKenzie Strutter Turkey</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003K2940W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51tdw3Xlt9L._SL500_.jpg" alt="Shooter Buck 3D Deer Archery Target With Replaceable Core" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003K2940W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/312XJNx+7yL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Shooter Buck 3D Deer Archery Target With</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B003K2940W?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0049GYV0G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41VDxCjQOoL._SL500_.jpg" alt="Rinehart Peccary Boar Target IBO Pattern" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0049GYV0G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41VDxCjQOoL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Rinehart Peccary Boar Target IBO Pattern</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B0049GYV0G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000WVRCMQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31nfTs422AL._SL500_.jpg" alt="Delta McKenzie Aim Rite Bear" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000WVRCMQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31nfTs422AL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Delta McKenzie Aim Rite Bear</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B000WVRCMQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003A1P4P2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41VDxCjQOoL._SL500_.jpg" alt="GlenDel Buck 3D Archery Target With Replaceable Insert Core" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003A1P4P2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41irzupa8DL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">GlenDel Buck 3D Archery Target With Repl</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B003A1P4P2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00AKO1NG6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414wAzFg4vL._SL500_.jpg" alt="Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00AKO1NG6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414wAzFg4vL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Morrell Bionic Buck Ⅱ 3D Archery Solid F</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00AKO1NG6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000LH5W0K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ipvotqPAL._SL500_.jpg" alt="Delta McKenzie Howling Coyote 3D Target" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000LH5W0K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ipvotqPAL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Delta McKenzie Howling Coyote 3D Target</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B000LH5W0K?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000LH34EG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31nfTs422AL._SL500_.jpg" alt="CW-X Delta McKenzie 3D Raccoon Backyard Target" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000LH34EG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51O83qwV2mL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">CW-X Delta McKenzie 3D Raccoon Backyard </td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B000LH34EG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414wAzFg4vL._SL500_.jpg" alt="Delta Riverbottom Series Challenger" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Ch4eytSKL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Delta Riverbottom Series Challenger</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01DMD5SRG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41aJeEoDLoL._SL500_.jpg" alt="Rinehart Woodland Boar 3D Target" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01DMD5SRG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41aJeEoDLoL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Rinehart Woodland Boar 3D Target</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B01DMD5SRG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

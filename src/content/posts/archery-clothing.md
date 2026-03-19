@@ -280,70 +280,70 @@ Look at the recommended product and check out the clothing below.
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07JP5459Q?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51nmshsmD5L._SL500_.jpg" alt="Arctic Shield Classic Elite Body Insulator Suit" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07JP5459Q?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/01RmK+J4pJL._SL500_.gif" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Arctic Shield Classic Elite Body Insulat</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07JP5459Q?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0BJS6Y4HW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51nmshsmD5L._SL500_.jpg" alt="North Mountain Gear Woodland Camo Ghillie Suit" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0BJS6Y4HW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51nmshsmD5L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">North Mountain Gear Woodland Camo Ghilli</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B0BJS6Y4HW?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B086G3TQRB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31mvEmxoMNL._SL500_.jpg" alt="Sitka Men's Hunting Core Lightweight Crew Long Sleeve Shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B086G3TQRB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31mvEmxoMNL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Sitka Men's Hunting Core Lightweight Cre</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B086G3TQRB?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07Q868JJM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51nmshsmD5L._SL500_.jpg" alt="Iwom Xt Archery Hunting Clothing" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07Q868JJM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61FAHCRLeEL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Iwom Xt Archery Hunting Clothing</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07Q868JJM?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B010Q8RFG2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Yt+rUO15L._SL500_.jpg" alt="ScentLok Men's Recon Thermal Pants" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B010Q8RFG2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Yt+rUO15L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ScentLok Men's Recon Thermal Pants</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B010Q8RFG2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg" alt="ScentLok Men's Hunting Clothes- ScentLok Taktix Hunting Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ScentLok Men's Hunting Clothes- ScentLok</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00VGPILTU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51nmshsmD5L._SL500_.jpg" alt="Yukon Gear Men's Waylay Softshell Hunting Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00VGPILTU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61zwLzZwsKL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Yukon Gear Men's Waylay Softshell Huntin</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B00VGPILTU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XSSNQDX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51UEyqaR1iL._SL500_.jpg" alt="Earoomze Men's 3-Dimension Breathable Hunting Outfit" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XSSNQDX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51UEyqaR1iL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Earoomze Men's 3-Dimension Breathable Hu</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B06XSSNQDX?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00TP8BMQE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51nmshsmD5L._SL500_.jpg" alt="New View Hunting Outfit" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00TP8BMQE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Yt+rUO15L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">New View Hunting Outfit</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B00TP8BMQE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0FQP38KWC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51nmshsmD5L._SL500_.jpg" alt="Icebreaker Boot Blanket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0FQP38KWC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51bWeIISS8L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Icebreaker Boot Blanket</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B0FQP38KWC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

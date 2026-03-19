@@ -280,70 +280,70 @@ These accessories are very beneficial for archers so do read these reviews on ar
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rceCvj1rL._SL500_.jpg" alt="Trophy Ridge Volt 5 Pin Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rceCvj1rL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Trophy Ridge Volt 5 Pin Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41I7l4fjyJL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">CBE Engage Hybrid Bow Sight 3 Pin RH .01</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07CLQDTTZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41kMnWU4GtL._SL500_.jpg" alt="Bow sight Define Range Finding 5 Pin" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07CLQDTTZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41kMnWU4GtL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bow sight Define Range Finding 5 Pin</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B07CLQDTTZ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31Vo-rF5QWL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">AccuTouch Carbon Pro Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07JPCZZHM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="Range-Rover Pro LED Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07JPCZZHM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Range-Rover Pro LED Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07JPCZZHM?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51IIO6Bqf7L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Oracle Rangefinder Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00OJM8732?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/514oaF5HqmL._SL500_.jpg" alt="React Pro Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00OJM8732?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/514oaF5HqmL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">React Pro Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B00OJM8732?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00G6M5MBI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41mmsP7iuPL._SL500_.jpg" alt="TOPOINT ARCHERY 3 Pin Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00G6M5MBI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41mmsP7iuPL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TOPOINT ARCHERY 3 Pin Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B00G6M5MBI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg" alt="Define Pro 7-Pin Bow Range Finding Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Define Pro 7-Pin Bow Range Finding Sight</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07R7SHGJ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41PZG9fFkFL._SL500_.jpg" alt="RDS-22 Micro Red Dot Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07R7SHGJ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41PZG9fFkFL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">RDS-22 Micro Red Dot Sight</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B07R7SHGJ6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

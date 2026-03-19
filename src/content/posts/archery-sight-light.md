@@ -287,14 +287,14 @@ For this reason, you should ensure that the device is compatible with your bows.
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rceCvj1rL._SL500_.jpg" alt="Trophy Ridge Volt 5 Pin Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rceCvj1rL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Trophy Ridge Volt 5 Pin Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0000AVERL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="TRUGLO TG55 Tru-Lite Sight Light" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0000AVERL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21Urm4W1AwL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TRUGLO TG55 Tru-Lite Sight Light</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B0000AVERL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -308,14 +308,14 @@ For this reason, you should ensure that the device is compatible with your bows.
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07B2LCTJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="TRUGLO AG2314BD Apex Gear Covert, 4 Pin Light .019 Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07B2LCTJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31spp6IbhiL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">TRUGLO AG2314BD Apex Gear Covert, 4 Pin </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07B2LCTJS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B002BIM0CK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/312Vonl3XGL._SL500_.jpg" alt="Trophy Ridge Rheostatlight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B002BIM0CK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/312Vonl3XGL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Trophy Ridge Rheostatlight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B002BIM0CK?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -329,21 +329,21 @@ For this reason, you should ensure that the device is compatible with your bows.
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0748FWV3M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="Gazelle-Trading Tactical C8T6 1200 Lumen Archery Compound Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0748FWV3M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Gazelle-Trading Tactical C8T6 1200 Lumen</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B0748FWV3M?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003C7OE5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31YlnGfC5HL._SL500_.jpg" alt="HHA 2500 Sight Light, Black" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003C7OE5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31YlnGfC5HL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">HHA 2500 Sight Light, Black</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B003C7OE5K?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B006QP7AJC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41SgQElye0L._SL500_.jpg" alt="IQ Sight Light" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B006QP7AJC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41SgQElye0L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">IQ Sight Light</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B006QP7AJC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

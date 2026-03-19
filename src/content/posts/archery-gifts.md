@@ -280,70 +280,70 @@ But there are so many things in archery that we love and can make a great gift f
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07K7YNF7Z?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DvJtIHi+L._SL500_.jpg" alt="Arrow Rest - Trophy Ridge Sync Drop Away Right Hand Arrow Rest" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07K7YNF7Z?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EUToX2QDL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Arrow Rest - Trophy Ridge Sync Drop Away</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07K7YNF7Z?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XCZXPF5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DvJtIHi+L._SL500_.jpg" alt="Release - Scott Archery Talon Bow Release Buckle Strap" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XCZXPF5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DvJtIHi+L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Release - Scott Archery Talon Bow Releas</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B06XCZXPF5?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B075QMZ2VL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zjribFjiL._SL500_.jpg" alt="Custom Arrow Strings - KESHES Dacron Bow String Replacement" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B075QMZ2VL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zjribFjiL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Custom Arrow Strings - KESHES Dacron Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B075QMZ2VL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007TOHDQY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zjribFjiL._SL500_.jpg" alt="Plano Protector Pillar Locked Protective Bow Case" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007TOHDQY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41HGi2o8EZL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Plano Protector Pillar Locked Protective</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B007TOHDQY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00OPA6DXO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41jwpiMqLIL._SL500_.jpg" alt="Sights - Trophy Ridge Joker Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00OPA6DXO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41jwpiMqLIL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Sights - Trophy Ridge Joker Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00OPA6DXO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B008J6T4RC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41roO-JCn2L._SL500_.jpg" alt="Archery Bow Stand - HME Products Hard Surface Practice Hanger" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B008J6T4RC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41roO-JCn2L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Bow Stand - HME Products Hard Su</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B008J6T4RC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000ZB9474?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51O7cfy1HHL._SL500_.jpg" alt="Archery Target - Morrell Yellow Jacket Supreme Archery Target" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000ZB9474?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51O7cfy1HHL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Target - Morrell Yellow Jacket S</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B000ZB9474?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07YWT623G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310oVO3JhgL._SL500_.jpg" alt="Quiver - G4Free Archery Back Arrow Quiver Canvas" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07YWT623G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310oVO3JhgL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Quiver - G4Free Archery Back Arrow Quive</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07YWT623G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07ZRG6TKB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41jwpiMqLIL._SL500_.jpg" alt="Camouflage Cloth - LOOGU Hunting Ghillie Suit" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07ZRG6TKB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/511gVMVNcoL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Camouflage Cloth - LOOGU Hunting Ghillie</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07ZRG6TKB?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0837NGKM3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JNXt-P5UL._SL500_.jpg" alt="Arrow For The Bow - Linkboy Archery Carbon Arrows" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0837NGKM3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JNXt-P5UL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Arrow For The Bow - Linkboy Archery Carb</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B0837NGKM3?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

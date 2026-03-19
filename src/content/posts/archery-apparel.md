@@ -280,70 +280,70 @@ Without that, it would be really hard for one to identify what sort of event is 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B008PDTFMI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZL55C-xVL._SL500_.jpg" alt="King’s Camo Hunter Series Pants" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B008PDTFMI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZL55C-xVL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">King’s Camo Hunter Series Pants</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B008PDTFMI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZL55C-xVL._SL500_.jpg" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51tpfKDi9tL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">King’s Camo KC1 Poly Long Sleeve Tee Shi</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07FFC8221?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51BquQT1ToL._SL500_.jpg" alt="Hot Shot’s Youth Boy Camo Defender Gloves" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07FFC8221?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51BquQT1ToL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Hot Shot’s Youth Boy Camo Defender Glove</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B07FFC8221?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01CD8TFOS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51wBDnDQIwL._SL500_.jpg" alt="Kryptek Vellus Camo Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01CD8TFOS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51wBDnDQIwL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Kryptek Vellus Camo Jacket</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B01CD8TFOS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00IYWZP3I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412D52c7T2L._SL500_.jpg" alt="Hunter Safety System X-1 Bowhunter Treestand Safety Harness" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00IYWZP3I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412D52c7T2L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Hunter Safety System X-1 Bowhunter Trees</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00IYWZP3I?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07TTN6XDF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51WFn52UC9L._SL500_.jpg" alt="Bijia Hunting Rangefinder  -  6X 650 Yards Multifunctional Laser Rangefinder for Hunting" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07TTN6XDF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51WFn52UC9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bijia Hunting Rangefinder  -  6X 650 Yards</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B07TTN6XDF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B011MCBLJ8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZJ-f9m6KL._SL500_.jpg" alt="ScentLok’s Men’s Full Season Headcover" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B011MCBLJ8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZJ-f9m6KL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ScentLok’s Men’s Full Season Headcover</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B011MCBLJ8?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07MMSZP8P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qEk3B-SeL._SL500_.jpg" alt="T.O.M Horizons Binoculars Harness Case Pack" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07MMSZP8P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qEk3B-SeL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">T.O.M Horizons Binoculars Harness Case P</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07MMSZP8P?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B005HRP86C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51a+XnoNyhL._SL500_.jpg" alt="ALPS Outdoor Z Dark Timber Hunting Day Backpack" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B005HRP86C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51a+XnoNyhL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ALPS Outdoor Z Dark Timber Hunting Day B</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B005HRP86C?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B074CC5B76?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61tSbzJZD8L._SL500_.jpg" alt="New View Hunting Jacket Silent Water Resistant Hunting Clothes" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B074CC5B76?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61tSbzJZD8L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">New View Hunting Jacket Silent Water Res</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B074CC5B76?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

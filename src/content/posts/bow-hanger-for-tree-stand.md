@@ -276,70 +276,70 @@ Bow holders are compact pieces of equipment that are meant to hold your hunting 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003DQTUEU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CWZtZ16zL._SL500_.jpg" alt="Summit Treestands Universal Bow Hanger" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003DQTUEU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31JnhSFRlqL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Summit Treestands Universal Bow Hanger</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B003DQTUEU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000PE1GG8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CWZtZ16zL._SL500_.jpg" alt="Third Hand Treestand Bow Holder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000PE1GG8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CWZtZ16zL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Third Hand Treestand Bow Holder</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B000PE1GG8?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0003YMTOS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/318q870yHmL._SL500_.jpg" alt="Team Realtree Short EZ Hanger" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0003YMTOS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21tQYo76lBL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Team Realtree Short EZ Hanger</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B0003YMTOS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000H1K27I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/318q870yHmL._SL500_.jpg" alt="HME Products Universally Mountable Bow Holders" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000H1K27I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/318q870yHmL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">HME Products Universally Mountable Bow H</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B000H1K27I?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000H1NUKY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31z5GewwJqL._SL500_.jpg" alt="HME Products Pro-series Super Hanger" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000H1NUKY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41eSI87h-OL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">HME Products Pro-series Super Hanger</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B000H1NUKY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01BE8CB7G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31z5GewwJqL._SL500_.jpg" alt="RealTree Outfitters EZ Hangers" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01BE8CB7G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31z5GewwJqL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">RealTree Outfitters EZ Hangers</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B01BE8CB7G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003DQNQAY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/https://m.media-amazon.com/images/I/31JnhSFRlqL._SL500_.jpg" alt="High-Point Product Holder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003DQNQAY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411ejg0SFqL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">High-Point Product Holder</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B003DQNQAY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06W9MKZD4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/https://m.media-amazon.com/images/I/411ejg0SFqL._SL500_.jpg" alt="Bow Buddy Bow Hanger" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06W9MKZD4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51DT-DScQBL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bow Buddy Bow Hanger</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B06W9MKZD4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0002LMTHE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/https://m.media-amazon.com/images/I/51DT-DScQBL._SL500_.jpg" alt="Team REALTREE 3-Arm EZ Hanger" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0002LMTHE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/317vt-y+R1L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Team REALTREE 3-Arm EZ Hanger</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B0002LMTHE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B005HXXG4C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/https://m.media-amazon.com/images/I/317vt-y+R1L._SL500_.jpg" alt="HME Products Ground Blind Bow Holders" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B005HXXG4C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21-YBp3qFGL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">HME Products Ground Blind Bow Holders</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B005HXXG4C?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

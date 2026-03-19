@@ -278,70 +278,70 @@ Practicing archery regularly boosts self-confidence, and with time when skills a
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/1099411335?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Archery Score Card: Archery Score Keeper Scoring Helper" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/1099411335?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41OXp8NcB-L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Score Card: Archery Score Keeper</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/1099411335?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B08DSS7JFG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s0d+xohfL._SL500_.jpg" alt="Archery Score Sheet: Score Cards for Tournaments, Competitions, Practice journal" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B08DSS7JFG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s0d+xohfL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Score Sheet: Score Cards for Tou</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B08DSS7JFG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Archery Score Sheets Book: Archery Fundamentals Practice Log" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Score Sheets Book: Archery Funda</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/1073332888?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Archery Score Sheets Book: Score Cards for Archery Competitions" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/1073332888?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/410Cw21yKcL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Score Sheets Book: Score Cards f</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/1073332888?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07SC5SCTV?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07SC5SCTV?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s7KeZzzfL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">ARCHERY SCORE SHEETS: Perfect Strike Arc</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07SC5SCTV?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B08DSYPJ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Archery Score Card: Score Sheets for Archery" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B08DSYPJ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/5192tBOVg7L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Score Card: Score Sheets for Arc</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B08DSYPJ7L?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Keep Calm And Shoot Straight: Archery Score Sheets Book" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Keep Calm And Shoot Straight: Archery Sc</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B003DRBFPG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/1695666844?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41puzx5Eu+L._SL500_.jpg" alt="Archery Score Book: Archery Target Score Sheets" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/1695666844?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41puzx5Eu+L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Score Book: Archery Target Score</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/1695666844?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/1090675291?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411YG6KkZBL._SL500_.jpg" alt="Draw Anchor Aim: Archery Score Keeping Notebook for Target Shooting" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/1090675291?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411YG6KkZBL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Draw Anchor Aim: Archery Score Keeping N</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/1090675291?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/1695667840?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vDtPe5IhL._SL500_.jpg" alt="Follow Your Own Arrow: Archery Target Score Sheets" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/1695667840?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/419N1CRtgNL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Follow Your Own Arrow: Archery Target Sc</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/1695667840?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>

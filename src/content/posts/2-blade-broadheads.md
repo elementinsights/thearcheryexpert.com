@@ -280,70 +280,70 @@ A fixed blade and a mechanical blade are included.
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B001SH1M92?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31a2X95sq-L._SL500_.jpg" alt="Carbon Express F-15 Expandable 2 Blade Broadhead" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B001SH1M92?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31a2X95sq-L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Carbon Express F-15 Expandable 2 Blade B</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B001SH1M92?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00AU6DAHY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gEOoY+gXL._SL500_.jpg" alt="2-Blade  -  Shock Collar and Ferrule Alignment Technology" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00AU6DAHY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gEOoY+gXL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">2-Blade  -  Shock Collar and Ferrule Align</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B00AU6DAHY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00K0LJV6I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411lm4pjkXL._SL500_.jpg" alt="Swhacker SWH00207 #207" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00K0LJV6I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411lm4pjkXL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Swhacker SWH00207 #207</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B00K0LJV6I?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0197DARSU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EEndVNvxL._SL500_.jpg" alt="Rage Bow Hunting Hypodermic" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0197DARSU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EEndVNvxL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Rage Bow Hunting Hypodermic</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B0197DARSU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00QQNV6LC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/315uPAHXvVL._SL500_.jpg" alt="Rage 2 Blade Broadhead" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00QQNV6LC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/315uPAHXvVL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Rage 2 Blade Broadhead</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00QQNV6LC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00BNUTUJI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ATIB+NbyL._SL500_.jpg" alt="STINGER 2 Blade Arrow Broadhead" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00BNUTUJI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ATIB+NbyL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">STINGER 2 Blade Arrow Broadhead</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00BNUTUJI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B001EYIV02?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51KWyN3OYhL._SL500_.jpg" alt="Magnus SBC100-2 Stinger Buzzcut 2 Blade Broadhead" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B001EYIV02?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51KWyN3OYhL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Magnus SBC100-2 Stinger Buzzcut 2 Blade </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B001EYIV02?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07TCCQT5P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31+tIeZNIhL._SL500_.jpg" alt="B3 Exoskeletal 2 Blade Broadhead" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07TCCQT5P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31+tIeZNIhL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">B3 Exoskeletal 2 Blade Broadhead</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07TCCQT5P?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000IENPWS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31LyYgXxgoL._SL500_.jpg" alt="G5 Montec 2 Blade Broadhead" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000IENPWS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31LyYgXxgoL._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">G5 Montec 2 Blade Broadhead</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B000IENPWS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31a2X95sq-L._SL500_.jpg" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/515j6P7nN6L._SL500_.jpg" alt="" loading="lazy" /></a></td>
 <td class="table-product-name">Bloodrunner 2 Blade Broadheads</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
