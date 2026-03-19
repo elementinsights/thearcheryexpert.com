@@ -235,4 +235,6 @@ Bow stands can phenomenally increase the bow's lifespan and protect its bow's st
 
 ## Final Thoughts
 
-A home archery range gives you the freedom to practice on your own schedule without driving to a club or paying range fees. The key is doing your homework on local laws, investing in a proper backstop, and designing a layout that keeps everyone safe. Whether you’re shooting in the backyard or your basement, a well-planned range will pay for itself in improved skills and convenience.
+A home archery range gives you the freedom to practice on your own schedule without driving to a club or paying range fees. The key is doing your homework on local laws, investing in a proper backstop, and designing a layout that keeps everyone safe.
+
+Whether you’re shooting in the backyard or your basement, a well-planned range will pay for itself in improved skills and convenience.

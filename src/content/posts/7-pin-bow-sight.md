@@ -1037,6 +1037,8 @@ Yardage displayed is always horizontal distance (angle compensation built-in), 0
 
 ## Final Thoughts
 
-A 7 pin bow sight gives you the range coverage that shorter pin setups simply can’t match, especially on western hunts or 3D courses with targets out past 60 yards. When choosing one, pay close attention to pin brightness, micro-adjustability, and how cluttered the sight housing feels at full draw. The right 7 pin sight won’t just help you reach farther targets, it’ll give you the confidence to take those shots cleanly.
+A 7 pin bow sight gives you the range coverage that shorter pin setups simply can’t match, especially on western hunts or 3D courses with targets out past 60 yards. When choosing one, pay close attention to pin brightness, micro-adjustability, and how cluttered the sight housing feels at full draw.
+
+The right 7 pin sight won’t just help you reach farther targets, it’ll give you the confidence to take those shots cleanly.
 
 If you've poor skill even the best bow sight is useless for you so as soon as you get your new sight start practicing with it so that you can get the desired results.

@@ -409,4 +409,6 @@ Each arrow  -  shot from a distance of 70 m  -  can earn a maximum of 10 points 
 
 ## Final Thoughts
 
-The records on this list show just how far human skill and dedication can push the sport of archery. From Matt Stutzman's incredible 930-foot accurate shot to Harry Drake's nearly mile-long flight distance, these achievements represent thousands of hours of focused practice. Whether you're a casual archer or a competitive one, these records set an inspiring benchmark for what's possible with a bow in hand.
+The records on this list show just how far human skill and dedication can push the sport of archery. From Matt Stutzman's incredible 930-foot accurate shot to Harry Drake's nearly mile-long flight distance, these achievements represent thousands of hours of focused practice.
+
+Whether you're a casual archer or a competitive one, these records set an inspiring benchmark for what's possible with a bow in hand.

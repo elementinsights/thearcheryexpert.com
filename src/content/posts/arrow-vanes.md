@@ -1124,7 +1124,9 @@ If you want to get arrow vanes for indoor sports like archery, then any options 
 
 You need to look into whether these arrow vanes would support your sport and be affordable and easy to use for practice.
 
-For hunting, you would need to choose arrow vanes based on the upper hand. It could give you airtime. Stiff arrow vanes would be a good place to start.
+For hunting, you would need to choose arrow vanes based on the upper hand. It could give you airtime.
+
+Stiff arrow vanes would be a good place to start.
 
 First, you would need to make sure that the arrow vanes you're using don't downplay the skills you already have.
 
@@ -1136,6 +1138,8 @@ It also removes drag wind and crosswind interference, therefore cutting out fact
 
 ## Final Thoughts
 
-Choosing the right arrow vanes comes down to knowing what you’ll be using them for. Hunters need stiffer, larger vanes that stabilize broadheads quickly, while target shooters benefit from smaller, low-profile options that minimize drag. Any of the vanes on this list will serve you well once you match them to your shooting style and arrow setup.
+Choosing the right arrow vanes comes down to knowing what you’ll be using them for. Hunters need stiffer, larger vanes that stabilize broadheads quickly, while target shooters benefit from smaller, low-profile options that minimize drag.
+
+Any of the vanes on this list will serve you well once you match them to your shooting style and arrow setup.
 
 It also removes drag wind and crosswind interference, therefore cutting out factors that could affect your aim and direction.

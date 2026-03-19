@@ -1133,4 +1133,6 @@ Last but not least, keep a keen eye on what other individuals are doing, and, fo
 
 ## Final Thoughts
 
-A quality 2 blade broadhead can make the difference between a clean harvest and a lost animal. Whether you go with a fixed blade for reliability or an expandable for wider cutting diameter, the right choice depends on your bow setup and what you're hunting. Focus on sharpness, flight consistency, and a grain weight that matches your arrow spine for the best results downrange.
+A quality 2 blade broadhead can make the difference between a clean harvest and a lost animal. Whether you go with a fixed blade for reliability or an expandable for wider cutting diameter, the right choice depends on your bow setup and what you're hunting.
+
+Focus on sharpness, flight consistency, and a grain weight that matches your arrow spine for the best results downrange.

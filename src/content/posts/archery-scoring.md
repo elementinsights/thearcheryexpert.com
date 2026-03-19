@@ -435,4 +435,6 @@ This is our last fact for this article, and we think it’s pretty cool: you’r
 
 ## Final Thoughts
 
-Understanding archery scoring is essential before you step onto the range or enter a competition. Once you know the difference between 5-zone and 10-zone targets, learn how ends work, and get comfortable reading a scoring sheet, the rules become second nature. The best way to internalize it all is to keep practicing and tracking your scores consistently.
+Understanding archery scoring is essential before you step onto the range or enter a competition. Once you know the difference between 5-zone and 10-zone targets, learn how ends work, and get comfortable reading a scoring sheet, the rules become second nature.
+
+The best way to internalize it all is to keep practicing and tracking your scores consistently.

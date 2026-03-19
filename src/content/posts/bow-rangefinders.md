@@ -1128,4 +1128,6 @@ Let's know in the comments below.
 
 ## Final Thoughts
 
-A good rangefinder takes the guesswork out of distance estimation and can dramatically improve your accuracy in the field. The models on this list cover everything from budget-friendly options for casual hunters to premium units with advanced ballistic features. Pick one that fits your hunting style and budget, and you'll wonder how you ever hunted without it.
+A good rangefinder takes the guesswork out of distance estimation and can dramatically improve your accuracy in the field. The models on this list cover everything from budget-friendly options for casual hunters to premium units with advanced ballistic features.
+
+Pick one that fits your hunting style and budget, and you'll wonder how you ever hunted without it.

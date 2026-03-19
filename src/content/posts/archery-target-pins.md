@@ -1085,6 +1085,8 @@ If you feel that another product deserves its place on our list of the ten best 
 
 ## Final Thoughts
 
-Good target pins are a small but essential part of your archery setup that you shouldn’t overlook. Investing in a quality set means your target faces stay firmly in place through long practice sessions without constantly needing to re-pin. Grab a durable pack, keep a few spares in your gear bag, and you won’t have to think about them again for a long time.
+Good target pins are a small but essential part of your archery setup that you shouldn’t overlook. Investing in a quality set means your target faces stay firmly in place through long practice sessions without constantly needing to re-pin.
+
+Grab a durable pack, keep a few spares in your gear bag, and you won’t have to think about them again for a long time.
 
 If you feel that another product deserves its place on our list of the ten best archery target pins, please let's know.

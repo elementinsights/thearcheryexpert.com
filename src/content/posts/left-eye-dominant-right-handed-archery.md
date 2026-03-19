@@ -249,4 +249,6 @@ This is done by wearing glasses for shooting, which you should wear anyway, and 
 
 ## Final Thoughts
 
-Cross-dominance affects roughly a third of right-handed people, so you’re far from alone in dealing with this issue. The good news is that whether you choose to switch hands, block your dominant eye, or use a partial occluder, there’s a workable solution for every archer. Test the options, give yourself time to adjust, and let consistent practice do the rest.
+Cross-dominance affects roughly a third of right-handed people, so you’re far from alone in dealing with this issue. The good news is that whether you choose to switch hands, block your dominant eye, or use a partial occluder, there’s a workable solution for every archer.
+
+Test the options, give yourself time to adjust, and let consistent practice do the rest.

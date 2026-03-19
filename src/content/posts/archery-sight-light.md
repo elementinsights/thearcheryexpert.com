@@ -1142,4 +1142,6 @@ Finally, the unique feature of this sight light is that it easily fits with diff
 
 ## Final Thoughts
 
-An archery sight light is a small and affordable upgrade that can make a significant difference during low-light hunting and shooting sessions. Whether you're hunting in the early morning or shooting into the evening, having illuminated pins means you won't have to cut your time short. Pick a model that fits your sight housing and offers adjustable brightness for the most versatility.
+An archery sight light is a small and affordable upgrade that can make a significant difference during low-light hunting and shooting sessions. Whether you're hunting in the early morning or shooting into the evening, having illuminated pins means you won't have to cut your time short.
+
+Pick a model that fits your sight housing and offers adjustable brightness for the most versatility.

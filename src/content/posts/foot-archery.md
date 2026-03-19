@@ -409,4 +409,6 @@ Lastly, although they’re essentially a beginners’ archery set, never attempt
 
 ## Final Thoughts
 
-Foot archery is one of the most physically demanding and visually impressive forms of archery you’ll find. It combines contortion, balance, and lower body strength in ways that standard archery never touches. If you’re serious about trying it, start with flexibility training and lightweight practice bows, and always prioritize safety by never aiming at people or animals.
+Foot archery is one of the most physically demanding and visually impressive forms of archery you’ll find. It combines contortion, balance, and lower body strength in ways that standard archery never touches.
+
+If you’re serious about trying it, start with flexibility training and lightweight practice bows, and always prioritize safety by never aiming at people or animals.

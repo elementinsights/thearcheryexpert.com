@@ -985,5 +985,7 @@ It's always important to be mindful of the product and shop of your choice to en
 
 ## Final Thoughts
 
-Archery decals are a simple, affordable way to show off your love for the sport on your truck, bow case, or gear. Prioritize high-quality vinyl that resists UV fading, and pick a size that works for the surface you plan to apply it to. From brand logos to bowhunter silhouettes, the right decal is a small touch that makes a statement.
+Archery decals are a simple, affordable way to show off your love for the sport on your truck, bow case, or gear. Prioritize high-quality vinyl that resists UV fading, and pick a size that works for the surface you plan to apply it to.
+
+From brand logos to bowhunter silhouettes, the right decal is a small touch that makes a statement.
 

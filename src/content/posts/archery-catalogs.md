@@ -566,5 +566,7 @@ Live chat, email address, and phone number are available on the front page for a
 
 ## Final Thoughts
 
-The right archery catalog depends on whether you're into traditional archery, compound bowhunting, crossbow shooting, or competitive target work. Beginners should start with retailers like 3Rivers Archery or Lancaster Archery that offer both quality products and educational resources to help you learn. Take advantage of the live chat support and buyer's guides these shops provide, because picking the right equipment from the start saves you money and frustration down the road.
+The right archery catalog depends on whether you're into traditional archery, compound bowhunting, crossbow shooting, or competitive target work. Beginners should start with retailers like 3Rivers Archery or Lancaster Archery that offer both quality products and educational resources to help you learn.
+
+Take advantage of the live chat support and buyer's guides these shops provide, because picking the right equipment from the start saves you money and frustration down the road.
 

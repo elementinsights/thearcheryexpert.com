@@ -1124,4 +1124,6 @@ Adding shooting gloves with it will further enhance the experience as it decreas
 
 ## Final Thoughts
 
-There's something deeply satisfying about shooting a wooden bow that modern compounds and high-tech gear can't replicate. The bows on this list range from affordable youth models to handcrafted longbows built for serious traditional archers. Whichever one you choose, take care of it properly and you'll have a reliable, beautiful piece of equipment that connects you to archery's oldest roots.
+There's something deeply satisfying about shooting a wooden bow that modern compounds and high-tech gear can't replicate. The bows on this list range from affordable youth models to handcrafted longbows built for serious traditional archers.
+
+Whichever one you choose, take care of it properly and you'll have a reliable, beautiful piece of equipment that connects you to archery's oldest roots.

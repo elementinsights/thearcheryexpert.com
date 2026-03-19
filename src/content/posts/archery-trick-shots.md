@@ -286,5 +286,7 @@ While practicing this trick shot, make sure that you can clean the area around t
 
 ## Final Thoughts
 
-Trick shots are a fun way to push your archery skills beyond standard target practice. They test your timing, precision, and creativity in ways that regular shooting doesn't. Start with the easier ones like balloon popping, work your way up as your confidence grows, and always prioritize safety no matter how simple the trick seems.
+Trick shots are a fun way to push your archery skills beyond standard target practice. They test your timing, precision, and creativity in ways that regular shooting doesn't.
+
+Start with the easier ones like balloon popping, work your way up as your confidence grows, and always prioritize safety no matter how simple the trick seems.
 

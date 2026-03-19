@@ -1171,4 +1171,6 @@ That makes it a remarkable product for any hunter.
 
 ## Final Thoughts
 
-The right archery jacket keeps you warm, quiet, and unrestricted during those long hours in the field. A good hunting jacket won't catch on your bowstring or make noise when you draw back, and that can make the difference between a successful harvest and a spooked animal. Choose one that fits your climate, budget, and hunting style, and it'll quickly become one of your most valued pieces of gear.
+The right archery jacket keeps you warm, quiet, and unrestricted during those long hours in the field. A good hunting jacket won't catch on your bowstring or make noise when you draw back, and that can make the difference between a successful harvest and a spooked animal.
+
+Choose one that fits your climate, budget, and hunting style, and it'll quickly become one of your most valued pieces of gear.

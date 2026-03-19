@@ -1152,4 +1152,6 @@ All types of targets differ from a quality level which determines the best arrow
 
 ## Final Thoughts
 
-A lifelike 3D animal target is one of the best investments you can make for hunting preparation because it trains you to pick the right aiming point on a realistic shape rather than a flat bullseye. Look for high-density foam construction and replaceable vital zone cores to get the most life out of your purchase. Whether you’re practicing for whitetail season or 3D archery tournaments, these targets will sharpen your shot placement more than any standard block or bag target can.
+A lifelike 3D animal target is one of the best investments you can make for hunting preparation because it trains you to pick the right aiming point on a realistic shape rather than a flat bullseye. Look for high-density foam construction and replaceable vital zone cores to get the most life out of your purchase.
+
+Whether you’re practicing for whitetail season or 3D archery tournaments, these targets will sharpen your shot placement more than any standard block or bag target can.

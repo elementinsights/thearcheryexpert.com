@@ -405,4 +405,6 @@ WA stands for the World Archery which is an Olympic approved committee or govern
 
 ## Final Thoughts
 
-Knowing the proper archery terminology makes it much easier to follow instructions, communicate with other archers, and understand equipment specifications. Bookmark this glossary and refer back to it whenever you come across an unfamiliar term. The more comfortable you are with the language, the faster you'll progress in the sport.
+Knowing the proper archery terminology makes it much easier to follow instructions, communicate with other archers, and understand equipment specifications. Bookmark this glossary and refer back to it whenever you come across an unfamiliar term.
+
+The more comfortable you are with the language, the faster you'll progress in the sport.

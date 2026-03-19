@@ -409,4 +409,6 @@ Moving your head between shots may also result in inconsistency.
 
 ## Final Thoughts
 
-Your anchor point is the foundation of consistent shooting, so don’t rush the process of finding the right one. Experiment with corner-of-mouth and under-the-jaw positions, add secondary reference points like string-to-nose contact, and commit to practicing one anchor setup at a time until it becomes second nature. Once it clicks, you’ll notice a dramatic improvement in both accuracy and shot-to-shot consistency.
+Your anchor point is the foundation of consistent shooting, so don’t rush the process of finding the right one. Experiment with corner-of-mouth and under-the-jaw positions, add secondary reference points like string-to-nose contact, and commit to practicing one anchor setup at a time until it becomes second nature.
+
+Once it clicks, you’ll notice a dramatic improvement in both accuracy and shot-to-shot consistency.

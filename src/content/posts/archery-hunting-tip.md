@@ -432,4 +432,6 @@ This is another easy-peasy option to carry it comfortably.
 
 ## Final Thoughts
 
-Becoming a more accurate bowhunter takes dedication to the fundamentals and a willingness to keep refining your technique. Focus on equipment that fits your skill level, develop a consistent stance and grip, and never stop practicing your release. These tips will help you build confidence in the field so you're ready when the moment of truth arrives.
+Becoming a more accurate bowhunter takes dedication to the fundamentals and a willingness to keep refining your technique. Focus on equipment that fits your skill level, develop a consistent stance and grip, and never stop practicing your release.
+
+These tips will help you build confidence in the field so you're ready when the moment of truth arrives.

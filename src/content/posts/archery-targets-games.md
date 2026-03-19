@@ -359,5 +359,7 @@ Your competitive nature is sharpened as your opponents drop out one by one, incr
 
 ## Final Thoughts
 
-Playing archery games turns repetitive practice into something you’ll actually look forward to. These games challenge your aim from different angles, distances, and pressure situations that standard target shooting doesn’t always provide. Try a few of them with friends or on your own, and you’ll find your accuracy improving without it feeling like a grind.
+Playing archery games turns repetitive practice into something you’ll actually look forward to. These games challenge your aim from different angles, distances, and pressure situations that standard target shooting doesn’t always provide.
+
+Try a few of them with friends or on your own, and you’ll find your accuracy improving without it feeling like a grind.
 

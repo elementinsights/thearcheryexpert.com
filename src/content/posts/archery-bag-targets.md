@@ -1152,7 +1152,9 @@ The extreme durability and sturdiness of this bag target owing to the hefty amou
 
 The vast amount of internal stuffing provides an unparalleled arrow stopping power.
 
-This results in the stoppage of all fast arrows and bolts. Including crossbows up to 400 fps. Without piercing the target.
+This results in the stoppage of all fast arrows and bolts. Including crossbows up to 400 fps.
+
+Without piercing the target.
 
 This bag target can withstand the storm of high-speed bows and immense pressure.
 
@@ -1172,4 +1174,6 @@ You can just put it somewhere outside without moving it for some time.
 
 ## Final Thoughts
 
-Bag targets are the most practical and affordable option for daily archery practice, whether you’re shooting in your backyard or at an indoor range. Match the target to your setup by checking the speed rating for your bow or crossbow, and rotate the shooting surface regularly to get the most life out of it. Once you’ve outgrown bag targets, consider stepping up to block targets or 3D animal targets for more advanced practice scenarios.
+Bag targets are the most practical and affordable option for daily archery practice, whether you’re shooting in your backyard or at an indoor range. Match the target to your setup by checking the speed rating for your bow or crossbow, and rotate the shooting surface regularly to get the most life out of it.
+
+Once you’ve outgrown bag targets, consider stepping up to block targets or 3D animal targets for more advanced practice scenarios.

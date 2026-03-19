@@ -371,4 +371,6 @@ More strength and healthy
 
 ## Final Thoughts
 
-Knowing whistle commands is one of the most basic but critical parts of archery range safety. These five signals keep everyone on the same page and prevent accidents during practice and competition. Make sure you’ve memorized them before your first session, and always follow them without hesitation when you hear them on the range.
+Knowing whistle commands is one of the most basic but critical parts of archery range safety. These five signals keep everyone on the same page and prevent accidents during practice and competition.
+
+Make sure you’ve memorized them before your first session, and always follow them without hesitation when you hear them on the range.

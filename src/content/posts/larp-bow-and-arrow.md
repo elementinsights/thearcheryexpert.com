@@ -870,4 +870,6 @@ Always remember to have fun.
 
 ## Final Thoughts
 
-LARP archery is a great way to combine physical activity with creative role-playing, and you don't need to be an experienced archer to enjoy it. The bows on this list are affordable, beginner-friendly, and built for the kind of close-range fun that LARP games demand. Just make sure you're using foam-tipped arrows, wearing proper safety gear, and keeping the play area clear of bystanders.
+LARP archery is a great way to combine physical activity with creative role-playing, and you don't need to be an experienced archer to enjoy it. The bows on this list are affordable, beginner-friendly, and built for the kind of close-range fun that LARP games demand.
+
+Just make sure you're using foam-tipped arrows, wearing proper safety gear, and keeping the play area clear of bystanders.

@@ -331,5 +331,7 @@ You’re set to go for another round of target practice in the comfort of your h
 
 ## Final Thoughts
 
-Building your own foam archery target is one of the most budget-friendly ways to practice at home without spending $100 or more on a store-bought option. The materials are easy to find, the assembly takes about an hour, and the design lets you swap out worn foam sections in minutes. Once you’ve built one, you’ll have a reusable target that keeps up with your training for months.
+Building your own foam archery target is one of the most budget-friendly ways to practice at home without spending $100 or more on a store-bought option. The materials are easy to find, the assembly takes about an hour, and the design lets you swap out worn foam sections in minutes.
+
+Once you’ve built one, you’ll have a reusable target that keeps up with your training for months.
 

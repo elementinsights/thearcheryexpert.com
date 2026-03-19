@@ -1299,4 +1299,6 @@ Thank you for reading our reviews on the 10 best back tension releases.
 
 ## Final Thoughts
 
-A quality back tension release can transform your shooting by taking the conscious decision out of the shot execution. It forces you to use proper back muscles and produces a surprise release that leads to cleaner, more consistent shots. Invest some practice time with any of these models, and you'll likely notice a real improvement in your accuracy and group sizes.
+A quality back tension release can transform your shooting by taking the conscious decision out of the shot execution. It forces you to use proper back muscles and produces a surprise release that leads to cleaner, more consistent shots.
+
+Invest some practice time with any of these models, and you'll likely notice a real improvement in your accuracy and group sizes.

@@ -353,4 +353,6 @@ This inherent fear of the string causes a lot of problems when they're trying to
 
 ## Final Thoughts
 
-Paper tuning your bow is one of the most effective ways to diagnose and correct arrow flight issues before they become problems on the range or in the field. It doesn't require expensive equipment, and the process gets easier every time you do it. Make paper tuning a regular part of your bow maintenance routine, and you'll shoot with more confidence knowing your setup is dialed in.
+Paper tuning your bow is one of the most effective ways to diagnose and correct arrow flight issues before they become problems on the range or in the field. It doesn't require expensive equipment, and the process gets easier every time you do it.
+
+Make paper tuning a regular part of your bow maintenance routine, and you'll shoot with more confidence knowing your setup is dialed in.

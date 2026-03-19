@@ -360,4 +360,6 @@ Specialized sports vision focuses on screening the athlete’s response as well 
 
 ## Final Thoughts
 
-Reading published research on archery gives you a deeper understanding of the science behind every shot you take. From grip strength and muscle training to biomechanics and visual skills, these studies offer practical knowledge that can directly improve your performance. Combine what you learn from research with consistent range practice, and you'll develop both the physical and mental tools to reach your full potential as an archer.
+Reading published research on archery gives you a deeper understanding of the science behind every shot you take. From grip strength and muscle training to biomechanics and visual skills, these studies offer practical knowledge that can directly improve your performance.
+
+Combine what you learn from research with consistent range practice, and you'll develop both the physical and mental tools to reach your full potential as an archer.

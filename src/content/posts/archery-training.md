@@ -329,5 +329,7 @@ It will also be much easier to improve your shooting while using a particular va
 
 ## Final Thoughts
 
-Becoming a better archer comes down to deliberate, consistent practice with the right fundamentals. Focus on one step at a time, whether it's perfecting your anchor point, relaxing your grip, or dialing in your draw length. Small improvements in each area compound into a noticeably better shot over time, and the results are worth the patience.
+Becoming a better archer comes down to deliberate, consistent practice with the right fundamentals. Focus on one step at a time, whether it's perfecting your anchor point, relaxing your grip, or dialing in your draw length.
+
+Small improvements in each area compound into a noticeably better shot over time, and the results are worth the patience.
 

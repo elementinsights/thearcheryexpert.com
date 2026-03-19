@@ -291,4 +291,6 @@ As you shoot to try to make the shots either downhill or uphill, and in case any
 
 ## Final Thoughts
 
-Taking the time to properly sight in your bow using an adjustment chart will save you a lot of frustration on the range and in the field. Start close, work your way back, and make small adjustments at each distance until your arrows group tightly. Once your pins are dialed in and your second and third axes are set, you’ll notice a real improvement in your consistency.
+Taking the time to properly sight in your bow using an adjustment chart will save you a lot of frustration on the range and in the field. Start close, work your way back, and make small adjustments at each distance until your arrows group tightly.
+
+Once your pins are dialed in and your second and third axes are set, you’ll notice a real improvement in your consistency.

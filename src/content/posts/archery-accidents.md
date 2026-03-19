@@ -423,5 +423,7 @@ Well, now you've got a better idea of such potential accidents and how to avoid 
 
 ## Final Thoughts
 
-Most archery accidents are completely preventable with the right knowledge and a few simple habits. Always inspect your equipment before shooting, wear proper safety gear like arm guards and shooting glasses, and never skip your warm-up routine. If you build these safety checks into every session from the start, you’ll enjoy archery for years without any serious injuries getting in the way.
+Most archery accidents are completely preventable with the right knowledge and a few simple habits. Always inspect your equipment before shooting, wear proper safety gear like arm guards and shooting glasses, and never skip your warm-up routine.
+
+If you build these safety checks into every session from the start, you’ll enjoy archery for years without any serious injuries getting in the way.
 

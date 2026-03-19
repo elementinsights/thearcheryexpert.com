@@ -1162,4 +1162,6 @@ Hence, this is a perfect gift for your loved archers.
 
 ## Final Thoughts
 
-Giving an archer a gift they'll actually use on the range or in the field is one of the best ways to show you understand their passion. Focus on practical accessories and upgrades that improve their shooting experience, and you really can't go wrong. Any archer would be thrilled to unwrap a quality piece of gear they can put to work on their next outing.
+Giving an archer a gift they'll actually use on the range or in the field is one of the best ways to show you understand their passion. Focus on practical accessories and upgrades that improve their shooting experience, and you really can't go wrong.
+
+Any archer would be thrilled to unwrap a quality piece of gear they can put to work on their next outing.

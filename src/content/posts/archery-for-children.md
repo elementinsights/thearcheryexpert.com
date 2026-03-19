@@ -351,4 +351,6 @@ A lot of famed professional archers started in their early years and went on to 
 
 ## Final Thoughts
 
-Introducing your child to archery early gives them a head start on physical fitness, mental focus, and self-discipline that carries into every other area of their life. It's a sport with no age, gender, or fitness barriers, and the low startup cost makes it accessible to nearly every family. Give your child the chance to experience archery and watch them build confidence with every arrow they release.
+Introducing your child to archery early gives them a head start on physical fitness, mental focus, and self-discipline that carries into every other area of their life. It's a sport with no age, gender, or fitness barriers, and the low startup cost makes it accessible to nearly every family.
+
+Give your child the chance to experience archery and watch them build confidence with every arrow they release.

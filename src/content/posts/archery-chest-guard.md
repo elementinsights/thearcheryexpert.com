@@ -1136,4 +1136,6 @@ They're products you all can trust.
 
 ## Final Thoughts
 
-A chest guard is an often-overlooked piece of archery gear that can make a noticeable difference in your shot consistency. It eliminates the worry of string-to-clothing contact so you can focus entirely on your form and aim. Whether you're shooting targets in a t-shirt or bowhunting in a heavy jacket, a well-fitted chest guard removes one more variable from your shot cycle.
+A chest guard is an often-overlooked piece of archery gear that can make a noticeable difference in your shot consistency. It eliminates the worry of string-to-clothing contact so you can focus entirely on your form and aim.
+
+Whether you're shooting targets in a t-shirt or bowhunting in a heavy jacket, a well-fitted chest guard removes one more variable from your shot cycle.

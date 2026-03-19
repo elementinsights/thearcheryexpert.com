@@ -386,4 +386,6 @@ You can get a huge benefit by using that idea because it’s used as the marketi
 
 ## Final Thoughts
 
-An archery-themed party is a unique way to celebrate any occasion while introducing guests to the world of bows and arrows. The creative decorations, themed food, and interactive games give everyone something to talk about long after the party ends. Put your own spin on these ideas and you'll host an event that's truly one of a kind.
+An archery-themed party is a unique way to celebrate any occasion while introducing guests to the world of bows and arrows. The creative decorations, themed food, and interactive games give everyone something to talk about long after the party ends.
+
+Put your own spin on these ideas and you'll host an event that's truly one of a kind.

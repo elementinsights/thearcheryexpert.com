@@ -1207,4 +1207,6 @@ Thank you for your time, and I hope to see you in the next articles.
 
 ## Final Thoughts
 
-Mounted archery combines horsemanship and archery into one of the most thrilling traditional disciplines you can experience. The bows on this list are built compact and fast-drawing, which is exactly what you need when shooting from a moving horse. Choose the style that resonates with you, whether it’s a Mongolian horse bow or a Korean traditional recurve, and find a local mounted archery club to start training safely.
+Mounted archery combines horsemanship and archery into one of the most thrilling traditional disciplines you can experience. The bows on this list are built compact and fast-drawing, which is exactly what you need when shooting from a moving horse.
+
+Choose the style that resonates with you, whether it’s a Mongolian horse bow or a Korean traditional recurve, and find a local mounted archery club to start training safely.

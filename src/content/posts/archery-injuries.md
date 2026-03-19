@@ -521,4 +521,6 @@ Likewise, taking too many pain relievers can hurt your kidney and liver.
 
 ## Final Thoughts
 
-Most archery injuries are entirely preventable with proper form, appropriate protective gear, and smart training habits. Start with a lower draw weight, take regular breaks, and don't push through pain when your body tells you to stop. Investing in good technique and safety equipment from the beginning will keep you shooting comfortably for years to come.
+Most archery injuries are entirely preventable with proper form, appropriate protective gear, and smart training habits. Start with a lower draw weight, take regular breaks, and don't push through pain when your body tells you to stop.
+
+Investing in good technique and safety equipment from the beginning will keep you shooting comfortably for years to come.

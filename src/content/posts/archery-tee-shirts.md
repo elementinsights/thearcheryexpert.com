@@ -712,7 +712,9 @@ Idakoos made sure that they provide this product in a variety of colors to suit 
 
 This tee shirt has a round neckline.
 
-It’s available in different sizes from small to 2XL. It doesn’t matter which size you're. Feel free to check with Idakoos, and they’ll sort you out with the right one.
+It’s available in different sizes from small to 2XL. It doesn’t matter which size you're.
+
+Feel free to check with Idakoos, and they’ll sort you out with the right one.
 
 You’ll love it when you purchase that which correctly fits you.
 
@@ -1231,4 +1233,6 @@ Buy a t-shirt that's long-lasting depending on the type of fabric used and print
 
 ## Final Thoughts
 
-A good archery tee shirt lets you represent the sport you love while staying comfortable on and off the range. Just make sure to check the sizing chart before ordering and follow the care instructions to keep the design looking sharp. Whether you’re buying one for yourself or as a gift, any of the shirts on this list is a solid pick.
+A good archery tee shirt lets you represent the sport you love while staying comfortable on and off the range. Just make sure to check the sizing chart before ordering and follow the care instructions to keep the design looking sharp.
+
+Whether you’re buying one for yourself or as a gift, any of the shirts on this list is a solid pick.

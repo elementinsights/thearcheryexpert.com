@@ -237,7 +237,9 @@ It's simply because we all want to do what it takes to be good at something we a
 
 Drawing an arrow is no joke, for it requires a massive amount of physical and mental strength to fully submit yourself into the soul of archery and later create a valuable asset as a player, but how do we do that?
 
-Comprehension is the key. We shouldn’t just learn how. We should learn to apply every “how” instead.
+Comprehension is the key. We shouldn’t just learn how.
+
+We should learn to apply every “how” instead.
 
 If you’re already on good terms with the concept of triggers and bows, you might as well understand that both of them are still weapons that could harm or kill anyone in just a blink of an eye.
 
@@ -370,4 +372,6 @@ Thus, this will prevent anyone who is slightly injured from being in a critical 
 
 ## Final Thoughts
 
-Archery is statistically one of the safest sports in the world, but that record only holds when archers take safety seriously. Check your equipment before every session, wear proper protective gear, and never skip the basics of range safety. A few minutes of preparation and awareness will keep you shooting safely for a lifetime.
+Archery is statistically one of the safest sports in the world, but that record only holds when archers take safety seriously. Check your equipment before every session, wear proper protective gear, and never skip the basics of range safety.
+
+A few minutes of preparation and awareness will keep you shooting safely for a lifetime.

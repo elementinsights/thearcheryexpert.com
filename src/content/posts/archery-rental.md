@@ -495,4 +495,6 @@ If you've your equipment, then it will cost you around $12 for each hour.
 
 ## Final Thoughts
 
-Renting archery equipment is the smartest way to explore the sport without a major financial commitment upfront. It lets you try different bow types, discover your preferences, and build confidence before you invest in your own gear. Whether you're a curious beginner or just visiting a range for the first time, rental equipment gives you everything you need to have a great time on the shooting line.
+Renting archery equipment is the smartest way to explore the sport without a major financial commitment upfront. It lets you try different bow types, discover your preferences, and build confidence before you invest in your own gear.
+
+Whether you're a curious beginner or just visiting a range for the first time, rental equipment gives you everything you need to have a great time on the shooting line.

@@ -404,5 +404,7 @@ He documented the shooting style and technique into a scientific pastime, wherea
 
 ## Final Thoughts
 
-These ten archers represent the very best of what the sport has produced over centuries. From Im Dong Hyun proving that legal blindness can’t stop a world-class competitor to Horace Ford writing the book that helped modernize archery technique, each person on this list pushed the boundaries of what was thought possible. Their stories are a reminder that dedication and relentless practice remain the foundation of greatness in archery.
+These ten archers represent the very best of what the sport has produced over centuries. From Im Dong Hyun proving that legal blindness can’t stop a world-class competitor to Horace Ford writing the book that helped modernize archery technique, each person on this list pushed the boundaries of what was thought possible.
+
+Their stories are a reminder that dedication and relentless practice remain the foundation of greatness in archery.
 

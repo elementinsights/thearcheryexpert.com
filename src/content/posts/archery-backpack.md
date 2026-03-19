@@ -1196,7 +1196,9 @@ Follow thousands of happy archers.
 
 ## Final Thoughts
 
-A dedicated archery backpack protects your bow investment and makes getting to the range or trailhead much easier than juggling loose gear. Look for heavy-duty foam padding, enough internal space for your riser and limbs, and external pockets for arrows and accessories. The right pack turns a hassle into a grab-and-go experience every time you shoot.
+A dedicated archery backpack protects your bow investment and makes getting to the range or trailhead much easier than juggling loose gear. Look for heavy-duty foam padding, enough internal space for your riser and limbs, and external pockets for arrows and accessories.
+
+The right pack turns a hassle into a grab-and-go experience every time you shoot.
 
 While picking an archery backpack, you must choose a pack that suits your particular equipment and needs.
 

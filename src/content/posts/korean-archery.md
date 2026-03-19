@@ -385,4 +385,6 @@ It takes more than ten hours to train for being an elite performer.
 
 ## Final Thoughts
 
-Korean archery stands apart because of the country's deep cultural connection to the bow and its systematic, government-backed approach to training elite athletes. From school-level programs to the grueling national team selection process, everything is designed to produce the most consistent and mentally tough archers in the world. It's a model that other nations are studying closely as they try to close the competitive gap.
+Korean archery stands apart because of the country's deep cultural connection to the bow and its systematic, government-backed approach to training elite athletes. From school-level programs to the grueling national team selection process, everything is designed to produce the most consistent and mentally tough archers in the world.
+
+It's a model that other nations are studying closely as they try to close the competitive gap.

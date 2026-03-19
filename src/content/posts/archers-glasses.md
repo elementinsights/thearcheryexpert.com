@@ -590,7 +590,9 @@ With the sleek lightweight design, the anti-fog glasses provide a transparent fo
 
 Your target view remains clear, and your focus is enhanced.
 
-Radians Rock X-Treme glasses are a mixture of fashion and task-oriented. Their frames come in 3 different colors. White, black, and silver, expanding your choice capability.
+Radians Rock X-Treme glasses are a mixture of fashion and task-oriented. Their frames come in 3 different colors.
+
+White, black, and silver, expanding your choice capability.
 
 ## 5. Bertoni Shooting Glasses with 4 Interchangeable Lenses &mdash. Budget Pick
 
@@ -986,4 +988,6 @@ The more exciting part is that the glasses come with a warranty. You may return 
 
 ## Final Thoughts
 
-A solid pair of archery shooting glasses protects your eyes from string breaks, arrow fragments, and UV damage without getting in the way of your aim. Look for polycarbonate lenses with anti-fog coating, and consider a set with interchangeable lenses so you’re covered in any lighting condition. They’re one of the most affordable pieces of safety gear you can buy, and they’ll serve you well on the range for years.
+A solid pair of archery shooting glasses protects your eyes from string breaks, arrow fragments, and UV damage without getting in the way of your aim. Look for polycarbonate lenses with anti-fog coating, and consider a set with interchangeable lenses so you’re covered in any lighting condition.
+
+They’re one of the most affordable pieces of safety gear you can buy, and they’ll serve you well on the range for years.

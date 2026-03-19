@@ -353,4 +353,6 @@ Along with this, you can also find mentors in the class or get recommendations a
 
 ## Final Thoughts
 
-Buying your first set of archery equipment is a big step that shows you're committed to the sport. Take the time to get properly measured, visit a local pro shop, and don't rush the process. With more manufacturers creating gear designed specifically for women, you'll find plenty of options that fit your frame, your strength level, and your goals on the range.
+Buying your first set of archery equipment is a big step that shows you're committed to the sport. Take the time to get properly measured, visit a local pro shop, and don't rush the process.
+
+With more manufacturers creating gear designed specifically for women, you'll find plenty of options that fit your frame, your strength level, and your goals on the range.

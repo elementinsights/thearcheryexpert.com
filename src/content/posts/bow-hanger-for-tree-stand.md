@@ -830,7 +830,9 @@ The favorite thing about this holder is that it rotates 360 degrees, and this wa
 
 Like all the other holders on the list, the metal part is coated with rubber to prevent your bow from scratching and making unnecessary noises.
 
-In fact, it comes in two models. The drill version requires a hole in the rail, while the clamp, as with the mentioned earlier model, just clamps on. You can also purchase a round tube adapter for a round-tubed tree stand.
+In fact, it comes in two models. The drill version requires a hole in the rail, while the clamp, as with the mentioned earlier model, just clamps on.
+
+You can also purchase a round tube adapter for a round-tubed tree stand.
 
 For a fact, it's made of resin, not metal, and while it cuts down weight, it's not as durable as we would like, and it can be quite flimsy if not mounted on a perfectly sized, square tubed, tree stand, rocking side to side.
 
@@ -1063,4 +1065,6 @@ Hopefully, our article for the ten best bow hangers for tree stands and their re
 
 ## Final Thoughts
 
-A reliable bow hanger keeps your bow secure, quiet, and ready for a quick grab when the moment counts. The models on this list range from simple screw-in hooks to multi-arm systems that hold all your gear. Investing in a solid hanger is one of the easiest upgrades you can make to your tree stand setup.
+A reliable bow hanger keeps your bow secure, quiet, and ready for a quick grab when the moment counts. The models on this list range from simple screw-in hooks to multi-arm systems that hold all your gear.
+
+Investing in a solid hanger is one of the easiest upgrades you can make to your tree stand setup.

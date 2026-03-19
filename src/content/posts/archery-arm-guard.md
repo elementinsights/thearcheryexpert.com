@@ -1130,6 +1130,8 @@ It usually comes with black color with a size of 7.5 x 5.5 x 1 inch.
 
 ## Final Thoughts
 
-A good arm guard is one of the cheapest and most essential pieces of archery gear you can own. Look for a comfortable material like leather or ventilated mesh, a secure fastening system with at least three straps, and enough coverage to protect the area where your string makes contact. Don't wait until you've got a nasty bruise to start wearing one.
+A good arm guard is one of the cheapest and most essential pieces of archery gear you can own. Look for a comfortable material like leather or ventilated mesh, a secure fastening system with at least three straps, and enough coverage to protect the area where your string makes contact.
+
+Don't wait until you've got a nasty bruise to start wearing one.
 
 Lastly, it's the look that matters and for that, you should keep in mind that it should look professional when it comes to adults and fancy when it comes to children.

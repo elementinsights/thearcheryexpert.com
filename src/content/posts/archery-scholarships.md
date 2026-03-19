@@ -485,12 +485,7 @@ So do your best in both archery and academics.
 
 ## Final Thoughts
 
-Archery scholarships can make a real difference in covering tuition, books, and other college expenses. Start your search early, apply to every program you qualify for, and keep your grades up alongside your archery training. The combination of academic dedication and competitive shooting experience will open doors that many students don’t even know exist.
+Archery scholarships can make a real difference in covering tuition, books, and other college expenses. Start your search early, apply to every program you qualify for, and keep your grades up alongside your archery training.
 
-
-
-
-
-
-
+The combination of academic dedication and competitive shooting experience will open doors that many students don’t even know exist.
 

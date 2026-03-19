@@ -1072,4 +1072,6 @@ The world must pay attention to this sport and make it popular.
 
 ## Final Thoughts
 
-Keeping a consistent record of your archery scores is one of the simplest ways to get better at the sport. A good score keeper lets you track your progress, identify areas that need work, and stay motivated as your numbers improve. Pick one that fits how you practice and stick with it for at least a few months to see real patterns in your shooting.
+Keeping a consistent record of your archery scores is one of the simplest ways to get better at the sport. A good score keeper lets you track your progress, identify areas that need work, and stay motivated as your numbers improve.
+
+Pick one that fits how you practice and stick with it for at least a few months to see real patterns in your shooting.

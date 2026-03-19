@@ -1038,4 +1038,6 @@ Share with us in the comments below.
 
 ## Final Thoughts
 
-Competition archery rewards consistency, and having the right bow makes building that consistency much easier. The bows on this list range from beginner-friendly models to serious tournament-grade options, so there's a fit for every skill level and budget. Pick one that feels comfortable at your draw length and weight, then put in the range time to make it count.
+Competition archery rewards consistency, and having the right bow makes building that consistency much easier. The bows on this list range from beginner-friendly models to serious tournament-grade options, so there's a fit for every skill level and budget.
+
+Pick one that feels comfortable at your draw length and weight, then put in the range time to make it count.

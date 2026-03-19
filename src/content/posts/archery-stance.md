@@ -61,7 +61,9 @@ As with archery, the correct technique is the key to your continuous improvement
 
 Having the correct posture allows you to generate the most energy in the most efficient manner, which helps ensure your shots hit.
 
-If you want to check whether your archery skill is good or needs to improve, pick the bow, then close your eyes and shoot the target. If your arrow lands close to the target, then you're making good progress. Otherwise, drastic improvements are needed.
+If you want to check whether your archery skill is good or needs to improve, pick the bow, then close your eyes and shoot the target. If your arrow lands close to the target, then you're making good progress.
+
+Otherwise, drastic improvements are needed.
 
 There are many shooting stances and postures, but I'm going to describe the best one that helps you improve your skills and doesn't harm you.
 
@@ -261,9 +263,13 @@ So when you're standing with the bow in your hands, your feet are parallel, your
 
 If you're doing good and face problems again, practice from the beginning until you'll do it great.
 
-In archery, your focus is the most important thing to keep in mind. Get all steps correctly, and start focusing on your targets. That's how you can be led towards perfection in archery.
+In archery, your focus is the most important thing to keep in mind. Get all steps correctly, and start focusing on your targets.
+
+That's how you can be led towards perfection in archery.
 
 ## Final Thoughts
 
-Your stance and posture form the foundation of every shot you take. Getting your foot position, core engagement, and shoulder alignment right will improve your accuracy more than any piece of gear ever could. Practice these 10 steps consistently, and you’ll build the muscle memory needed for repeatable, accurate shots every time you step up to the line.
+Your stance and posture form the foundation of every shot you take. Getting your foot position, core engagement, and shoulder alignment right will improve your accuracy more than any piece of gear ever could.
+
+Practice these 10 steps consistently, and you’ll build the muscle memory needed for repeatable, accurate shots every time you step up to the line.
 

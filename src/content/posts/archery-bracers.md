@@ -1206,4 +1206,6 @@ It’s only a matter of preference & feel and that's all up to you.
 
 ## Final Thoughts
 
-A quality archery bracer is a small investment that prevents painful bruises and lets you shoot comfortably for hours. Choose a material that suits your climate, make sure the straps hold it securely in place, and pick a length that covers your forearm’s contact zone with the string. It’s one of those simple accessories that you’ll never want to shoot without once you’ve experienced the difference.
+A quality archery bracer is a small investment that prevents painful bruises and lets you shoot comfortably for hours. Choose a material that suits your climate, make sure the straps hold it securely in place, and pick a length that covers your forearm’s contact zone with the string.
+
+It’s one of those simple accessories that you’ll never want to shoot without once you’ve experienced the difference.

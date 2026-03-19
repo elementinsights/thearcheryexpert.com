@@ -391,4 +391,6 @@ The T-draw is another aiming technique that generates clarity of the object.
 
 ## Final Thoughts
 
-Archery butts played a crucial role in transforming archery from a survival skill into an organized sport with structured training methods. Understanding their history gives you a deeper appreciation for how modern target ranges, scoring systems, and competition formats came to be. While the earthen mounds and mandatory practice laws are long gone, the core principle behind archery butts remains the same: consistent practice on defined targets is the only path to mastery.
+Archery butts played a crucial role in transforming archery from a survival skill into an organized sport with structured training methods. Understanding their history gives you a deeper appreciation for how modern target ranges, scoring systems, and competition formats came to be.
+
+While the earthen mounds and mandatory practice laws are long gone, the core principle behind archery butts remains the same: consistent practice on defined targets is the only path to mastery.

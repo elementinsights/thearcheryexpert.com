@@ -403,4 +403,6 @@ Once the arrow has pierced the target, you can lower both your arms and the bow 
 
 ## Final Thoughts
 
-Developing proper archery form takes time and repetition, but it's the single most important factor in becoming a consistent shooter. Focus on mastering each step individually before trying to put them all together, and don't rush through the basics. A solid foundation in stance, grip, and release will serve you well whether you're shooting targets at the range or heading out into the field.
+Developing proper archery form takes time and repetition, but it's the single most important factor in becoming a consistent shooter. Focus on mastering each step individually before trying to put them all together, and don't rush through the basics.
+
+A solid foundation in stance, grip, and release will serve you well whether you're shooting targets at the range or heading out into the field.

@@ -427,5 +427,7 @@ You’ll be self-aware of what needs to be corrected during a competition and ca
 
 ## Final Thoughts
 
-The best archery exercise program mixes form-focused drills like blind shooting and blank bale with skill-sharpening challenges like distance shooting and angle drills. Work on one exercise at a time until you’re comfortable, then rotate through different drills to keep your practice sessions fresh and productive. Consistent, purposeful practice using these exercises will improve your accuracy and confidence far faster than simply launching arrows at the same target from the same distance every session.
+The best archery exercise program mixes form-focused drills like blind shooting and blank bale with skill-sharpening challenges like distance shooting and angle drills. Work on one exercise at a time until you’re comfortable, then rotate through different drills to keep your practice sessions fresh and productive.
+
+Consistent, purposeful practice using these exercises will improve your accuracy and confidence far faster than simply launching arrows at the same target from the same distance every session.
 

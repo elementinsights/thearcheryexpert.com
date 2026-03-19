@@ -1174,4 +1174,6 @@ This always has to be based on your preference, liking, benefits, etc.
 
 ## Final Thoughts
 
-A good pair of archery gloves protects your fingers from blisters and string burns while giving you the sensitivity you need for a clean release. Leather three-finger gloves remain the gold standard for recurve and traditional archers, and there are plenty of options at every price point. Don't overlook this essential piece of gear, because healthy fingers mean longer practice sessions and better shooting overall.
+A good pair of archery gloves protects your fingers from blisters and string burns while giving you the sensitivity you need for a clean release. Leather three-finger gloves remain the gold standard for recurve and traditional archers, and there are plenty of options at every price point.
+
+Don't overlook this essential piece of gear, because healthy fingers mean longer practice sessions and better shooting overall.

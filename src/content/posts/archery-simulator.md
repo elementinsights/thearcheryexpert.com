@@ -371,4 +371,6 @@ Even the second-hand models may be very costly as much as the moderately priced 
 
 ## Final Thoughts
 
-Archery simulators won’t replace time on the range, but they offer a convenient way to sharpen your shot placement and develop quick decision-making skills. They’re especially helpful during bad weather or when you can’t get to an outdoor range. If you can access one, it’s a solid training tool that complements your regular practice routine.
+Archery simulators won’t replace time on the range, but they offer a convenient way to sharpen your shot placement and develop quick decision-making skills. They’re especially helpful during bad weather or when you can’t get to an outdoor range.
+
+If you can access one, it’s a solid training tool that complements your regular practice routine.

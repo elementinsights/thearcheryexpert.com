@@ -371,4 +371,6 @@ Sandoval Brennon of Dine College also got an individual silver medal in the Comp
 
 ## Final Thoughts
 
-Collegiate archery is growing fast across the US, and these ten programs show what's possible with strong coaching and dedicated athletes. Whether you're a high school archer looking for scholarship opportunities or just curious about the competitive scene, these teams prove that college archery is a serious and rewarding pursuit. Check with the USCA for a full list of member schools if none of these are in your area.
+Collegiate archery is growing fast across the US, and these ten programs show what's possible with strong coaching and dedicated athletes. Whether you're a high school archer looking for scholarship opportunities or just curious about the competitive scene, these teams prove that college archery is a serious and rewarding pursuit.
+
+Check with the USCA for a full list of member schools if none of these are in your area.

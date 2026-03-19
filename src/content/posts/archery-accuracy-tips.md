@@ -365,4 +365,6 @@ This will help you evaluate and find that comfortable form, stance, techniques, 
 
 ## Final Thoughts
 
-Improving your accuracy isn’t about mastering everything at once. Pick one element of your shot cycle, whether it’s grip, breathing, or follow-through, and drill it until it feels automatic before moving to the next. Over time, these individual improvements stack up and your groups will tighten dramatically without you even realizing how much better you’ve gotten.
+Improving your accuracy isn’t about mastering everything at once. Pick one element of your shot cycle, whether it’s grip, breathing, or follow-through, and drill it until it feels automatic before moving to the next.
+
+Over time, these individual improvements stack up and your groups will tighten dramatically without you even realizing how much better you’ve gotten.

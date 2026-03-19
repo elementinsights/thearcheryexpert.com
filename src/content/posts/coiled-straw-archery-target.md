@@ -704,7 +704,9 @@ Before shooting the target, make sure that there's no other target behind it.
 
 Bladed arrows may reduce the service life of the archery target. Therefore, they should be avoided.
 
-To avoid accidental injuries use safety precautions. The archers should make sure that they should choose an empty or open place where there's no public Like. Woods, etc.
+To avoid accidental injuries use safety precautions. The archers should make sure that they should choose an empty or open place where there's no public Like.
+
+Woods, etc.
 
 Preferably, you should make sure that the place where you’re practicing must have a solid backstop.
 
@@ -1023,7 +1025,9 @@ It's a brutally tough and waterproof archery target.
 
 You should avoid using bladed arrows as they may reduce the service life of the archery target.
 
-To avoid accidental injuries use safety precautions. The archers should make sure that they should choose an empty or open place where there's no public Like. Woods, etc.
+To avoid accidental injuries use safety precautions. The archers should make sure that they should choose an empty or open place where there's no public Like.
+
+Woods, etc.
 
 Preferably, you should make sure that the place where you're practicing must have a solid backstop.
 
@@ -1217,4 +1221,6 @@ We recommend you purchase some extra hunting arrows for practice before the hunt
 
 ## Final Thoughts
 
-Coiled straw targets are a solid, eco-friendly choice for backyard archery practice. They allow for easy arrow removal and hold up well when paired with the right draw weight and field point arrows. Keep yours dry and rotate the face regularly, and you'll get plenty of use out of whichever model you choose from this list.
+Coiled straw targets are a solid, eco-friendly choice for backyard archery practice. They allow for easy arrow removal and hold up well when paired with the right draw weight and field point arrows.
+
+Keep yours dry and rotate the face regularly, and you'll get plenty of use out of whichever model you choose from this list.

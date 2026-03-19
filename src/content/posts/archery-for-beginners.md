@@ -343,4 +343,6 @@ That can be you at any time soon, so take up the aim now.
 
 ## Final Thoughts
 
-Getting started with archery doesn't have to be complicated or overwhelming. Find a reputable club, invest in beginner-friendly equipment, and commit to consistent practice with a coach who can correct your form early on. The combination of patience, proper technique, and regular training will have you hitting targets with confidence sooner than you think.
+Getting started with archery doesn't have to be complicated or overwhelming. Find a reputable club, invest in beginner-friendly equipment, and commit to consistent practice with a coach who can correct your form early on.
+
+The combination of patience, proper technique, and regular training will have you hitting targets with confidence sooner than you think.

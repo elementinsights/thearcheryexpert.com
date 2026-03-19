@@ -1118,4 +1118,6 @@ You'll have to consider one of the other available products on this list if you'
 
 ## Final Thoughts
 
-Protecting your fingers while shooting is one of the most important things you can do as an archer. The right finger saver or tab will let you focus on your form and accuracy instead of worrying about blisters and soreness. Take your time choosing the option that fits your shooting style, and don't hesitate to try a few different products before settling on your favorite.
+Protecting your fingers while shooting is one of the most important things you can do as an archer. The right finger saver or tab will let you focus on your form and accuracy instead of worrying about blisters and soreness.
+
+Take your time choosing the option that fits your shooting style, and don't hesitate to try a few different products before settling on your favorite.

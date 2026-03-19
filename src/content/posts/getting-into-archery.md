@@ -311,5 +311,7 @@ Besides lucrative sponsorship deals, other ways to make money as an archer inc
 
 ## Final Thoughts
 
-Getting into archery doesn’t require a huge investment or years of athletic training. Start with the right equipment for your size and goals, find a safe place to practice, and put in consistent range time. Whether you’re shooting for fun, fitness, or a future in competitive archery, the most important step is simply getting started.
+Getting into archery doesn’t require a huge investment or years of athletic training. Start with the right equipment for your size and goals, find a safe place to practice, and put in consistent range time.
+
+Whether you’re shooting for fun, fitness, or a future in competitive archery, the most important step is simply getting started.
 

@@ -416,5 +416,7 @@ These detailed descriptions of the various books mentioned above give you an ins
 
 ## Final Thoughts
 
-A well-chosen archery book can accelerate your learning faster than months of trial and error on the range. Start with a beginner-friendly guide if you’re new, add a drill book once you’ve got the basics down, and consider a philosophy title like Zen in the Art of Archery to sharpen your mental game. The best archers never stop learning, and these books give you a library of expert knowledge to draw from at any stage.
+A well-chosen archery book can accelerate your learning faster than months of trial and error on the range. Start with a beginner-friendly guide if you’re new, add a drill book once you’ve got the basics down, and consider a philosophy title like Zen in the Art of Archery to sharpen your mental game.
+
+The best archers never stop learning, and these books give you a library of expert knowledge to draw from at any stage.
 
