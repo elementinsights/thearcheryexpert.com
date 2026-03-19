@@ -34,7 +34,7 @@ toc:
     href: "#7-ogrmar-3-layers-20-inch-traditional-solid-straw-archery-target-best-design"
   - label: "8. Morrell Youth Field Point Bag Archery Target — Most Durable"
     href: "#8-morrell-youth-field-point-bag-archery-target-most-durable"
-  - label: "9. Block GenZ XL 20” Youth Archery Arrow Target — Best for Beginners"
+  - label: "9. Block GenZ XL 20" Youth Archery Arrow Target — Best for Beginners"
     href: "#9-block-genz-xl-20-youth-archery-arrow-target-best-for-beginners"
   - label: "10. Block Vault 4-Sided Archery Target with Polyfusion Technolog — Honorable Mention"
     href: "#10-block-vault-4-sided-archery-target-with-polyfusion-technology-honorable-mention"
@@ -210,7 +210,7 @@ products:
       - "Not a traditional straw target, so it has a different feel on arrow impact"
       - "Heavier than pure straw targets when you need to move it"
     ctaUrl: "https://www.amazon.com/dp/B001EY9QI8?tag=thearcheryexpert-20"
-  - name: "Block GenZ XL 20” Youth Archery Arrow Target"
+  - name: "Block GenZ XL 20" Youth Archery Arrow Target"
     rank: 9
     badge: "Best for Beginners"
     rating: 8.2
@@ -341,7 +341,7 @@ We want to make it easy for you to choose your next archery target purchase.
 <tr>
 <td class="table-rank">9</td>
 <td class="table-img"><a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">Block GenZ XL 20” Youth Archery Arrow Ta</td>
+<td class="table-product-name">Block GenZ XL 20" Youth Archery Arrow Ta</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
@@ -718,7 +718,7 @@ To avoid accidental injuries use safety precautions. The archers should make sur
 
 Woods, etc.
 
-Preferably, you should make sure that the place where you’re practicing must have a solid backstop.
+Preferably, you should make sure that the place where you're practicing must have a solid backstop.
 
 ## 5. TOPARCHERY Traditional Solid Straw Archery Target &mdash; Budget Pick
 
@@ -1043,16 +1043,16 @@ Preferably, you should make sure that the place where you're practicing must hav
 
 Its manufacturers provide a one year warranty.
 
-## 9. Block GenZ XL 20” Youth Archery Arrow Target &mdash; Best for Beginners
+## 9. Block GenZ XL 20" Youth Archery Arrow Target &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Block GenZ XL 20” Youth Archery Arrow Target" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Block GenZ XL 20" Youth Archery Arrow Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Target</div>
-<h3 class="product-card-name">Block GenZ XL 20” Youth Archery Arrow Target</h3>
+<h3 class="product-card-name">Block GenZ XL 20" Youth Archery Arrow Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>

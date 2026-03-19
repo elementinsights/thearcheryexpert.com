@@ -57,17 +57,17 @@ Archery is one such sport which children should be introduced to at a young age.
 
 Archery is the skill of using a bow to shoot arrows at a defined target.
 
-Earlier, it was used for hunting and combat, but now it’s recognized as an Olympic-level sport.
+Earlier, it was used for hunting and combat, but now it's recognized as an Olympic-level sport.
 
 Kids who are exposed to this craft simply love it and continue to practice it as they reach adulthood.
 
-It’s a year-round activity which can also be enjoyed with friends.
+It's a year-round activity which can also be enjoyed with friends.
 
-Here are 10 reasons why it’s important to start them off with archery at a young age.
+Here are 10 reasons why it's important to start them off with archery at a young age.
 
 ## 1. Physical Development
 
-From a viewer’s perspective, archery may seem like an easy and sedentary sport where an archer, or bowman, stands in one place and keeps shooting arrows at the target.
+From a viewer's perspective, archery may seem like an easy and sedentary sport where an archer, or bowman, stands in one place and keeps shooting arrows at the target.
 
 This is certainly not the case, as this exquisite and challenging sport requires a great deal of upper body strength and stamina.
 
@@ -85,7 +85,7 @@ Whereas, in the indoor archery competitions, the target can be as far as 18 to 2
 
 This means that the archer has to walk to the target, pick up their, bow, and walk back to their spot.
 
-This is another wonderful physical activity where they end up walking at least 50 to 100 meters in one session, even if they’re just practicing.
+This is another wonderful physical activity where they end up walking at least 50 to 100 meters in one session, even if they're just practicing.
 
 [According to a calorie calculation](https://captaincalculator.com/health/calorie/calories-burned-archery/), an average person who weighs 150 pounds can burn up to 300 calories in a 1-hour archery session while a 200-pound person can amp it up to 400 calories per hour.
 
@@ -95,19 +95,19 @@ This is excellent for them and keeps them away from obesity or eating disorders.
 
 ## 2. Mental Development
 
-While physical development is a big takeaway, archery also helps in children’s [mental and cognitive development](https://www.lifehack.org/328591/how-archery-can-make-you-mentally-stronger), if started from a young age.
+While physical development is a big takeaway, archery also helps in children's [mental and cognitive development](https://www.lifehack.org/328591/how-archery-can-make-you-mentally-stronger), if started from a young age.
 
 One key component of archery is balancing which allows you to stand perfectly still and stable as you position your bow and set your target.
 
 There are a lot of muscles that work in sync to keep you grounded in one position.
 
-It’s the cerebellum, located at the back of your brain which sends neurotransmitters to those muscles.
+It's the cerebellum, located at the back of your brain which sends neurotransmitters to those muscles.
 
 Similarly, keeping your eyes on the target and the bow steady also requires your brain to build the connection and coordination which helps you take the perfect shot and hit the bullseye.
 
 The coordination between your eyes, hands, arms, and upper body is designed by your brain, and archery helps you master this coordination which helps you in other areas of your life as well.
 
-Whenever you’re doing an important or meticulous task, your brain helps you block out all the distractions so you can simply focus on the task at hand.
+Whenever you're doing an important or meticulous task, your brain helps you block out all the distractions so you can simply focus on the task at hand.
 
 Rather than letting the background noises and irrelevant thoughts cloud your efficiency.
 
@@ -131,15 +131,15 @@ Children who are into archery are known to mature into confident and motivated a
 
 It causes them to fall back and drift away from their family and friends, resulting in poor grades, low self-esteem, and constant irritable behavior.
 
-They don’t feel like engaging in any kind of physical activity and just want to stay in their rooms all the time.
+They don't feel like engaging in any kind of physical activity and just want to stay in their rooms all the time.
 
 According to [various case studies](https://www.archerygb.org/clubs-facilities-development/clubs/mental-health-and-archery/), archery is one of those outdoor sports which can greatly benefit their mental health, as it encourages social interaction and physical activity.
 
 Plus, it keeps you on your feet giving you no time to brood at home and develop negative thoughts.
 
-Thus, if children are exposed to archery early on, they’ll have a helpful tool to enable them to combat depression or any mental disturbance later in life.
+Thus, if children are exposed to archery early on, they'll have a helpful tool to enable them to combat depression or any mental disturbance later in life.
 
-It’s a great tool for children to take out their mental pressure or stress from their bodies and helps them develop into mature adults with wonderful and stable mental health.
+It's a great tool for children to take out their mental pressure or stress from their bodies and helps them develop into mature adults with wonderful and stable mental health.
 
 Archery is known to boost self-esteem and confidence in children and allows them to interact with like-minded peers and engage in the friendly competition which does a great deal to improve their mental health.
 
@@ -151,7 +151,7 @@ Archery helps them develop a certain kind of patience which enables them to put 
 
 ## 4. Self-Discipline
 
-If there are one thing parents all over the world would want their children to learn, it’d be self-discipline.
+If there are one thing parents all over the world would want their children to learn, it'd be self-discipline.
 
 While all types of sports teach children self-discipline, archery is one sport which helps them develop it further.
 
@@ -159,43 +159,43 @@ There's a certain set of rules and regulations in archery which makes the sport 
 
 The sport requires your children to learn and follow these rules, thus ingraining a sense of responsibility in them.
 
-Although these rules are mostly implemented in a competitive environment, it’d do your child a great deal of good if they follow them even if they’re practicing all alone.
+Although these rules are mostly implemented in a competitive environment, it'd do your child a great deal of good if they follow them even if they're practicing all alone.
 
 While learning archery at a young age, children aren't only developing self-discipline, but they evolve further.
 
 Some experts say that there's a strong [relationship between self-discipline and self-esteem](http://neilschwartz.net/the-relationship-between-self-discipline-and-self-esteem/) or confidence - one simply can't exist without the other.
 
-As Napoleon Hill said, “Self-discipline is the master key to riches.”
+As Napoleon Hill said, "Self-discipline is the master key to riches."
 
 In this case, children develop self-discipline which unlocks the doors of self-control, confidence, self-esteem, motivation, and most importantly, success.
 
-As children, all of us have this idea implanted in our brains that we’re all striving for success, and nothing less.
+As children, all of us have this idea implanted in our brains that we're all striving for success, and nothing less.
 
 Sadly, this mindset gives birth to competitive people who are simply running in the rat race and have no self-discipline or control over their emotions.
 
 Such individuals might grow up to be successful but will have no satisfaction or self-esteem.
 
-Therefore, it’s highly important to draw kids away from the idea of running after success or instant gratification.
+Therefore, it's highly important to draw kids away from the idea of running after success or instant gratification.
 
-There’s no better way to do so than by introducing them to an active sport like archery where they can master self-control like no one else.
+There's no better way to do so than by introducing them to an active sport like archery where they can master self-control like no one else.
 
-It’ll teach them to control themselves in tough situations and also not to run after immediate gratification.
+It'll teach them to control themselves in tough situations and also not to run after immediate gratification.
 
 Such children grow up and find satisfaction not only in success but in the journey that leads to it.
 
 ## 5. No Age, Gender, Or Fitness Criteria
 
-All competitive sports are great for helping kids in their physical and mental development and it’s easy to start them off with anyone.
+All competitive sports are great for helping kids in their physical and mental development and it's easy to start them off with anyone.
 
 However, a majority of these sports have some sort of limits or criteria when it comes to age, gender, or fitness.
 
 Even physical disabilities prohibit many children from playing a certain sport.
 
-It can be very upsetting for children if they begin to like a sport and give their 100% in it, only to find out that they can’t be selected for the team or aren’t eligible to participate in the tournament.
+It can be very upsetting for children if they begin to like a sport and give their 100% in it, only to find out that they can't be selected for the team or aren't eligible to participate in the tournament.
 
-This is one problem you won’t have with archery as it accommodates every person.
+This is one problem you won't have with archery as it accommodates every person.
 
-If you wish that your child should learn archery from a young age, it’s the best decision you can make for them.
+If you wish that your child should learn archery from a young age, it's the best decision you can make for them.
 
 One of the best things about archery is that it can be scaled up or down, depending on the age, gender, or physical fitness of a person.
 
@@ -205,15 +205,15 @@ These kits are made out of materials that are safe for kids to use and, under an
 
 An enthusiastic kid can even [make their bow and arrow](https://theimaginationtree.com/diy-bow-arrow-kids/).
 
-Initially, you can’t expect a small child to master the skill like an 18-year old or an older person can.
+Initially, you can't expect a small child to master the skill like an 18-year old or an older person can.
 
 The child may treat it like any other toy.
 
 But you can condition their mind to enjoy this like a sport.
 
-Once they begin enjoying it, they’ll want to stop, and you've set their minds on the right course.
+Once they begin enjoying it, they'll want to stop, and you've set their minds on the right course.
 
-Once the child grows a little older, you can have him take proper archery lessons since he’ll be able to understand the concepts more clearly.
+Once the child grows a little older, you can have him take proper archery lessons since he'll be able to understand the concepts more clearly.
 
 ## 6. No Limitation of Venue
 
@@ -221,9 +221,9 @@ In most sports, especially ones that are played with a ball, there's a specific 
 
 Granted, your child can play football or basketball in the street.
 
-It wouldn’t exactly be safe, or a complete learning experience, would it?
+It wouldn't exactly be safe, or a complete learning experience, would it?
 
-In such sports, you also have to worry about whether the ground is good for playing, or if it’s a level plane or not.
+In such sports, you also have to worry about whether the ground is good for playing, or if it's a level plane or not.
 
 Thankfully, archery has no such limitations when it comes to venue or location.
 
@@ -241,29 +241,29 @@ To mix things up, you can take your child with their bow and arrow to the woods 
 
 Then, you can find a nice little spot between the trees and paint a target on one of the tree barks.
 
-Within minutes, you’ve set up a nice little archery range for your child.
+Within minutes, you've set up a nice little archery range for your child.
 
-If your child is taking professional archery lessons, they’ll be practicing and learning in a safe and professional environment with high-quality equipment, so you don’t have to worry about anything at all.
+If your child is taking professional archery lessons, they'll be practicing and learning in a safe and professional environment with high-quality equipment, so you don't have to worry about anything at all.
 
-You can also have them participate in archery competitions for which they can easily practice at an archery range that’s nearest to your house.
+You can also have them participate in archery competitions for which they can easily practice at an archery range that's nearest to your house.
 
 ## 7. Safety
 
-Although most parents want their kids to spend more time outdoors and play sports, they’re also worried about the wellbeing of their child.
+Although most parents want their kids to spend more time outdoors and play sports, they're also worried about the wellbeing of their child.
 
 None of the sports is exactly life-threatening or dangerous, but it can be unsafe for your child if the other players are rough or play recklessly.
 
-In team sports such as football or hockey, safety is of paramount importance and that doesn’t only mean wearing the right gear.
+In team sports such as football or hockey, safety is of paramount importance and that doesn't only mean wearing the right gear.
 
 Each player is responsible for the safety of their teammates as well as their opponents.
 
-Since children are inherently restless, they don’t adhere to the rules all the time which can lead them or someone to get injured.
+Since children are inherently restless, they don't adhere to the rules all the time which can lead them or someone to get injured.
 
 While shooting arrows at a target may sound quite dangerous, archery is considered to be [one of the safest sports](https://www.archery360.com/2019/10/01/archery-one-of-the-worlds-safest-sports/) your child can enjoy.
 
-Of course, bowhunting is a different sport which isn’t as safe.
+Of course, bowhunting is a different sport which isn't as safe.
 
-If you consider archery for children, it’s relatively safer and less life-threatening than other sports.
+If you consider archery for children, it's relatively safer and less life-threatening than other sports.
 
 Firstly, it involves no physical contact or interaction with another person.
 
@@ -289,25 +289,25 @@ Such a violent and negative stigma is often associated with archery which is dif
 
 Considering that archery was included as a competitive sport into the Olympics in 1900, this speaks volumes about its safety and positive image.
 
-If you decide to let your child learn archery, there’ll always be at least ten people who’ll try to warn you about how dangerous this sport is.
+If you decide to let your child learn archery, there'll always be at least ten people who'll try to warn you about how dangerous this sport is.
 
 Truth be told, such people have no clue about the sport and probably have never watched it on the television.
 
-Alternatively, if you talk to your child about bows and arrows, you’ll learn that they look at it as something heroes use to fight.
+Alternatively, if you talk to your child about bows and arrows, you'll learn that they look at it as something heroes use to fight.
 
-They’ll be referring to fictional heroes from comics and movies, such as Robin Hood, Lara Croft, the Green Arrow, Hawkeye - and who can forget Rambo.
+They'll be referring to fictional heroes from comics and movies, such as Robin Hood, Lara Croft, the Green Arrow, Hawkeye - and who can forget Rambo.
 
 We all know that inherently, kids want to be heroes and look cool which helps them gravitate towards the sport of archery naturally.
 
-If you’re thinking your child will try to become a hero after learning archery.
+If you're thinking your child will try to become a hero after learning archery.
 
-Don’t worry - he’ll have a sound mind and incredible discipline which will keep him from using his bow in combat.
+Don't worry - he'll have a sound mind and incredible discipline which will keep him from using his bow in combat.
 
 ## 9. Low Cost
 
 There are a couple of benefits of archery which work in favor of the children.
 
-However, there’s also one benefit that works in favor of the parents, and that's the low cost associated with archery.
+However, there's also one benefit that works in favor of the parents, and that's the low cost associated with archery.
 
 Primarily, you need an entry-level bow and arrow, or a kid's bow and arrow set to let your child start learning this premium sport.
 
@@ -315,7 +315,7 @@ A beginner level bow and arrow start from $30 to $50 which is relatively cheap.
 
 Once your child develops the initial skills required for archery, then you can upsize his equipment to a professional learning bow and arrow which would cost around $150 to $170.
 
-This may seem like a high cost but, in reality, it’s a solid investment for your child’s growth, upbringing, and development.
+This may seem like a high cost but, in reality, it's a solid investment for your child's growth, upbringing, and development.
 
 There's no additional gear or sportswear required for children to learn archery.
 
@@ -341,9 +341,9 @@ On top of that, there's no end to archery.
 
 By getting your children to start young, you set them off on a course where they can keep learning and evolving, upgrading their equipment participating in competitions and winning tournaments.
 
-As Cervantes said in Don Quixote, “The sky’s the limit”.
+As Cervantes said in Don Quixote, "The sky's the limit".
 
-This means that there’s no stopping your kid from going on to represent their country in the Olympics and etch their name in the history books forever.
+This means that there's no stopping your kid from going on to represent their country in the Olympics and etch their name in the history books forever.
 
 It may sound like a fantasy to you right now.
 

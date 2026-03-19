@@ -41,17 +41,17 @@ faq:
     answer: "You can, but closing your dominant eye reduces your field of vision and depth perception. This makes it harder to judge distances accurately, which is a problem for bowhunting and field archery. A better option is to use a partial eye blocker on your glasses that dims the dominant eye without fully closing it."
 ---
 
-You don’t have to be a rocket scientist to understand that excellent hand-eye coordination is necessary for accurate shooting in archery.
+You don't have to be a rocket scientist to understand that excellent hand-eye coordination is necessary for accurate shooting in archery.
 
 This requires knowing which hand and which eye is dominant, and because these are usually the same side, this works quite well for buying either a left or right-handed bow and simply learning to aim and shoot with both eyes open.
 
-If your dominant hand and your dominant eye aren't on the same side, you've a not-uncommon issue called “cross-dominance” that makes it trickier to aim and hit a target accurately.
+If your dominant hand and your dominant eye aren't on the same side, you've a not-uncommon issue called "cross-dominance" that makes it trickier to aim and hit a target accurately.
 
-This isn’t by any means an insurmountable problem, though, and these are the steps you should follow to figure out if you're, in fact, cross-dominant or right-handed with a dominant left eye and how you can make this work.
+This isn't by any means an insurmountable problem, though, and these are the steps you should follow to figure out if you're, in fact, cross-dominant or right-handed with a dominant left eye and how you can make this work.
 
 ## How Left Eye Dominant Right Handed Archery Works
 
-We’ll look at the physiology of hand-eye coordination, how aiming works in archery, and then discuss some of the options for resolving cross-dominance issues so that you can hit your targets accurately.
+We'll look at the physiology of hand-eye coordination, how aiming works in archery, and then discuss some of the options for resolving cross-dominance issues so that you can hit your targets accurately.
 
 ## 1. How Hand/Eye Coordination Works
 
@@ -61,7 +61,7 @@ However, the process is complex and involves the cerebral cortex and cerebellum�
 
 The vestibulo-ocular reflex maintains visual acuity during movement of the head.
 
-Since it’s impossible to hold your head perfectly still, this reflex is incredibly [important for](https://www.apa.org/monitor/2009/01/brain) keeping your eye on the target while coordinating your hand and body movements to make that precise shot.
+Since it's impossible to hold your head perfectly still, this reflex is incredibly [important for](https://www.apa.org/monitor/2009/01/brain) keeping your eye on the target while coordinating your hand and body movements to make that precise shot.
 
 The key point is that this is complicated and requires the brain to coordinate proprioception (knowledge of where the body is in space), distance to the target, and what the hands need to do to send the arrow to that target.
 
@@ -85,13 +85,13 @@ In other words, mixed signals from each eye that allows the brain to translate t
 
 This means that coordination between the dominant or shooting hand, the dominant eye, and the non-dominant eye is important for accuracy in archery, particularly with moving targets or those where the distance is unknown, such as bow hunting field archery.
 
-We’ll learn more about this later.
+We'll learn more about this later.
 
 ## 2. Hand Dominance
 
 Hand dominance or preference is important for brain development because localizing motor function to one side of the brain allows for specialization of other functions such as speech and language to the other side.
 
-This localization means that information doesn’t have to cross the brain for processing but can be interpreted wholly on one side, making the process faster and much more efficient.
+This localization means that information doesn't have to cross the brain for processing but can be interpreted wholly on one side, making the process faster and much more efficient.
 
 Hand preference develops in the first two years of life, and the vast majority show a right-handed preference, with only around 12% showing left-handed preference as infants.
 
@@ -99,7 +99,7 @@ Taking this a bit further, even infants who show a preference for left-handednes
 
 This would mean that even left-hand dominant people will still frequently do some things with their right hand.
 
-This also means that it’s possible to learn to perform a certain skill with your non-dominant hand, which is important for resolving cross-dominance issues in archery.
+This also means that it's possible to learn to perform a certain skill with your non-dominant hand, which is important for resolving cross-dominance issues in archery.
 
 Roughly 90% of adults are right-hand dominant, and 3-4% are ambidextrous, leaving only 6-7% of the population as strongly left hand dominant.
 
@@ -125,17 +125,17 @@ However, some people may have an easier time switching hands (if necessary) than
 
 Just like having a hand preference, we all have a dominant eye.
 
-However, we may not be aware of this as we tend to use both eyes together, making up for any deficiency in one eye’s ability to focus and see accurately.
+However, we may not be aware of this as we tend to use both eyes together, making up for any deficiency in one eye's ability to focus and see accurately.
 
 Your dominant eye sends more information to your brain.
 
-It sends it more accurately, so it’s doing the heavy lifting when you focus on a target.
+It sends it more accurately, so it's doing the heavy lifting when you focus on a target.
 
 The non-dominant eye provides support by increasing the field of vision and increasing the amount of light taken in for the brain to interpret and make decisions regarding location and distance.
 
-Unlike hand dominance, there doesn’t seem to be any noticeable differences in brain function associated with one eye or the other.
+Unlike hand dominance, there doesn't seem to be any noticeable differences in brain function associated with one eye or the other.
 
-It’s just good to know which eye you should use when doing activities that require precision, such as shooting an arrow at a target or an animal.
+It's just good to know which eye you should use when doing activities that require precision, such as shooting an arrow at a target or an animal.
 
 The type of eye dominance that would be most associated with archery is sighting dominance, which is your eye preference when sighting a target.
 
@@ -147,11 +147,11 @@ If you want to test which eye is dominant, there are a few ways to do this.
 
 The first is point testing, where you clasp your hands together with your index fingers pointed at a target, take turns closing each eye, and whichever one lines up with the target accurately is your dominant eye.
 
-The hole test is similar but involves cutting a hole in a piece of paper or card and viewing the target through the hole with each eye (covering or closing the other eye) and determining which eye you’re able to see the target through the hole with.
+The hole test is similar but involves cutting a hole in a piece of paper or card and viewing the target through the hole with each eye (covering or closing the other eye) and determining which eye you're able to see the target through the hole with.
 
 The thumb test has you focus both eyes on a distant target and hold your thumb in the middle of that target.
 
-Then close each eye, and whichever eye keeps your thumb in the middle of the target, that’s your dominant eye.
+Then close each eye, and whichever eye keeps your thumb in the middle of the target, that's your dominant eye.
 
 The Miles test is similar to the hole test, but you use your hands to form the hole by holding your palms out and crossing your index fingers and thumbs, leaving a hole through which you can focus on a target.
 
@@ -161,17 +161,17 @@ The eye that keeps the target in sight is your dominant eye.
 
 All of the above tests are known as sighting tests, and there's a small possibility that they could be inaccurate due to non-visual factors such as your dominant hand.
 
-Suppose you’re concerned that the sighting test isn’t accurately identifying your dominant eye, which could be the case with something known as mixed ocular dominance where each eye might be dominant depending on what you’re doing (although this is quite rare).
+Suppose you're concerned that the sighting test isn't accurately identifying your dominant eye, which could be the case with something known as mixed ocular dominance where each eye might be dominant depending on what you're doing (although this is quite rare).
 
 In that case, you can have testing done by an optometrist or ophthalmologist using specialized equipment.
 
-You might suspect mixed ocular dominance if you’re not getting obvious results with the sighting tests. In other words, neither eye seems to have the target in focus using your hands, fingers, a hole, or your thumb.
+You might suspect mixed ocular dominance if you're not getting obvious results with the sighting tests. In other words, neither eye seems to have the target in focus using your hands, fingers, a hole, or your thumb.
 
-While handedness and eye dominance tend to match, with most of the population being both right hand and eye dominant, about 35% of people who are right-hand dominant will be left-eye dominant, so hand dominance alone can’t tell you which eye is dominant.
+While handedness and eye dominance tend to match, with most of the population being both right hand and eye dominant, about 35% of people who are right-hand dominant will be left-eye dominant, so hand dominance alone can't tell you which eye is dominant.
 
 ## 4. Aiming In Archery
 
-There are two main schools of thought regarding how to aim when shooting a bow and arrow, regardless of what type of bow you’re using.
+There are two main schools of thought regarding how to aim when shooting a bow and arrow, regardless of what type of bow you're using.
 
 These use sight to aim (otherwise known as assisted aiming) or aiming instinctively (considered a more traditional type of aiming).
 
@@ -181,7 +181,7 @@ There are differences in the sights, depending on how much money you want to spe
 
 Some sights have a single pin that you line up with the target, and some have multiple pins that you line up depending on the distance to the target (single pin is generally used for stationary targets, and multiple pins are used for moving targets or field archery where distances may vary).
 
-If you’re interested in more traditional archery and want to try instinctive aiming, sometimes also called “snap shooting,” just know that this requires a tremendous amount of practice and is considered to be a bit of an art, using intuition and amazing hand-eye coordination to accurately hit the target.
+If you're interested in more traditional archery and want to try instinctive aiming, sometimes also called "snap shooting," just know that this requires a tremendous amount of practice and is considered to be a bit of an art, using intuition and amazing hand-eye coordination to accurately hit the target.
 
 With instinctive aiming, you aim the point of the arrow and adjust for distance rather than using the pin in the sight, and through a process of trial and error, determine where the arrow will land.
 
@@ -193,7 +193,7 @@ Archers who use the instinctive aiming technique require both eyes to be open to
 
 Whichever type of aiming technique you choose, there's an agreement that's knowing your dominant eye and using it to sight the target is vital.
 
-If you aim with both eyes open, which is common, your dominant eye will take the lead, meaning that you can run into issues if your dominant hand and eye don’t match.
+If you aim with both eyes open, which is common, your dominant eye will take the lead, meaning that you can run into issues if your dominant hand and eye don't match.
 
 ## 5. Shooting With Your Nondominant Hand
 
@@ -203,19 +203,19 @@ This means shooting a left-handed bow held in the right hand, and the string is 
 
 The sight (if you're using one) will be on the right side of the bow, nearest to your left dominant eye, which will vastly improve your ability to sight the target and improve your accuracy.
 
-This might sound tricky, but it’s actually easier than trying to change your eye dominance, which is nearly impossible.
+This might sound tricky, but it's actually easier than trying to change your eye dominance, which is nearly impossible.
 
-If you’re just getting in started in archery, this might be the easier way to go, with the realization that this is a new skill no matter what hand is dominant, so you've no patterns to break, only new muscle memory to form with all of your practice.
+If you're just getting in started in archery, this might be the easier way to go, with the realization that this is a new skill no matter what hand is dominant, so you've no patterns to break, only new muscle memory to form with all of your practice.
 
-Some thought that if you’re younger, it’ll be easier to learn to shoot with your non-dominant hand than if you’re on the older side, but it’s worth a try regardless of your age.
+Some thought that if you're younger, it'll be easier to learn to shoot with your non-dominant hand than if you're on the older side, but it's worth a try regardless of your age.
 
 Another point to consider is that because the majority of archers are right hand dominant, the majority of bows are manufactured for right-hand dominant archers.
 
-This means that it may be more difficult to borrow a bow and try shooting left-handed and more difficult to find a bow “off the rack” or second-hand.
+This means that it may be more difficult to borrow a bow and try shooting left-handed and more difficult to find a bow "off the rack" or second-hand.
 
 So if your left eye is your dominant eye, and your right hand is your dominant hand, you could try practicing with a left-handed bow to begin with (provided you can find one to borrow).
 
-You may be pleasantly surprised by how quickly you’re able to improve your accuracy.
+You may be pleasantly surprised by how quickly you're able to improve your accuracy.
 
 ## 6. Shooting With Your Dominant Hand
 
@@ -229,19 +229,19 @@ If you try this method, keep in mind the different eye dominance types discussed
 
 The non-dominant eye may fatigue while focusing on the target.
 
-You’ll also lose depth perception when only using one eye, as discussed in “How to Aim” above because you don’t have the disparate visual stimuli hitting each eye to allow your brain to determine the distance.
+You'll also lose depth perception when only using one eye, as discussed in "How to Aim" above because you don't have the disparate visual stimuli hitting each eye to allow your brain to determine the distance.
 
-This means you’ll likely be limiting yourself to stationary targets where you know the distance.
+This means you'll likely be limiting yourself to stationary targets where you know the distance.
 
-You can also try tilting your head so that your dominant left eye is lined up with the sight or the arrow tip (depending on which type of aiming you’re using).
+You can also try tilting your head so that your dominant left eye is lined up with the sight or the arrow tip (depending on which type of aiming you're using).
 
 Making this motion can be awkward from an ergonomic standpoint and might be difficult to do over a long period.
 
-If you’re wondering why you can’t simply shoot with both eyes open, remember that the left dominant eye will “take over” with aiming and isn't the eye closest to the drawstring (or the sight or arrow).
+If you're wondering why you can't simply shoot with both eyes open, remember that the left dominant eye will "take over" with aiming and isn't the eye closest to the drawstring (or the sight or arrow).
 
-Keeping both eyes open will impair your accuracy as your brain tries to interpret the information to locate the target (think about how the target “moved” during the sighting tests you did to determine your dominant eye).
+Keeping both eyes open will impair your accuracy as your brain tries to interpret the information to locate the target (think about how the target "moved" during the sighting tests you did to determine your dominant eye).
 
-This means you’ll end up missing the target by a few inches, which is roughly how far your dominant eye is from the drawstring.
+This means you'll end up missing the target by a few inches, which is roughly how far your dominant eye is from the drawstring.
 
 Another option is to partially reduce the visual input to the dominant eye while still allowing it some vision to support the non-dominant eye.
 
@@ -249,6 +249,6 @@ This is done by wearing glasses for shooting, which you should wear anyway, and 
 
 ## Final Thoughts
 
-Cross-dominance affects roughly a third of right-handed people, so you’re far from alone in dealing with this issue. The good news is that whether you choose to switch hands, block your dominant eye, or use a partial occluder, there’s a workable solution for every archer.
+Cross-dominance affects roughly a third of right-handed people, so you're far from alone in dealing with this issue. The good news is that whether you choose to switch hands, block your dominant eye, or use a partial occluder, there's a workable solution for every archer.
 
 Test the options, give yourself time to adjust, and let consistent practice do the rest.

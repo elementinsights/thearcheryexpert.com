@@ -14,7 +14,7 @@ quickAnswer:
   title: "How To Make Your Own DIY Foam Archery Targets | 10 Steps"
   text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
 toc:
-  - label: "Step 1: Make a Shortlist of What You’ll Need"
+  - label: "Step 1: Make a Shortlist of What You'll Need"
     href: "#step-1-make-a-shortlist-of-what-youll-need"
   - label: "Step 2: Assembling the Foam"
     href: "#step-2-assembling-the-foam"
@@ -69,27 +69,27 @@ That means you've your foam target box that you can easily transport or, better 
 
 Without further ado, let's now talk about how to make your own DIY foam archery targets in ten steps.
 
-## Step 1: Make a Shortlist of What You’ll Need
+## Step 1: Make a Shortlist of What You'll Need
 
-Like you would prepare for the grocery, it’s important to make a list of items you need to buy to lessen the unnecessary trips that will eat up your time.
+Like you would prepare for the grocery, it's important to make a list of items you need to buy to lessen the unnecessary trips that will eat up your time.
 
 You must figure out what you need before jumping into the car to go straight to the hardware or supplies store.
 
-For this archery target foam, the reusable 2’x3’ size foam is the practical item to build because it's interchangeable.
+For this archery target foam, the reusable 2'x3' size foam is the practical item to build because it's interchangeable.
 
-The first thing to acquire is the 24” floor mats, which are like the kiddie giant puzzle pieces used to cushion a toddler's fall.
+The first thing to acquire is the 24" floor mats, which are like the kiddie giant puzzle pieces used to cushion a toddler's fall.
 
-You’ll need as many pieces to stack as about 20 inches so try to get hold of as many as you can.
+You'll need as many pieces to stack as about 20 inches so try to get hold of as many as you can.
 
 The cheapest way to search for the mats is to buy from Craigslist for second-hand mats as low as U$25.
 
-You’ll need to get your 2x4 wooden materials, which are six pieces of 3’ length and two pieces of 1’length, car trunk carpet measuring 1m x 1m, four pieces of casters/wheels, wood glue, T-square, and a sharpie marker.
+You'll need to get your 2x4 wooden materials, which are six pieces of 3' length and two pieces of 1'length, car trunk carpet measuring 1m x 1m, four pieces of casters/wheels, wood glue, T-square, and a sharpie marker.
 
-The hardware would be small pieces like the 3” exterior wood screws with star heads, eight pieces of the ⅜” coarse thread nuts, eight pieces of the ⅜” washers, eight pieces ½” washers.
+The hardware would be small pieces like the 3" exterior wood screws with star heads, eight pieces of the ⅜" coarse thread nuts, eight pieces of the ⅜" washers, eight pieces ½" washers.
 
-The four pieces of 4’ length of coarse threaded rod, then cut from the originally bought 6” length.
+The four pieces of 4' length of coarse threaded rod, then cut from the originally bought 6" length.
 
-You’ll want to borrow the box cutter, circular or hand saw, power drill with a ½” drill auger bit, grinder with cutoff disc or hacksaw, ⅜” adjustable spanner wrench, and locking pliers.
+You'll want to borrow the box cutter, circular or hand saw, power drill with a ½" drill auger bit, grinder with cutoff disc or hacksaw, ⅜" adjustable spanner wrench, and locking pliers.
 
 - Make two lists to save on time for your trip to the hardware and supplies store
 
@@ -101,51 +101,51 @@ There's an easy and fast way to set up the foam, and there's a more tedious way 
 
 You could go the easy way by simply putting the foam together using so you can make a smooth surface to shoot at.
 
-But since you’re constructing this DIY, you might as well make it last as long as possible.
+But since you're constructing this DIY, you might as well make it last as long as possible.
 
 That means taking the extra effort to reuse the foam pieces by allowing the foams to interchange when needed.
 
-You’ll use the T-square to measure a 12” mark from the edge of each foam piece, then use the Sharpie marker to draw the line in the center.
+You'll use the T-square to measure a 12" mark from the edge of each foam piece, then use the Sharpie marker to draw the line in the center.
 
-Do the same when you rotate the other side and mark the 12” from the foam edge, so the pieces then draw a straight line in the center.
+Do the same when you rotate the other side and mark the 12" from the foam edge, so the pieces then draw a straight line in the center.
 
 With a box cutter, cut carefully on the marker to make a smooth cut and divide the foam into two half pieces.
 
 Stack up the same side cut pieces to make an even stacked foam structure a solid piece.
 
-The other edges of the foam are on the other side but what you’re after is the evenly cut middle side in one neat pile.
+The other edges of the foam are on the other side but what you're after is the evenly cut middle side in one neat pile.
 
-Set aside all pieces once you’re done with the same side in the same direction, as this will set into the target box shortly.
+Set aside all pieces once you're done with the same side in the same direction, as this will set into the target box shortly.
 
 - Line up the side you cut in the middle as the top side
 
-- Clean out any uneven cuts so it’s uniformly even
+- Clean out any uneven cuts so it's uniformly even
 
 ## Step 3: Building the Base for the Target
 
-You’ll want to decide If you’re going to put your target box in the backyard and lay it on top of a ledge but be limited with the set height and distance.
+You'll want to decide If you're going to put your target box in the backyard and lay it on top of a ledge but be limited with the set height and distance.
 
-But if your goal is to use different angles during practice, you can’t rely on a ledge or a raised surface.
+But if your goal is to use different angles during practice, you can't rely on a ledge or a raised surface.
 
 Your best bet is to make a base or feet of the target box that's both heavy and stable so it can stand independently.
 
-This is so you don’t depend on make-shift surfaces that will compromise the height and the space you’ll need.
+This is so you don't depend on make-shift surfaces that will compromise the height and the space you'll need.
 
 You can keep it flat, or an option is to put wheels or casters underneath the feet so you can move it at different angles or locations.
 
-The first thing is to cut the 2x4 wood into six pieces of 3’ length and two pieces of 1’ length.
+The first thing is to cut the 2x4 wood into six pieces of 3' length and two pieces of 1' length.
 
-You’ll take four pieces of the 3’ length to make the shape of the letter H with a double middle bar with a 12” space between the two 2x4 wooden slabs.
+You'll take four pieces of the 3' length to make the shape of the letter H with a double middle bar with a 12" space between the two 2x4 wooden slabs.
 
-You then measure 4 ½” from the end of the centerboard and use the Sharpie marker to mark with dots in the middle.
+You then measure 4 ½" from the end of the centerboard and use the Sharpie marker to mark with dots in the middle.
 
-Securing the ½” drill bit to the drill, you can start boring a hole through the marked dots in the middle of the base or the double bar of the H-base.
+Securing the ½" drill bit to the drill, you can start boring a hole through the marked dots in the middle of the base or the double bar of the H-base.
 
-When you’re done with drilling the wood to make a hole, to secure the base, use the screws to fasten the four wood lengths together on the target box.
+When you're done with drilling the wood to make a hole, to secure the base, use the screws to fasten the four wood lengths together on the target box.
 
 - Marking the wood with a Sharpie allows correct placement of the hole on the wood
 
-- If you decide to add wheels to the base, make sure it has a locking mechanism so the wind can’t blow it
+- If you decide to add wheels to the base, make sure it has a locking mechanism so the wind can't blow it
 
 ## Step 4: Building the Top of the Target Base
 
@@ -169,7 +169,7 @@ Its weight will compress the foam into a solid base, so there's no space in-betw
 
 - The top base with a rectangle in the center is a guide for you to secure the four 2x4 wood
 
-- It’s best to line up the base with the top and mark it with a sharpie so the holes are almost the same measurement as the base
+- It's best to line up the base with the top and mark it with a sharpie so the holes are almost the same measurement as the base
 
 ## Step 5: Secure the Threaded Rods
 
@@ -177,21 +177,21 @@ Imagine building a box wherein the sides are rods with the base and the top made
 
 The coarse threaded rod gives support to keep the foam in place and link the top and feet base of the target box.
 
-To get the coarse thread into the foot and top base, you’ll need to start from the bottom, which is the foot base.
+To get the coarse thread into the foot and top base, you'll need to start from the bottom, which is the foot base.
 
 Carefully insert each from under the base and go through the holes on opposite sides.
 
 Lean the foot base sideways and put the threaded rods through the holes of the wood.
 
-Secure on the underside of the base a ½” washer, followed by a ⅜” washer.
+Secure on the underside of the base a ½" washer, followed by a ⅜" washer.
 
-Afterward, secure from under the wood base with a ⅜” nut.
+Afterward, secure from under the wood base with a ⅜" nut.
 
-You’ll need to screw in the nut until you see an inch rod sticking out past the nut.
+You'll need to screw in the nut until you see an inch rod sticking out past the nut.
 
 Once you've the rods secured from the base, both side-supports should be standing on their own.
 
-Take note in handling the coarse thread as the edges are on the sharp side, so be careful you don’t snag your clothing or cut your fingers.
+Take note in handling the coarse thread as the edges are on the sharp side, so be careful you don't snag your clothing or cut your fingers.
 
 The target box can now hold the stack of foam in place.
 
@@ -227,7 +227,7 @@ It would be pointless to spend on brand new gym foam or puzzle foam if you can g
 
 ## Step 7: Secure and Compress the Foam
 
-You’ll have to gather the cut up pieces of the puzzle foam you made and stack them up in the foot base.
+You'll have to gather the cut up pieces of the puzzle foam you made and stack them up in the foot base.
 
 Holding the coarse threaded rod, screw the nuts in before you cut with a grinder or a hacksaw to avoid difficulty in getting in the nuts after.
 
@@ -241,15 +241,15 @@ To tighten the nuts on each rod, use a spanner wrench, taking turns until it's s
 
 You keep tightening until you see the compressed foam with visible marks on the threaded rods.
 
-Your goal is to keep it tightly compressed that the foam pieces aren’t moving at all.
+Your goal is to keep it tightly compressed that the foam pieces aren't moving at all.
 
-You’ll want to see if extracting the arrow from the foam becomes too tight and difficult to take out or done with a minimum tug.
+You'll want to see if extracting the arrow from the foam becomes too tight and difficult to take out or done with a minimum tug.
 
-You can adjust the nuts to allow a bit of space after you’ve tried shooting through a few times.
+You can adjust the nuts to allow a bit of space after you've tried shooting through a few times.
 
 - The compressed foam is tightened to secure the nuts in the threaded rod
 
-- The foam tightness is solid enough that it doesn’t move, but not so tight that the arrows can't be taken out easily
+- The foam tightness is solid enough that it doesn't move, but not so tight that the arrows can't be taken out easily
 
 ## Step 8: Add the Carpet Face on the Target Box
 
@@ -299,13 +299,13 @@ Other than the sharp edges, adjusting the threaded rod is easy and hassle-free.
 
 You now have your very own adjustable base for the foam archery target box ready for use.
 
-- It’s best if you take time to study how to cut the threaded rod the right way, otherwise, you'll struggle with getting the nuts and bolts into the rod
+- It's best if you take time to study how to cut the threaded rod the right way, otherwise, you'll struggle with getting the nuts and bolts into the rod
 
 - Remember to screw in the 2 nuts before you cut the coarse threaded rod to save you time and effort
 
 ## Step 10: Test your Archery Target Foam
 
-You’ve come to the most exciting part to test your DIY foam target in the comfort and privacy of your place.
+You've come to the most exciting part to test your DIY foam target in the comfort and privacy of your place.
 
 Take your aim and start shooting but pay extra attention to the behavior of the arrow.
 
@@ -319,11 +319,11 @@ But due to the thickness of the foam, it seldom happens that the arrow goes all 
 
 An easy remedy is to place corrugated cardboards between the puzzle mats to give it extra support in the center.
 
-Other times, you'll find melted foam on the arrows after it’s taken out of the target.
+Other times, you'll find melted foam on the arrows after it's taken out of the target.
 
-Simply wash it off with soap and water, then dry it off, and it’s ready to use again.
+Simply wash it off with soap and water, then dry it off, and it's ready to use again.
 
-You’re set to go for another round of target practice in the comfort of your home.
+You're set to go for another round of target practice in the comfort of your home.
 
 - The center wears out from multiple arrow hits
 
@@ -333,5 +333,5 @@ You’re set to go for another round of target practice in the comfort of your h
 
 Building your own foam archery target is one of the most budget-friendly ways to practice at home without spending $100 or more on a store-bought option. The materials are easy to find, the assembly takes about an hour, and the design lets you swap out worn foam sections in minutes.
 
-Once you’ve built one, you’ll have a reusable target that keeps up with your training for months.
+Once you've built one, you'll have a reusable target that keeps up with your training for months.
 

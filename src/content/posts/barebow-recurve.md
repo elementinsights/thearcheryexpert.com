@@ -242,13 +242,13 @@ products:
     ctaUrl: "https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20"
 ---
 
-If you’re looking for a bow without a stabilizer, clicker, and markings on the bubble to assist you to aim, simply a barebow  -  we'll help you find it.
+If you're looking for a bow without a stabilizer, clicker, and markings on the bubble to assist you to aim, simply a barebow  -  we'll help you find it.
 
-The recurve barebow has a traditional design, but they’re strong enough for the hunt or general practice, and you won’t need different modern equipment to use them. Just take your bow and arrow and shoot.
+The recurve barebow has a traditional design, but they're strong enough for the hunt or general practice, and you won't need different modern equipment to use them. Just take your bow and arrow and shoot.
 
 A recurve bow is a bow with limbs that curve away from the archer when unstrung so that it stores more energy and an arrow goes straight forward with more power and speed.
 
-There are many recurve bows available in the market, so choosing the best recurve barebow can be difficult for you, especially if you’re a beginner, so we've selected the best recurve barebow for your decent results.
+There are many recurve bows available in the market, so choosing the best recurve barebow can be difficult for you, especially if you're a beginner, so we've selected the best recurve barebow for your decent results.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -403,17 +403,17 @@ The bow is generally built for high-performance works, and it has the great accu
 
 Every Bear Archery bow is made for powerful hunting shots. Also, it can be used for practice purposes.
 
-Although its design hasn’t changed since the 1960s, as they got it right the first time, it's a very good bow that will last for many years without any scratches.
+Although its design hasn't changed since the 1960s, as they got it right the first time, it's a very good bow that will last for many years without any scratches.
 
-It looks and feels like it’s extremely well, and its performance will impress your skills.
+It looks and feels like it's extremely well, and its performance will impress your skills.
 
-The grizzly bow’s weight is about 40 pounds, and its length is 28 inches, a little heavy but a perfect product for the perfect archer.
+The grizzly bow's weight is about 40 pounds, and its length is 28 inches, a little heavy but a perfect product for the perfect archer.
 
-The curve barebow of fit and impressive user-friendly design is built for high performance on the field you’re looking for.
+The curve barebow of fit and impressive user-friendly design is built for high performance on the field you're looking for.
 
-If you’re looking for the best bow for hunting, look for the one designed by the best bowhunter.
+If you're looking for the best bow for hunting, look for the one designed by the best bowhunter.
 
-It’s the kind of barebow you want to learn for your best shots without the need for all that fancy technology, It’s simple to use but extremely powerful, beautiful, and accurate beyond measure.
+It's the kind of barebow you want to learn for your best shots without the need for all that fancy technology, It's simple to use but extremely powerful, beautiful, and accurate beyond measure.
 
 The Super Kodiak is a beautiful bow without many decorations, and it's made from fiberglass but accented with Rosewood and Maple.
 

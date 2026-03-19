@@ -16,7 +16,7 @@ quickAnswer:
 toc:
   - label: "1. The Impact of Hand Grip Strength on the Target Shooting Accuracy Score"
     href: "#1-the-impact-of-hand-grip-strength-on-the-target-shooting-accuracy-score-for-archers-by-surreya-yonca-sezer"
-  - label: "2. Strength Training those “Archery Muscles” by Annette M. Musta"
+  - label: "2. Strength Training those "Archery Muscles" by Annette M. Musta"
     href: "#2-strength-training-those-archery-muscles-by-annette-m-musta"
   - label: "3. Specific Physical Training Handbook by Kisik Lee"
     href: "#3-specific-physical-training-handbook-by-kisik-lee"
@@ -42,7 +42,7 @@ quickFacts:
   - value: "#1"
     label: "The Impact of Hand Grip Strength on the Target Shooting Accuracy Score"
   - value: "#2"
-    label: "Strength Training those “Archery Muscles” by Annette M. Musta"
+    label: "Strength Training those "Archery Muscles" by Annette M. Musta"
   - value: "#3"
     label: "Specific Physical Training Handbook by Kisik Lee"
   - value: "#4"
@@ -70,7 +70,7 @@ The technical side of shooting the bow begins with the archer on a stable stance
 
 There are many kinds of archers, from the recreational weekend bowhunter to the dedicated competition level, where every move is precise and focused.
 
-If you want to level-up your knowledge and skill in Archery, it’s best you read the research and published papers to learn how to achieve the right form that makes your performance accurate.
+If you want to level-up your knowledge and skill in Archery, it's best you read the research and published papers to learn how to achieve the right form that makes your performance accurate.
 
 The following papers are a collection of articles written by doctors, coaches, and trainers that explain the crucial role of exercise in working on the right form and posture.
 
@@ -81,7 +81,7 @@ The following papers are a collection of articles written by doctors, coaches, a
   <span class="stat-text">The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Arche</span>
 </div>
 
-Surreya Yonca Sezer wrote the paper entitled “The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Archers.
+Surreya Yonca Sezer wrote the paper entitled "The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Archers.
 
 It was published last March 26, 2017, in the Journal of Educational and Training Studies vol.5, no.5: May 2017 by RedFame Publishing.
 
@@ -101,16 +101,16 @@ When the Archer started target shooting after the exercises, the accuracy scores
 
 The conclusion was that the [Biomotor strength test measurements](https://www.ptonthenet.com/articles/Biomotor-Conditioning-for-Athletes-2325) and the exercise heartbeat rate contribute to the skill and focus of the archers.
 
-## 2. [Strength Training those “Archery Muscles” by Annette M. Musta](https://d36m266ykvepgv.cloudfront.net/uploads/media/NzxiDCPKRq/o/strengthtrainingandexercise.pdf)
+## 2. [Strength Training those "Archery Muscles" by Annette M. Musta](https://d36m266ykvepgv.cloudfront.net/uploads/media/NzxiDCPKRq/o/strengthtrainingandexercise.pdf)
 
 <div class="stat-highlight">
   <span class="stat-number">#2</span>
-  <span class="stat-text">Strength Training those “Archery Muscles” by Annette M. Musta</span>
+  <span class="stat-text">Strength Training those "Archery Muscles" by Annette M. Musta</span>
 </div>
 
-Annette M. Musta wrote a series of articles in this compilation, but the focus will be on Strength Training those “Archery Muscles.”
+Annette M. Musta wrote a series of articles in this compilation, but the focus will be on Strength Training those "Archery Muscles."
 
-You’ll find this article on pages 8-10 of Archery Focus published last Nov.
+You'll find this article on pages 8-10 of Archery Focus published last Nov.
 
 2, 2000, and accessed on the web in the strengthtrainingandexercise.pdf in Innovative Web Concepts, Inc.
 
@@ -124,7 +124,7 @@ The archery shoulder muscles are the deltoids that comprise the anterior, the me
 
 The accessory muscles are the teres major and minor, the scapularis, the spinatus, and the serratus, while the opposing force is the chest muscles or pectoralis.
 
-Good archery shots are executed in action, using the upper body's different muscles and lower body, synchronized together for the archer’s proper performance.
+Good archery shots are executed in action, using the upper body's different muscles and lower body, synchronized together for the archer's proper performance.
 
 The primary draw muscles include the shoulders and the back, the accessory muscles are the arms and chest, and the stability comes from the abdomen, lower back, and legs.
 
@@ -346,7 +346,7 @@ The visual skills are divided into five classifications: Superior categories, Ab
 
 Twenty-one male and seven female archers ages 12-58 years old with different skills from beginner to expert level joined the experiment.
 
-Distance judging and accuracy were measured using monocular and binocular aiming to measure the archer’s ability to judge the distance of objects and unknown distance.
+Distance judging and accuracy were measured using monocular and binocular aiming to measure the archer's ability to judge the distance of objects and unknown distance.
 
 The vital [visual skills in Archery are visual acuity](https://www.sciencedaily.com/terms/visual_acuity.htm), contrast sensitivity, stereopsis, eye-hand coordination, eye-body coordination, and vision response time.
 
@@ -356,7 +356,7 @@ Vision is the most dominant sense - sensory receptors and visual skills contribu
 
 Eye motility, speed of recognition time, ability to see dim illumination, dynamic visual acuity, peripheral awareness, spatial location, depth perception, and eye-hand/foot coordination are factors to consider in Archery.
 
-Specialized sports vision focuses on screening the athlete’s response as well as correcting the visual defects to help perform better.
+Specialized sports vision focuses on screening the athlete's response as well as correcting the visual defects to help perform better.
 
 ## Final Thoughts
 

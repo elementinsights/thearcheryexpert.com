@@ -189,11 +189,11 @@ It's a sport suitable for all.
 
 They depend on how well they're in procuring the required skills and are also expected to have a sense of representation.
 
-The idea that ‘I can represent my country if I shoot a bow well’ is embedded within them.
+The idea that 'I can represent my country if I shoot a bow well' is embedded within them.
 
-Kim Sam-Soo, a coach and the former director of the Korean Archery Association, said in 2017, “Archery is a fierce competitor for middle and high school athletes.”
+Kim Sam-Soo, a coach and the former director of the Korean Archery Association, said in 2017, "Archery is a fierce competitor for middle and high school athletes."
 
-He further adds that “There are some players who are student geniuses who have been on the national team pretty much since high school.”
+He further adds that "There are some players who are student geniuses who have been on the national team pretty much since high school."
 
 Korean athletes are provided with the best, full time, and first-class training, enabling them to develop more confidence over the other players.
 
@@ -205,7 +205,7 @@ Their focus is extremely high.
 
 So much that to increase their mental abilities, they watch videos on archery and enhance their learning.
 
-The two-time Olympian Ko Bo Bae told the Korean Times, “Looking at the simulation on screen. I could improve my concentration by checking which motions I should take in each phase of the game.”
+The two-time Olympian Ko Bo Bae told the Korean Times, "Looking at the simulation on screen. I could improve my concentration by checking which motions I should take in each phase of the game."
 
 For them, the Olympic games are way easier than their national trials.
 
@@ -241,7 +241,7 @@ Every participant is expected to follow the rules and regulations of the game.
 
 Any manipulation of any sort by any athlete is thoroughly discouraged.
 
-There are 28 recurve men’s and 29 recurve women’s teams in Korea.
+There are 28 recurve men's and 29 recurve women's teams in Korea.
 
 The dominance of Korean archery at International levels is mostly because the primary reason is funding.
 
@@ -267,7 +267,7 @@ The real secret of Korean archery is the Korean Tax System.
 
 The government implies a specific tax system to regulate the smooth running of archery as a sport.
 
-Being an Olympic Archer in Korea can considerably upgrade an athlete’s life.
+Being an Olympic Archer in Korea can considerably upgrade an athlete's life.
 
 If won, there could be a lot of concessions involved.
 
@@ -297,7 +297,7 @@ They believe that the archer needs to develop a bond and team between the bow an
 
 This shall only be achieved with a higher range of daily training.
 
-The only aim they have while training is to make sure that they make it to the professional team, and if they achieve the highest excellency, they will make it to South Korea’s national team.
+The only aim they have while training is to make sure that they make it to the professional team, and if they achieve the highest excellency, they will make it to South Korea's national team.
 
 There's a complete competition that goes on, and the archers often take part in World Archery and Olympic stages.
 
@@ -339,7 +339,7 @@ All the other clubs focus on either any one or two or three.
 
 Korea isn't the only country to have been spending so much on Archery.
 
-Americans Brady Ellison’s recently joined hands with the United States Olympic Committee in order to build a $14m, 40,00 square foot, state of the art Archery field house in Chula Vista at the United States Olympic Training Centre.
+Americans Brady Ellison's recently joined hands with the United States Olympic Committee in order to build a $14m, 40,00 square foot, state of the art Archery field house in Chula Vista at the United States Olympic Training Centre.
 
 There's a prize money of $1m to the athletes in Archery in India for Olympic gold.
 

@@ -36,7 +36,7 @@ toc:
     href: "#step-10-get-strong"
   - label: "Step 11: Learn How to Perform Under Pressure"
     href: "#step-11-learn-how-to-perform-under-pressure"
-  - label: "Step 12: Don’t Quit Your Day Job Just Yet"
+  - label: "Step 12: Don't Quit Your Day Job Just Yet"
     href: "#step-12-dont-quit-your-day-job-just-yet"
   - label: "FAQ"
     href: "#faq"
@@ -77,7 +77,7 @@ Unfortunately, the logical next step seemed to be archery being used to kill oth
 
 If you were an excellent archer and could hit your mark from a distance, then you were in high demand.
 
-You would be needed both as a hunter to provide food for your family and community and as a soldier to improve your side’s chances of winning whatever war you were fighting.
+You would be needed both as a hunter to provide food for your family and community and as a soldier to improve your side's chances of winning whatever war you were fighting.
 
 This strive for excellent marksmanship gave rise to tournaments where archers would compete to see who could hit the target from farthest away.
 
@@ -91,17 +91,17 @@ It has been part of the Olympic Games [since 1972](https://www.olympic.org/arc
 
 This is a noble and ancient sport that requires discipline, strength, concentration, and lots of practice.
 
-Whether you’ve never held a bow or are experienced and looking to up your game, you’ll find the information here helpful and interesting.
+Whether you've never held a bow or are experienced and looking to up your game, you'll find the information here helpful and interesting.
 
-So let’s go through what you need to consider if you want to get into archery.
+So let's go through what you need to consider if you want to get into archery.
 
 ## Step 1: The Type of Archery You Interested In
 
-The first thing you’ll want to think about is why you want to get into archery?
+The first thing you'll want to think about is why you want to get into archery?
 
-You need to figure out if you’re more interested in the competitive side of archery or the practical hunting and fishing application.
+You need to figure out if you're more interested in the competitive side of archery or the practical hunting and fishing application.
 
-Having said that, even if you’re interested in hunting and fishing with a bow, if you’re a beginner, then targets are still going to be the best way to get started.
+Having said that, even if you're interested in hunting and fishing with a bow, if you're a beginner, then targets are still going to be the best way to get started.
 
 Targets will allow you to practice and work on your marksmanship and technique before trying these skills out in the real world.
 
@@ -129,15 +129,15 @@ There are arguably two main categories of bows to consider: recurve bows and com
 
 There are also longbows (favored by traditionalists) and crossbows [(which are somewhat controversial in the purist archery world)](https://archershub.com/what-is-crossbow-archery/) that won't be discussed here as they're more specialized and not generally used for competition or by beginners.
 
-If you’ve never shot a bow before, it’s a good idea to head to your local archery club or archery store and practice with different types of bows before purchasing your own.
+If you've never shot a bow before, it's a good idea to head to your local archery club or archery store and practice with different types of bows before purchasing your own.
 
-Because recurve and compound bows are so different, you generally won’t see them used together in the same competition. Instead, the competition will be specific to the bow type.
+Because recurve and compound bows are so different, you generally won't see them used together in the same competition. Instead, the competition will be specific to the bow type.
 
 The recurve bow is the more simplistic type of bow that you may think of when you think of archery.
 
 It has a riser, which is the handle and where the arrow rests, the upper and lower limbs, and the string, which connects the limbs and shoots the arrow.
 
-These can come with removable/changeable limbs in the case of takedown recurve bows or as a solid piece, which we’ll learn more about in the “Measurements” section below.
+These can come with removable/changeable limbs in the case of takedown recurve bows or as a solid piece, which we'll learn more about in the "Measurements" section below.
 
 This is your typical Robin Hood or Katniss Everdeen bow and is the only type of bow you'll see in the Olympics.
 
@@ -149,7 +149,7 @@ These are more expensive as they're a bit more complicated, but because they all
 
 ## Step 3: Your Measurements
 
-Now that you know what type of archery you’re interested in and what type of bow you want to start with, you need to know what size of bow will work for you.
+Now that you know what type of archery you're interested in and what type of bow you want to start with, you need to know what size of bow will work for you.
 
 The two main measurements are draw length and draw weight.
 
@@ -157,21 +157,21 @@ Draw length is how far back you can pull the bowstring, which can be determined 
 
 Draw weight is how hard it's to pull the bowstring back, measured in pounds of weight and can vary from an easy-to-pull 10 pounds to a much more difficult-to-pull 50 pounds (or higher).
 
-I think it goes without saying, but I’ll say it anyway, that you’ll likely have to start with a lower draw weight to first develop good form, and then you’ll be able to increase it as you build strength.
+I think it goes without saying, but I'll say it anyway, that you'll likely have to start with a lower draw weight to first develop good form, and then you'll be able to increase it as you build strength.
 
-Some recurve bows have a set draw weight, which means buying a new bow when you're stronger, while others allow you to switch out the limbs to adjust the draw weight (see “Types of Bows” above).
+Some recurve bows have a set draw weight, which means buying a new bow when you're stronger, while others allow you to switch out the limbs to adjust the draw weight (see "Types of Bows" above).
 
 Compound bows have adjustable draw weight by design, so no need to buy limbs or purchase a new bow. You can adjust as you build strength.
 
-Your best bet is to have a professional fit a bow for you. That way, you won’t be wasting your time and money with an ill-fitting bow that could injure you or become damaged.
+Your best bet is to have a professional fit a bow for you. That way, you won't be wasting your time and money with an ill-fitting bow that could injure you or become damaged.
 
 ## Step 4: The Arrows That Are Best For Your Skill Level and Type of Archery
 
 Of course, you'll also need other equipment, such as arrows.
 
-It’s important to note that you shouldn't shoot your bow without an arrow called “dry-firing” and can damage your bow.
+It's important to note that you shouldn't shoot your bow without an arrow called "dry-firing" and can damage your bow.
 
-Ideally, you should buy your arrows along with your bow for the best compatibility, and the rule of thumb is that the arrows should be about 2 inches longer than your draw length (see “measurements” below).
+Ideally, you should buy your arrows along with your bow for the best compatibility, and the rule of thumb is that the arrows should be about 2 inches longer than your draw length (see "measurements" below).
 
 This is very important as shooting arrows that are too long for your bow will be awkward and interfere with accuracy, while shooting arrows too short for your bow could cause you to shoot your bow hand by accident.
 
@@ -181,7 +181,7 @@ Wood arrows are traditional and have that old school wow factor, but might requi
 
 A crafty person could even make their wood arrows, which is a different topic entirely but pretty darn exciting.
 
-Aluminum arrows are lightweight, durable, and quite a bit cheaper than carbon or wood arrows, which is fantastic for beginner archers when you’re more at risk for breaking or even losing arrows.
+Aluminum arrows are lightweight, durable, and quite a bit cheaper than carbon or wood arrows, which is fantastic for beginner archers when you're more at risk for breaking or even losing arrows.
 
 Carbon arrows are strong and durable with less flexibility than aluminum, which makes them very light and more accurate.
 
@@ -195,9 +195,9 @@ Armguards and chest guards protect you from the bowstring as it snaps back or ev
 
 These extras help to protect your fingers from the bowstring as you draw it, which might not seem completely necessary until the 500th time you draw that string, ouch.
 
-A good bow case and quiver will protect all this expensive equipment while you’re storing or transporting it (no one needs a bunch of loose arrows rolling around in the car, am I right?).
+A good bow case and quiver will protect all this expensive equipment while you're storing or transporting it (no one needs a bunch of loose arrows rolling around in the car, am I right?).
 
-Targets that are the correct type for the bow you've chosen, rather than a paper target tacked to a hay bale, are important so that you don’t damage the targets and end up having to replace them frequently.
+Targets that are the correct type for the bow you've chosen, rather than a paper target tacked to a hay bale, are important so that you don't damage the targets and end up having to replace them frequently.
 
 Bow sights are great in particular for beginners to help with your aim to hit your target more often.
 
@@ -205,31 +205,31 @@ Bow sights are great in particular for beginners to help with your aim to hit y
 
 There are also some pieces of equipment that you might find handy for maintenance, although having your bow serviced at an archery store is an excellent idea, especially for beginners.
 
-If you've a bow with this option, having different bow limbs will allow you to change your bow's draw weight (see “measurements” below) as your form and strength improve without having to buy an entirely new bow.
+If you've a bow with this option, having different bow limbs will allow you to change your bow's draw weight (see "measurements" below) as your form and strength improve without having to buy an entirely new bow.
 
-Consider always having a couple of extra bowstrings on hand to replace a broken string so that you aren’t left holding a bow you can’t shoot in a competition, on the range, or in the wild.
+Consider always having a couple of extra bowstrings on hand to replace a broken string so that you aren't left holding a bow you can't shoot in a competition, on the range, or in the wild.
 
-A bow stringer is a handy piece of equipment that will make the bowstring mentioned above change much quicker and easier, and help to ensure you don’t damage your bow in the process.
+A bow stringer is a handy piece of equipment that will make the bowstring mentioned above change much quicker and easier, and help to ensure you don't damage your bow in the process.
 
 ## Step 7: Where To Practice
 
-Alright, you’ve decided what type of archery you’re interested in, what type of bow you want to shoot, you’ve been measured for your bow, and you’ve bought all the fancy equipment to go with it, there’s just one question left.
+Alright, you've decided what type of archery you're interested in, what type of bow you want to shoot, you've been measured for your bow, and you've bought all the fancy equipment to go with it, there's just one question left.
 
 Where the heck can you shoot this thing safely?
 
-Archery clubs are found all over the US and Canada (seriously, just google “archery clubs near me,” you won't be disappointed).
+Archery clubs are found all over the US and Canada (seriously, just google "archery clubs near me," you won't be disappointed).
 
-They generally have indoor and outdoor ranges with various targets and events for whatever type of archery you’re interested in.
+They generally have indoor and outdoor ranges with various targets and events for whatever type of archery you're interested in.
 
 You can also check with local colleges or high schools, which often have archery clubs and may have a safe area for you to practice.
 
 If you're considering shooting on your private property, make sure you've safety measures in place to avoid hitting anything or anyone accidentally.
 
-It’s also an excellent idea to take lessons from a professional, no matter how much natural talent you think you've from all those viewings of the Lord of the Rings trilogy.
+It's also an excellent idea to take lessons from a professional, no matter how much natural talent you think you've from all those viewings of the Lord of the Rings trilogy.
 
 Check with local archery clubs or stores or look online for archery instructors [near you](https://archery360.com/2019/03/15/getting-started-in-archery/).
 
-Videos are another great place to get started if you’re having difficulty finding an instructor near you, but they should probably be considered only a short-term replacement for actual instruction.
+Videos are another great place to get started if you're having difficulty finding an instructor near you, but they should probably be considered only a short-term replacement for actual instruction.
 
 ## Step 8: If You're Thinking of Professional Archery
 
@@ -239,23 +239,23 @@ You need time to devote to practice, equipment appropriate to the type of compet
 
 You also need to look at what type of archery you want to compete in.
 
-Do you've dreams of Olympic gold, with a focus on target archery, or are you all about Field archery or 3-D archery (see “Types of Archery” above)?
+Do you've dreams of Olympic gold, with a focus on target archery, or are you all about Field archery or 3-D archery (see "Types of Archery" above)?
 
 Are you interested in competing locally or at national or even international levels?
 
 The International Field Archery Association defines professional archers as archers who actively compete in the professional archery circuit (however, this is only relevant for Field Archery).
 
-Other archery types don’t seem to have an actual definition for a professional archer.
+Other archery types don't seem to have an actual definition for a professional archer.
 
 Still, some agree that they're archers who receive money for shooting and/or who shoot at a high level of proficiency.
 
 ## Step 9: Practice, Practice, Practice
 
-You need to have a solid plan for where and when you’re going to practice.
+You need to have a solid plan for where and when you're going to practice.
 
-If you've a coach or instructor (which you should if you’re considering going pro), you might be doing the bulk of your practice sessions on the archery range at your community, college, or high school archery club.
+If you've a coach or instructor (which you should if you're considering going pro), you might be doing the bulk of your practice sessions on the archery range at your community, college, or high school archery club.
 
-You can also practice on private property if you've space for this or access to private property, which will increase the time you’re able to spend shooting.
+You can also practice on private property if you've space for this or access to private property, which will increase the time you're able to spend shooting.
 
 There are no shortcuts, so target shooting at a range with a coach or instructor for many, many hours is going to be the best way to become an excellent marksman.
 
@@ -281,7 +281,7 @@ Doing so will also increase the draw weight you're able to pull, which is a bonu
 
 ## Step 11: Learn How to Perform Under Pressure
 
-“Target Panic” or choking under pressure is something dreaded by all professional archers.
+"Target Panic" or choking under pressure is something dreaded by all professional archers.
 
 This occurs when someone who is typically a sharpshooter suddenly begins missing the target by releasing the arrow early, often as soon as they see the target.
 
@@ -297,13 +297,13 @@ These traits lead to less chance of stage fright or anxiety related to being in 
 
 Other ways to manage this issue include working with a coach experienced with target panic, adjusting your grip, switching hands if possible, and visualization techniques.
 
-## Step 12: Don’t Quit Your Day Job Just Yet
+## Step 12: Don't Quit Your Day Job Just Yet
 
 While there are certainly people who make their living from full-time competition in archery, these folks are the exception rather than the rule.
 
 Initially, you'll need to fund your travel and entrance fees for competitions, and you'll need to compete and do well for a while before anyone starts to pay attention.
 
-Don’t expect sponsors to find you until you’ve won many tournaments and begun to make a name for yourself.
+Don't expect sponsors to find you until you've won many tournaments and begun to make a name for yourself.
 
 Most professional archers [still have to work outside](https://www.bow-international.com/features/turning-pro/) of the sport to support their passion, and if you want to do this for a living, be prepared to not just shoot well and win a lot but also to market yourself and your equipment to catch the eye of potential sponsors.
 
@@ -311,7 +311,7 @@ Besides lucrative sponsorship deals, other ways to make money as an archer inc
 
 ## Final Thoughts
 
-Getting into archery doesn’t require a huge investment or years of athletic training. Start with the right equipment for your size and goals, find a safe place to practice, and put in consistent range time.
+Getting into archery doesn't require a huge investment or years of athletic training. Start with the right equipment for your size and goals, find a safe place to practice, and put in consistent range time.
 
-Whether you’re shooting for fun, fitness, or a future in competitive archery, the most important step is simply getting started.
+Whether you're shooting for fun, fitness, or a future in competitive archery, the most important step is simply getting started.
 

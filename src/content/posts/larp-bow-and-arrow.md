@@ -64,12 +64,12 @@ products:
       - "No mounting points for sights or accessories"
       - "30-40 lb draw weight may be too strong for young children"
     ctaUrl: "https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20"
-  - name: "TOP ARCHERY Traditional Recurve Bow 53’’"
+  - name: "TOP ARCHERY Traditional Recurve Bow 53''"
     rank: 2
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/41+7yjlflFL._SL500_.jpg"
-    description: "If you’re looking for a traditional bow, look no further."
+    description: "If you're looking for a traditional bow, look no further."
     highlights:
       - "Handmade Build"
       - "Leather Laminate"
@@ -81,7 +81,7 @@ products:
       - "53-inch length with a 28-inch draw provides solid traditional feel"
       - "Doubles as a rustic wall-mounted decoration piece"
     cons:
-      - "Arrows aren’t included and must be purchased separately"
+      - "Arrows aren't included and must be purchased separately"
       - "Some users report it wears down with daily heavy use"
     ctaUrl: "https://www.amazon.com/dp/B0722K6DY3?tag=thearcheryexpert-20"
   - name: "Feathered Indian Bow and Arrow Set"
@@ -109,27 +109,7 @@ products:
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg"
-    description: "If you love beautifully handcrafted archers with a touch of tradition, then you’ll love KAINOKAI."
-    highlights:
-      - "Native Art Style"
-      - "Faux Fur Wrap"
-      - "Ambidextrous"
-      - "40-50 lb Draw"
-    pros:
-      - "Beautifully crafted with brown faux fur and Native American-inspired design"
-      - "Designed for both left and right-hand users"
-      - "Elastic bow provides a generous draw length without snapping"
-      - "Available in draw weights from 40 to 50 lbs"
-    cons:
-      - "Only one arrow included, so you'll need to buy more separately"
-      - "More of a decorative piece than a dedicated LARP combat bow"
-    ctaUrl: "https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20"
-  - name: "Enrack Recurve Bow for Archery"
-    rank: 7
-    badge: "Budget Pick"
-    rating: 8.9
-    image: "https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg"
-    description: "This one is for archery lovers who love simply designed bows and arrows."
+    description: "If you love beautifully handcrafted archers with a touch of tradition, then you'll love KAINOKAI."
     highlights:
       - "Locust Wood Handle"
       - "Handcrafted Build"
@@ -143,13 +123,13 @@ products:
     cons:
       - "Not collapsible, which makes transportation more difficult"
       - "Longer length can be unwieldy in tight indoor LARP spaces"
-    ctaUrl: "https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20"
-  - name: "Rootmemory Bow And Arrow Archery"
-    rank: 8
-    badge: "Most Popular"
-    rating: 8.7
-    image: "https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg"
-    description: "If you’ve been withholding that game hunting expedition due to lack of proper gear, we’ve got you covered."
+    ctaUrl: "https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20"
+  - name: "Enrack Recurve Bow for Archery"
+    rank: 7
+    badge: "Budget Pick"
+    rating: 8.9
+    image: "https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg"
+    description: "This one is for archery lovers who love simply designed bows and arrows."
     highlights:
       - "Hardwood Riser"
       - "Waterproof Limbs"
@@ -163,13 +143,13 @@ products:
     cons:
       - "Right-hand use only, so lefty archers will need to look elsewhere"
       - "30-inch draw length may be short for taller adult archers"
-    ctaUrl: "https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20"
-  - name: "Adventure Awaits! Handmade Wooden Bow and Arrow Set"
-    rank: 9
-    badge: "Best Design"
-    rating: 8.5
-    image: "https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg"
-    description: "If you’re looking for a lightweight but sturdy bow and arrow, Adventure Awaits! is your best option."
+    ctaUrl: "https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20"
+  - name: "Rootmemory Bow And Arrow Archery"
+    rank: 8
+    badge: "Most Popular"
+    rating: 8.7
+    image: "https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg"
+    description: "If you've been withholding that game hunting expedition due to lack of proper gear, we've got you covered."
     highlights:
       - "6 Carbon Arrows"
       - "Hardwood Build"
@@ -183,10 +163,30 @@ products:
     cons:
       - "Right-hand design only with no left-hand option available"
       - "30-40 lb draw weight range limits versatility for advanced shooters"
+    ctaUrl: "https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20"
+  - name: "Adventure Awaits! Handmade Wooden Bow and Arrow Set"
+    rank: 9
+    badge: "Best Design"
+    rating: 8.5
+    image: "https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg"
+    description: "If you're looking for a lightweight but sturdy bow and arrow, Adventure Awaits! is your best option."
+    highlights:
+      - "Bamboo Build"
+      - "57 Inch Length"
+      - "Leather Grip"
+      - "30-60 lb Range"
+    pros:
+      - "Lightweight bamboo construction is easy to handle for all ages"
+      - "Supports a wide draw weight range from 30 to 60 lbs"
+      - "Comfortable leather-bound handle for extended shooting sessions"
+      - "Comes with 20 bamboo arrows, two quivers, and an arm guard"
+    cons:
+      - "Right-hand use only with no ambidextrous option"
+      - "Bamboo arrows aren't as durable as carbon or fiberglass options"
     ctaUrl: "https://www.amazon.com/dp/B07CCZ2CX6?tag=thearcheryexpert-20"
 ---
 
-If you’re looking into unleashing the child in you, then LARP bow and arrow is the way to go.
+If you're looking into unleashing the child in you, then LARP bow and arrow is the way to go.
 
 In come LARP- which means Live Action Role Playing.
 
@@ -359,7 +359,7 @@ This is a perfect gift for beginners that can be used in both combat games and L
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">If you’re looking for a traditional bow, look no further. This is a cool looking rustic antique that can be mounted on any wall for decor. It's carefully handmade, polished, and painted to withstand harsh outdoor weather.</p>
+<p class="product-card-desc">If you're looking for a traditional bow, look no further. This is a cool looking rustic antique that can be mounted on any wall for decor. It's carefully handmade, polished, and painted to withstand harsh outdoor weather.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Handmade Build</span>
 <span class="highlight-tag">Leather Laminate</span>
@@ -399,7 +399,7 @@ Cons
 </div>
 </div>
 
-If you’re looking for a traditional bow, look no further.
+If you're looking for a traditional bow, look no further.
 
 This is a cool looking rustic antique that can be mounted on any wall for decor.
 
@@ -417,7 +417,7 @@ It can be taken down using a stringer for storage and transportation.
 
 It comes with a strong black quiver. However, you'll need to buy a set of arrows separately.
 
-Some users don’t recommend it for daily usage as it wears down with weight.
+Some users don't recommend it for daily usage as it wears down with weight.
 
 ## 5. Feathered Indian Bow and Arrow Set &mdash; Best Value
 
@@ -509,7 +509,7 @@ Users are offered a range of draw weights of between 40 to 50lbs.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">If you love beautifully handcrafted archers with a touch of tradition, then you’ll love KAINOKAI. This archer is beautifully crafted to resemble the old fashioned bows. You can assemble it quickly and easily. It's long but not collapsible, and transportation can be hindered by the fear of breakage.</p>
+<p class="product-card-desc">If you love beautifully handcrafted archers with a touch of tradition, then you'll love KAINOKAI. This archer is beautifully crafted to resemble the old fashioned bows. You can assemble it quickly and easily. It's long but not collapsible, and transportation can be hindered by the fear of breakage.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Locust Wood Handle</span>
 <span class="highlight-tag">Handcrafted Build</span>
@@ -547,7 +547,7 @@ Cons
 </div>
 </div>
 
-If you love beautifully handcrafted archers with a touch of tradition, then you’ll love KAINOKAI.
+If you love beautifully handcrafted archers with a touch of tradition, then you'll love KAINOKAI.
 
 This archer is beautifully crafted to resemble the old fashioned bows.
 
@@ -645,7 +645,7 @@ The Enrack is easily dismantled for storage and transportation.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.7/10</span>
 </div>
-<p class="product-card-desc">If you’ve been withholding that game hunting expedition due to lack of proper gear, we’ve got you covered. Rootmemory archery comes with six carbon arrows that can be used in real-time hunting. It has a 30-inch draw length and holds 30-40 draw weight - an ideal choice for adults.</p>
+<p class="product-card-desc">If you've been withholding that game hunting expedition due to lack of proper gear, we've got you covered. Rootmemory archery comes with six carbon arrows that can be used in real-time hunting. It has a 30-inch draw length and holds 30-40 draw weight - an ideal choice for adults.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">6 Carbon Arrows</span>
 <span class="highlight-tag">Hardwood Build</span>
@@ -685,7 +685,7 @@ Cons
 </div>
 </div>
 
-If you’ve been withholding that game hunting expedition due to lack of proper gear, we’ve got you covered.
+If you've been withholding that game hunting expedition due to lack of proper gear, we've got you covered.
 
 Rootmemory archery comes with six carbon arrows that can be used in real-time hunting.
 
@@ -715,7 +715,7 @@ Transportation and storage are comfortable as you can dismantle them.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.5/10</span>
 </div>
-<p class="product-card-desc">If you’re looking for a lightweight but sturdy bow and arrow, Adventure Awaits. is your best option. This is a set made from light bamboo. It stands at 57-inches long with a capability to hold a higher draw weight of between 30-60lbs.</p>
+<p class="product-card-desc">If you're looking for a lightweight but sturdy bow and arrow, Adventure Awaits. is your best option. This is a set made from light bamboo. It stands at 57-inches long with a capability to hold a higher draw weight of between 30-60lbs.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Bamboo Build</span>
 <span class="highlight-tag">57 Inch Length</span>
@@ -755,7 +755,7 @@ Cons
 </div>
 </div>
 
-If you’re looking for a lightweight but sturdy bow and arrow, Adventure Awaits. is your best option.
+If you're looking for a lightweight but sturdy bow and arrow, Adventure Awaits. is your best option.
 
 This is a set made from light bamboo.
 
@@ -787,11 +787,11 @@ iMay 45" is designed for right-hand users only.
 
 It's a great choice for shooting practice.
 
-Below is a list of the things you’ll require for your LARP collection.
+Below is a list of the things you'll require for your LARP collection.
 
 Traditionally, quivers were usually made from leather, but today purchasers can see durable plastic quivers in the markets.
 
-Quivers ensures that you’ve your arrows within your reach.
+Quivers ensures that you've your arrows within your reach.
 
 You can strap them on your back, shoulder, or hip.
 
@@ -817,7 +817,7 @@ The markets are flooded with ranges like crossbows, fantasy bows, recurves, and 
 
 Die-hard LARP players go to the extent of wearing reenactment clothes according to the role they choose to play.
 
-Why don’t you also give it a try?
+Why don't you also give it a try?
 
 Other smaller parts that may not be included in all packages are. Face targets, guards for your arm and fingers, stringers, wrench, wax string, face targets, and a silencer.
 
@@ -829,7 +829,7 @@ You don't need sharp arrows for duel LARP games.
 
 Arrow edges can be made with styrofoam, bottle tops, or soft padded material.
 
-On the other hand, if you’re using target faces, stainless steel arrowheads can be great but always aim away from crowds.
+On the other hand, if you're using target faces, stainless steel arrowheads can be great but always aim away from crowds.
 
 These tend to break during games and send sprinters flying.
 

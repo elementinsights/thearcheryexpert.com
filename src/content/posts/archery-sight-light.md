@@ -256,7 +256,7 @@ The archery sight light attached to the bows improves the aim and the alignment 
 
 The sight light allows the archer to precisely aim at a target that's farther away.
 
-An archer can’t enhance focus on the farther target without using a bow sight.
+An archer can't enhance focus on the farther target without using a bow sight.
 
 These devices come with features that enable an archer to focus on the target and thereby improve shooting accuracy.
 
@@ -444,7 +444,7 @@ If you want to buy for the best utilization that's provided by the TURGLO brand,
 
 Easy installation, convenient use, and optimal function of this model is an aggregation of all the features you would want from any product.
 
-You surely won’t regret choosing this product for the best utilization.
+You surely won't regret choosing this product for the best utilization.
 
 ## 2. Trophy Ridge Volt 5 Pin Bow Sight &mdash; Runner Up
 
@@ -506,7 +506,7 @@ The features of light enhance the target accuracy and hunting experience.
 
 The features of this light enhance the target accuracy and hunting experience that's beyond the level of those provided by others.
 
-The light provides outstanding visibility to five ultra-bright 0.019” medium horizontal fiber optic pins of Trophy Ridge Bow sight.
+The light provides outstanding visibility to five ultra-bright 0.019" medium horizontal fiber optic pins of Trophy Ridge Bow sight.
 
 The Volt Five-Pin Bow Sight from Trophy Ridge sports has manufactured with aluminum bracketry and coated with an exclusive Ballistix copolymer that reduces the noise and vibration in the field during hunting.
 
@@ -606,7 +606,7 @@ If you want to buy for the best utilization that's provided by the TURGLO brand,
 
 Easy installation, convenient use, and optimal function of this model is an aggregation of all the features you would want from any product.
 
-You surely won’t regret choosing this product for the best utilization.
+You surely won't regret choosing this product for the best utilization.
 
 ## 4. SAS Compound Bow Fiber Optic LED Sight Light 3/8-32 Thread Universal Fit &mdash; Premium Pick
 
@@ -676,7 +676,7 @@ If you want to buy for the best utilization then this is the model product for y
 
 Easy installation, convenient use, and optimal function of this model is an aggregation of all the features you would want from any product.
 
-You surely won’t regret choosing this product for the best utilization.
+You surely won't regret choosing this product for the best utilization.
 
 ## 5. TRUGLO AG2314BD Apex Gear Covert, 4 Pin Light .019 Sight &mdash; Budget Pick
 
@@ -750,7 +750,7 @@ If you want to buy for the best utilization that's provided by the TURGLO brand,
 
 Easy installation, convenient use, and optimal function of this model is an aggregation of all the features you would want from any product.
 
-You surely won’t regret choosing this product for the best utilization.
+You surely won't regret choosing this product for the best utilization.
 
 ## 6. Trophy Ridge Rheostatlight &mdash; Most Popular
 

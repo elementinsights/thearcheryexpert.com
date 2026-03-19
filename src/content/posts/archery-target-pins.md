@@ -95,7 +95,7 @@ products:
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg"
-    description: "Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins’ minor problems with their galvanized steel body."
+    description: "Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins' minor problems with their galvanized steel body."
     highlights:
       - "10-Pack Value"
       - "Easy Removal"
@@ -135,7 +135,7 @@ products:
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg"
-    description: "There aren’t many target pins that can be used as both target pins and a point of aim for the shooter, so that is why we include BOBS Archery Target Face pins/Point of Aim Pins in this list."
+    description: "There aren't many target pins that can be used as both target pins and a point of aim for the shooter, so that is why we include BOBS Archery Target Face pins/Point of Aim Pins in this list."
     highlights:
       - "Circular Design"
       - "Point of Aim"
@@ -424,7 +424,7 @@ Though the SAS pins are made of plastic, you need not worry about it being broke
 
 There will be no longer worries about reusing the targets as target pins are quite durable and long, providing a deep anchor hold to the target.
 
-Also, it’s easy to remove the SAS target pin from foam targets.
+Also, it's easy to remove the SAS target pin from foam targets.
 
 This set contains four archery target pins having a reasonable value, making it a pocket-friendly verified product.
 
@@ -498,7 +498,7 @@ Such isn't the case with the Saunders target pins. These pins are well ribbed on
 
 While inserting the pins into foam blocks, you simply have to slide the smooth sides into the foam blocks and then turn it 90 degrees so that the rough sides get locked with the foam.
 
-It’s perfect for securing paper targets onto layered  -  foam targets such as The Block and Blackhole backstops.
+It's perfect for securing paper targets onto layered  -  foam targets such as The Block and Blackhole backstops.
 
 Being one of the top sellers, the Saunders Archery Company offers you good quality products.
 
@@ -516,7 +516,7 @@ Being one of the top sellers, the Saunders Archery Company offers you good quali
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins’ minor problems with their galvanized steel body. The set contains 10 Archery Target Pins, making the product a value deal where the customer is assured of quality and quantity.</p>
+<p class="product-card-desc">Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins' minor problems with their galvanized steel body. The set contains 10 Archery Target Pins, making the product a value deal where the customer is assured of quality and quantity.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">10-Pack Value</span>
 <span class="highlight-tag">Easy Removal</span>
@@ -554,7 +554,7 @@ Cons
 </div>
 </div>
 
-Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins’ minor problems with their galvanized steel body.
+Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins' minor problems with their galvanized steel body.
 
 The set contains 10 Archery Target Pins, making the product a value deal where the customer is assured of quality and quantity.
 
@@ -570,7 +570,7 @@ BCP Archery Target Pins are easy to attach and remove paper or foam targets from
 
 Good design and balanced composition are what BCP is proud of, providing well assured and verified archery target pins.
 
-These pins are a perfect example of “you get what you pay for.”
+These pins are a perfect example of "you get what you pay for."
 
 ## 4. BOBS ARCHERY TARGET FACE PINS &mdash; Premium Pick
 
@@ -658,7 +658,7 @@ They're good to use indoors and outdoors. Frankly speaking, these target pins ar
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
-<p class="product-card-desc">There aren’t many target pins that can be used as both target pins and a point of aim for the shooter, so that's why we include BOBS Archery Target Face pins/Point of Aim Pins in this list.</p>
+<p class="product-card-desc">There aren't many target pins that can be used as both target pins and a point of aim for the shooter, so that's why we include BOBS Archery Target Face pins/Point of Aim Pins in this list.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Circular Design</span>
 <span class="highlight-tag">Point of Aim</span>
@@ -697,7 +697,7 @@ Cons
 </div>
 </div>
 
-There aren’t many target pins that can be used as both target pins and a point of aim for the shooter, so that's why we include BOBS Archery Target Face pins/Point of Aim Pins in this list.
+There aren't many target pins that can be used as both target pins and a point of aim for the shooter, so that's why we include BOBS Archery Target Face pins/Point of Aim Pins in this list.
 
 The balls at its end are bright and easy to spot hence making these target pins used as a point of aim for archers.
 
@@ -792,7 +792,7 @@ This bright red color is easy to detect and see from afar and close distances, m
 
 BOBS archery target balls are easy to install and remove and can take several hits from field points.
 
-Using these target balls, the shooter’s precision to aim and shoot arrows will increase as the balls are of lesser diameter than the regularly used targets.
+Using these target balls, the shooter's precision to aim and shoot arrows will increase as the balls are of lesser diameter than the regularly used targets.
 
 If you're looking forward to becoming a professional archer, these ball pins will surely help you become one.
 
@@ -856,7 +856,7 @@ Being a 1.8-inch-long pin, it has a deep anchor hold that makes these pins perfe
 
 The product must not break and last long is one major demand by customers. Hence the e5e10 manufacturer has come up with plastic target pins made by durable ABS material (not easy to break).
 
-The set contains a large number of twenty-five pieces of archery target face pins, so if you lose one or two pins, that’s no issue because you've a bunch of these target pins in your bag.
+The set contains a large number of twenty-five pieces of archery target face pins, so if you lose one or two pins, that's no issue because you've a bunch of these target pins in your bag.
 
 High-density objects such as dense foam aren't easy to penetrate, so for such dense targets, we require sharp point pins, and that's why we've listed these target pins here.
 
@@ -998,9 +998,9 @@ Cosmos archery pins allow you to practice your archery shooting with great comfo
 
 If you're looking forward to practicing arrow shooting over 10 ring paper targets pinned to microfiber targets, the Cosmos archery pins are a value pack.
 
-If you don’t want your archery pins to fall from your pockets, cosmos archery pins are the most convenient ones on the list with a length of 1.75 inches that are easy to carry.
+If you don't want your archery pins to fall from your pockets, cosmos archery pins are the most convenient ones on the list with a length of 1.75 inches that are easy to carry.
 
-Many items of plastic are tended to break easily but that’s not the case with these Archery target pins as these archery pins are made up of ABS material that makes these target pins durable, sturdy, and reliant.
+Many items of plastic are tended to break easily but that's not the case with these Archery target pins as these archery pins are made up of ABS material that makes these target pins durable, sturdy, and reliant.
 
 These pins are good and simple enough for 9 years old to attach and remove paper targets from foam block, hence also making them one of the best-suited plastic target pins for junior-level archery practice sessions.
 
@@ -1077,11 +1077,11 @@ These pins will hold any target, though they may be too much for soft bases.
 
 BOBS archery balls FITA target face pins are one of the pins that are used for international level archery shooting.
 
-There’s a wealth of choices available online.
+There's a wealth of choices available online.
 
 An ocean full of products lies in front of you, and it can be hard to fish out the best product.
 
-In today’s date of hectic and fast-paced lives, people constantly look for ways to unwind themselves.
+In today's date of hectic and fast-paced lives, people constantly look for ways to unwind themselves.
 
 The sport of archery is fast emerging as the most favored recreational activity and is witnessing increasing participation globally.
 
@@ -1095,8 +1095,8 @@ If you feel that another product deserves its place on our list of the ten best 
 
 ## Final Thoughts
 
-Good target pins are a small but essential part of your archery setup that you shouldn’t overlook. Investing in a quality set means your target faces stay firmly in place through long practice sessions without constantly needing to re-pin.
+Good target pins are a small but essential part of your archery setup that you shouldn't overlook. Investing in a quality set means your target faces stay firmly in place through long practice sessions without constantly needing to re-pin.
 
-Grab a durable pack, keep a few spares in your gear bag, and you won’t have to think about them again for a long time.
+Grab a durable pack, keep a few spares in your gear bag, and you won't have to think about them again for a long time.
 
 If you feel that another product deserves its place on our list of the ten best archery target pins, please let's know.

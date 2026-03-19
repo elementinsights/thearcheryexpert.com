@@ -28,7 +28,7 @@ toc:
     href: "#what-to-prepare"
   - label: "Upgrades"
     href: "#upgrades"
-  - label: "Getting A Pro’s Advice"
+  - label: "Getting A Pro's Advice"
     href: "#getting-a-pros-advice"
   - label: "Joining Groups & Classes"
     href: "#joining-groups-classes"
@@ -51,7 +51,7 @@ Be it in hunting, sport, or as a casual hobby.
 
 If you're one of those ladies who have tried archery a few times and decided to commit to it.
 
-We’re guessing you're to buy your archery gear for the first time, so you might need some guidance on where to start assembling your archery set.
+We're guessing you're to buy your archery gear for the first time, so you might need some guidance on where to start assembling your archery set.
 
 Archery gears must be highly personalized and have to fit the archer for optimum performance.
 
@@ -141,9 +141,9 @@ If you're a more experienced archer, on the other hand.
 
 It will be great to purchase a compound bow that you can have adjusted by a professional on the store, or learn to adjust for yourself in the long run.
 
-Compound bows’ customizability also lets you use it longer.
+Compound bows' customizability also lets you use it longer.
 
-You don’t always have to buy a bow when you feel like the measurements, like the weight, you can support have changed as you practice along.
+You don't always have to buy a bow when you feel like the measurements, like the weight, you can support have changed as you practice along.
 
 Whichever type you take, what's important to take note of is that you can always choose a bow made for women or youth as these are essentially scaled-down versions of bows used by men.
 
@@ -151,29 +151,29 @@ To suit smaller frames and shorter draw lengths, but gives off almost the same l
 
 ## Measurements
 
-With the importance of your gears’ personalization and fit, it's necessary to know your measurements to find the bow that suits you.
+With the importance of your gears' personalization and fit, it's necessary to know your measurements to find the bow that suits you.
 
-Women have different measurements and ratios compared to men, but there's no issue with that since there are a lot of varieties of bows and gears crafted to suit a female body’s frame.
+Women have different measurements and ratios compared to men, but there's no issue with that since there are a lot of varieties of bows and gears crafted to suit a female body's frame.
 
 With that, here are some measurements that you might need to know before rushing to any archery shop and purchasing your gears:
 
 Draw weight is the force a bow or string requires for you to have a full draw. It's measured in pounds against the draw length in inches.
 
-One of the factors that greatly affect a bow’s speed will be the draw weight so it's best to know if a bow is tuned to a bow draw weight that you can support.
+One of the factors that greatly affect a bow's speed will be the draw weight so it's best to know if a bow is tuned to a bow draw weight that you can support.
 
-There are [prescribed draw weights](http://www.learn-archery.com/proper-draw-weight.html) based on the type of bow you’re using, your age, and your gender.
+There are [prescribed draw weights](http://www.learn-archery.com/proper-draw-weight.html) based on the type of bow you're using, your age, and your gender.
 
 For an average adult woman starting in archery.
 
-You can go for 16 to 26 pounds if you’re using a recurve bow, or 26 to about 40 pounds for compound bows, depending on your strength.
+You can go for 16 to 26 pounds if you're using a recurve bow, or 26 to about 40 pounds for compound bows, depending on your strength.
 
-Otherwise, you can also ask a professional at the archery store where you ought to buy your gear, and pretty sure, they’ll give you some proper advice on the draw weight that you can start at.
+Otherwise, you can also ask a professional at the archery store where you ought to buy your gear, and pretty sure, they'll give you some proper advice on the draw weight that you can start at.
 
 The draw length is the distance that an archer must pull in a full draw and proper form.
 
-A bow must be set up to cater to an archer’s specific draw length to maintain comfort and achieve better accuracy.
+A bow must be set up to cater to an archer's specific draw length to maintain comfort and achieve better accuracy.
 
-The adjustments of draw length may differ based on the type of bow you’re using.
+The adjustments of draw length may differ based on the type of bow you're using.
 
 Traditional and recurve bows can be drawn back at as far as an archer can while the compound bows.
 
@@ -187,7 +187,7 @@ Meanwhile, [for recurve](https://targetcrazy.com/archery/resources/find-recurve-
 
 You'll still need to consider the best measurement for you to deliver a good shot and correspond with your bow's draw weight.
 
-Your draw length will determine the size or your bow so it's best to know how to measure your draw length both for recurve or [for the compound](https://www.huntersfriend.com/compound-bow-fitting-draw-length-draw-weight-help-guide.html) to ensure you’ll get the best fit.
+Your draw length will determine the size or your bow so it's best to know how to measure your draw length both for recurve or [for the compound](https://www.huntersfriend.com/compound-bow-fitting-draw-length-draw-weight-help-guide.html) to ensure you'll get the best fit.
 
 ## Accessories & Safety Gears
 
@@ -207,7 +207,7 @@ Some of the basic gears you can look for are:
 
 Along with the bow, you'll also need to personally choose and shop for your arrows.
 
-As much as it seems easy, arrows also have to be measured to fit your draw length and so is your bow’s.
+As much as it seems easy, arrows also have to be measured to fit your draw length and so is your bow's.
 
 There are a bunch of types and a variety of designs that you can choose from.
 
@@ -217,25 +217,25 @@ From plastic to leather, many different arm guards come in different styles, ran
 
 An arm guard is placed in the forearm, for the arm that holds the bow.
 
-This is to protect your skin from the bow string’s recoil upon release.
+This is to protect your skin from the bow string's recoil upon release.
 
-Some females can get easily bruised, and even if you’re not one of them.
+Some females can get easily bruised, and even if you're not one of them.
 
 It's still best to use arm guards for safety and comfort.
 
 For compound bows, you can use release aids but the tricky part is that you've to know which kind of release aid best suits your shooting style.
 
-For this, you can always ask for a pro’s advice.
+For this, you can always ask for a pro's advice.
 
 Meanwhile, for recurve and traditional bows, both archery gloves and finger tabs can come in handy.
 
 Release aids, tabs, and gloves will protect your fingers from injuries as you pull the string and create the shot.
 
-For women, most certainly to those who are starting in archery, it’s recommended to wear a chest guard.
+For women, most certainly to those who are starting in archery, it's recommended to wear a chest guard.
 
-A chest guard’s mostly used by archers, both men, and women.
+A chest guard's mostly used by archers, both men, and women.
 
-It's used to keep their clothing out of the arrow’s way and to keep their sports attire from being damaged as well.
+It's used to keep their clothing out of the arrow's way and to keep their sports attire from being damaged as well.
 
 For women, it's also best to use a chest guard to create a smooth and flatter surface for the string to keep the arrow's trajectory straight.
 
@@ -257,7 +257,7 @@ You can ask your friends who are involved in archery or simply look around throu
 
 Get to contact the store and ask if they got stocks of bows and equipment specifically for women.
 
-You’ll know which stores are best to visit that will offer variety and choices.
+You'll know which stores are best to visit that will offer variety and choices.
 
 You can also dig deeper and research further, by looking for certain items from different brands, watch reviews and if you find the equipment you like, jot them down and ask the stores if they have that.
 
@@ -283,7 +283,7 @@ As mentioned, it's best to do your research on the equipment that you might need
 
 Along with that, take note of their prices or price ranges so you can have some sort of allowance should you opt for cheaper or more expensive alternatives.
 
-Price ranges may vary based on the area where you’re in.
+Price ranges may vary based on the area where you're in.
 
 You can also opt for archery equipment sets sold on archery shops.
 
@@ -299,13 +299,13 @@ You'll need to scale up and change your equipment or accessories.
 
 You can always start cheap with the most basic training equipment you can find to get to know your body, style, and preferences first.
 
-Don’t be afraid to make those purchases for now.
+Don't be afraid to make those purchases for now.
 
 Once you find where you want to go with archery, should you consider going for it professionally?
 
-Use it for hunting or just keep it as a hobby, that’s when you can start assembling a specialized set of equipment for your goals.
+Use it for hunting or just keep it as a hobby, that's when you can start assembling a specialized set of equipment for your goals.
 
-## Getting A Pro’s Advice
+## Getting A Pro's Advice
 
 A professional mentor or group of mentors is one of the many perks that you can get in visiting a local archery store.
 
@@ -335,7 +335,7 @@ You can ask sensitive questions or matters that you feel like men wouldn't easil
 
 Especially for specific parts of the body, like chest guards.
 
-There's a difference in how men and women experience archery and it will be best for you to take it from a fellow woman’s point of view.
+There's a difference in how men and women experience archery and it will be best for you to take it from a fellow woman's point of view.
 
 Archery groups or organizations are everywhere.
 

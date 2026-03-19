@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Delta McKenzie Strutter Turkey"
-  text: "It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It’s a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item."
+  text: "It's the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It's a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/51tdw3Xlt9L._SL500_.jpg"
-    description: "It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows."
+    description: "It's the best target practice for those who love pursuing elusive wild turkeys with bows and arrows."
     highlights:
       - "Self-Healing Foam"
       - "Life-Size Turkey"
@@ -75,7 +75,7 @@ products:
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/312XJNx+7yL._SL500_.jpg"
-    description: "It’s a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products."
+    description: "It's a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products."
     highlights:
       - "Replaceable Core"
       - "48\" Tall Deer"
@@ -217,7 +217,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/41Ch4eytSKL._SL500_.jpg"
-    description: "This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club’s member’s economic competition."
+    description: "This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club's member's economic competition."
     highlights:
       - "UV Resistant"
       - "Dual-Side Core"
@@ -230,21 +230,21 @@ products:
       - "Lightweight at 7.78 kg for easy transport between locations"
     cons:
       - "Smaller 40-inch size may not simulate full-size deer well"
-      - "FlexFoam body isn’t as durable as layered compression models"
+      - "FlexFoam body isn't as durable as layered compression models"
     ctaUrl: "https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20"
   - name: "Rinehart Woodland Boar 3D Target"
     rank: 10
     badge: "Honorable Mention"
     rating: 8.0
     image: "https://m.media-amazon.com/images/I/41aJeEoDLoL._SL500_.jpg"
-    description: "It’s a Reinhart Target’s product that stands at 29 inches tall and 39 inches long."
+    description: "It's a Reinhart Target's product that stands at 29 inches tall and 39 inches long."
     highlights:
       - "Woodland Boar"
       - "Signature Foam"
       - "Locking Insert"
       - "IBO Scored"
     pros:
-      - "Rinehart’s signature self-healing foam takes thousands of shots"
+      - "Rinehart's signature self-healing foam takes thousands of shots"
       - "Locking insert core is simple to swap when worn out"
       - "IBO competition-grade scoring rings for serious practice"
       - "Realistic woodland boar shape for hog hunting preparation"
@@ -374,7 +374,7 @@ There are other 3D animal archery targets such as zombies, dinosaurs, and even a
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It’s a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item.</p>
+<p class="product-card-desc">It's the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It's a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Self-Healing Foam</span>
 <span class="highlight-tag">Life-Size Turkey</span>
@@ -412,9 +412,9 @@ Cons
 </div>
 </div>
 
-It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows.
+It's the best target practice for those who love pursuing elusive wild turkeys with bows and arrows.
 
-It’s a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches.
+It's a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches.
 
 For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item.
 
@@ -428,7 +428,7 @@ The base of this animal target offers stability which makes it possible for you 
 
 Strutter turkey is suitable for economic competition and backyard practice.
 
-Turkey bow hunters now have a life-like practice scenario thanks to Delta McKenzie’s strutter turkey.
+Turkey bow hunters now have a life-like practice scenario thanks to Delta McKenzie's strutter turkey.
 
 This animal target has no replaceable core, but the firm, flexible foam, serves you for long withstanding multiple shots.
 
@@ -436,7 +436,7 @@ According to reviews from different major e-commerce platforms, this product is 
 
 However, some challenges such as defects may arise immediately after delivery.
 
-All this is taken care of by the warranty that covers any manufacturer’s defect.
+All this is taken care of by the warranty that covers any manufacturer's defect.
 
 ## 2. Shooter Buck 3D Deer Archery Target With Replaceable Core &mdash; Runner Up
 
@@ -452,7 +452,7 @@ All this is taken care of by the warranty that covers any manufacturer’s defec
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">It’s a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products. If you want to practice your aim on a life-like buck design, this huge target that stands at 48 inches tall and weighs 5.</p>
+<p class="product-card-desc">It's a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products. If you want to practice your aim on a life-like buck design, this huge target that stands at 48 inches tall and weighs 5.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Replaceable Core</span>
 <span class="highlight-tag">48" Tall Deer</span>
@@ -474,7 +474,7 @@ Pros
 <ul class="pros-list">
 <li>It has a replaceable core</li>
 <li>3D graphics type outlook that makes it a perfect target for shooters</li>
-<li>It’s a 4-feet buck target with ground stakes for stability</li>
+<li>It's a 4-feet buck target with ground stakes for stability</li>
 <li>Vital impact scoring rings</li>
 </ul>
 </div>
@@ -491,7 +491,7 @@ Cons
 </div>
 </div>
 
-It’s a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products.
+It's a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products.
 
 If you want to practice your aim on a life-like buck design, this huge target that stands at 48 inches tall and weighs 5.8kg is your solution.
 
@@ -507,7 +507,7 @@ In addition to durability is the high-density 25% larger replaceable core that e
 
 It also comes with ground stakes that give it stability enabling it to stop arrows shot at it without toppling over.
 
-It’s a solid 1-piece target with easy one-handed arrow removal.
+It's a solid 1-piece target with easy one-handed arrow removal.
 
 This animal target can be suitable for both casual and serious hunters.
 
@@ -572,7 +572,7 @@ This easy pull polyfoam makes the removal of arrows easy and the hole created by
 
 The exclusive foam is capable of stopping broadheads, field heads, and even expandable arrows.
 
-It’s black which increases the difficulty level making it essential to help you improve your aim.
+It's black which increases the difficulty level making it essential to help you improve your aim.
 
 It has a replaceable insert core with a patented locking insert that you can change without hassle with the help of the insert tubes.
 
@@ -584,7 +584,7 @@ The core has IBO pattern scoring rings for efficient aiming practice and you can
 
 This animal target has multiple five-star ratings from most buyers on major online stores.
 
-It’s a clear indication that this is one of the best middle-sized animal targets ever made.
+It's a clear indication that this is one of the best middle-sized animal targets ever made.
 
 ## 4. Delta McKenzie Aim Rite Bear &mdash; Premium Pick
 
@@ -722,13 +722,13 @@ It's a magnificent life-like buck with a shoulder height of 37 inches and weighs
 
 Well renowned wildlife artist, Mike Carlson, is the man we should be thanking for carefully designing and sculpting this buck.
 
-It’s a life-like 300-pound live-weight whitetail buck that features a large Radius Lock insert.
+It's a life-like 300-pound live-weight whitetail buck that features a large Radius Lock insert.
 
 This insert is four-sided which means that immediately you start shooting on one side, you'll have three more sides to practice on.
 
-It’s a massive advantage for serious bowhunters because you're sure of the long life of your target.
+It's a massive advantage for serious bowhunters because you're sure of the long life of your target.
 
-Each of the four sides shows the location of the vitals by giving the shooter an inside view of the buck’s vulnerable points.
+Each of the four sides shows the location of the vitals by giving the shooter an inside view of the buck's vulnerable points.
 
 The core which measures 14*14*14 inches shows three locations: the heart, lung, and liver.
 
@@ -804,7 +804,7 @@ This target is mainly meant to take abuse from broadheads and is very suitable f
 
 This target uses peak quality foam sturdy enough to withstand an arrow moving at a speed of 320 feet per second.
 
-It’s strong enough to stop a broadhead, field trip, or fixed blade.
+It's strong enough to stop a broadhead, field trip, or fixed blade.
 
 At the same time, the removal of arrows is smooth without much damage to the target due to the Flex Back self-healing foam.
 
@@ -890,7 +890,7 @@ This animal target doesn't have a replaceable core.
 
 It means that its lifespan is shorter than that of those with a replaceable core.
 
-It also comes without any stands and it’s not as stable as it would be with a stand for stability.
+It also comes without any stands and it's not as stable as it would be with a stand for stability.
 
 ## 8. CW-X Delta McKenzie 3D Raccoon Backyard Target &mdash; Most Durable
 
@@ -985,7 +985,7 @@ For competitive shooters, it comes with scoring rings that enable you to focus m
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club’s member’s economic competition. It’s made from FlexFoam which is light in mass and features a UV-resistant coating. It can handle arrows from some of the most powerful bows.</p>
+<p class="product-card-desc">This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club's member's economic competition. It's made from FlexFoam which is light in mass and features a UV-resistant coating. It can handle arrows from some of the most powerful bows.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">UV Resistant</span>
 <span class="highlight-tag">Dual-Side Core</span>
@@ -1007,7 +1007,7 @@ Pros
 <ul class="pros-list">
 <li>The target core is replaceable separately on each side</li>
 <li>One-year warranty</li>
-<li>It’s multicolored</li>
+<li>It's multicolored</li>
 <li>You can shoot on both sides</li>
 </ul>
 </div>
@@ -1024,13 +1024,13 @@ Cons
 </div>
 </div>
 
-This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club’s member’s economic competition.
+This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club's member's economic competition.
 
-It’s made from FlexFoam which is light in mass and features a UV-resistant coating.
+It's made from FlexFoam which is light in mass and features a UV-resistant coating.
 
 It can handle arrows from some of the most powerful bows.
 
-It’s approved for use with broadheads, expandables, and field trips with the extraction of arrows being easy.
+It's approved for use with broadheads, expandables, and field trips with the extraction of arrows being easy.
 
 This 3D animal target comes with a 1-year warranty from Delta McKenzie.
 
@@ -1038,7 +1038,7 @@ The Delta Riverbottom Series Challenger stands at 40 inches tall looking like a 
 
 The target has a small size which will make you a better shooter by helping you concentrate your aim.
 
-This target is a replaceable vital core that consists of Delta’s technological self-healing foam that can withstand hundreds of continuous shots.
+This target is a replaceable vital core that consists of Delta's technological self-healing foam that can withstand hundreds of continuous shots.
 
 The core appears on both sides and can be replaced individually for each.
 
@@ -1062,7 +1062,7 @@ This animal target can be for both kids and adults for practice as well as both 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
-<p class="product-card-desc">It’s a Reinhart Target’s product that stands at 29 inches tall and 39 inches long. It’s sturdy and can withstand aluminum, wood, and carbon arrows shot from compound and crossbows. The use of Reinhart FX patented self-healing foam enables it to work this magic.</p>
+<p class="product-card-desc">It's a Reinhart Target's product that stands at 29 inches tall and 39 inches long. It's sturdy and can withstand aluminum, wood, and carbon arrows shot from compound and crossbows. The use of Reinhart FX patented self-healing foam enables it to work this magic.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Woodland Boar</span>
 <span class="highlight-tag">Signature Foam</span>
@@ -1100,9 +1100,9 @@ Cons
 </div>
 </div>
 
-It’s a Reinhart Target’s product that stands at 29 inches tall and 39 inches long.
+It's a Reinhart Target's product that stands at 29 inches tall and 39 inches long.
 
-It’s sturdy and can withstand aluminum, wood, and carbon arrows shot from compound and crossbows.
+It's sturdy and can withstand aluminum, wood, and carbon arrows shot from compound and crossbows.
 
 The use of Reinhart FX patented self-healing foam enables it to work this magic.
 
@@ -1114,7 +1114,7 @@ The hole created by the arrowhead heals and returns to its standard shape within
 
 It weighs 10.71 Kilograms which makes it easy to move around your target.
 
-It‘s also weatherproof and can withstand rain and ultraviolet rays from the sun which causes a lot of materials to deteriorate.
+It's also weatherproof and can withstand rain and ultraviolet rays from the sun which causes a lot of materials to deteriorate.
 
 To ensure the prolonged life of your animal target, it has a replaceable midsection core with patented locking insert tubes that lock the target in place.
 
@@ -1136,7 +1136,7 @@ Nearly owned by every bowhunter are bag targets.
 
 They're the most basic and generally contain a synthetic fiber that stops your arrows efficiently and still offers easy removal.
 
-It’s advisable to use bar targets for indoor practicing where you can hang them in place and don't have to keep moving the target around anytime you want to practice.
+It's advisable to use bar targets for indoor practicing where you can hang them in place and don't have to keep moving the target around anytime you want to practice.
 
 You can use any type of compound bow setup to practice on bag targets, but ensure you use field points only.
 
@@ -1168,4 +1168,4 @@ All types of targets differ from a quality level which determines the best arrow
 
 A lifelike 3D animal target is one of the best investments you can make for hunting preparation because it trains you to pick the right aiming point on a realistic shape rather than a flat bullseye. Look for high-density foam construction and replaceable vital zone cores to get the most life out of your purchase.
 
-Whether you’re practicing for whitetail season or 3D archery tournaments, these targets will sharpen your shot placement more than any standard block or bag target can.
+Whether you're practicing for whitetail season or 3D archery tournaments, these targets will sharpen your shot placement more than any standard block or bag target can.

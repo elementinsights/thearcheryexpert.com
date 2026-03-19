@@ -67,7 +67,7 @@ products:
       - "Only 5 pounds with heavy-duty carry handle"
       - "Available in three sizes (20, 25, and 28 inch)"
     cons:
-      - "Can’t withstand prolonged sun or rain exposure"
+      - "Can't withstand prolonged sun or rain exposure"
       - "Not designed for broadhead use"
     ctaUrl: "#"
   - name: "Morrell Yellow Jacket Crossbow Target"
@@ -87,7 +87,7 @@ products:
       - "Grommets let you hang it from a tree for angled practice"
       - "One-hand arrow removal makes retrieval effortless"
     cons:
-      - "Weighs 30 pounds, so it’s not the lightest option"
+      - "Weighs 30 pounds, so it's not the lightest option"
       - "Needs support behind it when placed on the ground"
     ctaUrl: "#"
   - name: "Morrell Yellow Jacket Supreme 3"
@@ -115,7 +115,7 @@ products:
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/51qYkXC9VsL._SL500_.jpg"
-    description: "If you have just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center."
+    description: "If you have just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn't rip apart in the center."
     highlights:
       - "38-Layer Center"
       - "Waterproof Cover"
@@ -188,7 +188,7 @@ products:
       - "Full-size bullseyes on both sides with varied aiming dots"
     cons:
       - "Weighs 54 pounds, making it difficult to move around"
-      - "Large size won’t fit in smaller indoor shooting spaces"
+      - "Large size won't fit in smaller indoor shooting spaces"
     ctaUrl: "https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20"
   - name: "Field Logic Hurricane H21 Crossbow Archery Bag Target"
     rank: 8
@@ -208,7 +208,7 @@ products:
       - "Compact 21x15 inch size is ideal for indoor and close-range practice"
     cons:
       - "Smaller shooting surface limits long-range practice options"
-      - "At 30 pounds, it’s heavier than the larger H25 model"
+      - "At 30 pounds, it's heavier than the larger H25 model"
     ctaUrl: "https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20"
   - name: "Bulldog Targets Doghouse Field Point Archery Target Plus"
     rank: 9
@@ -247,7 +247,7 @@ products:
       - "7 medium and 3 small bullseyes offer varied aiming points"
       - "High contrast graphics are easy to acquire from long distances"
     cons:
-      - "Weighs 45 pounds, so it’s meant to stay in one spot"
+      - "Weighs 45 pounds, so it's meant to stay in one spot"
       - "Arrow removal requires more effort than lighter bag targets"
     ctaUrl: "https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20"
 ---
@@ -463,7 +463,7 @@ It can't withstand prolonged sun or rain exposure, so you should better keep it 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">Morrell targets offer the best archery targets. They’re well renowned in the industry for their provision of good quality archery targets at an affordable price. This particular bag target of Morrell is unique in its ability to withstand pressure from a range of high-speed bows including crossbows and compound bows.</p>
+<p class="product-card-desc">Morrell targets offer the best archery targets. They're well renowned in the industry for their provision of good quality archery targets at an affordable price. This particular bag target of Morrell is unique in its ability to withstand pressure from a range of high-speed bows including crossbows and compound bows.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Stops 350 FPS</span>
 <span class="highlight-tag">Replaceable Covers</span>
@@ -504,7 +504,7 @@ Cons
 
 Morrell targets offer the best archery targets.
 
-They’re well renowned in the industry for their provision of good quality archery targets at an affordable price.
+They're well renowned in the industry for their provision of good quality archery targets at an affordable price.
 
 This particular bag target of Morrell is unique in its ability to withstand pressure from a range of high-speed bows including crossbows and compound bows.
 
@@ -518,11 +518,11 @@ The sturdiness of this target is also commendable making it an ideal bag target 
 
 To use it with minimal wear and tear, we would recommend using it for field tips only as bag targets aren't ideal for broadheads.
 
-If you're new to archery or you don’t have a target stand, then this Morrell yellow jacket target is for you.
+If you're new to archery or you don't have a target stand, then this Morrell yellow jacket target is for you.
 
 It has great stability for placing it on the floor with something behind it for support.
 
-Don’t worry, your support will be fine as this target doesn’t let arrows to pass through it.
+Don't worry, your support will be fine as this target doesn't let arrows to pass through it.
 
 Another great feature of this target is the ability to remove arrows with very little effort requiring only one hand.
 
@@ -603,11 +603,11 @@ The target isn't very stable on the ground, but you can easily overcome this by 
 
 It offers grommets at the top corners for hanging it on a tree and trying various heights for target practice while a handle helps in easy carrying.
 
-If you don’t want to move the target a lot and want to just leave it somewhere after adjusting it, then this target would be your ideal choice.
+If you don't want to move the target a lot and want to just leave it somewhere after adjusting it, then this target would be your ideal choice.
 
 It's weatherproof and you can leave it hanging outside in the rain.
 
-But don’t leave it in the wild as it’s weatherproof but bears and wildlife can damage it.
+But don't leave it in the wild as it's weatherproof but bears and wildlife can damage it.
 
 If you're an experienced archer using high-speed crossbows and want to practice your skills a few times a week, then this archery bag is all you need.
 
@@ -625,7 +625,7 @@ If you're an experienced archer using high-speed crossbows and want to practice 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">If you've just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center. This Morrell yellow jacket stinger is an ideal bag target for you.</p>
+<p class="product-card-desc">If you've just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn't rip apart in the center. This Morrell yellow jacket stinger is an ideal bag target for you.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">38-Layer Center</span>
 <span class="highlight-tag">Waterproof Cover</span>
@@ -664,13 +664,13 @@ Cons
 </div>
 </div>
 
-If you've just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center.
+If you've just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn't rip apart in the center.
 
 This Morrell yellow jacket stinger is an ideal bag target for you.
 
-The unique feature of this target is the layering in the center where it’s very dense and consists of 38 layers.
+The unique feature of this target is the layering in the center where it's very dense and consists of 38 layers.
 
-Thus, effectively stopping all high-speed bolts but still providing enough softness to the material that it doesn’t damage the arrowheads.
+Thus, effectively stopping all high-speed bolts but still providing enough softness to the material that it doesn't damage the arrowheads.
 
 This bag target of 20" x 20" x 12" and weighing only 19 pounds can stop bolts up to 325 fps.
 
@@ -747,7 +747,7 @@ National Archery in the school program is an initiative to indulge students in t
 
 Morrell provides Morrell Supreme range field point targets especially as a NASP target with NASP scoring rings designed on it and with special consideration for adult bows.
 
-The key feature of this target is that it’s 100% weatherproof.
+The key feature of this target is that it's 100% weatherproof.
 
 This is essential for the long practice sessions by young archers, letting it stand in the sun and rain for long periods.
 
@@ -765,7 +765,7 @@ Another interesting feature of this target is its ability to stop the arrows wit
 
 Its quick stop helps to achieve this feature while some arrows may bounce off after prolonged use of this target.
 
-It’s built for field points only and using them would increase its life. Unlike broadheads which would pierce it resulting in a large hole.
+It's built for field points only and using them would increase its life. Unlike broadheads which would pierce it resulting in a large hole.
 
 ## 6. Delta McKenzie Speedbag 20/20 Archery Target &mdash; Most Popular
 
@@ -846,7 +846,7 @@ The price of the bag is much cheaper compared to other targets possessing these 
 
 Compared to the Morrell bag targets listed above, this McKenzie target presents some difficulty in the removal of arrows.
 
-Don’t worry, if you face some difficulty in pulling your arrows out, then the trick isn't to yank them out.
+Don't worry, if you face some difficulty in pulling your arrows out, then the trick isn't to yank them out.
 
 Instead wiggle them a little and retrieve each arrow slowly and they will come out easily.
 
@@ -911,7 +911,7 @@ The size of this bag target is almost double the size of similar targets providi
 
 Preventing any damage of the arrows which miss the target.
 
-This Morrell target has dimensions of 32” ×29” ×13.5” and it has a large heft of 54 pounds.
+This Morrell target has dimensions of 32" ×29" ×13.5" and it has a large heft of 54 pounds.
 
 The versatility of this bag makes it very favorable with two sides having an expansive shooting area and full-size bullseyes.
 
@@ -1095,9 +1095,9 @@ They may penetrate through it and damage it extensively.
 
 It also comes equipped with an easy-grip handle to make it convenient for lifting and moving around.
 
-It’s recommended for all high-speed bows.
+It's recommended for all high-speed bows.
 
-Shooters who don’t like to move their targets around and beginners who are starting with field point practice.
+Shooters who don't like to move their targets around and beginners who are starting with field point practice.
 
 ## 10. DELTA 70630 Speed Bag Crossbow &mdash; Honorable Mention
 
@@ -1184,6 +1184,6 @@ You can just put it somewhere outside without moving it for some time.
 
 ## Final Thoughts
 
-Bag targets are the most practical and affordable option for daily archery practice, whether you’re shooting in your backyard or at an indoor range. Match the target to your setup by checking the speed rating for your bow or crossbow, and rotate the shooting surface regularly to get the most life out of it.
+Bag targets are the most practical and affordable option for daily archery practice, whether you're shooting in your backyard or at an indoor range. Match the target to your setup by checking the speed rating for your bow or crossbow, and rotate the shooting surface regularly to get the most life out of it.
 
-Once you’ve outgrown bag targets, consider stepping up to block targets or 3D animal targets for more advanced practice scenarios.
+Once you've outgrown bag targets, consider stepping up to block targets or 3D animal targets for more advanced practice scenarios.

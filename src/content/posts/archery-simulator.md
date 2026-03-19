@@ -53,7 +53,7 @@ With all these conveniences and ease provided through this technique, people gro
 
 ## Can Archery Simulator Really Improve Your Shooting Skills?
 
-In this article, we’re going to dig deep into what an archery simulator is, how it works, the kind of services it provides to its users, and the extent to which it's helpful to archers.
+In this article, we're going to dig deep into what an archery simulator is, how it works, the kind of services it provides to its users, and the extent to which it's helpful to archers.
 
 ## What Is A Simulator?
 
@@ -117,7 +117,7 @@ A leather glove/tab is used to protect the drawing digits.
 
 For protecting the thumb, thumb rings are made of hard materials.
 
-Multiple stabilizers may be installed at various positions so that they can keep the bow’s balance tuned in at whatever angles.
+Multiple stabilizers may be installed at various positions so that they can keep the bow's balance tuned in at whatever angles.
 
 Also, these reduce the noise and vibration that's caused by the release of the arrow.
 
@@ -127,7 +127,7 @@ The back of the arrow is attached to the bowstring with the nock.
 
 The bowstring and arrow are held with fingers or with a mechanical arrow release.
 
-In modern practice, while shooting, the archer stands in an upright position just like a “T.”
+In modern practice, while shooting, the archer stands in an upright position just like a "T."
 
 To aim, either of the eyes can be used initially, and over time, the less dominant one can be made more productive.
 
@@ -177,13 +177,13 @@ Also, the system is quite versatile.
 
 It provides different levels of comfort, depending on the user.
 
-If it’s a brand new archer, the system will be starting with complete basics.
+If it's a brand new archer, the system will be starting with complete basics.
 
 This involves a comfortable grip for the archers, a stable stance, and handling the crossbow safely.
 
 If not for a beginner, the system will start with many advanced levels.
 
-Now, the majority of these simulators are dependent on people’s imaginations.
+Now, the majority of these simulators are dependent on people's imaginations.
 
 It means that one can have the ability to create different scenarios.
 
@@ -195,7 +195,7 @@ They also can introduce fast-moving objects etc.
 
 All these abilities provide people with unparalleled opportunities to practice.
 
-Hence, the simulators’ ability to alter physical situations while interacting in a different scenario is appreciated by the trainers.
+Hence, the simulators' ability to alter physical situations while interacting in a different scenario is appreciated by the trainers.
 
 As users are presented with challenging situations, they learn how to think quickly and take proper immediate actions.
 
@@ -225,19 +225,19 @@ The main idea is to help the archer master the shot placements.
 
 This skill is vital in archery - certainly one of the most critical ones.
 
-While shooting an animal, let’s say a deer.
+While shooting an animal, let's say a deer.
 
-A deer’s heart, lungs, and liver are the archer’s intended target.
+A deer's heart, lungs, and liver are the archer's intended target.
 
 To hit these exact targets the shot placement is very important.
 
-Because if a shot is hit too far forward or if it’s too backward the arrow may hit possibly to some other thick muscle or bone which may lead to slower painful deaths.
+Because if a shot is hit too far forward or if it's too backward the arrow may hit possibly to some other thick muscle or bone which may lead to slower painful deaths.
 
 But, if shot placement is accurate enough to hit the vital organs it will deliver a quick humane kill for the animal.
 
 For this purpose, i.e. getting a stronghold on the shot placements, deer target practices on the simulator are much advised.
 
-Rather than a bull’s-eye target.
+Rather than a bull's-eye target.
 
 Because for them the aiming point is easily identified whether or not the station is moving.
 
@@ -251,7 +251,7 @@ Following up with the example of shooting a deer, there are various shot angles 
 
 Broadside Angle. Exposes the vital organs of the deer.
 
-It’s when either side of the deer falls perpendicular to the archer.
+It's when either side of the deer falls perpendicular to the archer.
 
 This angle provides a large space or target for a good hit.
 
@@ -283,13 +283,13 @@ Quartering Away. Another favorable angle for a good hit.
 
 Exposes all the vitals of the deer and presents a large target when the angle is slight or moderate.
 
-But if it’s too sharp the arrow might only pass through a single lung or so.
+But if it's too sharp the arrow might only pass through a single lung or so.
 
 Making it harder than ever for the deer to recover.
 
-To get the aiming point for this angle, you should think of the exit spot on the deer’s rear side and aim towards the spot on the deer’s near side that lines up with the exit spot on the back.
+To get the aiming point for this angle, you should think of the exit spot on the deer's rear side and aim towards the spot on the deer's near side that lines up with the exit spot on the back.
 
-With this shot, you've the possibility of aiming at the deer’s middle section, i.e. its liver.
+With this shot, you've the possibility of aiming at the deer's middle section, i.e. its liver.
 
 Maximizing the chance of a lethal shot.
 
@@ -299,13 +299,13 @@ Only a good hit if the angle is extremely slight.
 
 If it grows even a bit the vital organs will appear smaller and the shoulder and the back will come into focus.
 
-If you're not extremely careful with this shot you might strike at the deer’s shoulder or a thick bone or a thick muscle and it will be all for nothing.
+If you're not extremely careful with this shot you might strike at the deer's shoulder or a thick bone or a thick muscle and it will be all for nothing.
 
 Other angles may include, Uphill/Downhill, Straight on/Straight away.
 
 The straightaway or head-on shots aren't the best options to go for the archers.
 
-These shots have mostly the probability of exposing the deer’s brisket or lower neck which contains thick muscles and a whole lot of bones that make it a lot harder for the arrow to penetrate the body.
+These shots have mostly the probability of exposing the deer's brisket or lower neck which contains thick muscles and a whole lot of bones that make it a lot harder for the arrow to penetrate the body.
 
 The Uphill or Downhill shots are the faraway shots that provide lesser odds of a successful hit.
 
@@ -341,7 +341,7 @@ And as the level of difficulty increases, the learner has to figure out the exac
 
 Once the archery simulator is set up, you're supposed to put on the wrist strap.
 
-It consists of a sensing system that's used to analyze or record the user’s motions so that it can help in correcting the movement.
+It consists of a sensing system that's used to analyze or record the user's motions so that it can help in correcting the movement.
 
 So, the wrist should be the one the user is going to use for drawing back the bow.
 
@@ -357,20 +357,20 @@ For example, you can compete with your friends on shared targets and get instant
 
 Not only bull-eye targets or deers, but you can practice on all sorts of wildlife animals as well as birds.
 
-Also, the learners won’t have to worry about the outdoor weather for their practice.
+Also, the learners won't have to worry about the outdoor weather for their practice.
 
-There won’t be any sun, rain, or wind while practicing indoors with simulators.
+There won't be any sun, rain, or wind while practicing indoors with simulators.
 
 You've the advantage of practicing whenever and how much you want to practice.
 
 It has no limits.
 
-But with all these facilities, the system doesn’t come very cheap.
+But with all these facilities, the system doesn't come very cheap.
 
 Even the second-hand models may be very costly as much as the moderately priced old model automobiles.
 
 ## Final Thoughts
 
-Archery simulators won’t replace time on the range, but they offer a convenient way to sharpen your shot placement and develop quick decision-making skills. They’re especially helpful during bad weather or when you can’t get to an outdoor range.
+Archery simulators won't replace time on the range, but they offer a convenient way to sharpen your shot placement and develop quick decision-making skills. They're especially helpful during bad weather or when you can't get to an outdoor range.
 
-If you can access one, it’s a solid training tool that complements your regular practice routine.
+If you can access one, it's a solid training tool that complements your regular practice routine.

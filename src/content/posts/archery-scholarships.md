@@ -68,7 +68,7 @@ Apply for every available program, then if two or more accept you, choose which 
 
 Much better if they will allow multiple grants.
 
-I’ve listed the ten best archery scholarships to pay your way through school.
+I've listed the ten best archery scholarships to pay your way through school.
 
 So, polish your skills more, secure the necessary documents, and shoot your way to a good future.
 
@@ -79,7 +79,7 @@ So, polish your skills more, secure the necessary documents, and shoot your way 
   <span class="stat-text">Easton-NFAA Scholarship Program</span>
 </div>
 
-This deserves the top spot because it’s specific to the sport you love, archery.
+This deserves the top spot because it's specific to the sport you love, archery.
 
 The base award is $500 that will get higher based on your performance and future competition plans.
 
@@ -89,7 +89,7 @@ They also give you the freedom to choose which college you want to get into.
 
 The scholarship is good but even better when not tied to a specific university.
 
-You’re not only enjoying the award but also the university you want and the course you wish.
+You're not only enjoying the award but also the university you want and the course you wish.
 
 The scholarship is a joint effort of Easton Foundations and the National Field Archery Association.
 
@@ -97,11 +97,11 @@ The grant for the first three years was $50,000 per year, providing 50% to recur
 
 For the year 2026, the number of awards available is 5, with a value of $5,000 each.
 
-If you’re an extraordinary applicant with excellent accomplishment, the Joint Scholarship Approval Committee may award you up to $20,000.
+If you're an extraordinary applicant with excellent accomplishment, the Joint Scholarship Approval Committee may award you up to $20,000.
 
 So, every time you shoot, think of the scholarship price and your future as inspirations.
 
-You’ll surely hit right on the mark.
+You'll surely hit right on the mark.
 
 For you to apply, you must have the following requirements:
 
@@ -119,15 +119,15 @@ The scholarship has various levels with different rewards based on how hard you 
 
 - Not a graduating high school student in the current year of application.
 
-- If you’re a high school applicant, you must be aiming to be full-time college students, for two to four years.
+- If you're a high school applicant, you must be aiming to be full-time college students, for two to four years.
 
 - For the current year, you must have excellent academic performance.
 
-- If you’re in college already, you must be a full-time student for two to four years, and have a 2.5 GPA minimum on a 4.0 scale, less strict but don’t make it an excuse to study less.
+- If you're in college already, you must be a full-time student for two to four years, and have a 2.5 GPA minimum on a 4.0 scale, less strict but don't make it an excuse to study less.
 
 - Must compete in archery for the entire year, so make sure you study hard and shoot harder.
 
-- You’re eligible for $500 scholarships if you’re a JOAD, NASP, Junior High, High School, Junior College, or Trade College Students.
+- You're eligible for $500 scholarships if you're a JOAD, NASP, Junior High, High School, Junior College, or Trade College Students.
 
 - For college freshmen, sophomores, or juniors, your scholarship amounts will vary between $500‐2,500 based on accomplishments and future competition plans.
 
@@ -144,13 +144,13 @@ The scholarship has various levels with different rewards based on how hard you 
 
 Yearly, Foot Locker is giving $20,000 scholarship funds to 20 incoming college freshmen pursuing a 4-year college degree.
 
-It’s worth mentioning that the program has awarded 180 total scholarship recipients since the program’s inception in 2011.
+It's worth mentioning that the program has awarded 180 total scholarship recipients since the program's inception in 2011.
 
 The program isn't specifically set up for archery, but the award cost is tempting.
 
 You'll aim for it if you play multiple sports and think you meet the other qualifications.
 
-You’re going to shoot your way to college with $20,000.
+You're going to shoot your way to college with $20,000.
 
 If you think your love for archery gives you no chance, think again.
 
@@ -192,11 +192,11 @@ Like participating in a clean-up drive.
 
 Helping others in terms of disaster, and supports community skill training and medical missions.
 
-They’re implying, if you want to get help, you must support others first.
+They're implying, if you want to get help, you must support others first.
 
 They guide others, not boss them around.
 
-In a river clean-up mission, for example, you’re the one who gets your hands dirty first.
+In a river clean-up mission, for example, you're the one who gets your hands dirty first.
 
 Like a king who charges first in a battle, not one who hides behind the backs of his troops.
 
@@ -221,21 +221,21 @@ Texas A&M Archery has five scholarship programs you can apply to.
 
 Getting the highest bracket of $2000.00/semester is the best.
 
-It’s a yearly basis scholarship so you need to apply each year.
+It's a yearly basis scholarship so you need to apply each year.
 
-Don’t worry too much if you’re one of the unlucky applicants or got one of the lower brackets.
+Don't worry too much if you're one of the unlucky applicants or got one of the lower brackets.
 
-You’ll always have a chance to grab a spot each year.
+You'll always have a chance to grab a spot each year.
 
-Likewise, don’t be complacent because others can grab your spot.
+Likewise, don't be complacent because others can grab your spot.
 
 I listed the scholarships you can apply for.
 
 Different entities sponsor each program, but all have the same requirements.
 
-If you’re a successful applicant, you get a grant per semester for two consecutive semesters.
+If you're a successful applicant, you get a grant per semester for two consecutive semesters.
 
-It’s renewable upon meeting certain conditions.
+It's renewable upon meeting certain conditions.
 
 You must be currently enrolled in Texas A&M University as a full-time student, or an incoming student.
 
@@ -249,7 +249,7 @@ In this case, good manners and right conduct are requirements.
 
 As a scholarship recipient, you need to attend scheduled practices and meetings, aid with fundraising activities, and take part in all required team competitions.
 
-They’ll give you leeway if you’re a graduating student needing to fulfill requirements.
+They'll give you leeway if you're a graduating student needing to fulfill requirements.
 
 You must be a good role model.
 
@@ -280,13 +280,13 @@ The committee will remove you automatically upon requirement deviation and give 
 
 You can receive a $2,500 grant.
 
-It’s a general athletic scholarship in which archery is included.
+It's a general athletic scholarship in which archery is included.
 
 In the year 2016, a student with great potential for archery sport was selected as the winner.
 
 They set up the scholarship program in 1974 with the funds coming from Avery Brundage, University of Illinois alumni, and staff of the International and U.S. Olympic committees.
 
-You must display a special ability for amateur sport, and it’s great if you've proof of previous winnings.
+You must display a special ability for amateur sport, and it's great if you've proof of previous winnings.
 
 They're doing it for personal development rather than in preparation for professional athletics.
 
@@ -296,7 +296,7 @@ The Avery Brundage Scholarship Fund Committee is made up of nine representativ
 
 They give an equal chance to all qualified students regardless of campus, class level, and gender.
 
-But you must be aiming for a bachelor’s, master’s, or doctoral degree at the University of Illinois.
+But you must be aiming for a bachelor's, master's, or doctoral degree at the University of Illinois.
 
 In the upper 25 percent of the undergraduate class or have a good academic standing in the graduate program.
 
@@ -366,7 +366,7 @@ Full-time means having other perks besides money grants.
 
 The college has made the application easy for all wanting financial aid.
 
-You don’t have to scratch your head and apply again for other available programs.
+You don't have to scratch your head and apply again for other available programs.
 
 Their system will automatically try to pair you with other available grants.
 
@@ -384,7 +384,7 @@ Submit any additional requested essays or references through the portal by the a
 
 Remember to check twice before clicking the submit button.
 
-You’ll receive an email notification if accepted, or you can also log-in back to the AcademicWorks portal to check application status.
+You'll receive an email notification if accepted, or you can also log-in back to the AcademicWorks portal to check application status.
 
 For more information like eligibility, application deadlines, and award amounts per scholarship, contact Student Affairs at 907-834-1600 or email pwsc.student.services@alaska.edu.
 
@@ -399,11 +399,11 @@ Minnesota State Archery Association has two scholarships available each year th
 
 It was established in 1971 to help deserving students prepare for college education and promote archery sport.
 
-If you’re lucky to get the scholarship and have never used it for one year, it doesn't carry over to the next year.
+If you're lucky to get the scholarship and have never used it for one year, it doesn't carry over to the next year.
 
-So apply only if you’re sure you can use it continuously.
+So apply only if you're sure you can use it continuously.
 
-You’re qualified if you’re a graduating high school student of academic excellence who has a deep love for archery and mastery of such sport.
+You're qualified if you're a graduating high school student of academic excellence who has a deep love for archery and mastery of such sport.
 
 Apply while a senior in high school or during the first three years of college.
 
@@ -411,9 +411,9 @@ I suggest trying to get into the program as early as possible.
 
 Must be an MSAA member of good standing.
 
-You've a chance the next school year if you’re a bit unlucky.
+You've a chance the next school year if you're a bit unlucky.
 
-In addition to good academic records, you must be active in extracurricular activities, with good leadership skills, good moral character, possess US citizenship, and secured your teachers’ recommendations.
+In addition to good academic records, you must be active in extracurricular activities, with good leadership skills, good moral character, possess US citizenship, and secured your teachers' recommendations.
 
 If you lack mastery of archery sport, you must display an enormous potential to improve.
 
@@ -436,11 +436,11 @@ They congratulated Brenna M. as the first recipient, a nursing student from Sout
 
 The scholarship costs $500 to pay tuition, books, and other academic costs.
 
-It’s paid directly to the student’s chosen college or university.
+It's paid directly to the student's chosen college or university.
 
 I suggest getting into a university allowing multiple scholarship grants so you can have other sources to augment.
 
-It’s worth a shot because it’s a private company that may offer you a fantastic job after graduation.
+It's worth a shot because it's a private company that may offer you a fantastic job after graduation.
 
 To apply, read the application requirements, download and fill up the forms, and mail them together with the required material to their address.
 
@@ -448,7 +448,7 @@ To qualify for Shootingtime.com Archery Scholarship, you must be a high school s
 
 Must have a minimum GPA of 2.5 at the current year of application.
 
-If you’re a current college student, you may also apply.
+If you're a current college student, you may also apply.
 
 You should maintain a GPA of at least 2.0 on a scale of 4.0.
 
@@ -456,9 +456,9 @@ To apply, enroll in an accredited, 2-year, or 4-year college or university.
 
 Then using the university stationery, send a letter of intent to Shooting.com.
 
-Mention your course and include an up-to-date copy of your school year’s official transcript.
+Mention your course and include an up-to-date copy of your school year's official transcript.
 
-Bear in mind that you must compete in archery during the entire academic year if you’re lucky.
+Bear in mind that you must compete in archery during the entire academic year if you're lucky.
 
 ## 10. ITAWAMBA COMMUNITY COLLEGE Scholarship
 
@@ -471,7 +471,7 @@ Itawamba Community College of Mississippi offers Competition Scholarships.
 
 It includes archery that amounts to $800 and divided $200 per semester.
 
-If you’re a student talented in archery, you can get the scholarship after passing the audition, completing the interview, and submitting the required document.
+If you're a student talented in archery, you can get the scholarship after passing the audition, completing the interview, and submitting the required document.
 
 Itawamba Community College gives equal opportunity and students, and discrimination of any kind is prohibited.
 
@@ -487,5 +487,5 @@ So do your best in both archery and academics.
 
 Archery scholarships can make a real difference in covering tuition, books, and other college expenses. Start your search early, apply to every program you qualify for, and keep your grades up alongside your archery training.
 
-The combination of academic dedication and competitive shooting experience will open doors that many students don’t even know exist.
+The combination of academic dedication and competitive shooting experience will open doors that many students don't even know exist.
 

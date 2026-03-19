@@ -85,19 +85,19 @@ Knowing the necessary details will help you select a perfect bow for yourself, w
 
 As the general rule, a faster bow is usually harder to draw.
 
-So if you decide to go for a faster one, you’re going to burn some extra calories.
+So if you decide to go for a faster one, you're going to burn some extra calories.
 
-It’s a give-and-take.
+It's a give-and-take.
 
 The aspects that make the bow faster might make it harder for you to shoot spontaneously.
 
 It would help if you were prudent enough to pick out the perfect bow and know what compromises to make.
 
-You see an Elk. There's no way you’re going to miss it out only because of faulty equipment.
+You see an Elk. There's no way you're going to miss it out only because of faulty equipment.
 
 When you look at the different aspects of a bow, your expertise level should be the mainstay.
 
-If you’re a beginner, you must go for an easily adjustable bow and fit your requirements.
+If you're a beginner, you must go for an easily adjustable bow and fit your requirements.
 
 For accuracy, beginners may opt for bows that are more forgiving of manual errors and are more stable.
 
@@ -109,7 +109,7 @@ It's the force required to draw the bow to the full extent.
 
 The more difficult it's for you to dip the bow towards the ground or the sky while drawing, the more the bow has the draw weight.
 
-So pick a draw weight that you’re comfortable with.
+So pick a draw weight that you're comfortable with.
 
 ## 2. No Compromises On The Accuracy
 
@@ -118,15 +118,15 @@ So pick a draw weight that you’re comfortable with.
   <span class="stat-text">No Compromises On The Accuracy</span>
 </div>
 
-You must be wondering, ‘who would do that?’ But believe me, some hunters make this mistake of giving up accuracy for speed or sometimes making mistakes that affect accuracy.
+You must be wondering, 'who would do that?' But believe me, some hunters make this mistake of giving up accuracy for speed or sometimes making mistakes that affect accuracy.
 
-Try to focus on the details that might affect your shot’s accuracy, no matter how perfect you think you’ve hit it.
+Try to focus on the details that might affect your shot's accuracy, no matter how perfect you think you've hit it.
 
 You should practice and find your comfy anchor point for maximal accuracy.
 
 The Anchor Point is the spot on or near your face that you should be touching when you've fully drawn the bowstring.
 
-If you’re inconsistent with your anchor point, your accuracy is going to suffer.
+If you're inconsistent with your anchor point, your accuracy is going to suffer.
 
 Finding your anchor point and then sticking to it will increase your efficiency and accuracy with time.
 
@@ -140,11 +140,11 @@ Your posture influences your accuracy a lot.
 
 Frequent practice will help you attain a helpful posture.
 
-The more relaxed you perform, the more good shots you’re expected to take.
+The more relaxed you perform, the more good shots you're expected to take.
 
 The experts warn that you may become too occupied and nervous when you aim, focusing on the target, the draw, posture, or other details that you may find yourself holding your breath.
 
-That’s, again, unfavorable.
+That's, again, unfavorable.
 
 You should relax your mind and body to improve your accuracy.
 
@@ -159,7 +159,7 @@ The stance is the manipulation of mostly the lower half of your body.
 
 Bringing out the most proficient and comfortable stance will facilitate your subsequent strategies.
 
-The basic stance usually comprises each foot on either side of the shooting line approximately 15”-18” apart.
+The basic stance usually comprises each foot on either side of the shooting line approximately 15"-18" apart.
 
 You should put your feet such that they're parallel to the shooting line.
 
@@ -169,9 +169,9 @@ A good stance also requires your chin, shoulders, arms, chest, hips, and lower b
 
 Developing a consistent stance makes sure that there are lesser adjustments for shot execution.
 
-With time, you’ll find out the perfect stance for yourself, and practice and consistency will help you stick to it.
+With time, you'll find out the perfect stance for yourself, and practice and consistency will help you stick to it.
 
-The continuous practice will develop muscle memory, strength, and ease, and you’ll master the stance quite easily.
+The continuous practice will develop muscle memory, strength, and ease, and you'll master the stance quite easily.
 
 ## 4. Observe the Bubble Level
 
@@ -182,13 +182,13 @@ The continuous practice will develop muscle memory, strength, and ease, and you�
 
 Build this healthy habit of observing the bubble level before releasing the arrow.
 
-It's a small indicator inside your scope, or sometimes outside, that helps determine your arrow’s landing position.
+It's a small indicator inside your scope, or sometimes outside, that helps determine your arrow's landing position.
 
 A bubble floats inside the level, which moves relative to your bow.
 
-If it’s in the exact mid, you’re aiming straight.
+If it's in the exact mid, you're aiming straight.
 
-If it’s to the left, your arrow will land on the right of your aim.
+If it's to the left, your arrow will land on the right of your aim.
 
 Likewise, if you see the bubble to the right, the arrow will land on the left.
 
@@ -208,7 +208,7 @@ Occasionally, the bubble level is also going to help you out-of-the-box.
 
 In windy conditions, you may want to aim slightly out of the center and then let the wind do the rest of the work.
 
-Here too, calculating your aim will be assisted by the bubble level, which will indicate how left or how right you’re aiming.
+Here too, calculating your aim will be assisted by the bubble level, which will indicate how left or how right you're aiming.
 
 ## 5. Discern the Arrow Spine
 
@@ -248,19 +248,19 @@ Also, pay a visit to an archery shop and try different arrows with variable spin
   <span class="stat-text">Avoid Over-Aiming</span>
 </div>
 
-When you aim for the target, what’s the compulsion you feel? Stop already.
+When you aim for the target, what's the compulsion you feel? Stop already.
 
-You want to make the pin stop and keep your hand steady. That’s where you’re overdoing it.
+You want to make the pin stop and keep your hand steady. That's where you're overdoing it.
 
 You should trust your instincts and abilities and let the sight-pin float a little bit.
 
 Let the aim come more naturally to you rather than wasting your time and energy on setting the sight-pin constant.
 
-Somehow, if you manage to fix the sight-pin for a couple of seconds, the next thing you’ll want would be to release the arrow before the pin moves again.
+Somehow, if you manage to fix the sight-pin for a couple of seconds, the next thing you'll want would be to release the arrow before the pin moves again.
 
 This will again mess with your execution.
 
-The urge to let go of the arrow before further movement interferes with the other aspects that you’ll be overlooking then.
+The urge to let go of the arrow before further movement interferes with the other aspects that you'll be overlooking then.
 
 So forcing a steady hold is never the key.
 
@@ -277,11 +277,11 @@ To attain easy aiming, practice shooting on a 40-centimeter target from a distan
 
 Many experts swear by this plan of attack for a good chance of an accurate shot.
 
-It's the best shot to consider when there's less time to aim, or there's a need to aim from behind a bush or grass that’s blocking the target, and the target seems difficult to go for while in a standing position.
+It's the best shot to consider when there's less time to aim, or there's a need to aim from behind a bush or grass that's blocking the target, and the target seems difficult to go for while in a standing position.
 
 They recommend staying on your knees and aiming till your target approaches and then gradually rising and drawing your bow at the right moment.
 
-It’s an easy position to take, with your upper body staying the same when you rise, having little or no effect on your aim while switching between positions.
+It's an easy position to take, with your upper body staying the same when you rise, having little or no effect on your aim while switching between positions.
 
 Kneeling will accentuate the camouflage, hiding you from animals as they might suspect you otherwise.
 
@@ -328,7 +328,7 @@ This will ensure that the least number of muscles are in contact with the bow, r
 
 You can also practice this art with a wrist sling, keep your hand open and relaxed.
 
-The wrist sling will make sure that the bow is set and doesn’t plunge.
+The wrist sling will make sure that the bow is set and doesn't plunge.
 
 The wrist sling is good for practice but can be bothersome in the ground.
 
@@ -338,7 +338,7 @@ Make sure not never to go for an open hand without the wrist sling in any circum
 
 The best tip here would be consistency.
 
-You should make sure your grip is the same each time, so you don’t muddle your strategy with different grips each time.
+You should make sure your grip is the same each time, so you don't muddle your strategy with different grips each time.
 
 ## 9. Work On Your Release
 
@@ -347,15 +347,15 @@ You should make sure your grip is the same each time, so you don’t muddle your
   <span class="stat-text">Work On Your Release</span>
 </div>
 
-You’ve now given your best in stalking, anchoring, drawing, aiming, and positioning your bow.
+You've now given your best in stalking, anchoring, drawing, aiming, and positioning your bow.
 
 Now is the time to release the arrow.
 
-This is another critical stage that’ll either pay for your hard-work or will dissipate it.
+This is another critical stage that'll either pay for your hard-work or will dissipate it.
 
 The release is supposed to be smooth and swift without any pullbacks.
 
-When you’re ready to shoot, you need to let go of the arrow without any interventions.
+When you're ready to shoot, you need to let go of the arrow without any interventions.
 
 The force has already built up a lot while you drew the arrow and held on to it.
 
@@ -363,7 +363,7 @@ The arrow will move forward with great force once the string is released.
 
 Relax your fingers of the gripping hand, all at once, when you release the arrow.
 
-But that’s not it. With the release comes the follow-through, which is often overlooked by many.
+But that's not it. With the release comes the follow-through, which is often overlooked by many.
 
 You should make sure you do the right things following the release.
 
@@ -373,7 +373,7 @@ Your hand will flow back. Naturally, your chest will expand, and the muscles of 
 
 To simulate a conducive follow-through, keep aiming and resist any changes in your position until the arrow hits the target.
 
-There’s no need to rush.
+There's no need to rush.
 
 Immediately moving after releasing can deviate the arrow and your focus in assessing your shot.
 
@@ -387,11 +387,11 @@ You can opt to go with one of these for any reason.
 
 While using the release aids, be cautious with the trigger of the aid.
 
-You wouldn’t like to release an arrow by mistakenly initiating the trigger.
+You wouldn't like to release an arrow by mistakenly initiating the trigger.
 
 To do that, keep your finger behind or away from the trigger.
 
-When you’re willing to draw, move your hand back to the trigger and release the arrow.
+When you're willing to draw, move your hand back to the trigger and release the arrow.
 
 Never try to push the bow after the release.
 
@@ -408,7 +408,7 @@ Just try to keep your bow clear of any external forces until the arrow completel
 
 Calculating the ranges for executing a shot has always been a challenge.
 
-Thanks to the rangefinders, we’ve got our backs.
+Thanks to the rangefinders, we've got our backs.
 
 Carrying a rangefinder to your expeditions is very much emphasized.
 
@@ -416,7 +416,7 @@ However, it would help if you also learned the art of promptly using the rangef
 
 It's recommended that you discard the factory provided cases as they're usually noisy and challenging to manage.
 
-Invest in an agreeable case that's easy to open and easy to take out things from so that you don’t get caught up in rushing or hasty moments.
+Invest in an agreeable case that's easy to open and easy to take out things from so that you don't get caught up in rushing or hasty moments.
 
 Also, place the bag at an easy-to-reach spot.
 

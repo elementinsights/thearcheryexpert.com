@@ -289,7 +289,7 @@ You may also be good at focusing on the target, maintaining the right posture, a
 
 One thing that you must be ignoring is relaxing the bow grip.
 
-Everyone has that one hand that's mostly dormant. Don’t consider it useless since it has a great impact on how accurate your shots will be.
+Everyone has that one hand that's mostly dormant. Don't consider it useless since it has a great impact on how accurate your shots will be.
 
 Before you shoot, ensure that the hand holding the bow has close contact with the bow.
 
@@ -307,7 +307,7 @@ When you relax your bow, you'll notice that the bow won't shake as much as it do
 
 Your shooting will be much easier in such a case, and you'll achieve a high level of accuracy.
 
-Perfect shooting implies that the bow will freely slip off your hand no matter your hand’s positioning, and you'll hit the target.
+Perfect shooting implies that the bow will freely slip off your hand no matter your hand's positioning, and you'll hit the target.
 
 ## Step 10: Every time you try shooting, ensure that you use the same arrows
 

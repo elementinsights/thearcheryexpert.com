@@ -28,11 +28,11 @@ toc:
     href: "#6-barnett-crossbows"
   - label: "7. Easton Archery"
     href: "#7-easton-archery"
-  - label: "8. Hunter’s Friend"
+  - label: "8. Hunter's Friend"
     href: "#8-hunters-friend"
-  - label: "9. Dick’s Sporting Goods"
+  - label: "9. Dick's Sporting Goods"
     href: "#9-dicks-sporting-goods"
-  - label: "10. Cabela’s"
+  - label: "10. Cabela's"
     href: "#10-cabelas"
   - label: "FAQ"
     href: "#faq"
@@ -64,7 +64,7 @@ Historically, archery has been used for hunting and fighting.
 
 Nowadays, it's a trendy sport.
 
-Thanks to the movies “Hunger Game," "Lord of the Ring," and the famous TV show "Game of Thrones," who have been beneficial to this popularization.
+Thanks to the movies "Hunger Game," "Lord of the Ring," and the famous TV show "Game of Thrones," who have been beneficial to this popularization.
 
 According to the US Consumer Product Safety, archery is amongst the most secure sport to perform in any organized group setting.
 
@@ -87,7 +87,7 @@ Nowadays, the company is the "World's Largest Traditional Archery Supplier".
 
 The [online archery catalog](https://www.3riversarchery.com) is impressive.
 
-It’s straightforward to use. There's the possibility to shop by category such as target, bows, or you can buy by brand.
+It's straightforward to use. There's the possibility to shop by category such as target, bows, or you can buy by brand.
 
 Besides, 3Rivers Archery helps you choose the product adapted to you by making available to select your product depending on your gender, experience, interest, and age.
 
@@ -95,7 +95,7 @@ Product descriptions are complete, and you can read the customer's feedback.
 
 For those who prefer traditional archery catalogs, you just need to request it by completing an online form.
 
-That you’re a beginner or a professional, 3Rivers Archery is for you.
+That you're a beginner or a professional, 3Rivers Archery is for you.
 
 The brand sells a wide range of products:
 
@@ -187,7 +187,7 @@ After spending hours to chase, they grow a passion for archery as a sport.
 
 Not long after, they open their online shop: Hunting-Bow.
 
-The online platform has a professional look, and it’s easy to navigate.
+The online platform has a professional look, and it's easy to navigate.
 
 You can shop by category or research what you desire by [taping in the search bar](https://www.hunting-bow.com).
 
@@ -256,7 +256,7 @@ Prices are high, for example, you've to spend at least £459,99 for a crossbow.
 
 The shipping fee varies depending on your location and what you're ordering.
 
-If you want to contact the customer’s service, you’ll have to contact one of their customer centers.
+If you want to contact the customer's service, you'll have to contact one of their customer centers.
 
 All the customer centers are effortlessly findable from the TenPoint website.
 
@@ -393,7 +393,7 @@ Created in 1922, Easton Archery is always focusing on offering innovative, premi
 
 In 1940, the business transformed the sport of archery, developing the first straight, consistent aluminum arrows.
 
-Since then, [Easton Archery has been the world’s leading archery](https://eastonarchery.com/company/) innovator.
+Since then, [Easton Archery has been the world's leading archery](https://eastonarchery.com/company/) innovator.
 
 The online platform is practical to navigate.
 
@@ -427,11 +427,11 @@ If you've still issues after reading the FAQ, you can quickly call the company. 
 
 - Clothing (socks, hat, tee-shirt, and jumpers)
 
-## 8. Hunter’s Friend
+## 8. Hunter's Friend
 
 <div class="stat-highlight">
   <span class="stat-number">#8</span>
-  <span class="stat-text">Hunter’s Friend</span>
+  <span class="stat-text">Hunter's Friend</span>
 </div>
 
 In 1999, Hunter's Friend began, it's now one of the nation's largest stand-alone archery pro-shops.
@@ -450,7 +450,7 @@ Unfortunately, there's no customer feedback to help you with your purchase decis
 
 Less than 2% of the bows sell by the business are bare bows.
 
-The other 98% are pro-shop compound bow systems (package deals) that are first set up and serve in the company’s pro-shop.
+The other 98% are pro-shop compound bow systems (package deals) that are first set up and serve in the company's pro-shop.
 
 Prices are medium. For example, the cost of a compound goes from $325 to 100£.
 
@@ -478,14 +478,14 @@ The guide is complete, it reports everything you need to know before buying a bo
 
 - Kids also have products adapted explicitly for them (small pink bow, bow set with arrows)
 
-## 9. Dick’s Sporting Goods
+## 9. Dick's Sporting Goods
 
 <div class="stat-highlight">
   <span class="stat-number">#9</span>
-  <span class="stat-text">Dick’s Sporting Goods</span>
+  <span class="stat-text">Dick's Sporting Goods</span>
 </div>
 
-In 1948 Dick’s Sporting Goods was established by Dick Stack.
+In 1948 Dick's Sporting Goods was established by Dick Stack.
 
 Everything started when Nick was working at an Army surplus store in New-York.
 
@@ -495,13 +495,13 @@ Later on, David proposed his ideas. The owner told him that he had no bits of kn
 
 Frustrated, David discussed with his grandmother, who gave him $300, what was needed to start Dick's Sporting Goods.
 
-In 1970, the product line was developed to include much of what you’ll [find at DICK’S Sporting Goods](https://www.dickssportinggoods.com/c/bow-arrow-archery-supplies) now.
+In 1970, the product line was developed to include much of what you'll [find at DICK'S Sporting Goods](https://www.dickssportinggoods.com/c/bow-arrow-archery-supplies) now.
 
 The website is aesthetic and user-friendly. To find archery equipment, you've to shop by sport and look under "Hunting equipment."
 
 Product information and customer reviews are readable at a glance.
 
-Brands such as Easton Archery, Bear Archery, PSE, Barnett, October Mountain Product can be found at Dick’s Sporting Goods.
+Brands such as Easton Archery, Bear Archery, PSE, Barnett, October Mountain Product can be found at Dick's Sporting Goods.
 
 The company has low prices. For example, a basic recreational crossbow cost only £19,99.
 
@@ -521,22 +521,22 @@ About ten articles are on the company website to give you tips about hunting and
 
 - Aluminum, carbon, fiberglass, composite, and wood arrows
 
-## 10. Cabela’s
+## 10. Cabela's
 
 <div class="stat-highlight">
   <span class="stat-number">#10</span>
-  <span class="stat-text">Cabela’s</span>
+  <span class="stat-text">Cabela's</span>
 </div>
 
 The company was founded in 1961 by Dick Cabella. Originally, Dick ran the business from a kitchen table.
 
 Nowadays, Cabela's principal headquarters along Interstate 80 in Sidney encompasses more than 250,000 square feet.
 
-The brand is recognized as the world’s foremost outfitter of hunting, fishing, and outdoor gear.
+The brand is recognized as the world's foremost outfitter of hunting, fishing, and outdoor gear.
 
-Cabela’s website is users friendly.
+Cabela's website is users friendly.
 
-It’s relatively easy to find all the archery material by clicking on the categories, you can also directly type in the search bar what you're looking for.
+It's relatively easy to find all the archery material by clicking on the categories, you can also directly type in the search bar what you're looking for.
 
 Products description are explicit, and you can read the customers' reviews.
 

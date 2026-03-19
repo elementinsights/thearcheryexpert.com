@@ -30,7 +30,7 @@ toc:
     href: "#7-joad-star-pins"
   - label: "8. Adult Star Pins"
     href: "#8-adult-star-pins"
-  - label: "9. “ Doc” Counsilman Science Award"
+  - label: "9. " Doc" Counsilman Science Award"
     href: "#9-doc-counsilman-science-award"
   - label: "10. Archery Sculpture Resin Trophy"
     href: "#10-archery-sculpture-resin-trophy"
@@ -263,11 +263,11 @@ The more scores you get, the more pins will be awarded to you.
 
 If you want your kids to start filling their room shelves with plenty of awards, enroll them in archery clubs and watch them grow to the competition levels, and start bringing home those awards.
 
-You definitely love watching your kids’ achievements while they’re still at a very tender age, and this is your joy as a parent.
+You definitely love watching your kids' achievements while they're still at a very tender age, and this is your joy as a parent.
 
 The pins are awarded for shooting a barebow, compound bow, or the primary compound recurve.
 
-The juniors can also win the “6 Gold” pin by shooting six 10’s in a row either in two successive three arrow ends or in a single six arrow end.
+The juniors can also win the "6 Gold" pin by shooting six 10's in a row either in two successive three arrow ends or in a single six arrow end.
 
 The pins are customized with the USA archery texts and hence give you a more defined victory position.
 
@@ -277,7 +277,7 @@ The pins also have stars. That's, different pins have a different number of star
 
 Having awards in different colors to distinguish you from the rest is impressive.
 
-The pins are made in different colors to distinguish the different categories won, and therefore you don’t have to worry about your runners mates getting a pin similar to yours.
+The pins are made in different colors to distinguish the different categories won, and therefore you don't have to worry about your runners mates getting a pin similar to yours.
 
 You got a pin, too, as different pins are awarded to varying winners in various ranks, and the different colors help in distinguishing.
 
@@ -312,18 +312,18 @@ Therefore, if you remain a top talent, you can get as many pins as you qualify, 
 
 How cool is that?
 
-## 9. “ Doc” Counsilman Science Award
+## 9. " Doc" Counsilman Science Award
 
 <div class="stat-highlight">
   <span class="stat-number">#9</span>
-  <span class="stat-text">“ Doc” Counsilman Science Award</span>
+  <span class="stat-text">" Doc" Counsilman Science Award</span>
 </div>
 
-The good thing about awards in archery is that they’re all rounded.
+The good thing about awards in archery is that they're all rounded.
 
-It’s not just the players who get recognition for a job well done but rather all stakeholders who took part in the game’s success, including the coaches.
+It's not just the players who get recognition for a job well done but rather all stakeholders who took part in the game's success, including the coaches.
 
-If you're a coach, the “Doc” Counsilman Science award is what you should be striving towards achieving.
+If you're a coach, the "Doc" Counsilman Science award is what you should be striving towards achieving.
 
 This award suits you if you're an innovative coach who uses scientific knowledge in sports to train your players.
 
@@ -333,13 +333,13 @@ Any coach who effectively integrates scientific knowledge in coaching must be re
 
 This appreciation will encourage other coaches to embrace scientific coaching methods.
 
-The interesting thing about this award is that it can be engraved with your name’s texts showing that it personally belongs to you, and this is something to be proud of.
+The interesting thing about this award is that it can be engraved with your name's texts showing that it personally belongs to you, and this is something to be proud of.
 
-This award trophy has a unique and simple design making it outstanding compared to other award trophies that don’t show creativity in the making.
+This award trophy has a unique and simple design making it outstanding compared to other award trophies that don't show creativity in the making.
 
-Most of the “Doc” Counsilman award trophies are made of wood, which makes them durable, and therefore you don’t have to worry about winning an award and then losing it the next minute due to breakage or other accidents.
+Most of the "Doc" Counsilman award trophies are made of wood, which makes them durable, and therefore you don't have to worry about winning an award and then losing it the next minute due to breakage or other accidents.
 
-[This trophy will be with you for a lifetime](https://www.facebook.com/illinoiswheelchairathletics/posts/congratulations-coach-adam-bleakney-recipient-of-the-doc-counsilman-science-awar/10154329281438501/), and it’s very important as it helps you retain your top talent even for generations to come.
+[This trophy will be with you for a lifetime](https://www.facebook.com/illinoiswheelchairathletics/posts/congratulations-coach-adam-bleakney-recipient-of-the-doc-counsilman-science-awar/10154329281438501/), and it's very important as it helps you retain your top talent even for generations to come.
 
 ## 10. Archery Sculpture Resin Trophy
 

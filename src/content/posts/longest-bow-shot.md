@@ -56,7 +56,7 @@ toc:
     href: "#most-points-scored-by-an-individual-in-24-hours-under-world-archery-outdoor-conditions"
   - label: "Most Points scored in 18-meter Indoor Compound Archery (Female)"
     href: "#most-points-scored-in-18-meter-indoor-compound-archery-female"
-  - label: "Most Archery Women’s Compound World Cup Wins"
+  - label: "Most Archery Women's Compound World Cup Wins"
     href: "#most-archery-womens-compound-world-cup-wins"
   - label: "Most Points Scored in 18-meter Indoor Recurve Archery (Male)"
     href: "#most-points-scored-in-18-meter-indoor-recurve-archery-male"
@@ -68,9 +68,9 @@ toc:
     href: "#most-points-scored-in-an-archery-1440-round-compound-male"
   - label: "Most Points Scored In An archery 1440 Round (Recurve, Male)"
     href: "#most-points-scored-in-an-archery-1440-round-recurve-male"
-  - label: "Most Archery Men’s Recurve World Cup Wins"
+  - label: "Most Archery Men's Recurve World Cup Wins"
     href: "#most-archery-mens-recurve-world-cup-wins"
-  - label: "Most Archery World Cup Men’s Compound Wins"
+  - label: "Most Archery World Cup Men's Compound Wins"
     href: "#most-archery-world-cup-mens-compound-wins"
   - label: "Highest Points in Female 70-metre 72-arrow Recurve Archery (Outdoor)"
     href: "#highest-points-in-female-70-metre-72-arrow-recurve-archery-outdoor"
@@ -133,7 +133,7 @@ An able-bodied person previously held the record.
 
 ## Farthest Shot in Flight Archery
 
-In 1987 Don Brown shot an arrow at an amazing distance of 1,336 yards 1’3” (1,222 meters).
+In 1987 Don Brown shot an arrow at an amazing distance of 1,336 yards 1'3" (1,222 meters).
 
 Don Brown accomplished the record with a handheld Unlimited Conventional Flight Bow.
 
@@ -143,7 +143,7 @@ The Great Harry Drake was able to do farther, with a still unbeaten record of 2,
 
 Harry Drake did this in 1988 but with a Flight Crossbow or Unlimited Foot bow.
 
-Harry Drake was a pioneer bowyer and made significant contributions in designing and building the early modern “Composite Bows.”
+Harry Drake was a pioneer bowyer and made significant contributions in designing and building the early modern "Composite Bows."
 
 He also built the first-ever bow to shoot more than 600 yards since the day of Ancient Turks.
 
@@ -217,7 +217,7 @@ It was achieved at Mosan e.V. in Hamburg, Germany, on 17 November 2010 during th
 
 ## Most Arrows Caught By Hand In Two Minutes While Blindfolded
 
-Chayne Hultgren, aka “The Space Cowboy,” recorded the most arrows caught blindfolded with a total of 7 in two minutes.
+Chayne Hultgren, aka "The Space Cowboy," recorded the most arrows caught blindfolded with a total of 7 in two minutes.
 
 Hultgren achieved this record by catching arrows shot by Zoe Ellis (both from Australia) in Byron Bay, Australia, on 9 May 2017.
 
@@ -249,9 +249,9 @@ Eekeren scored a total of 20,638 points from a total of 2,340 shots.
 
 ## Most Archery World Cup Wins
 
-Brady Ellison (USA) achieved The Most Archery World Cup wins with a total of five, achieved in the men’s recurve in 2010, 2011, 2014, 2016, and 2026.
+Brady Ellison (USA) achieved The Most Archery World Cup wins with a total of five, achieved in the men's recurve in 2010, 2011, 2014, 2016, and 2026.
 
-Sara López (Colombia) won the most in the women’s compound in 2014, 2015, 2017, 2018, and 2026.
+Sara López (Colombia) won the most in the women's compound in 2014, 2015, 2017, 2018, and 2026.
 
 ## Most Points Scored by an Individual in 24 hours Under World Archery Outdoor Conditions
 
@@ -267,13 +267,13 @@ It was recorded at the TRUBall/Axcel Roma Archery Trophy in Rome, Italy, on 14 D
 
 Ella Gibson held the record for three weeks with a total shot 596 until Prieels broke it later in the indoor compound record at the Indoor Archery World Series event in Luxembourg
 
-## Most Archery Women’s Compound World Cup Wins
+## Most Archery Women's Compound World Cup Wins
 
-Sara López achieved [the most wins of the Archery World Cup women’s compound title](https://worldarchery.sport/news/174946/sara-lopez-wins-record-fifth-hyundai-archery-world-cup-champion-title) with a total of 5, in 2014, 2015, 2017, 2018 & 2026.
+Sara López achieved [the most wins of the Archery World Cup women's compound title](https://worldarchery.sport/news/174946/sara-lopez-wins-record-fifth-hyundai-archery-world-cup-champion-title) with a total of 5, in 2014, 2015, 2017, 2018 & 2026.
 
-Tied with Brady Ellison (men’s recurve).
+Tied with Brady Ellison (men's recurve).
 
-López beat Natalia Avdeeva 149-139 in Moscow and claimed her third consecutive (and fifth overall) women’s compound title, in Russia on 6 September 2026.
+López beat Natalia Avdeeva 149-139 in Moscow and claimed her third consecutive (and fifth overall) women's compound title, in Russia on 6 September 2026.
 
 ## Most Points Scored in 18-meter Indoor Recurve Archery (Male)
 
@@ -293,11 +293,11 @@ All World Archery 36-arrow records must be set as part of a full 1440 round, whi
 
 Sara López (Colombia) achieved The most points scored in an archery 1440 round (compound, female) with a total of 1,424,
 
-The event took place at the XX Juegos Nacionales “Carlos Lleras Restrepo” in Ibagué, Colombia, on 10 November 2015.
+The event took place at the XX Juegos Nacionales "Carlos Lleras Restrepo" in Ibagué, Colombia, on 10 November 2015.
 
 Known as a FITA round until 2014, a 1440 round comprises 144 arrows shot over four distances: 30 m, 50 m, 70 m and 90 m for men, and 30 m, 50 m, 60 m and 70 m for women.
 
-López’s round of 1,424 included a score of 356 out of 260 at 50 m  -  also a world record.
+López's round of 1,424 included a score of 356 out of 260 at 50 m  -  also a world record.
 
 ## Most Points Scored In An Archery 1440 Round (Compound, Male)
 
@@ -317,9 +317,9 @@ His score included a world record of 352 in the 70 meters 36 arrows.
 
 Known as a FITA round until 2014, a 1440 round comprises 144 arrows shot over four distances: 30 m, 50 m, 70 m and 90 m for men, and 30 m, 50 m, 60 m and 70 m for women.
 
-## Most Archery Men’s Recurve World Cup Wins
+## Most Archery Men's Recurve World Cup Wins
 
-Brady Ellison (USA) achieved the most wins of the Archery World Cup men’s recurve title with a total of five in 2010, 2011, 2014, 2016 and 2026.
+Brady Ellison (USA) achieved the most wins of the Archery World Cup men's recurve title with a total of five in 2010, 2011, 2014, 2016 and 2026.
 
 Organized by World Archery, the Archery World Cup was instituted in 2006 and comprises four separate events around the world and a final.
 
@@ -327,9 +327,9 @@ Brady Ellison beat Mauro Nespoli with a 6-2 victory and won his fifth Champion t
 
 He shares the overall record for World Cup titles with Sara Lopez (women's compound).
 
-## Most Archery World Cup Men’s Compound Wins
+## Most Archery World Cup Men's Compound Wins
 
-Sergio Pagni (Italy) achieved the most wins of the FITA (Fédération Internationale de Tir à l'Arc) Archery World Cup in the Men’s Compound event with a total of two, in 2009 and 2010.
+Sergio Pagni (Italy) achieved the most wins of the FITA (Fédération Internationale de Tir à l'Arc) Archery World Cup in the Men's Compound event with a total of two, in 2009 and 2010.
 
 ## Highest Points in Female 70-metre 72-arrow Recurve Archery (Outdoor)
 
@@ -337,7 +337,7 @@ Kang Chae-young (South Korea) achieved the most points scored in 72-arrow 70-met
 
 She beat her own world record by one point.
 
-It was recorded during the ranking round at the 2026 World Archery Championships in ‘s-Hertogenbosch, the Netherlands on 10 June 2026.
+It was recorded during the ranking round at the 2026 World Archery Championships in 's-Hertogenbosch, the Netherlands on 10 June 2026.
 
 In outdoor target archery, the 72-arrow round is a preliminary round used to ascertain seedings for the head-to-head match play rounds.
 
@@ -365,7 +365,7 @@ Scores are out of a possible 720 points.
 
 Kim Woo-jin (South Korea) scored 343 from a possible 360 points at the 49th National All-star Archery tournament in Yecheon, South Korea on 13 September 2017.
 
-He beat Oh Jin-hyek’s 2009 record by one point.
+He beat Oh Jin-hyek's 2009 record by one point.
 
 All World Archery 36-arrow records must be set as part of a full 1440 round, which comprises 144 arrows shot over four distances: 30 m, 50 m, 70 m, and 90 m for men, and 30 m, 50 m, 60 m, and 70 m for women.
 
@@ -381,7 +381,7 @@ All World Archery 36-arrow records must be set as part of a full 1440 round, whi
 
 Sara López (Colombia) [achieved the most points scored in 50-meter 36-arrow outdoor](https://worldarchery.sport/news/175769/kim-woojin-breaks-22-year-old-50-metre-world-record-352-1) compound archery (female) with a total of 356 out of 360.
 
-It was recorded at the XX Juegos Nacionales “Carlos Lleras Restrepo” on 10 November 2015 in Ibagué, Colombia.
+It was recorded at the XX Juegos Nacionales "Carlos Lleras Restrepo" on 10 November 2015 in Ibagué, Colombia.
 
 All World Archery 36-arrow records must be set as part of a full 1440 round, which comprises 144 arrows shot over four distances: 30 m, 50 m, 70 m and 90 m for men. And 30 m, 50 m, 60 m and 70 m for women.
 
@@ -401,7 +401,7 @@ Brady Ellison (USA) achieved the most points scored in a 70-m 72-arrow round in 
 
 Ellison shot his record score in the preliminary ranking round of the 2026 Pan American Games.
 
-He beat Kim Woo-jin’s record of 700, set at the 2016 Olympic Games.
+He beat Kim Woo-jin's record of 700, set at the 2016 Olympic Games.
 
 In outdoor target archery, the 72-arrow round is a preliminary round used to ascertain seeding for the head-to-head match play rounds.
 

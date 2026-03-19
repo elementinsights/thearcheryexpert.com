@@ -18,7 +18,7 @@ toc:
     href: "#1-gap-shooting"
   - label: "2. Ground Marker"
     href: "#2-ground-marker"
-  - label: "3. ‘O’ Ring"
+  - label: "3. 'O' Ring"
     href: "#3-o-ring"
   - label: "4. Archery Tag"
     href: "#4-archery-tag"
@@ -42,7 +42,7 @@ quickFacts:
   - value: "#2"
     label: "Ground Marker"
   - value: "#3"
-    label: "‘O’ Ring"
+    label: "'O' Ring"
   - value: "#4"
     label: "Archery Tag"
   - value: "#6"
@@ -85,11 +85,11 @@ Now let's get into the 10 archery target games to help you improve your accuracy
 
 Gap shooting is popular and widely used by traditional archers and the first aiming method taught to new students who want to get into archery.
 
-The goal is for you to place the arrow’s point nearest to the center of the target, whether it's above, beneath, or in the center of the target when you release the arrow.
+The goal is for you to place the arrow's point nearest to the center of the target, whether it's above, beneath, or in the center of the target when you release the arrow.
 
 The gap from the arrow trajectory reaching the target gets smaller and smaller until you reach your target distance.
 
-You’ll have to stack your gap on top of the center.
+You'll have to stack your gap on top of the center.
 
 The goal is to have so your arrow drop into the nearest point of the target.
 
@@ -107,7 +107,7 @@ This game teaches you how to manipulate the distance gaps in the arrow trajector
 
 You do this by changing your arrow's length, weight, and fletch size, so it takes its flight according to your estimated distance.
 
-You’ll need to calculate how to stick the gap on top of the center to get your arrow to the target's nearest point.
+You'll need to calculate how to stick the gap on top of the center to get your arrow to the target's nearest point.
 
 ## 2. Ground Marker
 
@@ -118,17 +118,17 @@ You’ll need to calculate how to stick the gap on top of the center to get your
 
 Similar to the gap shooting, the ground marker uses an object that you position at the start of the round to use as a reference point.
 
-But you can't move your ground marker in the middle of your game until it’s safe to gather the arrows to make any adjustments.
+But you can't move your ground marker in the middle of your game until it's safe to gather the arrows to make any adjustments.
 
 The marker or object with a maximum measurement of 6x3 inches should be carefully placed near the target. Otherwise, you end up using plenty of arrows on an off-mark.
 
 The ground marker makes it easier for you to aim the arrow's point on the mark of the range.
 
-You’ll need to use the under the chin anchor point to make sure the gap will be a good distance underneath the target.
+You'll need to use the under the chin anchor point to make sure the gap will be a good distance underneath the target.
 
 Your aiming skill will be put to the test as you need to hold your sight without movement.
 
-It’ll test your timing in releasing the shot once your pin is in the center, where you should be rock solid in taking the aim.
+It'll test your timing in releasing the shot once your pin is in the center, where you should be rock solid in taking the aim.
 
 Another is the execution side of the release, where you can avoid any jerking or flinching movement.
 
@@ -140,30 +140,30 @@ Once you've this set, your body is open and able to face the target at your comf
 
 You build your confidence this way because you've more chances to get it right than doing it on a limited number of trial shots.
 
-## 3. ‘O’ Ring
+## 3. 'O' Ring
 
 <div class="stat-highlight">
   <span class="stat-number">#3</span>
-  <span class="stat-text">‘O’ Ring</span>
+  <span class="stat-text">'O' Ring</span>
 </div>
 
 This is the most popular method for English longbow target style archery.
 
-The ‘O’ ring is adding a mark such as a rubber band, a loom band, or an O ring placed at the bow's upper part.
+The 'O' ring is adding a mark such as a rubber band, a loom band, or an O ring placed at the bow's upper part.
 
 Imagine closing your eyes and peeking through a small ring so you can aim properly.
 
-The ‘O’ ring acts like an eyepiece to sharpen your focus on the target aim.
+The 'O' ring acts like an eyepiece to sharpen your focus on the target aim.
 
 This is the most popular method for English longbow target style archery.
 
-The ‘O’ ring is adding a mark such as a rubber band, a loom band, or an O ring placed at the bow’s upper part.
+The 'O' ring is adding a mark such as a rubber band, a loom band, or an O ring placed at the bow's upper part.
 
 Imagine closing your eyes and peeking through a small ring so you can aim properly.
 
-The ‘O’ ring acts like an eyepiece to sharpen your focus on the target aim.
+The 'O' ring acts like an eyepiece to sharpen your focus on the target aim.
 
-Practicing the ‘O’ ring allows you to find a comfortable spot that makes it easier to center the target.
+Practicing the 'O' ring allows you to find a comfortable spot that makes it easier to center the target.
 
 You can use a ruler to measure then mark the exact spot in your bow that gives you a better shot on your target.
 
@@ -178,7 +178,7 @@ Another way is to mark the back of the bow, but you can only have one, not multi
   <span class="stat-text">Archery Tag</span>
 </div>
 
-If you think archery can’t be fun, this game will make you think twice as it’ll force you to aim while moving.
+If you think archery can't be fun, this game will make you think twice as it'll force you to aim while moving.
 
 Archery Tag is also known as Combat Archery, something like paintball and dodgeball using spongey arrows.
 
@@ -186,19 +186,19 @@ Two teams on the opposite side of the field will try to hit each other with spon
 
 You play this game with obstacles as shields and in knee-deep water to make the course interesting and exciting.
 
-You’ll need to practice your timing routines, meaning you cut the 40-second assigned qualification time to 20-seconds as if it were match play.
+You'll need to practice your timing routines, meaning you cut the 40-second assigned qualification time to 20-seconds as if it were match play.
 
 The aiming off will sharpen your tolerance for windy conditions by making you adjust your aim to compensate for strong winds or shooting at a different angle.
 
-Because you're exposed to different weather conditions, the wind factor will force you to point the sight pin at a visible point even if it’s not exactly in the middle.
+Because you're exposed to different weather conditions, the wind factor will force you to point the sight pin at a visible point even if it's not exactly in the middle.
 
-You must then know your bow’s timing, so you've this information to use when you aim in different kinds of weather.
+You must then know your bow's timing, so you've this information to use when you aim in different kinds of weather.
 
 This outdoor type of game allows the archer to enjoy the sport in the closest actual bowhunting environment.
 
-You’ll find it easier to adapt to outdoor hunting when you engage in this game as it simulates the usual physical aspects of the game.
+You'll find it easier to adapt to outdoor hunting when you engage in this game as it simulates the usual physical aspects of the game.
 
-You’re forced to be familiar with your gear to make a calculated decision during wind blasts.
+You're forced to be familiar with your gear to make a calculated decision during wind blasts.
 
 Your accuracy is sharpened in an outdoor setting since you've to deal with different terrains and weather conditions.
 
@@ -221,15 +221,15 @@ For this game, you should be able to shoot with the same kind of arrows with the
 
 Using a large peep sight in the bowstring will prove useful for your greater visibility and field of view, especially when there's a bending and twisting shot.
 
-Since the game doesn’t involve a stopwatch, practice the 10-second rule by focusing on the target and taking your time to get the aim right.
+Since the game doesn't involve a stopwatch, practice the 10-second rule by focusing on the target and taking your time to get the aim right.
 
-Then remember to keep yourself steady and wait for the shot’s release until it has landed on the target to keep your accuracy on the aim.
+Then remember to keep yourself steady and wait for the shot's release until it has landed on the target to keep your accuracy on the aim.
 
 You can practice taking shots at different angles pushing you to adjust your body and the way you hold your bow.
 
-You learn to adapt to different positions, whether it be an extended stance or a crouched position depending on the first player’s challenge.
+You learn to adapt to different positions, whether it be an extended stance or a crouched position depending on the first player's challenge.
 
-You’ll be challenged on your weak or vulnerable positions because the first player will use difficult angles to gain an advantage.
+You'll be challenged on your weak or vulnerable positions because the first player will use difficult angles to gain an advantage.
 
 Your sense of competitiveness is heightened because trick shots that the other players could take will likewise push you to take the same aim.
 
@@ -244,13 +244,13 @@ Along with your fellow opponent, an archer will start 10-15 yards away from the 
 
 If you hit the target, you then gain by moving backward by 5 yards and continue until you're the last one standing.
 
-It’s up to you how you'll aim for the shot since you've to consider the arrow trajectory as you move further away from the target.
+It's up to you how you'll aim for the shot since you've to consider the arrow trajectory as you move further away from the target.
 
 You also have to choose the best angle to get the shot, whether you move more to the left or the right but still at the same distance.
 
 You start the game with a lower degree of difficulty because it's near to the target.
 
-But as you hit the target and move 5 yards back, you’ll have to rely on your large peep sight in the bowstring for a better field of view and visibility.
+But as you hit the target and move 5 yards back, you'll have to rely on your large peep sight in the bowstring for a better field of view and visibility.
 
 Keeping your anchor point in focus will give you a better sense of focus as you continue to move longer into the game.
 
@@ -260,9 +260,9 @@ When you play Robin Hood, you level up your skill with the increasing distance f
 
 As the number of opponents drops because of a missed shot, you heighten your competitive streak by staying in the game.
 
-You’re able to aim while under pressure and learn to calm your nerves as you move further from the target.
+You're able to aim while under pressure and learn to calm your nerves as you move further from the target.
 
-You’ll appreciate this game as it closely resembles the actual hunting activity of moving near then waiting for a distance to take a clear shot of the game animal.
+You'll appreciate this game as it closely resembles the actual hunting activity of moving near then waiting for a distance to take a clear shot of the game animal.
 
 ## 8. 3-D Archery
 
@@ -279,19 +279,19 @@ Just like a real-life hunting experience, you move from one area to the next and
 
 There are different hunting scenarios in this 3-D game, so archers enjoy a game that's close to real-life experience.
 
-You’ll tap into your knowledge on your hunting skills which include judging the distance from your position to the target without a rangefinder.
+You'll tap into your knowledge on your hunting skills which include judging the distance from your position to the target without a rangefinder.
 
 Take note of your anchor point as the different target positions of different sized 3-D foam animals will need you to either use a kisser button or peep sight to help line up your target.
 
-You’ll need to adjust your stance when positioning yourself in the various hunting ranges such as raised platforms, uphill, downhill, hillsides, and wide-open fields.
+You'll need to adjust your stance when positioning yourself in the various hunting ranges such as raised platforms, uphill, downhill, hillsides, and wide-open fields.
 
 The different angles and varying sizes of the 3-D animal form will force you to sharpen your aiming skill by timing the pin to center with your release of the arrow.
 
-While this is a fun game, you’ll be challenged and tested with your aiming skills on different heights and hunting scenarios.
+While this is a fun game, you'll be challenged and tested with your aiming skills on different heights and hunting scenarios.
 
-You’ll like the natural feel of the next-to-real hunting experience which this game tries hard to replicate.
+You'll like the natural feel of the next-to-real hunting experience which this game tries hard to replicate.
 
-You’ll get the exercise needed as you navigate the different hunting courses with the many slouching, bending, and tilting angles for you to aim.
+You'll get the exercise needed as you navigate the different hunting courses with the many slouching, bending, and tilting angles for you to aim.
 
 Your competitive nature is heightened amongst other opponents as you go through the hunting course and take the needed angle for a shot at the 3-D animal figure.
 
@@ -312,15 +312,15 @@ If an arrow reaches outside the six rings, you'll score 0 because it misses the 
 
 As this is the closest to a tournament setup, you've to check your stance with your core engaged for stability.
 
-You’ll want to have a relaxed grip that will cradle the bow before releasing the shot allowing you to have a good hold of the very foundation of your aim.
+You'll want to have a relaxed grip that will cradle the bow before releasing the shot allowing you to have a good hold of the very foundation of your aim.
 
 Take note of your back tension when drawing your bow, then keep a constant and steady tension upon release, which is also opposing the bow's force.
 
 Make sure you take a deep breath while drawing the bow to aim, then exhale as you release the arrow for your target.
 
-If you’re into tournament target archery, this is a highly recommended practice game for you.
+If you're into tournament target archery, this is a highly recommended practice game for you.
 
-You familiarize yourself with the rules, and technical regulations of the game as there are different do’s and don’ts when it comes to this game.
+You familiarize yourself with the rules, and technical regulations of the game as there are different do's and don'ts when it comes to this game.
 
 Your sense of competitiveness is heightened as you qualify for each round until you reach the highest bow division that your skill can reach.
 
@@ -345,9 +345,9 @@ You need to keep your anchor point in sharp focus since the game's nature is get
 
 Along with this is the level of control, and will execute the shot as you count on the number before you make the draw.
 
-While you start at the 10-yard distance, you’ll have to consider aiming off or taking note of the wind direction.
+While you start at the 10-yard distance, you'll have to consider aiming off or taking note of the wind direction.
 
-You’ll want to check the best angle, not necessarily always to aim in the middle of the target but possibly in another direction depending on how the wind will push the arrow.
+You'll want to check the best angle, not necessarily always to aim in the middle of the target but possibly in another direction depending on how the wind will push the arrow.
 
 You can gauge your long-distance accuracy and what distance you need to practice to get better by playing this game.
 
@@ -359,7 +359,7 @@ Your competitive nature is sharpened as your opponents drop out one by one, incr
 
 ## Final Thoughts
 
-Playing archery games turns repetitive practice into something you’ll actually look forward to. These games challenge your aim from different angles, distances, and pressure situations that standard target shooting doesn’t always provide.
+Playing archery games turns repetitive practice into something you'll actually look forward to. These games challenge your aim from different angles, distances, and pressure situations that standard target shooting doesn't always provide.
 
-Try a few of them with friends or on your own, and you’ll find your accuracy improving without it feeling like a grind.
+Try a few of them with friends or on your own, and you'll find your accuracy improving without it feeling like a grind.
 

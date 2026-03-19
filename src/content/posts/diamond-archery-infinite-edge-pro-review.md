@@ -33,7 +33,7 @@ toc:
     href: "#bow-design"
   - label: "Noise and Vibration"
     href: "#noise-and-vibration"
-  - label: "What’s Included?"
+  - label: "What's Included?"
     href: "#whats-included"
   - label: "The Power of the Compound"
     href: "#the-power-of-the-compound"
@@ -148,7 +148,7 @@ Loud noises will spook your target, so it's a bonus because this bow has both lo
 
 Diamond Archery Infinite Edge comes with a complete kit with instructions written in the English language.
 
-There’s also a booklet which shows proper usage for beginners.
+There's also a booklet which shows proper usage for beginners.
 
 It shows that this compound bow has the limit to extend the draw length up to 31° with a newly and completely redesigned camera system, making it a flawlessly smooth draw cycle.
 
@@ -156,7 +156,7 @@ It has a peep sight with a rubber tube inside the package octane, quiver, and a 
 
 Also, there's a bow sling that looks like a sort of hostage style.
 
-There’s lubrication on the post side that the cable guard rides on, and the cable slide goes on.
+There's lubrication on the post side that the cable guard rides on, and the cable slide goes on.
 
 The solid black wall gave it a smooth touch to make it over the competition and stabilizer, which helps for perfect balancing.
 
@@ -172,7 +172,7 @@ The other features of the product are so good, they make you feel like buying ot
 
 The draw weight of the product is adjustable, which is between 5 to 70 pounds.
 
-If you’re a beginner, you can adjust it to 35 pounds, and when you're ready, you can change it to 45, and so on.
+If you're a beginner, you can adjust it to 35 pounds, and when you're ready, you can change it to 45, and so on.
 
 The product is durable so long as you take care of it.
 
@@ -186,11 +186,11 @@ But this bow is able to propel its arrows at 310 FPS, which is fast enough for t
 
 The axle to axle length is sort of little but is fit for shooting and gives shot stability.
 
-There are some lighter products out there, but this product's weight is 3.2 pounds that don’t make it any worse.
+There are some lighter products out there, but this product's weight is 3.2 pounds that don't make it any worse.
 
 The let-off value of this product is 80%, and that's pretty good compared to other bows.
 
-If you’re looking for a decent product, this certainly seems like one of the best options.
+If you're looking for a decent product, this certainly seems like one of the best options.
 
 ## Advantages
 
@@ -202,7 +202,7 @@ As mentioned above in the product structure, it has an extraordinary feature of 
 
 You can adjust the bow to 5 pounds if the user is the young archer, and you can easily shift this to 70 pounds if necessary.
 
-It’s totally according to your needs and how well you can use it.
+It's totally according to your needs and how well you can use it.
 
 It also has the solution you can easily adjust the range of draw length as you can set it 31 inches on the long and 13 inches on the low end that makes it a combo option.
 
@@ -218,7 +218,7 @@ Recurve shooters are mostly starters who want to pursue their hobby as a passion
 
 Most people think that this bow isn't for hunting purposes and it has complex uses, but the truth is, it's the best bow in the town, which will give you confidence and pursue you to change your hobby into a passion.
 
-If you’re new to archery, the Diamond Infinite Pro Max is one of the best tools to kickstart your new hobby or sport.
+If you're new to archery, the Diamond Infinite Pro Max is one of the best tools to kickstart your new hobby or sport.
 
 It's superior to other bows as it comes in an easy package with an instruction booklet and extremely easy to use with adjustable draw length and weight.
 
@@ -232,7 +232,7 @@ Well, it's said that to every pro there's a con, so there are very few cons of t
 
 All you need to do is:
 
-When you receive this product, make sure to tune it first, especially if you’re a beginner.
+When you receive this product, make sure to tune it first, especially if you're a beginner.
 
 Don't use it for shooting until it's tuned.
 
@@ -248,7 +248,7 @@ I assure you that this product contains three-pin sight, which means that it aim
 
 However, if you want to shoot 50+ yards then you need a five-pin sight.
 
-This product's grip is okay, but if you’re somehow having trouble with the grip, then use some tape.
+This product's grip is okay, but if you're somehow having trouble with the grip, then use some tape.
 
 This issue is very common in all types of compound bows.
 
@@ -284,13 +284,13 @@ To remain silent while hunting is considered to be the crucial step because you 
 
 The product has a good stabilizer, which is very important so that there's less noise.
 
-The Diamond Infinite Edge Pro promises you to provide the ultra-light stabilizer with well-equipped material that limits the vibrations efficiently so that you won’t worry about the noise and vibrations.
+The Diamond Infinite Edge Pro promises you to provide the ultra-light stabilizer with well-equipped material that limits the vibrations efficiently so that you won't worry about the noise and vibrations.
 
 This compound comes in a very affordable package and it eliminates separate investment in accessories such as silencers.
 
-## What’s Included?
+## What's Included?
 
-Now I’m going to give you a quick preview of what's inside the package.
+Now I'm going to give you a quick preview of what's inside the package.
 
 • Three-Pin Apex Sight
 
@@ -324,7 +324,7 @@ As the sight name indicates, the tube peep sight is for the starters who want to
 
 So this will help the peep to rotate properly by keeping alignment with your eye.
 
-But if you're an experienced person, you'll have to switch the compound as you’ll need very little weight on your bow and prefer the tubeless peep.
+But if you're an experienced person, you'll have to switch the compound as you'll need very little weight on your bow and prefer the tubeless peep.
 
 It's durable if used with care and is very lightweight.
 
@@ -336,7 +336,7 @@ It's made up of good quality material.
 
 This compound is highly recommended for starters and intermediates as it's a very light, decent, and affordable product.
 
-but if you’re an expert, though, then you may consider
+but if you're an expert, though, then you may consider
 
 ## The Power of the Compound
 
@@ -364,7 +364,7 @@ The Diamond Infinite Edge Pro can take down any target.
 
 The weight of the bow is 3lbs, so it's very easy to carry and makes it more stable.
 
-Some hunters prefer the use of a heavier bow because they think it’s more stable, while others prefer light-weighted models as it provides more accuracy and prevents fatigue during a longer period of hunting.
+Some hunters prefer the use of a heavier bow because they think it's more stable, while others prefer light-weighted models as it provides more accuracy and prevents fatigue during a longer period of hunting.
 
 The stabilizer is five inches, which reduces the vibrations so that there's no need to buy other accessories.
 
@@ -384,7 +384,7 @@ The solid black wall is the draw feature that makes it smooth and comfortable ev
 
 This compound provides the fastest speed of 310 fps in this reasonable price range compared to other devices.
 
-It fires with a slight hint of hand shock to ensure that you won’t feel a thing.
+It fires with a slight hint of hand shock to ensure that you won't feel a thing.
 
 ## Additional Features
 
@@ -432,8 +432,8 @@ There are many other reviews you can find on different websites.
 
 ## Final Verdict
 
-The Diamond Infinite Edge Pro delivers outstanding value for its price point, especially for archers who want a bow they won’t outgrow quickly. Its massive adjustment range in both draw weight and draw length means it can grow with you from your first target session to your first big game hunt.
+The Diamond Infinite Edge Pro delivers outstanding value for its price point, especially for archers who want a bow they won't outgrow quickly. Its massive adjustment range in both draw weight and draw length means it can grow with you from your first target session to your first big game hunt.
 
-If you’re looking for one bow that covers nearly every situation without breaking the bank, this is a strong choice.
+If you're looking for one bow that covers nearly every situation without breaking the bank, this is a strong choice.
 
 <a href="https://www.amazon.com/dp/B00RGAPEMQ?tag=thearcheryexpert-20" class="product-card-cta" target="_blank" rel="nofollow sponsored">Check Price on Amazon →</a>

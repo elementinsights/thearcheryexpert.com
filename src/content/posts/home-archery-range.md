@@ -75,7 +75,7 @@ Fencing your backyard with at least a six-foot-tall wall is an excellent idea as
 
 You could also opt for an underground range or play in your basement if you've the resources.
 
-Archery is no joke, so you’ve to be extremely cautious while you’re playing it.
+Archery is no joke, so you've to be extremely cautious while you're playing it.
 
 We strongly recommend using an arm guard while playing archery because the hard materials underneath will protect your skin or arm against arrow related injuries.
 
@@ -83,7 +83,7 @@ For a novice who has shot less than two hundred fifty times, we suggest using a
 
 It's crucial that you never aim the arrow towards the sky and shoot and always make sure that your kid aims towards the target or the ground.
 
-If you’re teaching your kids archery, check the equipment before use and throw away any faulty equipment.
+If you're teaching your kids archery, check the equipment before use and throw away any faulty equipment.
 
 ## Check for Restrictions
 
@@ -95,15 +95,15 @@ For instance, Montana has placed quite a few regulations concerning archery unde
 
 The state of Montana prohibits bows that are shorter than 28 inches and arrows that weigh less than 300 grams, and those bows and arrows are illegal.
 
-To answer whether you can or can’t play archery in your backyard, you must consider researching your county laws.
+To answer whether you can or can't play archery in your backyard, you must consider researching your county laws.
 
 Section 9.36.060 of the Sacramento county code prohibits anyone other than peace officers to even possess any weapon, including bows and arrows, that may be lethal to human beings or the wildlife.
 
-Chapter 9.41 “Bows and Arrows” further clarifies that though it’s legal for a property owner or anyone with the consent of the property owner to shoot arrows in their backyard as long as the arrow doesn’t intrude onto a nearby property where people live.
+Chapter 9.41 "Bows and Arrows" further clarifies that though it's legal for a property owner or anyone with the consent of the property owner to shoot arrows in their backyard as long as the arrow doesn't intrude onto a nearby property where people live.
 
-To clarify further, you can shoot an arrow if your property includes land over one hundred fifty yards, and even if it doesn’t, you’ve to make sure that the arrows don’t land on an adjacent residential building.
+To clarify further, you can shoot an arrow if your property includes land over one hundred fifty yards, and even if it doesn't, you've to make sure that the arrows don't land on an adjacent residential building.
 
-If your county doesn’t allow a home archery range, you can always find a suitable archery range nearby.
+If your county doesn't allow a home archery range, you can always find a suitable archery range nearby.
 
 ## Range Layout
 
@@ -201,7 +201,7 @@ So one day, the archery gods had enough and created something called a backstop.
 
 Today it has become an essential component of the total backyard archery experience.
 
-A godsend for beginners, a backstop stops your arrow before they stray far off than the actual target and saves not only time but lives as it doesn’t let arrows stray off and hit someone.
+A godsend for beginners, a backstop stops your arrow before they stray far off than the actual target and saves not only time but lives as it doesn't let arrows stray off and hit someone.
 
 If you decide to make a wall your backstop, that would be a blunder as the arrows would break upon impact.
 
@@ -215,7 +215,7 @@ You might have to re-stack time and again to fill the gaps.
 
 We recommend something more permanent, like foam mats, as they're highly resilient and also cheap.
 
-While making your backstop, you must make sure that your backstop is higher and wider than your target so that your arrows don’t stray off somewhere.
+While making your backstop, you must make sure that your backstop is higher and wider than your target so that your arrows don't stray off somewhere.
 
 Or you might try this backstop from net world sports, which comes in various sizes.
 
@@ -237,4 +237,4 @@ Bow stands can phenomenally increase the bow's lifespan and protect its bow's st
 
 A home archery range gives you the freedom to practice on your own schedule without driving to a club or paying range fees. The key is doing your homework on local laws, investing in a proper backstop, and designing a layout that keeps everyone safe.
 
-Whether you’re shooting in the backyard or your basement, a well-planned range will pay for itself in improved skills and convenience.
+Whether you're shooting in the backyard or your basement, a well-planned range will pay for itself in improved skills and convenience.

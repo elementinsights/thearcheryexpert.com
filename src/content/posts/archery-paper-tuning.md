@@ -53,13 +53,13 @@ faq:
   <div><strong>Tools:</strong> Standard archery equipment</div>
 </div>
 
-One of the most interesting questions a beginner may have is ‘how to paper tune a bow?’
+One of the most interesting questions a beginner may have is 'how to paper tune a bow?'
 
 If you attempt to learn perfect arrow flight in just one sitting, you'll end up completely lost.
 
 Paper tuning can be complicated and can take time to understand and get to grips with.
 
-But don’t worry, anyone can do it with the right knowledge and setup.
+But don't worry, anyone can do it with the right knowledge and setup.
 
 Before you know how to paper tune a bow properly, learn what's meant by paper tuning.
 
@@ -67,13 +67,13 @@ Paper tuning involves an archer shooting an arrow through a suspended paper at a
 
 The things you need to paper tune your bow are a bow, arrows, a frame that can hold a piece of paper that you can shoot through, and a target place behind it.
 
-With that out of the way, let’s get started on our 10-Step Guide To Paper Tune A Bow.
+With that out of the way, let's get started on our 10-Step Guide To Paper Tune A Bow.
 
 ## Step 1: Construct Your Frame
 
 First, you've to make a stand where you could stick the paper for tearing to begin the process of paper-tuning.
 
-For that, you need a few things to build a frame to hold the paper you’ll be shooting through.
+For that, you need a few things to build a frame to hold the paper you'll be shooting through.
 
 Buy inexpensive furring strips from any store, or you can also use any scrap lumber that can be nailed to create a square frame.
 
@@ -95,7 +95,7 @@ A proper setup will ensure that the arrow is flying straight, and it improves th
 
 The paper should be tightly fixed to a frame, or it's designed in a manner so that it shouldn't be loose-fitting.
 
-Having a paper-tuned arrangement isn’t a magical response to make you a great archer, but it will most certainly be a good step in the right direction.
+Having a paper-tuned arrangement isn't a magical response to make you a great archer, but it will most certainly be a good step in the right direction.
 
 The following are some of the items that you'd need.
 
@@ -159,7 +159,7 @@ It's normal for beginners to feel tense the first few times, but I'd suggest tha
 
 ## Step 5: Grip
 
-When I hear the word “grip,” it makes me think of grasping something very tightly.
+When I hear the word "grip," it makes me think of grasping something very tightly.
 
 While it looks pretty simple, take a bow and shoot an arrow.
 
@@ -173,9 +173,9 @@ You must have a relaxed grip on your bow.
 
 Not squeezing it, but just holding.
 
-By doing this, I can assure once you shoot, you won’t throw the arrow off course.
+By doing this, I can assure once you shoot, you won't throw the arrow off course.
 
-Avoid the “death grip” because it increases the chance of incorrectly angling the bow against the shot.
+Avoid the "death grip" because it increases the chance of incorrectly angling the bow against the shot.
 
 Warning. You'll have erratic bow flight if you're gripping your bow too tightly.
 
@@ -193,7 +193,7 @@ A good archer is known not by his arrows but by his aim.
 
 There are two basic techniques to aim.
 
-It’s a pretty natural way to do it.
+It's a pretty natural way to do it.
 
 You need to find your target.
 
@@ -203,11 +203,11 @@ Then direct the bow so that you can look through the bow sight.
 
 Your pin should meet the target in the line of your sight.
 
-That’s it. You've done a great job.
+That's it. You've done a great job.
 
 Remember one thing.
 
-Your sighting won’t be correct all the time. You’ll need to readjust so that your sight will align with the target.
+Your sighting won't be correct all the time. You'll need to readjust so that your sight will align with the target.
 
 Instinctive shooting means without a sight.
 
@@ -221,7 +221,7 @@ Sometimes, this technique can be very complicated even to the professionals beca
 
 ## Step 7: Release Your Arrow
 
-It’s time to let it go.
+It's time to let it go.
 
 Simply you've to release the tension from bowstring fingers.
 
@@ -313,7 +313,7 @@ For reducing or expanding the tension on the cables, you may need to adjust the 
 
 To sort out the left or right tear, you'll have to address the spine of the arrow by heightening draw weight.
 
-Now you’re ready for a perfect shot.
+Now you're ready for a perfect shot.
 
 At this point, you'll gain a lot of confidence that your equipment is shooting the very best it can.
 
@@ -325,7 +325,7 @@ The most important step of the whole process.
 
 There are several mistakes you can make as a beginner.
 
-Don’t use a tight grip because a lot of people grip their bows quite tightly while shooting.
+Don't use a tight grip because a lot of people grip their bows quite tightly while shooting.
 
 A slightly open and relaxed grip is best.
 
@@ -333,13 +333,13 @@ It will prevent bow torque and other problems.
 
 Make sure you're using the right equipment for paper tuning a bow.
 
-For instance: if you’re using thick paper, it may hide the errors and show you a lesser tear.
+For instance: if you're using thick paper, it may hide the errors and show you a lesser tear.
 
-But if you’re using thinner papers, it might reveal a worse tear.
+But if you're using thinner papers, it might reveal a worse tear.
 
 If your paper is too close to the target then the arrow will go through the paper, and before the fletchings enter, it will touch the target.
 
-So, that will give you wrong and weird tears. Just don’t do that.
+So, that will give you wrong and weird tears. Just don't do that.
 
 You must keep your bow vertical and torque-free to have a perfect shot.
 

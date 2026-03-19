@@ -60,12 +60,12 @@ products:
       - "Cow Split Leather"
       - "Sweat Resistant"
       - "Left-Hand Design"
-      - "Won’t Crack"
+      - "Won't Crack"
     pros:
       - "Smooth cow split leather is comfortable inside and out"
       - "Sweat-resistant surface keeps your hand dry during long sessions"
       - "Adjustable wrist strap accommodates different hand sizes"
-      - "Sturdy construction that doesn’t crack under repeated stress"
+      - "Sturdy construction that doesn't crack under repeated stress"
     cons:
       - "Feels stiff at first until the leather stretches and breaks in"
       - "Designed for the left hand only"
@@ -108,7 +108,7 @@ products:
       - "Backed by a 12-month warranty for peace of mind"
     cons:
       - "Runs slightly loose so check the size chart before ordering"
-      - "Nylon body isn’t as durable as full leather options"
+      - "Nylon body isn't as durable as full leather options"
     ctaUrl: "https://www.amazon.com/dp/B07HG6VMQ9?tag=thearcheryexpert-20"
   - name: "HUNTINGDOOR Archery Hand Guard"
     rank: 4
@@ -143,8 +143,8 @@ products:
       - "2 Color Options"
     pros:
       - "Handmade from quality cow leather with a stylish finish"
-      - "Soft feel that’s also sweat-resistant for long shooting days"
-      - "Reinforced with rivets so it won’t fracture over time"
+      - "Soft feel that's also sweat-resistant for long shooting days"
+      - "Reinforced with rivets so it won't fracture over time"
       - "Available in both black and brown colors"
     cons:
       - "Left-hand design only, no right-hand option"
@@ -155,7 +155,7 @@ products:
     badge: "Most Popular"
     rating: 8.8
     image: "https://m.media-amazon.com/images/I/41xsNWsb48L._SL500_.jpg"
-    description: "There are quite a lot of debates regarding the usage of Archery gloves as some archers don’t feel the need to use gloves and consider it a mere accessory."
+    description: "There are quite a lot of debates regarding the usage of Archery gloves as some archers don't feel the need to use gloves and consider it a mere accessory."
     highlights:
       - "Faux Leather"
       - "Money-Back Guarantee"
@@ -175,7 +175,7 @@ products:
     badge: "Best Design"
     rating: 8.6
     image: "https://m.media-amazon.com/images/I/31vkCPRPEyL._SL500_.jpg"
-    description: "If archery handguards were to participate at the Paris Fashion Week, we’d make way for the haute couture model, the HWZ Cowhide Archery handguard."
+    description: "If archery handguards were to participate at the Paris Fashion Week, we'd make way for the haute couture model, the HWZ Cowhide Archery handguard."
     highlights:
       - "Genuine Leather"
       - "Premium Finish"
@@ -195,7 +195,7 @@ products:
     badge: "Most Durable"
     rating: 8.4
     image: "https://m.media-amazon.com/images/I/41-juFaIRTL._SL500_.jpg"
-    description: "Here’s another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand."
+    description: "Here's another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand."
     highlights:
       - "Two-Finger Guard"
       - "Belt Fastener"
@@ -227,7 +227,7 @@ products:
       - "Elegant historic-style rivet design looks great"
       - "Protects against wear from feathered arrows"
     cons:
-      - "One-size approach won’t fit very small or very large hands perfectly"
+      - "One-size approach won't fit very small or very large hands perfectly"
       - "Leather quality is a step below pricier competitors"
     ctaUrl: "https://www.amazon.com/dp/B019YVTS1C?tag=thearcheryexpert-20"
   - name: "ARCHERYMAX Three-finger Archery Gloves"
@@ -508,7 +508,7 @@ Some users have found irregularity with the overall fit.
 
 This should be of note to people with larger hands.
 
-Well, if it doesn’t feel right, there’s always a return policy.
+Well, if it doesn't feel right, there's always a return policy.
 
 Pros & Benefits:
 
@@ -728,7 +728,7 @@ It's an excellent option for the left hand and is available in two colors and is
 
 This is a handmade guard that claims to provide maximum protection to fingers while shooting.
 
-One must not think that this product’s good looks may compromise on quality, as its soft cow leather is also sweat-resistant and shields the hand perfectly.
+One must not think that this product's good looks may compromise on quality, as its soft cow leather is also sweat-resistant and shields the hand perfectly.
 
 Like most high-quality safety gear, they have designed this one with an adjustable wrist strap for a comfortable fit for all its users.
 
@@ -752,7 +752,7 @@ Pros & Benefits:
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
-<p class="product-card-desc">There are quite a lot of debates regarding the usage of Archery gloves as some archers don’t feel the need to use gloves and consider it a mere accessory. There are hardly any references made regarding this protective gear in the medieval period when Archery was primarily a combat activity.</p>
+<p class="product-card-desc">There are quite a lot of debates regarding the usage of Archery gloves as some archers don't feel the need to use gloves and consider it a mere accessory. There are hardly any references made regarding this protective gear in the medieval period when Archery was primarily a combat activity.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Faux Leather</span>
 <span class="highlight-tag">Money-Back Guarantee</span>
@@ -792,11 +792,11 @@ Cons
 </div>
 </div>
 
-There are quite a lot of debates regarding the usage of Archery gloves as some archers don’t feel the need to use gloves and consider it a mere accessory.
+There are quite a lot of debates regarding the usage of Archery gloves as some archers don't feel the need to use gloves and consider it a mere accessory.
 
 There are hardly any references made regarding this protective gear in the medieval period when Archery was primarily a combat activity.
 
-They have had no access to ‘YouTube DIY videos’ but have built their equipment from the wild and are natural hunters.
+They have had no access to 'YouTube DIY videos' but have built their equipment from the wild and are natural hunters.
 
 However, if you wish to keep the irritating finger itches at bay and want to protect your fingers from blisters, it's a reasonably good idea to invest in some suitable archery gloves.
 
@@ -808,7 +808,7 @@ They have been kind enough to help if you've trouble figuring out your size.
 
 The KESHES archery glove is a three-finger design made of high-quality faux leather, unlike the JKER TECH gloves made of polyester.
 
-They believe in good customer service as they stand by the statement, “Love it, or your money back.”.
+They believe in good customer service as they stand by the statement, "Love it, or your money back.".
 
 Pros & Benefits:
 
@@ -826,7 +826,7 @@ Pros & Benefits:
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
-<p class="product-card-desc">If archery handguards were to participate at the Paris Fashion Week, we’d make way for the haute couture model, the HWZ Cowhide Archery handguard.</p>
+<p class="product-card-desc">If archery handguards were to participate at the Paris Fashion Week, we'd make way for the haute couture model, the HWZ Cowhide Archery handguard.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Genuine Leather</span>
 <span class="highlight-tag">Premium Finish</span>
@@ -866,9 +866,9 @@ Cons
 </div>
 </div>
 
-If archery handguards were to participate at the Paris Fashion Week, we’d make way for the haute couture model, the HWZ Cowhide Archery handguard.
+If archery handguards were to participate at the Paris Fashion Week, we'd make way for the haute couture model, the HWZ Cowhide Archery handguard.
 
-This protective gear is pleasing to the eyes mainly for its slightly different color choices (‘Sand’ and ‘Black’), the use of genuine leather and indeed its excellent workmanship.
+This protective gear is pleasing to the eyes mainly for its slightly different color choices ('Sand' and 'Black'), the use of genuine leather and indeed its excellent workmanship.
 
 While its beauty runs the show, it definitely doesn't back down in its primary function of providing utmost protection ensuring no scratches and scrapes to its owner.
 
@@ -876,7 +876,7 @@ This handguard is manufactured with superior quality genuine leather.
 
 The quality of material used sure helps the archer to concentrate better on their game and improve on their shooting skills rather than worry about getting their fingers hurt.
 
-It has been reviewed to accentuate one’s performance as it aids in stable shooting and can be used for prolonged periods.
+It has been reviewed to accentuate one's performance as it aids in stable shooting and can be used for prolonged periods.
 
 Though it's slightly priced higher for obvious reasons, it's suitable for hunting, shooting and for archery as a sports activity.
 
@@ -896,7 +896,7 @@ Pros & Benefits:
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
-<p class="product-card-desc">Here’s another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand. Made from cow leather, this gear is highly durable, strong and can last multiple hunting trips.</p>
+<p class="product-card-desc">Here's another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand. Made from cow leather, this gear is highly durable, strong and can last multiple hunting trips.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Two-Finger Guard</span>
 <span class="highlight-tag">Belt Fastener</span>
@@ -936,7 +936,7 @@ Cons
 </div>
 </div>
 
-Here’s another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand.
+Here's another great hand protector from the TOPARCHERY brand that can be used for both the left and right hand.
 
 Made from cow leather, this gear is highly durable, strong and can last multiple hunting trips.
 
@@ -966,7 +966,7 @@ Pros & Benefits:
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">One of the cheapest handguards out of the lot would be this one that's supplied by the HUNTINGDOOR brand. It comes with a choice for both the left and right-hand and comes with a ‘one size fits all’ bet.</p>
+<p class="product-card-desc">One of the cheapest handguards out of the lot would be this one that's supplied by the HUNTINGDOOR brand. It comes with a choice for both the left and right-hand and comes with a 'one size fits all' bet.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Lowest Price</span>
 <span class="highlight-tag">Universal Size</span>
@@ -1008,13 +1008,13 @@ Cons
 
 One of the cheapest handguards out of the lot would be this one that's supplied by the HUNTINGDOOR brand.
 
-It comes with a choice for both the left and right-hand and comes with a ‘one size fits all’ bet.
+It comes with a choice for both the left and right-hand and comes with a 'one size fits all' bet.
 
 Using a feathered arrow for shooting can cause high friction when released multiple times and, in this regard, the HUNTINGDOOR handguard is claimed to be a must-have as it solves this problem.
 
 This product is a perfect protective accessory for professional shooters and an ideal choice for amateur skill shooters.
 
-However, this reasonably priced protective gear doesn't compromise on the comfort it provides as the texture is smooth and it doesn’t rip over prolonged use owing to the robust texture of the material used.
+However, this reasonably priced protective gear doesn't compromise on the comfort it provides as the texture is smooth and it doesn't rip over prolonged use owing to the robust texture of the material used.
 
 This handguard is a fantastic option for archers who want to safeguard their hands from the wear and tear caused by using feathered arrows.
 
@@ -1078,11 +1078,11 @@ All hail for the ARCHERYMAX hand gloves which has been given some great reviews 
 
 Unlike other gloves mentioned here, this one is completely made from cow leather to offer utmost comfort as well as top-notch safety.
 
-Although they have specifically mentioned that this sturdy leather is thin, it's arguably the prime feature of the glove that gives the shooter a good ‘feel’ of the bowstring to maintain a steady shot.
+Although they have specifically mentioned that this sturdy leather is thin, it's arguably the prime feature of the glove that gives the shooter a good 'feel' of the bowstring to maintain a steady shot.
 
 This feature undoubtedly works well for bow and arrow shooters to minimize irregularities in their shots and aids in perfectly reaching the target.
 
-Many may not like the “fits like a glove” feeling and may prefer it to be slightly airy.
+Many may not like the "fits like a glove" feeling and may prefer it to be slightly airy.
 
 For this reason, it's best to follow the size chart and measuring instructions to avoid any disappointment.
 
@@ -1100,11 +1100,11 @@ Once the safety is sorted, all you need to focus on is a steady shot to get to y
 
 However, there are many hunters who have lived in forests that have learned the art of shooting arrows for mere survival and do well with handmade protective gear.
 
-No, I’m not talking about Mr. Bear Grylls.
+No, I'm not talking about Mr. Bear Grylls.
 
-I’m talking about the many forest tribes and small-community villagers who still use bow and arrow as a weapon for sustenance by food hunting and keeping wild animals at bay.
+I'm talking about the many forest tribes and small-community villagers who still use bow and arrow as a weapon for sustenance by food hunting and keeping wild animals at bay.
 
-So, if you're going to ask them for some ‘protective gear’ advice, I’d suggest you take a hike.
+So, if you're going to ask them for some 'protective gear' advice, I'd suggest you take a hike.
 
 Just like all other competitive sports, Archery comes with a set of rules, kits, and protective gear.
 
@@ -1114,13 +1114,13 @@ So fellow toxophilites, talking about the game and its safety, I believe, for a 
 
 There are a lot of options to choose from and it's mostly all readily available.
 
-COVID-19 gave way to too many chefs, artists, and ‘Dalgona’ coffee makers, so why not try your hand at, let’s say, archery?
+COVID-19 gave way to too many chefs, artists, and 'Dalgona' coffee makers, so why not try your hand at, let's say, archery?
 
 But always remember safety first and make sure you invest in some good quality protective archery hand guard.
 
 I hope this was an informative article and do let's know your thoughts in the comments section below.
 
-If you think there should be a brand that hasn’t made it to this list, please let's know.
+If you think there should be a brand that hasn't made it to this list, please let's know.
 
 ## Final Thoughts
 

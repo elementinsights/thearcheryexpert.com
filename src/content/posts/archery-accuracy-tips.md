@@ -59,7 +59,7 @@ Adapt to your environment and successfully land an arrow where you want it.
 
 It's always a must to practice.
 
-Continuously improve your ability to hit the target and aim for that bull’s eye through this archery accuracy tips we've listed for you.
+Continuously improve your ability to hit the target and aim for that bull's eye through this archery accuracy tips we've listed for you.
 
 ## 1. Know Your Equipment
 
@@ -75,7 +75,7 @@ This is vital for you to be able to control your bow and your arrow according to
 
 You can try switching between brands and different kinds of bows.
 
-You can also simply learn to set up and adjust your equipment per your preferences and ability to see what fits you and in what set up you’ll perform best.
+You can also simply learn to set up and adjust your equipment per your preferences and ability to see what fits you and in what set up you'll perform best.
 
 Tuning a bow might be a lot of work but it helps deliver maximum performance.
 
@@ -83,7 +83,7 @@ It helps you get better in aiming and hitting a target when your equipment is tu
 
 Make sure that your accessories are properly installed.
 
-It's also best to ensure that the arrows you’ll use have the correct spine.
+It's also best to ensure that the arrows you'll use have the correct spine.
 
 Tuning, especially for compound bows requires you to make sure that the equipment is at the manufacturer's specified measurement and specs for the bow to work its full potential.
 
@@ -169,7 +169,7 @@ This can help you to easily guide your hands and the bowstring towards the other
 
 Postures and stance go hand in hand.
 
-As archers need to maintain them both when executing a shot for accurate aiming and both should be set properly according to your body’s point of aim.
+As archers need to maintain them both when executing a shot for accurate aiming and both should be set properly according to your body's point of aim.
 
 Your posture, in coordination with the stance you use, affects the tension you apply to the bow upon aiming and execution.
 
@@ -195,13 +195,13 @@ Meanwhile, the elbow on your bow arm should be a bit bent pointing outward again
 
 More detailed instructions on how you can obtain the [best posture for archery](https://www.archery360.com/2018/08/09/proper-archery-posture-yields-consistent-shooting/#:~:text=A%20neutral%20stance%20keeps%20the,hips%20closed%20to%20the%20target.) are widely available on the internet.
 
-You can consult experts as well to guide you in a 2nd person’s point of view.
+You can consult experts as well to guide you in a 2nd person's point of view.
 
 ## 5. Knowing Your Draw Length
 
 The draw length is the distance from the nocking point at the string to the pivot point of the grip when you're in the full draw or simply how far you pull back the string.
 
-Your draw length dramatically affects your accuracy so it's best to always be mindful of how you’re pulling your bow’s string.
+Your draw length dramatically affects your accuracy so it's best to always be mindful of how you're pulling your bow's string.
 
 There are plenty of ways to [measure your draw length](https://thearcheryguide.com/how-to-measure-draw-length/).
 
@@ -239,17 +239,17 @@ Find the weight that will still allow you to keep proper form.
 
 Your overall physique as well as your experience in archery are also factors in deciding the draw weight that you can support.
 
-As you keep practicing, you’ll know the draw weight that will let you get more accurate shots.
+As you keep practicing, you'll know the draw weight that will let you get more accurate shots.
 
 The limit of the draw weight that you can support doesn't limit your skills at all.
 
 Instead, it optimizes your shot.
 
-It's just a matter of preference and comfort and there’s no need to compete if other archers can pull more weight than you.
+It's just a matter of preference and comfort and there's no need to compete if other archers can pull more weight than you.
 
 ## 7. Controlling Your Breathing
 
-If you haven’t noticed, we’ve been mentioning the words “relax” and “comfort” relentlessly.
+If you haven't noticed, we've been mentioning the words "relax" and "comfort" relentlessly.
 
 This is because it's that important in archery that you bear a sound mind and body as you aim for that accurate shot.
 
@@ -295,7 +295,7 @@ You need to put all your preparations together to ensure accuracy because, in ar
 
 Accuracy takes so much more than thinking you can hit the target.
 
-It's setting your body in coordination with your mind to execute a shot that’ll hit the target accurately.
+It's setting your body in coordination with your mind to execute a shot that'll hit the target accurately.
 
 Using release aids are optional but can help you to get a good clean release.
 
@@ -303,13 +303,13 @@ Whether you use compound, recurve, or longbow, there are [various release aids](
 
 The four basic classes of release aids for compound shooters are:
 
-While for recurve and longbow archers, there’s the finger tabs and gloves.
+While for recurve and longbow archers, there's the finger tabs and gloves.
 
 - As you aim, breathe, keep yourself focused yet relaxed
 
 - Observe your overall form once more including your posture, stance, and anchor points
 
-- Once you feel that everything is in place as you would want you'll naturally know when it’s time to release
+- Once you feel that everything is in place as you would want you'll naturally know when it's time to release
 
 - Commit to completing the shot. Extend your chest and intentionally relax your release finger to shoot
 
@@ -333,7 +333,7 @@ Keep proper form and retain the back tension until your arrow hits the target an
 
 The follow-through might be the finishing point of the shot cycle, but it's as crucial as the preparations.
 
-A good follow-through will ensure that you won’t suddenly tweak the bow too early or distract your form that may negatively affect your aim.
+A good follow-through will ensure that you won't suddenly tweak the bow too early or distract your form that may negatively affect your aim.
 
 A good follow-through will also help you evaluate whether your form and release were good and worthy of repeating or it could still be optimized towards better and sharper accuracy.
 
@@ -347,7 +347,7 @@ When you're used to taking control of your posture, stance, and all your form fo
 
 You'll reap the benefit of precision as you go along, and little do you know.
 
-You’re shooting tighter groups in no time.
+You're shooting tighter groups in no time.
 
 Some might suggest that as you practice, try to develop a shooting routine or your very own ritual:
 
@@ -365,6 +365,6 @@ This will help you evaluate and find that comfortable form, stance, techniques, 
 
 ## Final Thoughts
 
-Improving your accuracy isn’t about mastering everything at once. Pick one element of your shot cycle, whether it’s grip, breathing, or follow-through, and drill it until it feels automatic before moving to the next.
+Improving your accuracy isn't about mastering everything at once. Pick one element of your shot cycle, whether it's grip, breathing, or follow-through, and drill it until it feels automatic before moving to the next.
 
-Over time, these individual improvements stack up and your groups will tighten dramatically without you even realizing how much better you’ve gotten.
+Over time, these individual improvements stack up and your groups will tighten dramatically without you even realizing how much better you've gotten.

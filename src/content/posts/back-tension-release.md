@@ -155,7 +155,7 @@ products:
     badge: "Most Popular"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/417-hujlEBL._SL500_.jpg"
-    description: "Scott archery’s longhorn hunter release is built for the hunter; you can take into the woods with confidence."
+    description: "Scott archery's longhorn hunter release is built for the hunter; you can take into the woods with confidence."
     highlights:
       - "Hunter Oriented"
       - "Nylon Connector"
@@ -785,7 +785,7 @@ It has a click feature, which means it will alert you when the bow is about to f
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
-<p class="product-card-desc">Scott archery’s longhorn hunter release is built for the hunter. You can take into the woods with confidence. Three-finger designs are made with light metal, steel, or aluminum, making them light and easy to use.</p>
+<p class="product-card-desc">Scott archery's longhorn hunter release is built for the hunter. You can take into the woods with confidence. Three-finger designs are made with light metal, steel, or aluminum, making them light and easy to use.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Hunter Oriented</span>
 <span class="highlight-tag">Nylon Connector</span>
@@ -824,7 +824,7 @@ Cons
 </div>
 </div>
 
-Scott archery’s longhorn hunter release is built for the hunter. You can take into the woods with confidence.
+Scott archery's longhorn hunter release is built for the hunter. You can take into the woods with confidence.
 
 Three-finger designs are made with light metal, steel, or aluminum, making them light and easy to use.
 
@@ -842,7 +842,7 @@ This item is the perfect release for someone who is trying to get over the targe
 
 Its patented rope connector is great for variable length adjustment of release and adds with ergonomic full radius handle.
 
-Each release puts your fingers in optimal action postures  -  we call this “finger ergonomics.”
+Each release puts your fingers in optimal action postures  -  we call this "finger ergonomics."
 
 ## 7. Carter Enterprises Inc Carter 2 Moons Release &mdash; Best Design
 

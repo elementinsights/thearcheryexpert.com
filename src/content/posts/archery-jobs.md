@@ -63,7 +63,7 @@ People worldwide are discovering archery for entertainment, fitness, and even as
 
 In this article, we'll walk you through 10 of the best archery jobs in the industry.
 
-Without further ado, let’s start, shall we?
+Without further ado, let's start, shall we?
 
 ## Step 1: Professional Archer
 
@@ -83,7 +83,7 @@ It requires immense dedication, practice, patience, and motivation to keep going
 
 The first step to becoming a professional archer is identifying why you want to learn and what kind of archery sport you're interested in pursuing.
 
-There's a wide range of ‘‘Gaming Modes’’ in your classical archery sport, including field archery, target archery, disabled archery, etc.
+There's a wide range of ''Gaming Modes'' in your classical archery sport, including field archery, target archery, disabled archery, etc.
 
 After that, you need to practice, practice, and practice as much as you can.
 
@@ -93,7 +93,7 @@ As you improve your skill and gain exposure, you can try competing on a national
 
 Although motivation, dedication, and practice comprise the critical ingredients in any successful career path, passion is the most crucial factor.
 
-If you've sufficient passion for archery, you’ll eventually build yourself and rise towards success.
+If you've sufficient passion for archery, you'll eventually build yourself and rise towards success.
 
 ## Step 2: Archery Engineer
 
@@ -199,7 +199,7 @@ However, if you want to create something more personal, you can opt for an autho
 
 In this way, you can jot down your passion onto a piece of paper while enjoying the process and allowing fellow archery fans to read and comment.
 
-You don’t need to have specific training or a certification exam to become an archery writer.
+You don't need to have specific training or a certification exam to become an archery writer.
 
 You only need a writing talent and a growing passion for learning about archery in the modern world.
 
@@ -225,7 +225,7 @@ It's best to have a college-level education or a degree to understand wildlife a
 
 ## Step 7: Owner of Archery Shooting Range
 
-As much as we can go on and on about archery sports and archery career paths, if you don’t have a shooting range to practice and play, you can’t do anything about it.
+As much as we can go on and on about archery sports and archery career paths, if you don't have a shooting range to practice and play, you can't do anything about it.
 
 So, for someone who wants to observe archery up close and personal, he/she can invest their dollars in an archery shooting range.
 
@@ -283,7 +283,7 @@ These players give a registration fee to enter the event and compete in differen
 
 The organizers arrange a team of jurors or judges to judge the players on their archery skills, such as the correct bow holding technique, target aiming, etc.
 
-These judges are typically previous archery players that have either retired or don’t want to play in the field anymore.
+These judges are typically previous archery players that have either retired or don't want to play in the field anymore.
 
 Individuals who have a passion for archery can select this career path after significant experience, training, and education in the sport.
 

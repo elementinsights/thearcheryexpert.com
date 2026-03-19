@@ -28,7 +28,7 @@ toc:
     href: "#4-iq-bowsights-7-pin-micro-bow-sight-premium-pick"
   - label: "5. TRUGLO Hyper-Strike Ultra-Light Long Range Bow Sight — Budget Pick"
     href: "#5-truglo-hyper-strike-ultra-light-long-range-bow-sight-budget-pick"
-  - label: "6. 7 Pins Compound Bow Sight. 019” — Most Popular"
+  - label: "6. 7 Pins Compound Bow Sight. 019" — Most Popular"
     href: "#6-7-pins-compound-bow-sight-019-most-popular"
   - label: "7. Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust — Best Design"
     href: "#7-archery-7-pin-bow-sight-0019-optical-fiber-micro-adjust-best-design"
@@ -152,25 +152,25 @@ products:
       - "Carbon composite frame isn't as rugged as full aluminum"
       - "Rotary light limited to 3 brightness positions"
     ctaUrl: "https://www.amazon.com/dp/B078J9Q77F?tag=thearcheryexpert-20"
-  - name: “7 Pins Compound Bow Sight. 019””
+  - name: "7 Pins Compound Bow Sight. 019""
     rank: 6
-    badge: “Most Popular”
+    badge: "Most Popular"
     rating: 8.8
-    image: “https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg”
-    description: “You can go for 7Pins Compound Bow Sight as it is one of the best options for you if you cannot spend a large amount of money or you are just starting.”
+    image: "https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg"
+    description: "You can go for 7Pins Compound Bow Sight as it is one of the best options for you if you cannot spend a large amount of money or you are just starting."
     highlights:
-      - “Starter Friendly”
-      - “LED Sight Light”
-      - “Steel Hardware”
-      - “Ambidextrous”
+      - "Starter Friendly"
+      - "LED Sight Light"
+      - "Steel Hardware"
+      - "Ambidextrous"
     pros:
-      - “Solid aluminum frame with stainless steel hardware for durability”
-      - “Detachable LED sight light with adjustable brightness”
-      - “Works for both left-handed and right-handed shooters”
-      - “One of the most affordable 7-pin sights on the market”
+      - "Solid aluminum frame with stainless steel hardware for durability"
+      - "Detachable LED sight light with adjustable brightness"
+      - "Works for both left-handed and right-handed shooters"
+      - "One of the most affordable 7-pin sights on the market"
     cons:
-      - “Basic feature set compared to premium models”
-      - “LED light requires separate battery replacement”
+      - "Basic feature set compared to premium models"
+      - "LED light requires separate battery replacement"
     ctaUrl: "https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20"
   - name: "Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust"
     rank: 7
@@ -327,7 +327,7 @@ To increase accuracy, many different accessories have been developed which helps
 <tr>
 <td class="table-rank">6</td>
 <td class="table-img"><a href="https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">7 Pins Compound Bow Sight. 019”</td>
+<td class="table-product-name">7 Pins Compound Bow Sight. 019"</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
@@ -469,9 +469,9 @@ Pros
 <ul class="pros-list">
 <li>Made of very good quality material which makes the product long-lasting</li>
 <li>Even with so many features and functions, the IQ Define sight is very lightweight and easy to use</li>
-<li>With IQ Define Pro’s integrated sight, light brightness levels can be adjusted as per shooting conditions</li>
+<li>With IQ Define Pro's integrated sight, light brightness levels can be adjusted as per shooting conditions</li>
 <li>Has a CR-2 battery-powered ranger-finding unit you get higher accuracy up to a distance of 150 yards</li>
-<li>Very easy to use for beginners and doesn’t require much training</li>
+<li>Very easy to use for beginners and doesn't require much training</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -539,7 +539,7 @@ Pros
 </h4>
 <ul class="pros-list">
 <li>Light in weight which makes usage easier and more comfortable</li>
-<li>Comes with intact rheostat light like which means you don’t need to buy it separately</li>
+<li>Comes with intact rheostat light like which means you don't need to buy it separately</li>
 <li>This bow sight is suitable in all kinds of situations and for all types of people due to its versatility</li>
 <li>Cheaper as compared to other premium bow sights available in the market</li>
 <li>Allows long-distance shooting easily with the help of vertical inline technology</li>
@@ -713,16 +713,16 @@ It also has an offsetting that provides more vision during adverse conditions.
 
 Truglo Hyper-Strike Ultra-Light Long Range Bow Sight has tool-less micro windage and elevation adjustment which helps to adjust bow sight as per your requirements.
 
-## 6. 7 Pins Compound Bow Sight. 019” &mdash; Most Popular
+## 6. 7 Pins Compound Bow Sight. 019" &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg" alt="7 Pins Compound Bow Sight. 019”" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg" alt="7 Pins Compound Bow Sight. 019"" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Sight</div>
-<h3 class="product-card-name">7 Pins Compound Bow Sight. 019”</h3>
+<h3 class="product-card-name">7 Pins Compound Bow Sight. 019"</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
@@ -1053,8 +1053,8 @@ Yardage displayed is always horizontal distance (angle compensation built-in), 0
 
 ## Final Thoughts
 
-A 7 pin bow sight gives you the range coverage that shorter pin setups simply can’t match, especially on western hunts or 3D courses with targets out past 60 yards. When choosing one, pay close attention to pin brightness, micro-adjustability, and how cluttered the sight housing feels at full draw.
+A 7 pin bow sight gives you the range coverage that shorter pin setups simply can't match, especially on western hunts or 3D courses with targets out past 60 yards. When choosing one, pay close attention to pin brightness, micro-adjustability, and how cluttered the sight housing feels at full draw.
 
-The right 7 pin sight won’t just help you reach farther targets, it’ll give you the confidence to take those shots cleanly.
+The right 7 pin sight won't just help you reach farther targets, it'll give you the confidence to take those shots cleanly.
 
 If you've poor skill even the best bow sight is useless for you so as soon as you get your new sight start practicing with it so that you can get the desired results.

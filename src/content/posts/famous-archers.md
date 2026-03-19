@@ -112,7 +112,7 @@ The International Archery Federation (FITA) was named Kim, a Female Archer of th
   <span class="stat-text">Darrel Pace - USA</span>
 </div>
 
-Darrel Pace is an American and the only person to win multiple gold medals in the Archery Individual Men’s division of the Olympic games.
+Darrel Pace is an American and the only person to win multiple gold medals in the Archery Individual Men's division of the Olympic games.
 
 The next year, Pace won the US National championships in 1973 and started his four consecutive wins from that year onwards.
 
@@ -126,7 +126,7 @@ The next year, using an all-aluminum shaft, he shot 1316 points and won his firs
 
 But in the 1980 Moscow Olympics, when the US boycotted the Olympics, Pace was thinking of retiring but was ready to compete in the 1984 Los Angeles Olympics.
 
-That w[as the](https://archery360.com/2015/05/21/8-reasons-to-love-archerys-ki-bo-bae/) highest point of Pace’s career, where he finished with 2616 points, a new Olympic record.
+That w[as the](https://archery360.com/2015/05/21/8-reasons-to-love-archerys-ki-bo-bae/) highest point of Pace's career, where he finished with 2616 points, a new Olympic record.
 
 In the 1988 Seoul Olympics, the half FITA rounds used for eliminations took Pace out of the race and, that was the last of his appearance.
 
@@ -155,9 +155,9 @@ But Hyun can hit the size of a grapefruit from a 70-meter distance by looking at
 
 His handicap didn't slow him down, and he refuses to wear glasses because they make him uncomfortable.
 
-Instead, Hyun “relies on distinguishing between the bright colors on the target,” describing it as “different color paints dropped in the water.”
+Instead, Hyun "relies on distinguishing between the bright colors on the target," describing it as "different color paints dropped in the water."
 
-You’ll be surprised when he admits that if he can’t distinguish between colors, then that would be a problem.
+You'll be surprised when he admits that if he can't distinguish between colors, then that would be a problem.
 
 The first time Hyun competed in the 2004 Athens Olympics, he earned 687 points, establishing a world record in a 72-arrow individual recurve qualifying round.
 
@@ -180,9 +180,9 @@ For a sport that requires a sharpened focus and eyesight, Hyun has proven that h
 
 Yun Mi-Jin is a South Korean world-class archer and one of the most successful Olympic athletes.
 
-Referred to as the “Queen with four crowns,” she is the second athlete to hold an Olympic and World individual and team title at the same time.
+Referred to as the "Queen with four crowns," she is the second athlete to hold an Olympic and World individual and team title at the same time.
 
-She was the former world number one in women’s recurve and one of the few who won three Olympic gold medals throughout her competitive career.
+She was the former world number one in women's recurve and one of the few who won three Olympic gold medals throughout her competitive career.
 
 Min-Jin is a petite and poised archer, but her mental strength and focus make her a serious competitor.
 
@@ -240,7 +240,7 @@ Bae has bigger dreams that include teaching Archery to the students of Gwangju U
   <span class="stat-text">Michele Frangelli - Italy</span>
 </div>
 
-Michele Frangelli is an Italian archer who wrote “The Heretic Archer” as an Archery manual for developing your training habits and styles that work for you.
+Michele Frangelli is an Italian archer who wrote "The Heretic Archer" as an Archery manual for developing your training habits and styles that work for you.
 
 Frangelli started his training at the young age of 10 years old in elite Archery in 1986 and has improved his craft for over two decades.
 
@@ -250,13 +250,13 @@ Frangelli is the only [world champion in the](https://worldarchery.org/news/1784
 
 His technique is distinctly unique from an outside observer because it seems to defy the simplicity and elegance which are part of orthodox archery principles.
 
-Along with his father Vittorio in the 1990s, they developed the “heretic technique” designed to focus on the shot cycle, where there's complete control.
+Along with his father Vittorio in the 1990s, they developed the "heretic technique" designed to focus on the shot cycle, where there's complete control.
 
 From 1999 to 2003, Frangelli was a dominant competitor in the 2000 European Grand Prix and won all three legs of the competition then won the individual 2003 World title in New York.
 
 He shot 3 Indoor World records in 2001-2002 and won the field championships in 2000, 2002, and 2006.
 
-While he was able to beat the 3-member Korean Team men’s division, in 2000, it was in 2002 that he won a gold medal in 2002 Nimes with a close match with Jae-Hun, another Korean.
+While he was able to beat the 3-member Korean Team men's division, in 2000, it was in 2002 that he won a gold medal in 2002 Nimes with a close match with Jae-Hun, another Korean.
 
 Frangelli continues to compete in major competitions like the Indoor Archery World series and is part of the Italian National Team's experienced veterans.
 
@@ -283,7 +283,7 @@ The next year at age 19, he won 2 gold medals for the Individual and Team Archer
 
 He laid low for the next six years and was inactive in the front-line national side, but he returned in perfect form and style.
 
-He led the Powerhouse Korean men’s team and won gold in 2001, 2003, and 2005 in the World Archery Championships and Asian Championships.
+He led the Powerhouse Korean men's team and won gold in 2001, 2003, and 2005 in the World Archery Championships and Asian Championships.
 
 In 2004, Kyung-Mo finally competed in the Olympics and won gold in the Team Archery division.
 
@@ -291,7 +291,7 @@ He went on to win the 2006 Archery World Cup finals and a win for the team divis
 
 With the support of the Korean Archery Association, Kyung-Mo practiced extensively with his teammates in a Beijing replica archery field.
 
-It was a close competition with the Italians, but Kyung-Mo’s final shot won gold for the team division and silver in the 2008 Beijing Olympics individual division.
+It was a close competition with the Italians, but Kyung-Mo's final shot won gold for the team division and silver in the 2008 Beijing Olympics individual division.
 
 Retiring after the Beijing Olympics, he coaches the Professional Team of Gongju City Hall and hopes to fulfill his grand slam dream through one of his players.
 
@@ -339,13 +339,13 @@ Along with the gold medal for the Team win, Jin won silver for the Individual Ar
 
 Howard Hill was one of the earliest known expert bowmen in the United States for over two decades from 1930- 1950.
 
-He was often introduced as the “World’s Greatest Archer” and won 196 competitions in the bow-and-arrow field tournaments.
+He was often introduced as the "World's Greatest Archer" and won 196 competitions in the bow-and-arrow field tournaments.
 
 He was a multi-talented athlete in college and even became a semi-pro baseball player as a side career.
 
 He decided to go back to his childhood passion that was archery and started joining longbow field competitions.
 
-He used his employment background as a machinist and manufactured archery equipment or what they call “tackle” in Opa-Locka, Miami.
+He used his employment background as a machinist and manufactured archery equipment or what they call "tackle" in Opa-Locka, Miami.
 
 Hill became involved in Holywood films as a stuntman and archery expert and became a performing artist for movies.
 
@@ -353,7 +353,7 @@ Hill set a new world record in 1928 for the farthest flight shot at 358 meters w
 
 He won his 196th archery win in field competition in the same year, in target shooting, hinting, and flight archery.
 
-You’ll be surprised to know that Hill did actual longbow hunting and killed over 2,000 game animals.
+You'll be surprised to know that Hill did actual longbow hunting and killed over 2,000 game animals.
 
 He was the first white man to use a 41-inch long arrow and pulling a 115-pound bow to kill his celebrated 10,000-pound African bull elephant.
 
@@ -372,11 +372,11 @@ He was the first white man to use a 41-inch long arrow and pulling a 115-pound b
 
 Horace A. Ford had only four years to pick up the bow in 1845 and won the Grand National Meeting in the United Kingdom.
 
-For over 70 years, he held the archery’s high mark record of 1271 points in the Double York Round.
+For over 70 years, he held the archery's high mark record of 1271 points in the Double York Round.
 
 Unmatched with his archery victory for eleven consecutive championships and a twelfth comeback win.
 
-Ford had a powerful presence with a height of 6’ 2,” showing the opponents his strength, thoroughness, and nerve.
+Ford had a powerful presence with a height of 6' 2," showing the opponents his strength, thoroughness, and nerve.
 
 But he lacked grace and ease because of his unique and somewhat peculiar style that earned him consecutive wins.
 
@@ -384,9 +384,9 @@ In 1859 after eleven consecutive wins, Ford suffered from injured muscles in his
 
 He practiced for the next years and only regained his comeback in 1867, to win the Grand National Meeting in Brighton.
 
-[Described as a champion](http://www.stickbow.com/stickbow/history/horace-ford.html) who straddled the line and with a “practiced eye and cool judgment gave precision to his shafts, and gained for him the highest score made upon that occasion.”
+[Described as a champion](http://www.stickbow.com/stickbow/history/horace-ford.html) who straddled the line and with a "practiced eye and cool judgment gave precision to his shafts, and gained for him the highest score made upon that occasion."
 
-He wrote the classic manual “Archery: Its Theory and Practice,” a reference source for modern archery.
+He wrote the classic manual "Archery: Its Theory and Practice," a reference source for modern archery.
 
 He documented the shooting style and technique into a scientific pastime, whereas preciously referred to as playing bows and arrows.
 
@@ -404,7 +404,7 @@ He documented the shooting style and technique into a scientific pastime, wherea
 
 ## Final Thoughts
 
-These ten archers represent the very best of what the sport has produced over centuries. From Im Dong Hyun proving that legal blindness can’t stop a world-class competitor to Horace Ford writing the book that helped modernize archery technique, each person on this list pushed the boundaries of what was thought possible.
+These ten archers represent the very best of what the sport has produced over centuries. From Im Dong Hyun proving that legal blindness can't stop a world-class competitor to Horace Ford writing the book that helped modernize archery technique, each person on this list pushed the boundaries of what was thought possible.
 
 Their stories are a reminder that dedication and relentless practice remain the foundation of greatness in archery.
 

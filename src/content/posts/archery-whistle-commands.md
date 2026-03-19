@@ -47,7 +47,7 @@ Here are the five archery whistle commands you should know.
 
 There are five commands like 1st whistle blast, 2nd whistle blast, 3rd whistle blast, 4th whistle blast, and 5th whistle blast respectively.
 
-As you know, two whistle blast means “go the shooting line”, one whistle blast means “start shooting”, three blast whistle means ”go walk forward and take your arrow”, fours or five whistle blast means “immediately stop shooting and wait for you hear two whistles and go shooting line.”
+As you know, two whistle blast means "go the shooting line", one whistle blast means "start shooting", three blast whistle means "go walk forward and take your arrow", fours or five whistle blast means "immediately stop shooting and wait for you hear two whistles and go shooting line."
 
 ## 5 Archery Whistle Commands Every Archer Should Know
 
@@ -83,15 +83,15 @@ No one can use it during the archer and the target because the archer can shoot 
 
 The archers should know that they can shoot at the target in the opposite positions.
 
-The archers shouldn’t hold bow and arrow. You should put them back in your quiver so that no one gets hurt.
+The archers shouldn't hold bow and arrow. You should put them back in your quiver so that no one gets hurt.
 
 You've to wait for the 1st whistle burst and 2nd whistle bust to begin shooting.
 
-It’s designed to whistle by hand to electronic timing.
+It's designed to whistle by hand to electronic timing.
 
 The archers should shoot at the target in one only direction.
 
-You should be very careful and shouldn’t release your arrow accident because anyone can get hurt.
+You should be very careful and shouldn't release your arrow accident because anyone can get hurt.
 
 You've been very careful and follow the rules and commands while practicing or competing.
 
@@ -105,7 +105,7 @@ Put your arrow in the quiver with a bow until you hear one whistle blast.
 
 You should start shooting.
 
-After shooting, the instructor will blow whistle three. This command means “forward walk and retrieve your arrow.”
+After shooting, the instructor will blow whistle three. This command means "forward walk and retrieve your arrow."
 
 You've to walk towards the line and wait for commands for pulling your arrow from the target.
 
@@ -135,9 +135,9 @@ As you know, archery also needs more practice, inside archery or outside archery
 
 Knowing the archery commands is useful for fun and competitions.
 
-The archery kits are bow and arrow, while the archery’s range on flat level needs to practice safe and healthy target archery.
+The archery kits are bow and arrow, while the archery's range on flat level needs to practice safe and healthy target archery.
 
-For this, the range’s layout and qualified archer must need important archery rules.
+For this, the range's layout and qualified archer must need important archery rules.
 
 There are two types of archery, inside archery and outside archery.
 
@@ -149,15 +149,15 @@ For the field archery, you should allow the entire requirement before install in
 
 They're important before playing archery for the safe and sound conduct of archery.
 
-The act of archery itself should be safe, and the range’s layout must be safe.
+The act of archery itself should be safe, and the range's layout must be safe.
 
 Make sure you stay clear of any obstacles while you shoot your arrows.
 
 Do you know the between archer and target is known as a shooting range?
 
-It’s best to perform archery inside of a shooting range.
+It's best to perform archery inside of a shooting range.
 
-It’s safer, and there's a lesser chance of hitting unintended objects or obstacles.
+It's safer, and there's a lesser chance of hitting unintended objects or obstacles.
 
 It would be best if you had precautions in place before archery practice so that no one will get hurt.
 
@@ -171,9 +171,9 @@ Carefully walk towards the hunting arrow towards your target.
 
 Wait for additional commands after stopping at the target.
 
-You aren’t allowed to wear necklaces, no hoodie, hood strings, no sweatshirt sleeves. Your hair should be tight.
+You aren't allowed to wear necklaces, no hoodie, hood strings, no sweatshirt sleeves. Your hair should be tight.
 
-You won’t get tangled with the bowstring this way.
+You won't get tangled with the bowstring this way.
 
 Comfortable shoes, closed-toe, and your shoes should be sports shoes.
 
@@ -181,7 +181,7 @@ One of wearing things like earrings, rings, and piercings may strike with your b
 
 You must wear your arm guard on your forearms while shooting.
 
-You've to be very careful about the arrow’s point and nock.
+You've to be very careful about the arrow's point and nock.
 
 Since the arrow is the point and sharp too, nock can hurt anyone and can pierce it.
 
@@ -197,7 +197,7 @@ Carry your kits in your quiver and put in your quivery materials.
 
 Pull the arrow and bow, where no one is there. Otherwise, anyone can hurt you.
 
-Before hunting, don’t eat caffeine or sugar. It can make you shaky.
+Before hunting, don't eat caffeine or sugar. It can make you shaky.
 
 Always be straightforward while shooting or archery and drop your arrow after shooting or wait for the signal from the instructors.
 
@@ -219,7 +219,7 @@ It's a competitive archery form of games.
 
 Among all of the archery forms, in the Olympics Games, the standard form is from a distance of 70m.
 
-According to world archery, you've a bow, arrow, and bowstrings and attach them to the string nock’s tip.
+According to world archery, you've a bow, arrow, and bowstrings and attach them to the string nock's tip.
 
 You've a bowstring with several strands according to it that suits you.
 
@@ -231,7 +231,7 @@ The player should have an arrow identical and round.
 
 The index finger must be used with tape or gloves to prevent finger injury.
 
-Different kits like arm guards’ cheat prevention and kits must be used for archery safety.
+Different kits like arm guards' cheat prevention and kits must be used for archery safety.
 
 In the Olympics, it consists of 10 circles, concentric rings maximum 122 cm.
 
@@ -241,7 +241,7 @@ As you know, the outermost circles consist of two rings, i.e., one ring and two 
 
 The score in archery in the Olympics is the highest. It's gold color in the innermost ring.
 
-If you didn’t hit white color, it means no score.
+If you didn't hit white color, it means no score.
 
 You've hit white color. Outermost rings are white color.
 
@@ -281,17 +281,17 @@ There are different formats of archery, but the aim is to hit your target with s
 
 ## 5. [Five whistle blast](https://washington.extension.wisc.edu/files/2010/06/Archery-Safety-Rules-20141.pdf)
 
-In Olympic archery, as you know it’s a game so there's always a runner.
+In Olympic archery, as you know it's a game so there's always a runner.
 
-There are many knocks out and the highest archer having maximum points is the “winner.”
+There are many knocks out and the highest archer having maximum points is the "winner."
 
 The different archery has a different format and timing but having the highest number 10, the innermost gold color is called the winner.
 
 The archer having tied with 10 scores is the winner.
 
-As you know, there's the “winner” who is the most deserving of the archer.
+As you know, there's the "winner" who is the most deserving of the archer.
 
-- Unsafe, danger detect to anyone call is known as “terminate fire”
+- Unsafe, danger detect to anyone call is known as "terminate fire"
 
 - Wait for resume shooting, next signal.
 
@@ -301,9 +301,9 @@ As you know, there's the “winner” who is the most deserving of the archer.
 
 - You should never raise your bow until you get the signal, otherwise, you've to get the penalty.
 
-- An error like misfires, can’t shoot, it’s considered and extra time is given. Not following rules and the commands can be a disqualifier or get the penalty, deduce the point, or be banned too.
+- An error like misfires, can't shoot, it's considered and extra time is given. Not following rules and the commands can be a disqualifier or get the penalty, deduce the point, or be banned too.
 
-- You’re allowed to change your kits if it’s damaged. You've to follow the terms and rules for your safety.
+- You're allowed to change your kits if it's damaged. You've to follow the terms and rules for your safety.
 
 ## [Importance of archery](https://worldarchery.org/news/147916/8-health-benefits-archery)
 
@@ -331,9 +331,9 @@ More strength and healthy
 
 - It also improves your balance between body structures like hands, eyes, shoulder, and chest. One of the most people overcome and gain control of the body, improve the shot, and balance.
 
-- Within this particular, confidence is the most important factor in archery. As you know, archery is a sport that needs confidence to win this game. They're talented archers competing for the title “winner” in archery.
+- Within this particular, confidence is the most important factor in archery. As you know, archery is a sport that needs confidence to win this game. They're talented archers competing for the title "winner" in archery.
 
-- The factor in archery is you've competed with your similar archers and you've to be confident yourself to win this archery. The result of archery calculates your confidence and your self-esteem. You've to increase your individual’s confidence and inner strength to win.
+- The factor in archery is you've competed with your similar archers and you've to be confident yourself to win this archery. The result of archery calculates your confidence and your self-esteem. You've to increase your individual's confidence and inner strength to win.
 
 - The factor in archery needs to remove your distraction from anyone and release your strength, confidence to focus on your bowstring constantly.
 
@@ -349,7 +349,7 @@ More strength and healthy
 
 - It shows the action during archery. If you interact during archery, you'll be happy and enjoy archery.
 
-- It will teach you the meaning of a “group of team.” In archery, more people are more enjoyable and teach you to socialize with one another.
+- It will teach you the meaning of a "group of team." In archery, more people are more enjoyable and teach you to socialize with one another.
 
 - When you're happy then you'll be away from mental depressions and give you a healthy world.
 
@@ -373,4 +373,4 @@ More strength and healthy
 
 Knowing whistle commands is one of the most basic but critical parts of archery range safety. These five signals keep everyone on the same page and prevent accidents during practice and competition.
 
-Make sure you’ve memorized them before your first session, and always follow them without hesitation when you hear them on the range.
+Make sure you've memorized them before your first session, and always follow them without hesitation when you hear them on the range.

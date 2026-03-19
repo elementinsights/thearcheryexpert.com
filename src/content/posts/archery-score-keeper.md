@@ -256,7 +256,7 @@ Remaining focused on a target and improving your skill overall helps your abilit
 
 This mental exercise can help you in remaining cool, calm, and focused on daily life pressure situations.
 
-It’s a sport that can be played individually and with a team as well.
+It's a sport that can be played individually and with a team as well.
 
 Archery improves hand and eye coordination, basically, your hands aim for the target based on the feedback provided by your eyes.
 
@@ -644,7 +644,7 @@ The dimension of the scorebook is 6 x 9 inches, it has 120 pages in total to use
 
 The language used in the notebook is English.
 
-It’s a great tool to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
+It's a great tool to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
 
 ## 5. ARCHERY SCORE SHEETS: Perfect Strike Archery SCOREBOOK &mdash; Budget Pick
 
@@ -782,7 +782,7 @@ The dimension of the scorebook is 6 x 9 inches, it has 120 pages in total to use
 
 The language used in the notebook is English.
 
-It’s a great tool to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
+It's a great tool to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
 
 ## 7. Keep Calm And Shoot Straight: Archery Score Sheets Book &mdash; Best Design
 
@@ -844,7 +844,7 @@ The sheets are round-shaped and the paper is colored white and black with no ble
 
 There are a total of 120 pages, perfectly matte trim, and has a size of 6 x 9 inches.
 
-The language on the pages is English and it’s very light in weight and can be carried easily.
+The language on the pages is English and it's very light in weight and can be carried easily.
 
 Other than that trainers can also use it to improve the skills of their students.
 
@@ -924,7 +924,7 @@ The dimension of the scorebook is 6 x 9 inches, it has 120 pages in total to use
 
 The language used in the notebook is English.
 
-It’s a perfect product to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
+It's a perfect product to assess and improve your skills in archery, you can use it daily while practicing and note down the daily score and in a few days you can compare how improved you're.
 
 ## 9. Draw Anchor Aim: Archery Score Keeping Notebook for Target Shooting &mdash; Best for Beginners
 
@@ -1066,7 +1066,7 @@ In total it has 120 pages and the language of the journal is English.
 
 This logbook can be used in tournaments and for your personal training and practice as well.
 
-Overall, it’s ideal for athletes, trainers, trainees, and regular sports.
+Overall, it's ideal for athletes, trainers, trainees, and regular sports.
 
 Most of the sports and the games that we know mainly improves our physical strengths and improves fitness levels.
 

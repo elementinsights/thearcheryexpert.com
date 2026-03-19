@@ -207,7 +207,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/511gVMVNcoL._SL500_.jpg"
-    description: "If your archer is a regular hunter, what is one thing that’s going to help him when he is out there hunting in the wild? Camouflage cloth."
+    description: "If your archer is a regular hunter, what is one thing that's going to help him when he is out there hunting in the wild? Camouflage cloth."
     highlights:
       - "5-Piece Suit"
       - "3D Leaf Camo"
@@ -430,7 +430,7 @@ The rest comes with a noise-canceling laser-cut felt and all necessary mounting 
 
 The rest also locks in the up position.
 
-The process of attaching the rest to the bow is also extremely simple and thus makes it perfect for your ward’s bow.
+The process of attaching the rest to the bow is also extremely simple and thus makes it perfect for your ward's bow.
 
 This is the perfect gift for a young archer who wants to practice archery at home and feel rejoiced.
 
@@ -448,7 +448,7 @@ This is the perfect gift for a young archer who wants to practice archery at hom
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">The release is essential equipment in archery. An archer needs a release to help him with the shot, but at the same time, protecting the archer’s fingers from physical damage.</p>
+<p class="product-card-desc">The release is essential equipment in archery. An archer needs a release to help him with the shot, but at the same time, protecting the archer's fingers from physical damage.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Buckle Strap</span>
 <span class="highlight-tag">Adjustable Trigger</span>
@@ -488,7 +488,7 @@ Cons
 
 The release is essential equipment in archery.
 
-An archer needs a release to help him with the shot, but at the same time, protecting the archer’s fingers from physical damage.
+An archer needs a release to help him with the shot, but at the same time, protecting the archer's fingers from physical damage.
 
 The release gets used and damaged quite easily, as it's one of the most vigorously involved parts for an archer.
 
@@ -502,7 +502,7 @@ One of the best Arrow Release available in the market is Scott archery Talon Bow
 
 The product comes assured with more tension than any other release in the market.
 
-It has 100% loop clearance which means it won’t cause any string ticks.
+It has 100% loop clearance which means it won't cause any string ticks.
 
 It's equipped with a fully adjustable trigger and travel adjustment and also has grip ridges for accurate force and pull.
 
@@ -616,7 +616,7 @@ This makes it an overall perfect gift for your loved ones.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">If your beloved archer doesn't have a portable case for his most cherished bow and arrows, then there's no doubt that this is the perfect gift for him. A bow’s case is essential in each archer’s arsenal.</p>
+<p class="product-card-desc">If your beloved archer doesn't have a portable case for his most cherished bow and arrows, then there's no doubt that this is the perfect gift for him. A bow's case is essential in each archer's arsenal.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Pillar Lock System</span>
 <span class="highlight-tag">Arrow-Proof Shell</span>
@@ -656,13 +656,13 @@ Cons
 
 If your beloved archer doesn't have a portable case for his most cherished bow and arrows, then there's no doubt that this is the perfect gift for him.
 
-A bow’s case is essential in each archer’s arsenal.
+A bow's case is essential in each archer's arsenal.
 
 It becomes important especially if the archer has to travel a lot, either for shoes or competitions or both.
 
 Carrying the case becomes a whole lot easier and safer.
 
-A case will make the archer’s life a whole lot more organized by stacking all his necessary things in one compact box, and allow him to carry it too.
+A case will make the archer's life a whole lot more organized by stacking all his necessary things in one compact box, and allow him to carry it too.
 
 The best case we recommend is the Plano Protector Compact Case.
 
@@ -822,7 +822,7 @@ Both for maintenance purposes as well as practice purposes, having a bow stand c
 
 When an archer shoots the arrow, he/she now needs to go all the way to the end of the shooting range to get back the pinned arrows from the target.
 
-In this case, you don’t want the bow to be hanging loose or laying on the ground as it can cause potential damage.
+In this case, you don't want the bow to be hanging loose or laying on the ground as it can cause potential damage.
 
 This is a very good example of why a bow stand is useful for an archer for his/her practice sessions.
 
@@ -1016,7 +1016,7 @@ All in all, this durable and comfortable quiver is the best gift for your archer
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">If your archer is a regular hunter, what's one thing that’s going to help him when he is out there hunting in the wild? Camouflage cloth. A camouflage cloth makes a perfect gift for an archer who goes on regular hunts.</p>
+<p class="product-card-desc">If your archer is a regular hunter, what's one thing that's going to help him when he is out there hunting in the wild? Camouflage cloth. A camouflage cloth makes a perfect gift for an archer who goes on regular hunts.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">5-Piece Suit</span>
 <span class="highlight-tag">3D Leaf Camo</span>
@@ -1054,11 +1054,11 @@ Cons
 </div>
 </div>
 
-If your archer is a regular hunter, what's one thing that’s going to help him when he is out there hunting in the wild? Camouflage cloth.
+If your archer is a regular hunter, what's one thing that's going to help him when he is out there hunting in the wild? Camouflage cloth.
 
 A camouflage cloth makes a perfect gift for an archer who goes on regular hunts.
 
-It lasts for years and doesn’t require frequent replacements, making it a reliable and perfect gifting option.
+It lasts for years and doesn't require frequent replacements, making it a reliable and perfect gifting option.
 
 The best camouflage cloth set available in the market is LOOGU Hunting Ghillie Suit.
 
@@ -1150,7 +1150,7 @@ They have adjustable nock and classical shaft.
 
 The orientation of the nocks can be adjusted to fit a recurve bow as well as a compound bow.
 
-The arrows are of L1 quality, made from japan’s Mitsubishi’s top-quality carbon fiber.
+The arrows are of L1 quality, made from japan's Mitsubishi's top-quality carbon fiber.
 
 They're refined through special processes, thus providing it excellent strength and twisting pressure, ensuring a perfect shooting experience.
 

@@ -12,7 +12,7 @@ readTime: "12 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Badlands Pursuit Hunting Backpack"
-  text: "The Badlands Pursuit Hunting Backpack is designed with Badlands’ AirTrack technology. This technology puts channels into the foam suspension so that air can pass between your body and your Backpack. It also has a breathable mesh over the foam as another layer of comfort and ventilation."
+  text: "The Badlands Pursuit Hunting Backpack is designed with Badlands' AirTrack technology. This technology puts channels into the foam suspension so that air can pass between your body and your Backpack. It also has a breathable mesh over the foam as another layer of comfort and ventilation."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B01B2E2YOW?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/51mlFbNJWpL._SL500_.jpg"
-    description: "The Badlands Pursuit Hunting Backpack is designed with Badlands’ AirTrack technology."
+    description: "The Badlands Pursuit Hunting Backpack is designed with Badlands' AirTrack technology."
     highlights:
       - "AirTrack Suspension"
       - "Waterproof Build"
@@ -235,7 +235,7 @@ products:
     badge: "Honorable Mention"
     rating: 8.0
     image: "https://m.media-amazon.com/images/I/51IP6Kab7yL._SL500_.jpg"
-    description: "This Insights’ Hunting Backpack is dubbed the most comprehensive designed hunting backpack available."
+    description: "This Insights' Hunting Backpack is dubbed the most comprehensive designed hunting backpack available."
     highlights:
       - "TS3 Front Panel"
       - "Bow Carrier"
@@ -374,7 +374,7 @@ It's regulated to guard against poaching that's illegal in most countries to pro
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">The Badlands Pursuit Hunting Backpack is designed with Badlands’ AirTrack technology. This technology puts channels into the foam suspension so that air can pass between your body and your Backpack. It also has a breathable mesh over the foam as another layer of comfort and ventilation.</p>
+<p class="product-card-desc">The Badlands Pursuit Hunting Backpack is designed with Badlands' AirTrack technology. This technology puts channels into the foam suspension so that air can pass between your body and your Backpack. It also has a breathable mesh over the foam as another layer of comfort and ventilation.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">AirTrack Suspension</span>
 <span class="highlight-tag">Waterproof Build</span>
@@ -414,7 +414,7 @@ Cons
 </div>
 </div>
 
-The Badlands Pursuit Hunting Backpack is designed with Badlands’ AirTrack technology.
+The Badlands Pursuit Hunting Backpack is designed with Badlands' AirTrack technology.
 
 This technology puts channels into the foam suspension so that air can pass between your body and your Backpack.
 
@@ -424,13 +424,13 @@ The Pursuit has five sports pockets to keep everything organized on the hunt, pl
 
 It has water beads and rolls off, keeping your gear dry for longer.
 
-This Backpack has Badlands’ C6 Durable Water Repellent (DWR) treatment that doesn't allow moisture to seep into fabrics keeping your backpack contents dry.
+This Backpack has Badlands' C6 Durable Water Repellent (DWR) treatment that doesn't allow moisture to seep into fabrics keeping your backpack contents dry.
 
 Its KX0-32 fabric is tough, waterproof, light in weight, and quiet to prevent the hunter from scaring prey away.
 
 Its lightweight is at two pounds, 1500 cubic inches of capacity, and a total weight of 15 OZ.
 
-It fits a Badlands’ 3-liter hydration reservoir and has room for water bottles.
+It fits a Badlands' 3-liter hydration reservoir and has room for water bottles.
 
 It's available in two different color patterns. Approach and Approach FX are neutral color patterns that allow you to adapt to your current surroundings.
 
@@ -1035,7 +1035,7 @@ It's available in various color shades, green and khaki, which camouflages the h
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
-<p class="product-card-desc">This Insights’ Hunting Backpack is dubbed the most comprehensive designed hunting backpack available. This hunting backpack comes with the T53 front panel system featured in Insights’ hybrid weapon carrier packs.</p>
+<p class="product-card-desc">This Insights' Hunting Backpack is dubbed the most comprehensive designed hunting backpack available. This hunting backpack comes with the T53 front panel system featured in Insights' hybrid weapon carrier packs.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">TS3 Front Panel</span>
 <span class="highlight-tag">Bow Carrier</span>
@@ -1074,9 +1074,9 @@ Cons
 </div>
 </div>
 
-This Insights’ Hunting Backpack is dubbed the most comprehensive designed hunting backpack available.
+This Insights' Hunting Backpack is dubbed the most comprehensive designed hunting backpack available.
 
-This hunting backpack comes with the T53 front panel system featured in Insights’ hybrid weapon carrier packs.
+This hunting backpack comes with the T53 front panel system featured in Insights' hybrid weapon carrier packs.
 
 It's designed to tackle anything Mother Nature can dish out and comes with a rain fly allowing you to be prepared in any element.
 
@@ -1092,7 +1092,7 @@ It's designed in Realtree Edge and Timber color shades to camouflage the hunter'
 
 It measures 19.5 inches by 13 inches by 4.5 inches and weighs 3.75 pounds.
 
-This Insights’ Backpack is well built and has a lifetime warranty.
+This Insights' Backpack is well built and has a lifetime warranty.
 
 Hunting backpacks have evolved over the years and have changed functionality and design to make outdoor fashion statements.
 

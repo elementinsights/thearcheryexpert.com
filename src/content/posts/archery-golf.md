@@ -193,7 +193,7 @@ The scoring technique in this game is straightforward and as stated earlier, you
 
 The highest score one can get in this game for smacking the target is ten while you'll get 1 point as your least score.
 
-Where your arrow doesn’t hit the target, you won't get any score.
+Where your arrow doesn't hit the target, you won't get any score.
 
 In most competitions, the participants in archery golf have to fire 72 arrows in 12 different stages.
 
@@ -215,7 +215,7 @@ You'll decide the winner depending on:
 
 - The number of holes a person wins as such, the group or individual with most holes is the winner
 
-- One can also check the highest number of 1’s, 2’s as such
+- One can also check the highest number of 1's, 2's as such
 
 - One can also determine the winner by checking the sudden scorecard death
 
@@ -225,7 +225,7 @@ You'll decide the winner depending on:
 
 Once you acknowledge yourself with the rules of playing this game, now you can get set and head to the golf course to play.
 
-Archery golf is much more like the basic golf game that involves but the main difference lies in what the name suggests ‘archery’.
+Archery golf is much more like the basic golf game that involves but the main difference lies in what the name suggests 'archery'.
 
 Of course, you can't fire an arrow with your target being for it to reach a hole as in standard golf.
 
@@ -331,7 +331,7 @@ They not only make one's life more comfortable in the game but also ensures prot
 
 - Ensure that there's a first-aid kit in your range
 
-- You shouldn’t run when taking out your arrows since you may end up hurting yourself
+- You shouldn't run when taking out your arrows since you may end up hurting yourself
 
 - Never draw your arrow unless your instructor tells you to do so and only pull it when you're at the shooting line
 

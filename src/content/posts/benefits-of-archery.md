@@ -60,9 +60,9 @@ faq:
 
 Are you looking for ways to improve your well being both mentally and physically?
 
-I've exactly what you’re looking for.
+I've exactly what you're looking for.
 
-It’s called archery.
+It's called archery.
 
 For starters, archery is the sport of shooting arrows.
 
@@ -74,7 +74,7 @@ Nowadays, archery has become a kind of sport and has become more and more popula
 
 Now you might be wondering: why should I choose archery over other kinds of sports?
 
-Stick around with me, and I’m going to talk about the ten of the most common health benefits of archery.
+Stick around with me, and I'm going to talk about the ten of the most common health benefits of archery.
 
 ## 1. Archery Improves Hand-Eye Coordination
 
@@ -85,7 +85,7 @@ Stick around with me, and I’m going to talk about the ten of the most common h
 
 In a nutshell, hand-eye coordination is the coordination between the information obtained by the eyes and the movements of the hands.
 
-Let’s say you want to grab a pen placed on your desk.
+Let's say you want to grab a pen placed on your desk.
 
 In this case, your eyes and brain are responsible for locating the object (pen).
 
@@ -97,17 +97,17 @@ Receiving the commands from the brain, your hand will then attempt to reach for 
 
 During this process, your eyes will constantly be sending information to your brain, allowing your hand muscles to make adjustments according to the situation.
 
-That’s it.
+That's it.
 
-That’s what hand-eye coordination means.
+That's what hand-eye coordination means.
 
 When practicing archery, archers are required to have a high degree of hand-eye coordination.
 
-In order to shoot successfully, you’ll have to [aim at the target](https://www.thebodytraining.com/how-to-aim-in-archery/) with great precision.
+In order to shoot successfully, you'll have to [aim at the target](https://www.thebodytraining.com/how-to-aim-in-archery/) with great precision.
 
-When you’re trying to aim at the target, your hands need to make fine and careful adjustments according to the information received by your eyes.
+When you're trying to aim at the target, your hands need to make fine and careful adjustments according to the information received by your eyes.
 
-The need for tremendous hand-eye coordination when it comes to archery means that you’ll be able to train and improve your hand-eye coordination through archery.
+The need for tremendous hand-eye coordination when it comes to archery means that you'll be able to train and improve your hand-eye coordination through archery.
 
 Now you might be asking: why is hand-eye coordination important to us, and why should I care about it?
 
@@ -115,7 +115,7 @@ Not only is hand-eye coordination essential for sports like archery, but it's al
 
 As simple as writing something or tying your shoelaces, hand-eye coordination plays an essential role in those day-to-day tasks.
 
-In other words, the better your hand-eye coordination is, the better you’ll be when performing daily tasks.
+In other words, the better your hand-eye coordination is, the better you'll be when performing daily tasks.
 
 Moreover, a study has shown that people are subject to a decline in hand-eye coordination due to aging.
 
@@ -140,19 +140,19 @@ Did you know that practicing archery is an effective way of strengthening your u
 
 When drawing a bow, muscles like your core, chest, arm, and back muscles are engaged altogether.
 
-That means every time you practice archery. You’re exercising all those muscles simultaneously.
+That means every time you practice archery. You're exercising all those muscles simultaneously.
 
-When you "challenge" your muscles with resistance or weight, you’ll damage the muscles’ fibers.
+When you "challenge" your muscles with resistance or weight, you'll damage the muscles' fibers.
 
-Don’t worry.
+Don't worry.
 
-It’s not going to cause permanent damage to your muscles.
+It's not going to cause permanent damage to your muscles.
 
 Your body will then repair the damaged muscle fibers, making them bigger.
 
 This process is [called muscular hypertrophy](https://www.healthline.com/health/muscular-hypertrophy#how-to).
 
-By practicing archery, you’ll be able to put your muscles to work effectively.
+By practicing archery, you'll be able to put your muscles to work effectively.
 
 For those who want a stronger body, you might want to give archery a try.
 
@@ -165,7 +165,7 @@ For those who want a stronger body, you might want to give archery a try.
 
 The heart is a vital organ of your body, so its health shouldn't be neglected.
 
-Heart diseases like [Coronary Artery Disease](https://www.healthline.com/health/high-cholesterol/preventing-CAD) and [heart failure may arise](https://www.healthline.com/health/heart-failure#prevention) if you don’t take good care of your heart.
+Heart diseases like [Coronary Artery Disease](https://www.healthline.com/health/high-cholesterol/preventing-CAD) and [heart failure may arise](https://www.healthline.com/health/heart-failure#prevention) if you don't take good care of your heart.
 
 Coronary artery disease (CAD) is the most common type of heart disease.
 
@@ -175,7 +175,7 @@ Typically, coronary artery disease is caused by cholesterol plaque buildup in th
 
 Total or partial blockage of arteries caused by cholesterol plaque buildup will lower blood flow to the heart.
 
-Without enough blood flow, the heart won’t function properly, causing the symptoms of coronary artery disease.
+Without enough blood flow, the heart won't function properly, causing the symptoms of coronary artery disease.
 
 These symptoms include angina (chest pain), dizziness, shortness of breath, and so on.
 
@@ -189,7 +189,7 @@ Other factors that may [contribute to heart failure include cardiomyopathy](http
 
 Heart failure symptoms include excessive fatigue, loss of appetite, persistent coughing, sudden weight gain, and so forth.
 
-There are other heart disease types, but I’m not going to go through all of them.
+There are other heart disease types, but I'm not going to go through all of them.
 
 That being said, you should do exercises regularly to help prevent heart diseases.
 
@@ -197,9 +197,9 @@ Archery is a great sport if you want to keep your heart in its best condition.
 
 Much like other sports activities like running, archery can help improve your heart health.
 
-Every time you draw a bow, walk back and forth to retrieve your arrows, you’ll get your heart beating at a higher rate to deliver the oxygen required for your physical activities.
+Every time you draw a bow, walk back and forth to retrieve your arrows, you'll get your heart beating at a higher rate to deliver the oxygen required for your physical activities.
 
-By increasing the heart rate, you’ll exercise the muscles of your heart, thus strengthening it.
+By increasing the heart rate, you'll exercise the muscles of your heart, thus strengthening it.
 
 ## 4. Archery burns calories
 
@@ -212,21 +212,21 @@ A Calorie is a unit used to measure the amount of energy that a certain food or 
 
 All our activities, from walking, running, and even thinking, require calories (or energy).
 
-Calories (energy) are like petrol (fuel) for vehicles. In order to power a vehicle, you’ll need to fill the gas tank with enough petrol.
+Calories (energy) are like petrol (fuel) for vehicles. In order to power a vehicle, you'll need to fill the gas tank with enough petrol.
 
 Unlike vehicles, we humans obtain energy through the consumption of food and beverage, and we calculate the energy consumption in the unit of calories.
 
-Normally, your daily activities will do the job of burning calories, and there’s not much to be worried about it.
+Normally, your daily activities will do the job of burning calories, and there's not much to be worried about it.
 
-However, if you’re consuming too many calories and/or being inactive, your body will have to store those extra calories in the [form of body fat](https://www.healthline.com/nutrition/calories-in-a-pound-of-fat#section3).
+However, if you're consuming too many calories and/or being inactive, your body will have to store those extra calories in the [form of body fat](https://www.healthline.com/nutrition/calories-in-a-pound-of-fat#section3).
 
-And as we all know, that’ll cause health problems like obesity and heart diseases.
+And as we all know, that'll cause health problems like obesity and heart diseases.
 
-Now that we've talked about the dire consequences of having too many calories in our bodies let’s move on to how you can burn calories by practicing archery.
+Now that we've talked about the dire consequences of having too many calories in our bodies let's move on to how you can burn calories by practicing archery.
 
 While many may not know it, but archery is a surprisingly effective way of burning calories.
 
-From drawing a bow to walking back and forth to retrieve arrows from the archery target, you’re consuming a lot of energy in the form of calories.
+From drawing a bow to walking back and forth to retrieve arrows from the archery target, you're consuming a lot of energy in the form of calories.
 
 According to Prevention, practicing archery for half an hour burns around 140 calories.
 
@@ -245,7 +245,7 @@ Need to spend hours in front of the computer typing documents?
 
 All those repetitive tasks that we perform daily may cause stiffness and weakness to our hands and fingers.
 
-A great way to prevent your hands from “getting stiff” or getting injured is by increasing your hand and finger flexibility through archery.
+A great way to prevent your hands from "getting stiff" or getting injured is by increasing your hand and finger flexibility through archery.
 
 As you're aiming at the target, your hands and fingers are fully involved in the process.
 
@@ -258,15 +258,15 @@ This helps exercise your hands and fingers and thus improves flexibility.
   <span class="stat-text">Archery Boosts Self-Esteem</span>
 </div>
 
-Now that we’ve gone through the physical health benefits of archery, what about other kinds of health benefits?
+Now that we've gone through the physical health benefits of archery, what about other kinds of health benefits?
 
 Worry not.
 
 Archery has also got you covered.
 
-Self-esteem is a self-evaluation of one’s worth.
+Self-esteem is a self-evaluation of one's worth.
 
-Self-esteem is subjective and can be affected by different factors such as one’s achievements, others’ opinions about oneself, one’s childhood, etc.
+Self-esteem is subjective and can be affected by different factors such as one's achievements, others' opinions about oneself, one's childhood, etc.
 
 Self-esteem can be viewed as one of the building blocks of your self-identity.
 
@@ -278,17 +278,17 @@ This may prevent them from trying out things or accepting challenges in life, hu
 
 Because of that, it's important to establish a healthy sense of self-esteem.
 
-Have you ever felt as though you don’t have enough confidence?
+Have you ever felt as though you don't have enough confidence?
 
-Do you always feel that you’re inferior to others?
+Do you always feel that you're inferior to others?
 
-If yes, there’s a great chance that you've low self-esteem.
+If yes, there's a great chance that you've low self-esteem.
 
 The good news is: archery can help you gain self-esteem.
 
 When practicing archery, you can set different goals for yourself.
 
-Once you’ve achieved the goals or made improvements, you’ll feel a sense of satisfaction and achievement.
+Once you've achieved the goals or made improvements, you'll feel a sense of satisfaction and achievement.
 
 The increase of self-assurance and positivity will boost your self-esteem, helping you be more confident in yourself.
 
@@ -317,7 +317,7 @@ That said, you might want to pick up archery as your hobby if you want to enhanc
   <span class="stat-text">Archery gives you better focus</span>
 </div>
 
-Do you find yourself always being distracted by other people or the surroundings when you’re trying to complete a certain task?
+Do you find yourself always being distracted by other people or the surroundings when you're trying to complete a certain task?
 
 If so, you might have difficulties focusing on one task.
 
@@ -325,11 +325,11 @@ Practicing archery can help you improve your ability to be focused.
 
 When practicing archery, you've to be focused on the target to aim precisely.
 
-You’ll have to tune out all of your surroundings or distractions and focus on your form (posture) and the target.
+You'll have to tune out all of your surroundings or distractions and focus on your form (posture) and the target.
 
 The huge amount of focus required in archery will help enhance your ability to focus.
 
-After practicing archery, you’ll have better focus when completing daily tasks and be better at handling high-pressure environments.
+After practicing archery, you'll have better focus when completing daily tasks and be better at handling high-pressure environments.
 
 ## 8. Archery Teaches You Patience
 
@@ -362,7 +362,7 @@ Moreover, you'll be more likely to be pessimistic or give up easily when you enc
 
 Life always presents us with different challenges, such as work difficulties and relationship issues.
 
-If you’re unable to remain patient in these situations, you’ll most likely end up failing to solve the issues.
+If you're unable to remain patient in these situations, you'll most likely end up failing to solve the issues.
 
 On the contrary, people with great patience will be able to handle such issues with ease.
 
@@ -376,13 +376,13 @@ Now that you know the importance of patience.
 
 So what can you do to improve your patience?
 
-Before you grasp the technique of archery, you’ll have to go through a lot of trial and error.
+Before you grasp the technique of archery, you'll have to go through a lot of trial and error.
 
 Every successful archery needs to undergo an extensive training period before they become better and better at it.
 
-In other words, you’ll have to be very patient when it comes to practicing archery.
+In other words, you'll have to be very patient when it comes to practicing archery.
 
-Through archery, you’ll learn to endure and deal with setbacks or failure.
+Through archery, you'll learn to endure and deal with setbacks or failure.
 
 Every time you miss the target or fail to achieve an ideal posture, your patience will be put to the test.
 
@@ -397,9 +397,9 @@ Your patience will thus enhance overtime (given that you've never given up durin
 
 Do you want to uplift your mood or relax?
 
-By practicing in an archery court or range, you’ll be able to escape from the hustle and bustle of the city.
+By practicing in an archery court or range, you'll be able to escape from the hustle and bustle of the city.
 
-As archery requires you to concentrate on the form and to aim, you’ll be able to lose yourself in the process, temporarily forget about your frustration and issues.
+As archery requires you to concentrate on the form and to aim, you'll be able to lose yourself in the process, temporarily forget about your frustration and issues.
 
 Practicing archery is a great way for you to relieve a whole week of stress from work (or school), allowing you to regulate your mood.
 
@@ -415,7 +415,7 @@ Stress, pain, and activities like exercising will trigger your body to release e
 
 Do you notice that you feel happier every time after swimming in the pool or hitting the gym?
 
-That’s because your body releases endorphins during sports activities.
+That's because your body releases endorphins during sports activities.
 
 The increase of endorphin levels in your body is linked with several benefits brought to your mental health.
 
@@ -425,9 +425,9 @@ First and foremost, an increase of endorphins in your body can help you cope wit
 
 As endorphins can create a feeling of positivity, they can help relieve symptoms of depression.
 
-What’s more, endorphins can help reduce stress and anxiety, promoting your mental wellness, and keeping you in a stable and healthy food.
+What's more, endorphins can help reduce stress and anxiety, promoting your mental wellness, and keeping you in a stable and healthy food.
 
-It's reported that even small amounts of exercise can increase one’s happiness.
+It's reported that even small amounts of exercise can increase one's happiness.
 
 That said, if you're striving for a happier life and/or better mental health, be sure to try practicing archery.
 
@@ -458,9 +458,9 @@ Maintaining healthy and meaningful social relationships can also provide people 
 
 For example, you can seek emotional support from others when dealing with stress or difficult situations, increasing your ability to deal with such situations.
 
-By taking part in group activities like archery competitions, you’re open to many chances of social interactions.
+By taking part in group activities like archery competitions, you're open to many chances of social interactions.
 
-For example, when participating in archery team competitions, you’ll need to interact and coordinate with your teammates to have a strong and coordinated team.
+For example, when participating in archery team competitions, you'll need to interact and coordinate with your teammates to have a strong and coordinated team.
 
 Apart from that, you can also socialize when practicing archery.
 
@@ -472,5 +472,5 @@ Through social interactions in archery, you'll meet more friends and improve you
 
 Archery delivers a unique combination of physical and mental health benefits that few other sports can match. It strengthens your body, sharpens your focus, teaches patience, and gives you a social outlet all at the same time.
 
-Whether you’re looking for a new fitness routine or a way to decompress after a long week, picking up a bow is one of the best decisions you can make for your overall well-being.
+Whether you're looking for a new fitness routine or a way to decompress after a long week, picking up a bow is one of the best decisions you can make for your overall well-being.
 

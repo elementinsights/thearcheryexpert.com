@@ -41,29 +41,29 @@ faq:
     answer: "Most archers set their pins at 10-yard intervals, starting at 20 yards for the top pin. A common setup is 20, 30, 40, 50, and 60 yards. You'll want to sight in each pin individually, starting with the closest distance and working your way back."
 ---
 
-How do you know that you’re acing your archery game?
+How do you know that you're acing your archery game?
 
-Of course, it’s by hitting the target, and not just once, but anytime you play the game, and the hits are way more than the number of times you miss it.
+Of course, it's by hitting the target, and not just once, but anytime you play the game, and the hits are way more than the number of times you miss it.
 
-However, for you to reach this point, you must have been practicing, which in most times isn’t easy before you get the groove of things in this game.
+However, for you to reach this point, you must have been practicing, which in most times isn't easy before you get the groove of things in this game.
 
 At this point, an archery sight, which you can find in any archery store near you, will come in handy.
 
-It’s a device that helps one be better at shooting and also ensure that anytime you shoot, you're accurate enough, thus hitting the target.
+It's a device that helps one be better at shooting and also ensure that anytime you shoot, you're accurate enough, thus hitting the target.
 
 A sight uses a lens, pins, or any other indicator that will help you accurately hit the target.
 
-When shooting, you need to adjust the sight and also the distance you’ll be shooting your arrow from, here you'll know the best positioning of your bow arm before releasing the string.
+When shooting, you need to adjust the sight and also the distance you'll be shooting your arrow from, here you'll know the best positioning of your bow arm before releasing the string.
 
 As long as you use the chart well, you'll most likely hit the target anytime you try shooting, and the turnaround time will also be fast, so the need to learn how to use it.
 
 ## How To Use An Archery Sight Adjustment Chart For Better Accuracy
 
-In as much as archery is popular, you can’t just start directing your arrow to any direction facing the target and expect to hit it. Sighting in a bow well will help you in this, and this article will show how to navigate through it.
+In as much as archery is popular, you can't just start directing your arrow to any direction facing the target and expect to hit it. Sighting in a bow well will help you in this, and this article will show how to navigate through it.
 
 ## To-Dos Before Starting to Shoot and Adjusting Your Sight
 
-The best way to learn how to shoot well and efficiently is by first adjusting your standing position, ensuring you adopt the most comfortable standing position that shouldn’t be too close to the target nor too far from it.
+The best way to learn how to shoot well and efficiently is by first adjusting your standing position, ensuring you adopt the most comfortable standing position that shouldn't be too close to the target nor too far from it.
 
 You also need to practice your posture and the anchor point, especially the anchor point. It will ensure that the way you look through the sight is the same anytime you're shooting.
 
@@ -77,7 +77,7 @@ Ensure that they're on both sides of the shooting position or line and the dista
 
 The distance apart needs also to be broader than that of your shoulders.
 
-Maintaining these positions isn't easy, but once you understand this, you’ll be able to adjust your sight easily and ultimately improve your accuracy. One gets better by practicing.
+Maintaining these positions isn't easy, but once you understand this, you'll be able to adjust your sight easily and ultimately improve your accuracy. One gets better by practicing.
 
 If your standing position, posture, and your anchor point are consistent, then your draw hand needs to be consistent too.
 
@@ -85,13 +85,13 @@ Make sure you're well conversant with all these steps before starting to adjust 
 
 ## The Basics For Using the Archery Sight Adjustment Chart
 
-Before starting the adjustment process, you should ensure that you’re as close as possible to the target, but it’s not a requirement.
+Before starting the adjustment process, you should ensure that you're as close as possible to the target, but it's not a requirement.
 
-However, you must stand at such a close position since it’s easy to shoot the three arrows from such a point.
+However, you must stand at such a close position since it's easy to shoot the three arrows from such a point.
 
-When you adjust the sights of each of the three arrows, you’ll be improving your shooting accuracy, and once you’re able to align the arrows as close as possible to each other, then be sure that you've the best precision skills in archery.
+When you adjust the sights of each of the three arrows, you'll be improving your shooting accuracy, and once you're able to align the arrows as close as possible to each other, then be sure that you've the best precision skills in archery.
 
-As an archer, you’ll be adjusting the sight so that you're accurate in hitting the target.
+As an archer, you'll be adjusting the sight so that you're accurate in hitting the target.
 
 When altering it, you may either be moving it vertically or horizontally, depending on the direction that your arrow misses the target.
 
@@ -99,21 +99,21 @@ If the arrow misses the target moving to the right side of the target, adjust th
 
 The side to which you should move the sight needs to be such that you adjust it until it covers the other arrows at the end of it all, ensuring that you know the position to move your sight.
 
-It's worth noting that for you to get better results when the distance is close, the adjustments you’ll need to make are significant, unlike when your reach is far.
+It's worth noting that for you to get better results when the distance is close, the adjustments you'll need to make are significant, unlike when your reach is far.
 
 After making the horizontal adjustments, go ahead, and make the vertical adjustments.
 
 When using the multiple pin sight, the top pin needs to be set nearest to the target while the bottom pin is way further away from it.
 
-The case is different when using the single pin sight since you’ll adjust the settings on the sight box.
+The case is different when using the single pin sight since you'll adjust the settings on the sight box.
 
 When making the horizontal adjustment, follow up the direction of the arrows with your sight.
 
 Then adjust its positioning depending on how off it goes from the target.
 
-Sighting in your bow is an extreme sport, and sometimes you've to estimate the adjustment you’ll make.
+Sighting in your bow is an extreme sport, and sometimes you've to estimate the adjustment you'll make.
 
-It's best to ensure that you make small adjustments where you can ensure that you’re accurate in your shooting. Try to spend much of your time improving on your accuracy in shooting.
+It's best to ensure that you make small adjustments where you can ensure that you're accurate in your shooting. Try to spend much of your time improving on your accuracy in shooting.
 
 ## Single pin sight
 
@@ -135,9 +135,9 @@ They will also avoid you from hitting the wrong pin, which many archers haven't 
 
 Ensure you get enough practice using this site, especially if you're new to archery, it may take a considerable amount of time to understand it, but once you do, it will be a walk in the park for you.
 
-When your aiming target is constant, rotate the bow from your exact shooting position, it needs to face your target, and when the target is moving, you’ll have to keep on changing it.
+When your aiming target is constant, rotate the bow from your exact shooting position, it needs to face your target, and when the target is moving, you'll have to keep on changing it.
 
-First, you need to structure the sight at a distance from the yard you’ll be most comfortable with. The best way to get your most comfortable distance is by practicing.
+First, you need to structure the sight at a distance from the yard you'll be most comfortable with. The best way to get your most comfortable distance is by practicing.
 
 Most times, a distance of 20 to 25 yards will work best.
 
@@ -145,31 +145,31 @@ Now that you've your distance in mind, you need to direct your arrow either abov
 
 When using a sight with many pins, most times, you'll shoot at a specific range, which is unlike the single pin sight where you aim either high or low for you to indemnify the yardage.
 
-Most times, you'll find archers shooting at a very close distance to maybe 50 yards from the target, all this time, they won’t need to adjust their sight.
+Most times, you'll find archers shooting at a very close distance to maybe 50 yards from the target, all this time, they won't need to adjust their sight.
 
-This kind of shooting isn’t easy, but one can get better by practicing a lot.
+This kind of shooting isn't easy, but one can get better by practicing a lot.
 
 Before adjusting your sight, first, ensure that you've the most comfortable yardage where you'll have your sight.
 
-The above recommends 20 to 25 yards, but select the one you’re sure that you'll accurately hit the target.
+The above recommends 20 to 25 yards, but select the one you're sure that you'll accurately hit the target.
 
-After selecting the yardage distance, use a rangefinder to move to that distance you’ve set up.
+After selecting the yardage distance, use a rangefinder to move to that distance you've set up.
 
 A rangefinder will help you move to it, and in other cases, you can do it yourself if you can measure the distance accurately off the target.
 
 Shoot three same type arrows on an arrow at a time and ensure that your aim is direct to the center of the target.
 
-When the arrows should align themselves close to each other, for this to happen, ensure you’re careful when shooting.
+When the arrows should align themselves close to each other, for this to happen, ensure you're careful when shooting.
 
 If the arrows are close together, try shooting one arrow at a time.
 
-In some cases, the arrows won't group, which means that either you aren’t shooting well or maybe there’s an issue in one of the arrows.
+In some cases, the arrows won't group, which means that either you aren't shooting well or maybe there's an issue in one of the arrows.
 
 What you need to do now is to adjust the sight and direct it towards the single arrow you shoot.
 
-How you’ll adjust the sight will depend on how your shot went, of which it will either move to the left, right, top, or bottom.
+How you'll adjust the sight will depend on how your shot went, of which it will either move to the left, right, top, or bottom.
 
-For example, if it went to the left and down, then alter your sight towards the left and ensure it faces down. It’s simple.
+For example, if it went to the left and down, then alter your sight towards the left and ensure it faces down. It's simple.
 
 As you initially did when shooting, look into the sight and position your arrow to the center of the target. After aiming position, your bow remains intact.
 
@@ -217,7 +217,7 @@ The best way to employ the multi sight is to closely estimate the yard from the 
 
 At the 10 yard mark, aim the top pin straight to the focal point of your target.
 
-Execute three arrows of the same kind shooting one arrow at a time, and take your time before releasing so that you don’t miss the target.
+Execute three arrows of the same kind shooting one arrow at a time, and take your time before releasing so that you don't miss the target.
 
 In case you miss the target with any of the arrows, modify the sight box following the direction that that missing arrow is at.
 
@@ -241,7 +241,7 @@ If your arrows miss hitting the target and either move to the right or left of t
 
 Move back to the 30-yard mark and adjust the sight to the left or right for here.
 
-After this, move back to the 20-yard mark from where you’ll need to fire three arrows.
+After this, move back to the 20-yard mark from where you'll need to fire three arrows.
 
 At this point, if the sight moves away from the target, use the Allen Wrench to modify the aiming pin, don't tamper with the sight box.
 
@@ -273,9 +273,9 @@ If your sight on the bow is reading level, then you can go ahead and adjust the 
 
 The third axis is the perpendicular element on the bow sight.
 
-When adjusting the third axis, it’ll be swaying the bow sights into and away from you.
+When adjusting the third axis, it'll be swaying the bow sights into and away from you.
 
-If you fail to adjust the third axis when tilting the bow either up or down when shooting, the level sight won’t indicate the correct reading. Thus, your shooting will be off the target.
+If you fail to adjust the third axis when tilting the bow either up or down when shooting, the level sight won't indicate the correct reading. Thus, your shooting will be off the target.
 
 Correct adjusting of the third axis will ensure that the vertical aligning of the bow remains great anytime you fire the arrow, regardless of the direction.
 
@@ -293,4 +293,4 @@ As you shoot to try to make the shots either downhill or uphill, and in case any
 
 Taking the time to properly sight in your bow using an adjustment chart will save you a lot of frustration on the range and in the field. Start close, work your way back, and make small adjustments at each distance until your arrows group tightly.
 
-Once your pins are dialed in and your second and third axes are set, you’ll notice a real improvement in your consistency.
+Once your pins are dialed in and your second and third axes are set, you'll notice a real improvement in your consistency.

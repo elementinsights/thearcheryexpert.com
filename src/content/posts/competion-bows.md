@@ -30,7 +30,7 @@ toc:
     href: "#5-southland-archery-supply-explorer-metal-rise-takedown-recurve-bow-budget-pick"
   - label: "6. Samick Sage Takedown Recurve Bow — Most Popular"
     href: "#6-samick-sage-takedown-recurve-bow-most-popular"
-  - label: "7. SinoArt 68” Takedown Recurve Bow — Best Design"
+  - label: "7. SinoArt 68" Takedown Recurve Bow — Best Design"
     href: "#7-sinoart-68-takedown-recurve-bow-best-design"
   - label: "8. SinoArt Metal Riser Takedown Recurve Bow — Most Durable"
     href: "#8-sinoart-metal-riser-takedown-recurve-bow-most-durable"
@@ -170,7 +170,7 @@ products:
       - "Doesn't include accessories, so you'll need to buy a rest and string separately"
       - "Heavier riser may tire some archers during long practice sessions"
     ctaUrl: "https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20"
-  - name: "SinoArt 68” Takedown Recurve Bow"
+  - name: "SinoArt 68" Takedown Recurve Bow"
     rank: 7
     badge: "Best Design"
     rating: 8.6
@@ -323,7 +323,7 @@ It's easy because the more there's to choose from, the more chances to find some
 <tr>
 <td class="table-rank">7</td>
 <td class="table-img"><a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">SinoArt 68” Takedown Recurve Bow</td>
+<td class="table-product-name">SinoArt 68" Takedown Recurve Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
@@ -434,7 +434,7 @@ With all these features, it's not a surprise that this is the National Archery's
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">Unlike the Genesis Original Bow, which has a Single Cam System, the Diamond Archery bow has a Binary Cam System. According to Diamond Archery, the binary cam system allows flawless nock travel and tuning, maximizing accuracy and consistency. What’s also amazing about this bow is its extreme adjustability.</p>
+<p class="product-card-desc">Unlike the Genesis Original Bow, which has a Single Cam System, the Diamond Archery bow has a Binary Cam System. According to Diamond Archery, the binary cam system allows flawless nock travel and tuning, maximizing accuracy and consistency. What's also amazing about this bow is its extreme adjustability.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Binary Cam System</span>
 <span class="highlight-tag">Wide Adjustment</span>
@@ -476,7 +476,7 @@ Unlike the Genesis Original Bow, which has a Single Cam System, the Diamond Arch
 
 According to Diamond Archery, the binary cam system allows flawless nock travel and tuning, maximizing accuracy and consistency.
 
-What’s also amazing about this bow is its extreme adjustability.
+What's also amazing about this bow is its extreme adjustability.
 
 Through its limb system, you can adjust its weight from 5lbs to 55lbs. It's also perfect for any age and size.
 
@@ -566,7 +566,7 @@ It's perfect for players who want to level up their shooting skills.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">If you're looking for a durable but high-quality bow, the Southland Archery Supply Compound Bow is for you. This compound bow features a compressed ABS limb, which serves to increase the bow’s durability. The ABS limb does this by spanning the bow’s balance, weight, and strength.</p>
+<p class="product-card-desc">If you're looking for a durable but high-quality bow, the Southland Archery Supply Compound Bow is for you. This compound bow features a compressed ABS limb, which serves to increase the bow's durability. The ABS limb does this by spanning the bow's balance, weight, and strength.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">55 lb Draw Weight</span>
 <span class="highlight-tag">CNC Riser</span>
@@ -606,13 +606,13 @@ Cons
 
 If you're looking for a durable but high-quality bow, the Southland Archery Supply Compound Bow is for you.
 
-This compound bow features a compressed ABS limb, which serves to increase the bow’s durability.
+This compound bow features a compressed ABS limb, which serves to increase the bow's durability.
 
-The ABS limb does this by spanning the bow’s balance, weight, and strength.
+The ABS limb does this by spanning the bow's balance, weight, and strength.
 
-It's perfect for honing an aspiring archer’s talents in archery.
+It's perfect for honing an aspiring archer's talents in archery.
 
-With its strong piece layered limb, you can adjust the compound’s draw weight up to 70lbs.
+With its strong piece layered limb, you can adjust the compound's draw weight up to 70lbs.
 
 Back pivoting limb pockets accommodate the limbs to provide enhanced accuracy.
 
@@ -744,7 +744,7 @@ This not only provides agility but durability as well.
 
 Its limbs are interchangeable, making it highly versatile.
 
-You can easily attach any accessory in the bow’s four holes, whether it be a stabilizer, a bow fishing reel, a cushion plunger, or bow sights.
+You can easily attach any accessory in the bow's four holes, whether it be a stabilizer, a bow fishing reel, a cushion plunger, or bow sights.
 
 It can be used for 3D Archery, Field tournaments, Recreational archery, and more.
 
@@ -752,16 +752,16 @@ Samick takes pride in its bows as most Olympic champions use them.
 
 If you're seeking a tried and tested bow, this is the one for you.
 
-## 7. SinoArt 68” Takedown Recurve Bow &mdash; Best Design
+## 7. SinoArt 68" Takedown Recurve Bow &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg" alt="SinoArt 68” Takedown Recurve Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg" alt="SinoArt 68" Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bow</div>
-<h3 class="product-card-name">SinoArt 68” Takedown Recurve Bow</h3>
+<h3 class="product-card-name">SinoArt 68" Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
@@ -812,7 +812,7 @@ It has a draw weight of 16 to 36 lbs, which is less than those in this list.
 
 According to SinoArt, however, if the poundage is high, it's easier for the archer to be out of control and become tired.
 
-This bow also features a maximum draw length of 32”.
+This bow also features a maximum draw length of 32".
 
 If you choose to purchase this, it comes together with other accessories such as an armed guard, finger tab, recurves bow sight, and arrow rest.
 
@@ -832,7 +832,7 @@ It's guaranteed to be worth your every penny.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
-<p class="product-card-desc">The SinoArt Metal Riser Takedown Recurve bow is made with a metal riser, strong fiberglass limb, and maple laminations. It's similar to SinoArt 68”, both having rounded limb pockets and riser. The only difference is this is a bit heavier, with 20 to 36 lbs of draw weight.</p>
+<p class="product-card-desc">The SinoArt Metal Riser Takedown Recurve bow is made with a metal riser, strong fiberglass limb, and maple laminations. It's similar to SinoArt 68", both having rounded limb pockets and riser. The only difference is this is a bit heavier, with 20 to 36 lbs of draw weight.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Metal Riser</span>
 <span class="highlight-tag">Maple Limbs</span>
@@ -872,7 +872,7 @@ Cons
 
 The SinoArt Metal Riser Takedown Recurve bow is made with a metal riser, strong fiberglass limb, and maple laminations.
 
-It's similar to SinoArt 68”, both having rounded limb pockets and riser.
+It's similar to SinoArt 68", both having rounded limb pockets and riser.
 
 The only difference is this is a bit heavier, with 20 to 36 lbs of draw weight.
 

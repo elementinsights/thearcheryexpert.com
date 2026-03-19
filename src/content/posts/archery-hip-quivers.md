@@ -232,7 +232,7 @@ products:
 
 Here's a list of the top archery hip quivers available in the market.
 
-The quiver is a hunter’s gear that he uses for keeping his arrows.
+The quiver is a hunter's gear that he uses for keeping his arrows.
 
 Without a quality quiver, you won't perform well in hunting.
 

@@ -55,7 +55,7 @@ faq:
 
 Here we've got you covered with the 10 most common archery accidents and how you can prevent yourself from a potential accident.
 
-Were you just lucky enough to have a brand new “Bow and Arrow “ as one of your birthday presents?
+Were you just lucky enough to have a brand new "Bow and Arrow " as one of your birthday presents?
 
 Or, perhaps it's something that you've always wanted.
 
@@ -77,7 +77,7 @@ Well, dry firing is one of the most common causes of archery accidents and hence
 
 This is indeed a common mistake with novices.
 
-As the name suggests, “dry firing” basically refers to [firing your bow without an arrow](https://www.pewpewtactical.com/dry-fire-guide-training-home/).
+As the name suggests, "dry firing" basically refers to [firing your bow without an arrow](https://www.pewpewtactical.com/dry-fire-guide-training-home/).
 
 Beginners usually find it intriguing to try out their new bow.
 
@@ -105,7 +105,7 @@ To stay safe from all those potential accidents, threats, and injuries caused du
 
 Did you ever get a string slap?
 
-If not, then perhaps you ain’t a true archer.
+If not, then perhaps you ain't a true archer.
 
 String slaps are the symbols of a successful archer.
 
@@ -113,7 +113,7 @@ Almost every archer out there has had a lot of [string slaps](https://battlearch
 
 Remember, if you're a beginner, you might end up getting bruised on your arms frequently.
 
-These are nothing but called “string slaps”.
+These are nothing but called "string slaps".
 
 These might get very painful at times.
 
@@ -131,7 +131,7 @@ Believe me when I say string slaps hurt very bad.
 
 Sometimes, you might not be even able to lift your hands.
 
-Follow these steps to stay away from these nasty string slaps if you don’t want to hurt yourselves.
+Follow these steps to stay away from these nasty string slaps if you don't want to hurt yourselves.
 
 - Get yourself a good arm guard to protect you from those potential string slaps
 
@@ -141,23 +141,23 @@ Follow these steps to stay away from these nasty string slaps if you don’t wan
 
 - Take rest if you're tired
 
-- Don’t have a very tight grip on the bow rather try to have a loose yet firm grip
+- Don't have a very tight grip on the bow rather try to have a loose yet firm grip
 
 ## Step 3: Improper Shots
 
 Next in the list is perhaps the most common among beginners.
 
-Let me tell you that Improper shots here don’t mean taking a shot the wrong way.
+Let me tell you that Improper shots here don't mean taking a shot the wrong way.
 
 It means the shots that archers take which they're not supposed to or shouldn't.
 
 These refer to the shots that aren't a part of the usual or normal archery.
 
-One of the most dangerous improper shots is the “Amateur Straight Up” shot.
+One of the most dangerous improper shots is the "Amateur Straight Up" shot.
 
 Sometimes, curious beginners try [shooting straight up to the sky](https://www.wired.com/story/can-an-arrow-fired-straight-up-fall-fast-enough-to-kill-you/) to see what happens without thinking of the deadly consequences.
 
-The arrow might come down and pierce straight through someone’s head or face.
+The arrow might come down and pierce straight through someone's head or face.
 
 In the worst cases, people can also die from such a shot.
 
@@ -177,7 +177,7 @@ These are some of the important things that you need to take care of:
 
 ## Step 4: Lack Of Proper Knowledge & Carelessness
 
-It’s only true that a lack of proper knowledge about anything can be dangerous.
+It's only true that a lack of proper knowledge about anything can be dangerous.
 
 When we talk about a sport like archery, people need to be careful and have proper knowledge of all the archery terminologies and practices.
 
@@ -205,21 +205,21 @@ To do with all such potential accidents, here are some of the safety measures yo
 
 Many cases have been reported earlier where nearby people have been hurt by an arrow.
 
-This happens when there are people nearby and you don’t take a look at your target carefully.
+This happens when there are people nearby and you don't take a look at your target carefully.
 
-There’s this man who luckily survived after an [arrow went straight through his neck piercing](https://www.dailymail.co.uk/news/article-2140751/Father-shot-neck-arrow-narrowly-survives-misses-brain-just-millimetre.html) through the other side.
+There's this man who luckily survived after an [arrow went straight through his neck piercing](https://www.dailymail.co.uk/news/article-2140751/Father-shot-neck-arrow-narrowly-survives-misses-brain-just-millimetre.html) through the other side.
 
 The stuck arrow was surgically removed thereafter.
 
 Not just this, a lot of other innocent people have been hurt very badly in the past.
 
-Well, you would never want to end up as a murderer, isn’t it?
+Well, you would never want to end up as a murderer, isn't it?
 
 After all, you just took up archery as an adventurous sport in the first place.
 
 Hurting someone so badly wouldn't be great at all.
 
-In case you don’t want to end up becoming the reason for someone’s death, make sure you take proper safety measures.
+In case you don't want to end up becoming the reason for someone's death, make sure you take proper safety measures.
 
 Follow these steps to avoid such accidents and ensure the safety of others nearby:
 
@@ -239,7 +239,7 @@ That being said, an arrow can also backfire on you.
 
 If your arrows are relatively small or are weak and have cracks on it, you might end up with some gruesome injuries and excruciating pain.
 
-This is something that I’m personally most afraid of.
+This is something that I'm personally most afraid of.
 
 The arrow can break at times and fire small splinters all over you.
 
@@ -249,7 +249,7 @@ A lot of people have gone through such accidents where the parts of the broken a
 
 This can get very painful and dangerous.
 
-A guy got hurt the same way and [wasn’t able to move his injured hands](https://www.archerytalk.com/vb/showthread.php?t=398290) for a couple of months.
+A guy got hurt the same way and [wasn't able to move his injured hands](https://www.archerytalk.com/vb/showthread.php?t=398290) for a couple of months.
 
 While these accidents usually cause injuries on the hands, the pain gets extremely unbearable at times.
 
@@ -259,7 +259,7 @@ To avoid such dangerous accidents, follow these safety checks to stay safe from 
 
 - Invest in some good quality arrows
 
-- Repeat the test a couple of times to ensure everything’s fine
+- Repeat the test a couple of times to ensure everything's fine
 
 - Stay away from smaller arrows and avoid using them
 
@@ -273,7 +273,7 @@ Imagine an arrow backfiring right back at you.
 
 How about an arrow splinter piercing right through your eyeballs?
 
-That won’t be great at all, isn’t it?
+That won't be great at all, isn't it?
 
 [Breast bruises](https://www.archeryinterchange.com/threads/bruise-from-full-draw-why.184200/) are mainly caused due to string slaps or backfiring.
 
@@ -293,7 +293,7 @@ With proper cautionary measures and safety measures, you can stay away from all 
 
 Well, a breast bruise might be painful but a face injury can get deadly at times.
 
-Take care of these few things if you don’t want to end up with an arrow stuck deep inside your face:
+Take care of these few things if you don't want to end up with an arrow stuck deep inside your face:
 
 - Wear safety goggles and other protection on your face to prevent yourself from an accident
 
@@ -313,7 +313,7 @@ Let me tell you pal that you're wrong. There's way more than that.
 
 A [slight torque can break the string](https://www.archerytalk.com/vb/showthread.php?t=5313707) and hurt you badly.
 
-That’s why handling a string the proper way is very crucial.
+That's why handling a string the proper way is very crucial.
 
 You need to apply the exact amount of torque along with a proper draw length to make a safe shot without getting hurt.
 
@@ -327,9 +327,9 @@ And breaking the string will, of course, give you some great deal of pain in cas
 
 No accidents should be treated as small.
 
-You don’t know when things get worse.
+You don't know when things get worse.
 
-It’s always better to stay away from such potential accidents and practice preventive measures.
+It's always better to stay away from such potential accidents and practice preventive measures.
 
 These are some of the safety measures that you should never forget to take care of.
 
@@ -341,7 +341,7 @@ These are some of the safety measures that you should never forget to take care 
 
 ## Step 9: Faulty Equipment & Choice Of Arrows
 
-In case you don’t know, many accidents and injuries happen because of sharp and broadhead arrows.
+In case you don't know, many accidents and injuries happen because of sharp and broadhead arrows.
 
 These are usually meant for hunting.
 
@@ -383,7 +383,7 @@ Many times archers suffer from muscle strain, tendonitis, and other such repetit
 
 These strains may go away soon but can remain for a long time as well.
 
-It's quite obvious that you won’t be able to move your arms if you get a strain.
+It's quite obvious that you won't be able to move your arms if you get a strain.
 
 Strains also can get quite painful at times and they cause a lot of discomfort.
 
@@ -395,9 +395,9 @@ Beginners usually get strains because of an improper posture of the wrong techni
 
 Other archers get strain because of prolonged practicing or other such stuff.
 
-At times you won’t be even able to move your arms for months until you recover.
+At times you won't be even able to move your arms for months until you recover.
 
-Nobody would want that to happen in any instances, isn’t it?
+Nobody would want that to happen in any instances, isn't it?
 
 Strains and sprains can be prevented pretty easily.
 
@@ -409,7 +409,7 @@ It's very important to know about all the common accidents that happen in archer
 
 This makes you aware of the potential injuries that can occur and helps you avoid them by taking preventive measures.
 
-As told, “Prevention is always better than cure”, you should always have the proper knowledge.
+As told, "Prevention is always better than cure", you should always have the proper knowledge.
 
 That being said, these were the 10 most common accidents that are likely to occur in archery.
 
@@ -425,5 +425,5 @@ Well, now you've got a better idea of such potential accidents and how to avoid 
 
 Most archery accidents are completely preventable with the right knowledge and a few simple habits. Always inspect your equipment before shooting, wear proper safety gear like arm guards and shooting glasses, and never skip your warm-up routine.
 
-If you build these safety checks into every session from the start, you’ll enjoy archery for years without any serious injuries getting in the way.
+If you build these safety checks into every session from the start, you'll enjoy archery for years without any serious injuries getting in the way.
 

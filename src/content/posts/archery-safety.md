@@ -105,13 +105,13 @@ Your sole purpose for wanting archery is a closed-door fun-filled adventure that
 
 You need to know what set-up works the best for you to personalize the equipment according to your core objectives.
 
-Your choice reflects on the amount of effort you’ll exert in the preparation process to identify your ideal track like if you want archery for a casual game outdoors with your peers, hunting out in the wild, or a professional tournament you’ve been dreaming of for a long time.
+Your choice reflects on the amount of effort you'll exert in the preparation process to identify your ideal track like if you want archery for a casual game outdoors with your peers, hunting out in the wild, or a professional tournament you've been dreaming of for a long time.
 
 This assessment helps you choose the accurate tools for your expected outcome.
 
 For instance, having the right goods broaden your shooting skill knowledge and make it easier for you to adjust your career or personal goals in this specialty.
 
-Once you’ve finally decided what kind of archery you prefer, you can go ahead and [research what set of equipment you should purchase](http://www.thearcherycompany.com/shop/Content/choosing-your-first-bow.asp) online.
+Once you've finally decided what kind of archery you prefer, you can go ahead and [research what set of equipment you should purchase](http://www.thearcherycompany.com/shop/Content/choosing-your-first-bow.asp) online.
 
 This is vital to the level of physical strength you've as a variety of bows and arrows need to work together in harmony, and failing to do so will cost you inconvenience resulting in poor performance or, worst, minor accidents that we all want to elude.
 
@@ -132,7 +132,7 @@ You may encounter countless bow string slaps and finger calluses so that you may
 
 By constant practice, you're most likely allowing yourself to hone your skills and nest a home of growth inside you.
 
-As you get better, you're simultaneously discovering the dos and don'ts in your avenue of training that will either save or jeopardize you because the art of archery is a trial and error fate just like any other sports - you’ll get hurt in the process.
+As you get better, you're simultaneously discovering the dos and don'ts in your avenue of training that will either save or jeopardize you because the art of archery is a trial and error fate just like any other sports - you'll get hurt in the process.
 
 Avoid having a first not-so-good encounter in a professional duel by equipping yourself with the basic [enactment routine in your safest shape](https://www.acearchers.com/archery-form/what-is-archery-practice/) that serves as a list of habits that you can consolidate and recreate on your strategy to fit in your comfortable pace of learning.
 
@@ -145,7 +145,7 @@ Avoid having a first not-so-good encounter in a professional duel by equipping y
 
 Good posture is vital for health, especially for all those people who have a very active lifestyle, like athletes who spent a myriad of times doing warm-up exercises and routines in their try-outs.
 
-Being able to stand, sit, run, and walk correctly plays a huge role in your immunity, for it sustains your spine’s health and boosts the level of your mobility response.
+Being able to stand, sit, run, and walk correctly plays a huge role in your immunity, for it sustains your spine's health and boosts the level of your mobility response.
 
 In fulfilling your demanding daily schedule, you need to be strong physically, for it influences your efficiency in every performance that requires much force and engagement, like archery.
 
@@ -155,7 +155,7 @@ In the interval of these events, aspiring archers might have practiced shooting 
 
 [Archery techniques compromise posture](https://rangerexpert.com/archery-bow-types-and-terminologies/) for the latter varies on the type of equipment you're using, but regardless of that though, you must comply with the general standard posture and body alignment habits to avoid mild to severe injuries.
 
-Practice makes sense, after all, and we shouldn’t rush the process of learning a flawless posture stunt to avoid irreversible accidents like this.
+Practice makes sense, after all, and we shouldn't rush the process of learning a flawless posture stunt to avoid irreversible accidents like this.
 
 - Muscle Strains and Finger Cuts
 
@@ -190,7 +190,7 @@ It's a natural call for the human to fear inconsistencies and drastic changes sp
 
 Have you watched intense gymnastics in the live sports telecast, or have you been into an adult trampoline park/playground?
 
-If so, you’ll notice one thing they have in common.
+If so, you'll notice one thing they have in common.
 
 Aside from both of the given situations requiring people to bounce, swing, or slide, have you noticed why they can move freely without being anxious about falling off the ground anytime soon?
 
@@ -206,17 +206,17 @@ This element is a substantial part of securing the archery course to guarantee t
 
 Backstops should be a solid base made of thick wood with squashy materials inside that most likely appear as a fence for defense in danger.
 
-This refers to what extent you want your archery field to reach that seen as the “dead-end” crossover - where you adjust your bow strike to make your arrows more visible and reachable.
+This refers to what extent you want your archery field to reach that seen as the "dead-end" crossover - where you adjust your bow strike to make your arrows more visible and reachable.
 
-Don’t go and practice if it’s windy for an obvious reason: a high probability of an accident.
+Don't go and practice if it's windy for an obvious reason: a high probability of an accident.
 
-Make it a habit to also foresee the weather because it contributes to an archery range’s service.
+Make it a habit to also foresee the weather because it contributes to an archery range's service.
 
 The arrows could randomly depart anywhere far, and you can never be certain about what kind of trouble it can cause either - 1, the possibility of arrow drawing back to you or 2, hitting an onlooker by mistake.
 
-We don’t want that to happen, so you should be mindful.
+We don't want that to happen, so you should be mindful.
 
-When we say stability of a place, we’re not just talking about the weather condition but its overall condition: is it neat?
+When we say stability of a place, we're not just talking about the weather condition but its overall condition: is it neat?
 
 Are there any inflammable materials cluttering around?
 
@@ -237,17 +237,17 @@ It's simply because we all want to do what it takes to be good at something we a
 
 Drawing an arrow is no joke, for it requires a massive amount of physical and mental strength to fully submit yourself into the soul of archery and later create a valuable asset as a player, but how do we do that?
 
-Comprehension is the key. We shouldn’t just learn how.
+Comprehension is the key. We shouldn't just learn how.
 
-We should learn to apply every “how” instead.
+We should learn to apply every "how" instead.
 
-If you’re already on good terms with the concept of triggers and bows, you might as well understand that both of them are still weapons that could harm or kill anyone in just a blink of an eye.
+If you're already on good terms with the concept of triggers and bows, you might as well understand that both of them are still weapons that could harm or kill anyone in just a blink of an eye.
 
 Some of the injuries sustained by archers are due to neglect of archery rules, like drawing the bowstring without an arrow.
 
-The simple movement you make, whether intentional or not, can hurt anyone on the field, so it’s a must for you to distinguish the real underlying procedures before shooting.
+The simple movement you make, whether intentional or not, can hurt anyone on the field, so it's a must for you to distinguish the real underlying procedures before shooting.
 
-The proper stance and techniques/procedures should be fully embodied to unleash the wolf of the wild inside you that won’t make unnecessary and impulsive habits while shooting that can be a wholesome threat to safety.
+The proper stance and techniques/procedures should be fully embodied to unleash the wolf of the wild inside you that won't make unnecessary and impulsive habits while shooting that can be a wholesome threat to safety.
 
 ## 6. Learning the Basics
 
@@ -260,15 +260,15 @@ While reading the three words above, many questions must have been intriguing yo
 
 Breathe. Take it easy.
 
-You may be caught red-handed about knowing nothing about this borderline, but it’s okay. .
+You may be caught red-handed about knowing nothing about this borderline, but it's okay. .
 
 It's always a challenge to begin in something you lack sufficient knowledge of but being determined to give it a shot is more than enough.
 
-It's not as easy as what it sounds like, even though archery is known to be one of the safest sports in the world because unexpected mishaps are bound to occur if you don’t familiarize yourself with the basics.
+It's not as easy as what it sounds like, even though archery is known to be one of the safest sports in the world because unexpected mishaps are bound to occur if you don't familiarize yourself with the basics.
 
 Where do we start?
 
-You can search online titles like “Archery 101”, “Everything You Need To Know About Archery” etc.
+You can search online titles like "Archery 101", "Everything You Need To Know About Archery" etc.
 
 But they can be quite vague at first since they have different content, so before writing a list of the basics, spot the core outline of archery and collect all the information needed and consolidate them like this.
 
@@ -276,9 +276,9 @@ Now that you know the gist of basic archery, you can now dissect them into secti
 
 What are the standard rules to follow in archery?
 
-First, start with the classification of bows and how they're used, for you can’t just randomly select a bow and arrow.
+First, start with the classification of bows and how they're used, for you can't just randomly select a bow and arrow.
 
-You need to know what fits you the best. In this part, you’ll know who is allowed to use specific equipment and the requirements or even permits you need to acquire.
+You need to know what fits you the best. In this part, you'll know who is allowed to use specific equipment and the requirements or even permits you need to acquire.
 
 After understanding this, you can start evaluating your capacity to own a set of equipment that suited you.
 
@@ -296,17 +296,17 @@ Archery isn't archery without its etiquettes.
 
 This isn't just a quest for being a good archer by the characteristics you've, it means you've an innate sense of responsibility to do what's right and not what's easy.
 
-Shooting a bow without any consideration to what's happening around you doesn’t make you ignorant but a glaring bright sun in the skyline of the night: You don’t need to be visible at that time but you do.
+Shooting a bow without any consideration to what's happening around you doesn't make you ignorant but a glaring bright sun in the skyline of the night: You don't need to be visible at that time but you do.
 
-This means that you lack respect for everyone’s well-being.
+This means that you lack respect for everyone's well-being.
 
-Insisting intolerable actions doesn’t just make you an incompetent archer but also a trouble-maker in the making because you need to actively involve yourself in people and events taking place around you.
+Insisting intolerable actions doesn't just make you an incompetent archer but also a trouble-maker in the making because you need to actively involve yourself in people and events taking place around you.
 
 The general rule to accomplish something great is to make use of common sense that's no longer common nowadays.
 
 You'll never see an acrobat, swimmer, or even archer wear loads of jewelry before submitting themselves to their hectic tasks.
 
-Precisely, you don’t need to wear anything flashy but a pair of comfortable loose clothes or the official archery suit/attire.
+Precisely, you don't need to wear anything flashy but a pair of comfortable loose clothes or the official archery suit/attire.
 
 ## 7. Consult a Professional
 
@@ -321,7 +321,7 @@ Archery Professionals are significant to your already empowered spirit in learni
 
 Follow their commands and advice as much as possible as it will help you excel in your skills and comprehension.
 
-If you can’t find the above-mentioned, you can inquire in the online frontline desks for archery training schools/institutes regarding the course of learning that you need.
+If you can't find the above-mentioned, you can inquire in the online frontline desks for archery training schools/institutes regarding the course of learning that you need.
 
 ## 8. Wear Safety Gears
 
@@ -351,7 +351,7 @@ Because neglecting to monitor their health before an intensive competition/train
 
 This is the essence of physical conditioning.
 
-It isn’t just an accessory to perform efficiently but an instrument in attaining a powerful immunity that will help them prevent having fatigue and other severe injuries that can put their life at risk.
+It isn't just an accessory to perform efficiently but an instrument in attaining a powerful immunity that will help them prevent having fatigue and other severe injuries that can put their life at risk.
 
 You can do warm-up exercises as a form of body conditioning to achieve wellness and quality results.
 
@@ -362,11 +362,11 @@ You can do warm-up exercises as a form of body conditioning to achieve wellness 
   <span class="stat-text">Take first aid essentials with you</span>
 </div>
 
-You don’t need to be an expert to obtain a first aid kit and other necessary medical tools to take part and attend sport event emergencies.
+You don't need to be an expert to obtain a first aid kit and other necessary medical tools to take part and attend sport event emergencies.
 
 We've tackled common archery injuries that require immediate treatment because sometimes the outside wound may look just fine but it can be a solid problem internally.
 
-Severity is what we don’t wish to overlap with anyone's health which is why it’s more than just an obligation to keep a first aid kit for it saves life and time becomes a golden priority in every inevitable accident.
+Severity is what we don't wish to overlap with anyone's health which is why it's more than just an obligation to keep a first aid kit for it saves life and time becomes a golden priority in every inevitable accident.
 
 Thus, this will prevent anyone who is slightly injured from being in a critical condition - making things in-tact and under control.
 

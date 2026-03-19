@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Wooden Shop Youth Wooden Bow And Arrows"
-  text: "We’ve included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
+  text: "We've included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20"
 toc:
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
-    description: "We’ve included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
+    description: "We've included this Wooden shop youth bow because even kids are interested in archery and you have to start from somewhere so this solid wooden bow is just what you need."
     highlights:
       - "Youth Sized"
       - "Solid Wood"
@@ -135,7 +135,7 @@ products:
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
-    description: "If you’re a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice."
+    description: "If you're a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice."
     highlights:
       - "Laminated Build"
       - "Stable Platform"
@@ -256,9 +256,9 @@ Have you just started archery and are looking for comfortable wooden bows?
 
 Archers these days are shifting from metal bows to wooden bows as they're easy to handle, durable, and long-lasting.
 
-These wooden bows are very helpful in hot weather as the wood doesn’t heat up as quickly as metal.
+These wooden bows are very helpful in hot weather as the wood doesn't heat up as quickly as metal.
 
-From beginners to expert archers or toxophilites, everyone now prefers a wooden bow that can bend but doesn’t break.
+From beginners to expert archers or toxophilites, everyone now prefers a wooden bow that can bend but doesn't break.
 
 Hence, wooden bows are in high demand these days.
 
@@ -376,7 +376,7 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">We’ve included this Wooden shop youth bow because even kids are interested in archery and you've to start from somewhere so this solid wooden bow is just what you need.</p>
+<p class="product-card-desc">We've included this Wooden shop youth bow because even kids are interested in archery and you've to start from somewhere so this solid wooden bow is just what you need.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Youth Sized</span>
 <span class="highlight-tag">Solid Wood</span>
@@ -414,25 +414,25 @@ Cons
 </div>
 </div>
 
-We’ve included this Wooden shop youth bow because even kids are interested in archery and you've to start from somewhere so this solid wooden bow is just what you need.
+We've included this Wooden shop youth bow because even kids are interested in archery and you've to start from somewhere so this solid wooden bow is just what you need.
 
-It’s easy to afford and is accompanied by three pairs of arrows with rubber tips and a quiver which adds extra safety during target practice.
+It's easy to afford and is accompanied by three pairs of arrows with rubber tips and a quiver which adds extra safety during target practice.
 
-For kids, it's the safest choice as it’s a decent-sized bow that measures 40 inches long, and the arrows measure about 21 inches.
+For kids, it's the safest choice as it's a decent-sized bow that measures 40 inches long, and the arrows measure about 21 inches.
 
 Moreover, due to its rubber tips, it's also totally safe to be used by kids.
 
 This youth wooden bow with arrows has a shooting range of about 25 feet which makes it easy for beginners to practice archery.
 
-If you're new at archery then this one is for you because the string is made of elastic which makes it highly durable as it doesn’t break easily so practice all you want.
+If you're new at archery then this one is for you because the string is made of elastic which makes it highly durable as it doesn't break easily so practice all you want.
 
-You can detach the string when you’re not using it and conveniently attach it again anytime.
+You can detach the string when you're not using it and conveniently attach it again anytime.
 
-The arrows feature silt on the other end so when you pull them back on the string it’s easy to hold them.
+The arrows feature silt on the other end so when you pull them back on the string it's easy to hold them.
 
 Another great thing about this bow is that you can also use it in cosplay as well.
 
-Since it’s designed for kids, experts should opt for some other more durable bows.
+Since it's designed for kids, experts should opt for some other more durable bows.
 
 ## 2. Longbowmaker Handmade Longbow &mdash; Runner Up
 
@@ -500,11 +500,11 @@ So, whether you're a kid, an adult, or an expert you can use this bow.
 
 The Longbomaker assures that they test their bows before shipping them.
 
-So, once you’ve placed your order sit back and relax because you won’t have to claim any damages.
+So, once you've placed your order sit back and relax because you won't have to claim any damages.
 
 It comes with a bowstring, recurve bow, and a black cloth bag to keep the bow safe.
 
-So, you don’t need to spend money on additional items.
+So, you don't need to spend money on additional items.
 
 An instruction manual is also included in the package to help you set it up.
 
@@ -570,15 +570,15 @@ If the answer is yes, this SAS Robinhood Longbow is for you.
 
 Southland Archery Supply produces one of the finest bows and arrows and is known for its high-quality products.
 
-It’s suitable for both left and right-hand archers which is part of what makes it a great longbow.
+It's suitable for both left and right-hand archers which is part of what makes it a great longbow.
 
 Opting for this bow will spare you the hassle of changing it frequently because of the high-quality materials used in it which make it durable and reliable.
 
-Moreover, SAS also offers a 1-year warranty so you don’t need to worry about any damages.
+Moreover, SAS also offers a 1-year warranty so you don't need to worry about any damages.
 
 The string which is the most important part of the bow is strong, tough, and long-lasting.
 
-It’s available in different draw lengths varying from 22-29 inches so you can choose your ideal draw length because if the draw length is longer, your bow will shoot faster.
+It's available in different draw lengths varying from 22-29 inches so you can choose your ideal draw length because if the draw length is longer, your bow will shoot faster.
 
 The arrow rest that comes with it keeps the arrow in position and provides it support until you shoot it.
 
@@ -644,11 +644,11 @@ With 35 pounds draw weight, this traditional hunting longbow is suitable for tho
 
 The riser is crafted with high-quality wood while both limbs are built from a combination of wood and fiberglass making it highly durable.
 
-It’s super light at around 1.9 pounds and has a bow length of 53 inches.
+It's super light at around 1.9 pounds and has a bow length of 53 inches.
 
-Detaching and attaching the bowstring is quick and doesn’t take much time so you can conveniently use it anytime you want.
+Detaching and attaching the bowstring is quick and doesn't take much time so you can conveniently use it anytime you want.
 
-In terms of performance, this sturdy bow bends easily but doesn’t break.
+In terms of performance, this sturdy bow bends easily but doesn't break.
 
 This means that you can use it for a long time without compromising on performance.
 
@@ -656,7 +656,7 @@ For the draw length, you get a range of 28 to 31 inches.
 
 Also, the brace height ranges from 16 to 18 cm.
 
-Another great thing about this bow is that it’s versatile as it’s designed for both left and right-handed archers.
+Another great thing about this bow is that it's versatile as it's designed for both left and right-handed archers.
 
 It has an eye-catching traditional look so it blends seamlessly with your décor when you display it on your hallway wall.
 
@@ -664,7 +664,7 @@ It comes fully assembled as is ready to be used as soon as it arrives.
 
 This is a big plus as most beginners find it difficult to assemble bows.
 
-Although it’s for beginners, be careful not to let your kids use it without your supervision as it can cause injuries if not used properly.
+Although it's for beginners, be careful not to let your kids use it without your supervision as it can cause injuries if not used properly.
 
 ## 5. AF Archery Laminated Longbow &mdash; Budget Pick
 
@@ -680,7 +680,7 @@ Although it’s for beginners, be careful not to let your kids use it without yo
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
-<p class="product-card-desc">If you’re a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice. With too many available right now, it’s nice to have a brand that you can trust. AF Archery is a reputable brand that offers great quality at affordable prices.</p>
+<p class="product-card-desc">If you're a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice. With too many available right now, it's nice to have a brand that you can trust. AF Archery is a reputable brand that offers great quality at affordable prices.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Laminated Build</span>
 <span class="highlight-tag">Stable Platform</span>
@@ -718,9 +718,9 @@ Cons
 </div>
 </div>
 
-If you’re a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice.
+If you're a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice.
 
-With too many available right now, it’s nice to have a brand that you can trust.
+With too many available right now, it's nice to have a brand that you can trust.
 
 AF Archery is a reputable brand that offers great quality at affordable prices.
 
@@ -760,7 +760,7 @@ This bow is abrasion resistant and its reinforced tips help it in fast flight.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
-<p class="product-card-desc">Martin Savannah is another name in the industry that creates fine wooden longbows. If you’re someone who takes bow hunting seriously then this bow is for you. This longbow is strengthened with a reflex mechanism that saves energy with each shot while reducing the hand shock.</p>
+<p class="product-card-desc">Martin Savannah is another name in the industry that creates fine wooden longbows. If you're someone who takes bow hunting seriously then this bow is for you. This longbow is strengthened with a reflex mechanism that saves energy with each shot while reducing the hand shock.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Martin Heritage</span>
 <span class="highlight-tag">Reflex Deflex</span>
@@ -800,7 +800,7 @@ Cons
 
 Martin Savannah is another name in the industry that creates fine wooden longbows.
 
-If you’re someone who takes bow hunting seriously then this bow is for you.
+If you're someone who takes bow hunting seriously then this bow is for you.
 
 This longbow is strengthened with a reflex mechanism that saves energy with each shot while reducing the hand shock. '
 
@@ -824,7 +824,7 @@ Due to the vibration-free and reliable results as well as the accuracy with whic
 
 This is one of the finest longbows you can use for hunting.
 
-The draw weight of this longbow ranges between 40 to 65 lb which means it’s suitable for professionals.
+The draw weight of this longbow ranges between 40 to 65 lb which means it's suitable for professionals.
 
 The draw weight is chosen according to your level of experience.
 
@@ -890,7 +890,7 @@ This bow is made of high-quality wood such as Makore and Cassia Siamea ensuring 
 
 Moreover, the limbs are laminated with maple and fiberglass which guarantees reliability and stability.
 
-The grip of this bow is neither too big nor too small it’s built to fit all sizes of hand.
+The grip of this bow is neither too big nor too small it's built to fit all sizes of hand.
 
 This longbow comes with a fur-covered arrow rest for off-shelf which allows quick and precise shots.
 
@@ -966,7 +966,7 @@ For those who are looking to shift to the conventional longbow, enhance their ex
 
 The length of the bow is very decent which measures 64 inches and the draw weight is available in different sizes ranging from 45lbs to 60lbs.
 
-The attraction in this longbow is that it’s crafted with excellent quality materials.
+The attraction in this longbow is that it's crafted with excellent quality materials.
 
 The solid look of the bow comes from its Dymond wood maple riser and the tips covered with black and white fiberglass.
 
@@ -1128,7 +1128,7 @@ Deflex limb design and 64 inches AMO length of the bow gives it accuracy and hel
 
 It also has high-speed black glass and maple core which adds stability to it.
 
-The draw weight of this SAS Gravity longbow is available in 20 to 50lbs and the good news is that it’s available for both right and left-handed people.
+The draw weight of this SAS Gravity longbow is available in 20 to 50lbs and the good news is that it's available for both right and left-handed people.
 
 Adding shooting gloves with it will further enhance the experience as it decreases hand shock.
 

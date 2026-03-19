@@ -215,7 +215,7 @@ products:
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg"
-    description: "This 7-pin bow sight is manufactured by “IQ Bowsight” just like the 5-pin Range Finding Sight."
+    description: "This 7-pin bow sight is manufactured by "IQ Bowsight" just like the 5-pin Range Finding Sight."
     highlights:
       - "Retina Lock Tech"
       - "7 Fiber Optic Pins"
@@ -426,7 +426,7 @@ Secondly, this bow sight is also corrosion-resistant because of using aluminum a
 
 Thirdly, aluminum impermeable, and non-toxic.
 
-Last, this material is also recyclable so it doesn’t add clutter to the Earth.
+Last, this material is also recyclable so it doesn't add clutter to the Earth.
 
 One unique property of this material is its good reflectivity of light which makes the bow sight even more useful for archers as it improves the aiming sight.
 
@@ -525,7 +525,7 @@ It weighs 14.4 ounces and has dimensions of 10 x 4.2 x 3 inches.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">IQ Bowsight which was introduced in 2010 is the manufacturer of this bow sight. IQ Bowsight immediately grabbed people’s attention and quickly became one of the world’s most precise archery sighting systems.</p>
+<p class="product-card-desc">IQ Bowsight which was introduced in 2010 is the manufacturer of this bow sight. IQ Bowsight immediately grabbed people's attention and quickly became one of the world's most precise archery sighting systems.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Built-In Rangefinder</span>
 <span class="highlight-tag">OLED Display</span>
@@ -567,7 +567,7 @@ Cons
 
 IQ Bowsight which was introduced in 2010 is the manufacturer of this bow sight.
 
-IQ Bowsight immediately grabbed people’s attention and quickly became one of the world’s most precise archery sighting systems.
+IQ Bowsight immediately grabbed people's attention and quickly became one of the world's most precise archery sighting systems.
 
 This bow sight has a built-in rangefinder which allows the user to have a clear aiming vision up to 99 yards.
 
@@ -581,7 +581,7 @@ This scope also contains a tool-free windage and elevation system and tool-free 
 
 It also provides long-range accuracy i.e it has a 2nd and 3rd-axis adjustment system for providing a vision of objects placed at longer distances.
 
-This sight’s five 0.19 inch pins provide the user with a better and clearer image by showing the true, angle-compensated yardage on targets.
+This sight's five 0.19 inch pins provide the user with a better and clearer image by showing the true, angle-compensated yardage on targets.
 
 The pins can also be calibrated by a removable red dot laser.
 
@@ -601,7 +601,7 @@ This bow sight runs by a CR2 battery and has a dual mounting system, therefore, 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">Axcel Sights or T.R.U Ball Releases together have produced this bow sight which depicts its great expertise in making this product. The company has a goal to provide archery accessories all over the world and it doesn’t compromise in its quality.</p>
+<p class="product-card-desc">Axcel Sights or T.R.U Ball Releases together have produced this bow sight which depicts its great expertise in making this product. The company has a goal to provide archery accessories all over the world and it doesn't compromise in its quality.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Carbon Construction</span>
 <span class="highlight-tag">Accu-Click Tech</span>
@@ -643,7 +643,7 @@ Cons
 
 Axcel Sights or T.R.U Ball Releases together have produced this bow sight which depicts its great expertise in making this product.
 
-The company has a goal to provide archery accessories all over the world and it doesn’t compromise in its quality.
+The company has a goal to provide archery accessories all over the world and it doesn't compromise in its quality.
 
 The feedstock used for this bow sight is carbon which gives many benefits to the users.
 
@@ -988,7 +988,7 @@ The sight can be adjusted for both left and right-handed users.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">This 7-pin bow sight is manufactured by “IQ Bowsight” just like the 5-pin Range Finding Sight. This bow sight possesses the new Retina Lock Technology that controls the muscle memory and consistency and allows us to shoot at longer distances while also showing the slightest anchor point change.</p>
+<p class="product-card-desc">This 7-pin bow sight is manufactured by "IQ Bowsight" just like the 5-pin Range Finding Sight. This bow sight possesses the new Retina Lock Technology that controls the muscle memory and consistency and allows us to shoot at longer distances while also showing the slightest anchor point change.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Retina Lock Tech</span>
 <span class="highlight-tag">7 Fiber Optic Pins</span>
@@ -1028,13 +1028,13 @@ Cons
 </div>
 </div>
 
-This 7-pin bow sight is manufactured by “IQ Bowsight” just like the 5-pin Range Finding Sight.
+This 7-pin bow sight is manufactured by "IQ Bowsight" just like the 5-pin Range Finding Sight.
 
 This bow sight possesses the new Retina Lock Technology that controls the muscle memory and consistency and allows us to shoot at longer distances while also showing the slightest anchor point change.
 
-Anchor points are the points on the archer’s face such as the chin on which the hand of the archer rests so that to stabilize his hand before the release of the arrow.
+Anchor points are the points on the archer's face such as the chin on which the hand of the archer rests so that to stabilize his hand before the release of the arrow.
 
-Beyond 40 yards most archers’ confidence decreases about their aim due to inconsistent anchor points but with this innovative, patented Retina Lock Technology bowmen shouldn’t worry about it.
+Beyond 40 yards most archers' confidence decreases about their aim due to inconsistent anchor points but with this innovative, patented Retina Lock Technology bowmen shouldn't worry about it.
 
 This gear has 7 fiber optic pins each of 0.19 inches that increases the brightness level up to 30%.
 

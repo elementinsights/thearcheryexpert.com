@@ -271,5 +271,5 @@ That's how you can be led towards perfection in archery.
 
 Your stance and posture form the foundation of every shot you take. Getting your foot position, core engagement, and shoulder alignment right will improve your accuracy more than any piece of gear ever could.
 
-Practice these 10 steps consistently, and you’ll build the muscle memory needed for repeatable, accurate shots every time you step up to the line.
+Practice these 10 steps consistently, and you'll build the muscle memory needed for repeatable, accurate shots every time you step up to the line.
 

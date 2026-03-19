@@ -45,7 +45,7 @@ faq:
 
 People who are passionate about sports make every possible effort to add perfection to their performance.
 
-However, the athlete can’t excel in any sport if they're not using high-quality equipment.
+However, the athlete can't excel in any sport if they're not using high-quality equipment.
 
 Purchasing high-end equipment, though, may put a huge burden on the limited finances of some people.
 
@@ -55,9 +55,9 @@ Similar to many famous sports, Archery isn't complete without a huge range of ac
 
 ## Archery Equipment Rental: What You Need To Know First
 
-Let’s dig into the required facilities for this international sport.
+Let's dig into the required facilities for this international sport.
 
-The Archery rental industry has revolutionized the bows and arrows culture for today’s generation.
+The Archery rental industry has revolutionized the bows and arrows culture for today's generation.
 
 Whether it's an Olympics competition or local, different bow styles and equipment are easily available.
 
@@ -81,7 +81,7 @@ All of them are used according to the level of experience in the Archery.
 
 If you're a beginner, then recurving is the most suitable fit for you.
 
-It doesn’t matter whether you’re left-handed or right-handed. It's handy to use by both.
+It doesn't matter whether you're left-handed or right-handed. It's handy to use by both.
 
 This part is a support system for the arrows.
 
@@ -97,13 +97,13 @@ Boss is a straw or rubber material that holds the target face in its place.
 
 This improves the aiming stance of the player.
 
-It’s a support stand to keep the arrows in their place when not in use.
+It's a support stand to keep the arrows in their place when not in use.
 
 The strings may be harsh on your fingers and skin.
 
 To avoid any sort of physical injury, get hold of the finger tab.
 
-If you hurt your fingers badly, it’ll be immensely difficult for the player to practice with full attention.
+If you hurt your fingers badly, it'll be immensely difficult for the player to practice with full attention.
 
 When making an arrow purchase decision, make sure to opt for the arrow's optimal length and stiffness.
 
@@ -119,7 +119,7 @@ Make sure to choose the arrow with a stronger shaft.
 
 Then comes the Nock part.
 
-It’s the groove end that attaches the arrow with the bowstring.
+It's the groove end that attaches the arrow with the bowstring.
 
 Lastly, the pile is the pointy end of the arrow.
 
@@ -155,7 +155,7 @@ The longer the distance, the larger target is demanded.
 
 The smallest target size is 40 cm of the largest ring, and the largest outdoor target size is 122 cm.
 
-Suppose you hit the bull’s eye, bingo.
+Suppose you hit the bull's eye, bingo.
 
 You've earned 10 points.
 
@@ -219,7 +219,7 @@ Therefore, terrain or elevated land isn't a hurdle.
 
 Instead, a vast open, flat land is used for this type of archery competition.
 
-Ordinary tools don’t work for this game.
+Ordinary tools don't work for this game.
 
 You need to get your hands on professional accessories and special arrows.
 
@@ -229,7 +229,7 @@ These special arrows are shorter than the normal ones.
 
 It's designed with certain materials that help to counter air-resistance and the weight of the arrow during the game.
 
-Let’s see, what are some of the record-breaking distances recorded in the flight archery.
+Let's see, what are some of the record-breaking distances recorded in the flight archery.
 
 A distance of 1222 meters was recorded by a flight bow, 1410 meters from the foot bow, 532 meters from a target recurve bow and 873 meters from a compound target bow.
 
@@ -237,7 +237,7 @@ Therefore, it can be concluded that you're free to use any sort of bow for this 
 
 All you need to do is be mindful of your skillset and choose the right one.
 
-However, it’s safe if a proficient archer engages himself in flight archery.
+However, it's safe if a proficient archer engages himself in flight archery.
 
 This type of archery game is similar to target archery.
 
@@ -295,11 +295,11 @@ This is a tough sport. Therefore, athletes with great endurance should opt for i
 
 This type of archery has its roots in the ancient era.
 
-People don’t use any sort of stabilizers or modern equipment while playing traditional archery.
+People don't use any sort of stabilizers or modern equipment while playing traditional archery.
 
 The most common bows used in these games are longbow or crossbow.
 
-Sometimes, people call this type of archery “trad archery.”
+Sometimes, people call this type of archery "trad archery."
 
 These types of games take you back to the Robin Hood or Katniss Everdeen wannabes, kind of hunting expeditions.
 
@@ -333,7 +333,7 @@ This sport is famous among survivalists and people who have relevant skills in B
 
 Para archery is an amazing sport for disabled people.
 
-People who possess athletic qualities, but their physical condition doesn’t allow them to play the sport, para archery fulfills their sport needs and passion.
+People who possess athletic qualities, but their physical condition doesn't allow them to play the sport, para archery fulfills their sport needs and passion.
 
 International games like Olympic competitions have a separate category for physically impaired athletes that's closely related to sports such as Open, Visually impaired V1/2/3, or W1.
 
@@ -369,7 +369,7 @@ The players use fiberglass bows for practicing archery tag.
 
 This is the best entertainment for office events, parties, etc.
 
-It's a Japanese martial art term that has a literal meaning of “The way of the Bow”.
+It's a Japanese martial art term that has a literal meaning of "The way of the Bow".
 
 It's a form of meditation that helps to develop your physical and spiritual being.
 
@@ -377,7 +377,7 @@ The experts of this entertainment use a Japanese tool, Yumi for this sport.
 
 It's a 2-meter high bow, crafted from bamboo, leather, or wood.
 
-Still, it hasn’t let go of its roots.
+Still, it hasn't let go of its roots.
 
 It's still practiced in the same way as that of ancient times.
 
@@ -419,7 +419,7 @@ Moreover, the family and friends weren't allowed to experience various facilitie
 
 This was a huge setback for the archery rental business.
 
-It’s wise not to include any such policies in your equipment business, the sales will shoot the sealing, as soon as you make it a public store.
+It's wise not to include any such policies in your equipment business, the sales will shoot the sealing, as soon as you make it a public store.
 
 Experiences and experiments are a part of life.
 
@@ -447,7 +447,7 @@ It's necessary to have good-quality equipment but at a decent price.
 
 This way, the archery rental business can be very profitable.
 
-Don’t spend money on expensive advertising, or social media marketing.
+Don't spend money on expensive advertising, or social media marketing.
 
 Use cheaper means, and your rental business will start growing in a very short period.
 
@@ -467,7 +467,7 @@ If you want to rent the tools, an electronic range sign-in is necessary along wi
 
 This way the company isn't bound to provide insurance to its users.
 
-There are few overhead costs, process archery rentals, but all of it‘s still profitable.
+There are few overhead costs, process archery rentals, but all of it's still profitable.
 
 Just make sure that you know all the required information, and have complete knowledge of archery before getting yourself into this.
 
@@ -475,7 +475,7 @@ Just make sure that you know all the required information, and have complete kno
 
 In open shooting ranges, [different hourly rates](https://www.eastonsaltlakearcherycenter.org/hourly-rates) are applicable on different hours and days of the week.
 
-Early morning to noon shooting, you’ll be charged $5 for each hour.
+Early morning to noon shooting, you'll be charged $5 for each hour.
 
 n evening to a night shift will be charged at $10 per hour from Tuesday to Friday.
 

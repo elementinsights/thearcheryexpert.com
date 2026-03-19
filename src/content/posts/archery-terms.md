@@ -83,25 +83,25 @@ faq:
     answer: "Back tension refers to actively engaging your back muscles to hold the bow at full draw and execute a clean release. Instead of relying on your arm and hand to release the string, you use your shoulder blades to create the motion. It's considered one of the most important techniques for consistent accuracy."
 ---
 
-The philosopher Confucius once said, “In archery, we've something just like the way of the superior man, when the archer misses the center of the target, he turns round and seeks for the cause of his defeat in himself.”
+The philosopher Confucius once said, "In archery, we've something just like the way of the superior man, when the archer misses the center of the target, he turns round and seeks for the cause of his defeat in himself."
 
 In the archaic time, people used arrows and bows to secure the need for their food.
 
 Today in this modern age, archery is a passionate and challenging sport for those who love thrills and have the patience to achieve their destination.
 
-So, If you're a person who loves archery and want to know about it, then you're in the right place because in this article you'll be able to find the ‘must-know terms’ of this incredible sport.
+So, If you're a person who loves archery and want to know about it, then you're in the right place because in this article you'll be able to find the 'must-know terms' of this incredible sport.
 
 The terminology of a game is very important to learn the fundamental concept.
 
-Still, it’s often quite new and sometimes out of context or a little complicated to understand at first.
+Still, it's often quite new and sometimes out of context or a little complicated to understand at first.
 
-Whether you’re an admirer, novice, or passionate archer, there's a lot of archery terminology out there that sometimes you might feel like a newcomer or are listening to a foreign language.
+Whether you're an admirer, novice, or passionate archer, there's a lot of archery terminology out there that sometimes you might feel like a newcomer or are listening to a foreign language.
 
 ## 89 Archery Terms Everyone Should Know
 
 In this writing, you'll find a handy reference for archery equipment, arrows, bows, tuning, form, acronyms, etc.
 
-We'll discuss more than 50 terms here, so hold your breath and let’s explore the world of archery.
+We'll discuss more than 50 terms here, so hold your breath and let's explore the world of archery.
 
 ## A:
 

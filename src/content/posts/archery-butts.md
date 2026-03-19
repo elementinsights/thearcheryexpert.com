@@ -46,7 +46,7 @@ toc:
     href: "#history-of-archery-in-mesopotamia"
   - label: "Decline Of Archery & Development Of Firearms"
     href: "#decline-of-archery-development-of-firearms"
-  - label: "Best Archery Tips For You & The Don’ts"
+  - label: "Best Archery Tips For You & The Don'ts"
     href: "#best-archery-tips-for-you-the-donts"
   - label: "FAQ"
     href: "#faq"
@@ -73,7 +73,7 @@ Archery is one of the most widespread sporting activity that involves shooting a
 
 As an archery enthusiast, you might have come across terms such as archery butts, and you can't get a proper definition.
 
-Let’s get into the details that give you more insight into archery butts and their use in different parts of the world.
+Let's get into the details that give you more insight into archery butts and their use in different parts of the world.
 
 ## What Are Archery Butts?
 
@@ -93,7 +93,7 @@ The expertise in archery is a measure of the accuracy of shooting on archery but
 
 The above statement makes an archer with the best precision to the target an expert in archery, whereas an archer with reduced precision on the target an unskilled archer.
 
-It’s true to say archery has changed over the years due to technological changes and the need to make this sport more exciting and engaging.
+It's true to say archery has changed over the years due to technological changes and the need to make this sport more exciting and engaging.
 
 ## History Of Archery Butts
 
@@ -185,7 +185,7 @@ The archery butts in the modern days take up the forms of different animals or t
 
 Making it possible to generate 3D archery models that make this sporting activity even more breathtaking.
 
-Some archery butts take up the life-like forms of animals to increase the ‘realness’ of the sport even as a leisure practice.
+Some archery butts take up the life-like forms of animals to increase the 'realness' of the sport even as a leisure practice.
 
 The materials used in the manufacture of these butts vary in texture and durability with foam and straw as the common materials used in butts.
 
@@ -245,7 +245,7 @@ The shooter with the highest line breakers gets the highest score.
 
 Archery is an everyday leisure activity in many parts of the world.
 
-If you’re a shooting enthusiast, archery is a superb pastime activity that refreshes your mind.
+If you're a shooting enthusiast, archery is a superb pastime activity that refreshes your mind.
 
 As you take part in archery, you develop your shooting skills which are essential for survival.
 
@@ -363,7 +363,7 @@ However, archery continued in some regions including the Scottish Highlands whic
 
 Mounted archery remained as a form of archery until the Ottoman Army underwent reforms in 1826.
 
-## Best Archery Tips For You & The Don’ts
+## Best Archery Tips For You & The Don'ts
 
 Like any other sport, archery has tips that help you acquire the desired posture and increase accuracy.
 

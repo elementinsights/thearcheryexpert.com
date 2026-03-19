@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Huntingdoor Archery Traditional Recurve Mongolian Horse Bow"
-  text: "The Mongolians have the fiercest army in the ancient world. They’re swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians’ secrets in battle is their horsemen, particularly the horse bow infantry."
+  text: "The Mongolians have the fiercest army in the ancient world. They're swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians' secrets in battle is their horsemen, particularly the horse bow infantry."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B077QGH19V?tag=thearcheryexpert-20"
 toc:
@@ -95,7 +95,7 @@ products:
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg"
-    description: "Another bow of AF Archery that I’ll be talking about is the AF Archery Horse Bow."
+    description: "Another bow of AF Archery that I'll be talking about is the AF Archery Horse Bow."
     highlights:
       - "Crimean Tatar Style"
       - "Handcrafted"
@@ -235,7 +235,7 @@ products:
     badge: "Honorable Mention"
     rating: 8.0
     image: "https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg"
-    description: "If you’re looking for an archery store with a long history, then you must visit Bear Archery."
+    description: "If you're looking for an archery store with a long history, then you must visit Bear Archery."
     highlights:
       - "Bear Heritage"
       - "Satin Finish"
@@ -254,13 +254,13 @@ products:
 
 Today, we'll take a look at the best mounted archery bows & their reviews to help you determine your best pick.
 
-If you’re a beginner in any endeavor of your choosing, the primary source of stress and fun at the same time is the gear or items that you’ll use in this new kind of activity.
+If you're a beginner in any endeavor of your choosing, the primary source of stress and fun at the same time is the gear or items that you'll use in this new kind of activity.
 
-For me, the passion for mounted archery is rare because there’s not much competitive buzz around them, and not everybody has access to horses or even an open field.
+For me, the passion for mounted archery is rare because there's not much competitive buzz around them, and not everybody has access to horses or even an open field.
 
-Nonetheless, it’s a very enjoyable recreational activity if you've the necessary sources and once you mastered or at least known the basics of the sports.
+Nonetheless, it's a very enjoyable recreational activity if you've the necessary sources and once you mastered or at least known the basics of the sports.
 
-Anyway, you might’ve come here because a passion for mounted archery developed within you.
+Anyway, you might've come here because a passion for mounted archery developed within you.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -370,7 +370,7 @@ Anyway, you might’ve come here because a passion for mounted archery developed
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">The Mongolians have the fiercest army in the ancient world. They’re swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians’ secrets in battle is their horsemen, particularly the horse bow infantry.</p>
+<p class="product-card-desc">The Mongolians have the fiercest army in the ancient world. They're swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians' secrets in battle is their horsemen, particularly the horse bow infantry.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Mongolian Style</span>
 <span class="highlight-tag">Leather Wrapped</span>
@@ -410,23 +410,23 @@ Cons
 
 The Mongolians have the fiercest army in the ancient world.
 
-They’re swift and effective that their enemy fears facing them on the battlefield.
+They're swift and effective that their enemy fears facing them on the battlefield.
 
-And one of the Mongolians’ secrets in battle is their horsemen, particularly the horse bow infantry.
+And one of the Mongolians' secrets in battle is their horsemen, particularly the horse bow infantry.
 
 Up until the present time, they're still among the best-mounted horsemen in the world.
 
-If you’re a beginner in mounted archery and looking for the best bows you can use, then a better way to begin your journey than using the traditional Mongolian bow.
+If you're a beginner in mounted archery and looking for the best bows you can use, then a better way to begin your journey than using the traditional Mongolian bow.
 
-And if you’re looking for the best Mongolian bow in the market, then the Huntingdoor Archery Recurve Horsebow is what you’re looking for.
+And if you're looking for the best Mongolian bow in the market, then the Huntingdoor Archery Recurve Horsebow is what you're looking for.
 
-They’re carefully handcrafted from genuine materials.
+They're carefully handcrafted from genuine materials.
 
 From the wood, leather, and thread used in the bowstring, you can rest assured that they're authentic.
 
-It’s also very flexible and durable that could last for a long time.
+It's also very flexible and durable that could last for a long time.
 
-And even if you used them, they won’t easily depreciate.
+And even if you used them, they won't easily depreciate.
 
 Also, the leather grip of the bow is simply amazing.
 
@@ -436,11 +436,11 @@ And one way to maximize these factors is to accompany your skill with the best e
 
 The Huntingdoor Horsebow takes into account such concerns and helps you become a better horseback archer.
 
-And to reinforce your effectiveness in the field, it’s lightweight that allows you to be mobile even on rough terrains.
+And to reinforce your effectiveness in the field, it's lightweight that allows you to be mobile even on rough terrains.
 
 Another plus factor of this horse bow package is that it also includes other essential items like gloves, bowstrings, armguard, shooting gloves, quiver, etc.
 
-They're a good value for money, and I assure you that you won’t regret buying them.
+They're a good value for money, and I assure you that you won't regret buying them.
 
 ## 2. AF Turkish Short Bow &mdash; Runner Up
 
@@ -544,7 +544,7 @@ Nevertheless, it's a great bow to own if you value the equipment's durability an
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">Another bow of AF Archery that I’ll be talking about is the AF Archery Horse Bow. The brand itself produces some of the top bows in the market. Therefore, rest assured that you’re only receiving the best if you buy any of their archery equipment.</p>
+<p class="product-card-desc">Another bow of AF Archery that I'll be talking about is the AF Archery Horse Bow. The brand itself produces some of the top bows in the market. Therefore, rest assured that you're only receiving the best if you buy any of their archery equipment.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Crimean Tatar Style</span>
 <span class="highlight-tag">Handcrafted</span>
@@ -582,17 +582,17 @@ Cons
 </div>
 </div>
 
-Another bow of AF Archery that I’ll be talking about is the AF Archery Horse Bow.
+Another bow of AF Archery that I'll be talking about is the AF Archery Horse Bow.
 
 The brand itself produces some of the top bows in the market.
 
-Therefore, rest assured that you’re only receiving the best if you buy any of their archery equipment.
+Therefore, rest assured that you're only receiving the best if you buy any of their archery equipment.
 
 This model is another adaptation from an ancient bow design called the Crimean Tatar.
 
 Crimea is an indigenous tribe found in the Eastern regions of Europe.
 
-They’re mainly considered of Turkish ethnicity.
+They're mainly considered of Turkish ethnicity.
 
 The term Tatar was in usage in both Turkish tribes and the Mongolian civilization.
 
@@ -600,15 +600,15 @@ Back in those periods, the bow is extremely effective in both land combat and ho
 
 However, the design of the bow is primarily as a cavalry weapon, warrior on horseback.
 
-If you want to experience the feeling of using such a weapon, then you've to consider AF’s Handmade Traditional Crimean Tatar Recurve Bow.
+If you want to experience the feeling of using such a weapon, then you've to consider AF's Handmade Traditional Crimean Tatar Recurve Bow.
 
-Yes, the bow is handcrafted, which means that it’s top-notch quality.
+Yes, the bow is handcrafted, which means that it's top-notch quality.
 
-Although it’s not 100% traditional, the manufacturers still use core materials such as ashwood and bamboo.
+Although it's not 100% traditional, the manufacturers still use core materials such as ashwood and bamboo.
 
-Again, ashwood is extremely tough and won’t break that easily.
+Again, ashwood is extremely tough and won't break that easily.
 
-On the other hand, the addition of fiberglass into the mix enhances the bow’s durability.
+On the other hand, the addition of fiberglass into the mix enhances the bow's durability.
 
 Also, the overall design of the bow is pleasing to look at but not too flashy.
 
@@ -672,21 +672,21 @@ Southland Archery is a popular archery supply provider.
 
 They have a wide range of selections in supplies.
 
-It doesn’t if your intention is either for official competitions or just a hobby - they have it.
+It doesn't if your intention is either for official competitions or just a hobby - they have it.
 
-The Southland Archery Traditional Recurve Bow is the perfect horse bow if you’re specifically conscious about its overall aesthetic.
+The Southland Archery Traditional Recurve Bow is the perfect horse bow if you're specifically conscious about its overall aesthetic.
 
 The design features an extremely tough core that provides better stability.
 
 By doing so, results in an improved aim and increases your chances of hitting the target.
 
-Both ends of the bow may not look that durable, but they’re strong enough to handle a high level of pressure.
+Both ends of the bow may not look that durable, but they're strong enough to handle a high level of pressure.
 
 The design of the rise was developed from the original Samick Sage, and then it was upgraded to address the needs of modern mounted archers.
 
 However, it's more suitable for individuals with smaller stature like kids, teenagers, and others with small body frames.
 
-Did I mention that they’re durable?
+Did I mention that they're durable?
 
 And yes, indeed they're.
 
@@ -698,9 +698,9 @@ As a result, it leads to a tougher, versatile, and more durable recurve bow.
 
 In addition to the strength it brings, the blend of woods also improves your performance and increases your chances of hitting your intended target.
 
-Lastly, they’re portable.
+Lastly, they're portable.
 
-What this means is that you can put them away easily when you’re on a trip.
+What this means is that you can put them away easily when you're on a trip.
 
 They also offer a great package.
 
@@ -764,17 +764,17 @@ They take their archery lessons very seriously.
 
 Their ability to compete well in archery range is also mirrored by their bow and arrow production.
 
-With this being said, you've to consider their archery equipment if you’re a beginner or want to improve your ability to aim and hit targets accurately.
+With this being said, you've to consider their archery equipment if you're a beginner or want to improve your ability to aim and hit targets accurately.
 
-Another plus feature of the bow is that it’s specifically designed for mounted archery.
+Another plus feature of the bow is that it's specifically designed for mounted archery.
 
-They’re also very effective no matter what the distances are.
+They're also very effective no matter what the distances are.
 
 Either long distance or short distances, you can completely rely on them.
 
 The label of the gear says traditional, but what this refers to is the design.
 
-This is the choice of horse bow if you’re not comfortable with all-wood gear and want to use an infusion of wood and carbon.
+This is the choice of horse bow if you're not comfortable with all-wood gear and want to use an infusion of wood and carbon.
 
 In particular, the carbon element of the gear boosts the power and speed of the shot thrown.
 
@@ -782,11 +782,11 @@ Lastly, the strings included in the package are BCY fibers.
 
 Archery gear manufacturers use mostly Dyneema for the Bowstring and Spectra for other essential materials.
 
-This is a strong material that's flexible and extremely durable that won’t break easily and will stand the test of time.
+This is a strong material that's flexible and extremely durable that won't break easily and will stand the test of time.
 
 The Premium Korean Traditional Bow is also the bestselling bow in the said country.
 
-With this being said - you can expect that you’ll only receive the best.
+With this being said - you can expect that you'll only receive the best.
 
 If the best country in archery competition likes it, then it means that this bow is amazing as well, right?
 
@@ -1133,7 +1133,7 @@ I believe that the AF Turkish Style Handmade Laminated Traditional Recurve Bow i
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
-<p class="product-card-desc">If you’re looking for an archery store with a long history, then you must visit Bear Archery. The store has been around since 1933. And staying in this business for that long says a lot about the credibility of the business.</p>
+<p class="product-card-desc">If you're looking for an archery store with a long history, then you must visit Bear Archery. The store has been around since 1933. And staying in this business for that long says a lot about the credibility of the business.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Bear Heritage</span>
 <span class="highlight-tag">Satin Finish</span>
@@ -1171,25 +1171,25 @@ Cons
 </div>
 </div>
 
-If you’re looking for an archery store with a long history, then you must visit Bear Archery.
+If you're looking for an archery store with a long history, then you must visit Bear Archery.
 
 The store has been around since 1933.
 
 And staying in this business for that long says a lot about the credibility of the business.
 
-With this being said - you can rest assured that you’re receiving only the best bows around if you eventually decide to avail yourself one of them.
+With this being said - you can rest assured that you're receiving only the best bows around if you eventually decide to avail yourself one of them.
 
 And one example of their excellence is the Bear Archery Grizzly Recurve Right Hand.
 
-Allow me to explain why I think that they’re one of the best choices to consider.
+Allow me to explain why I think that they're one of the best choices to consider.
 
 For one thing, the riser of the recurve bow adopts a technological design that the manufacturers were using since the 1970s.
 
-And this includes using laminated maple wood to strengthen the materials’ overall strength and flexibility.
+And this includes using laminated maple wood to strengthen the materials' overall strength and flexibility.
 
-Parts of the limbs are constructed with fiberglass to improve the recurve bows’ ability to absorb huge amounts of tension as you stretch the bowstring.
+Parts of the limbs are constructed with fiberglass to improve the recurve bows' ability to absorb huge amounts of tension as you stretch the bowstring.
 
-In regards to the string, they’re pretty decent, in my opinion.
+In regards to the string, they're pretty decent, in my opinion.
 
 And I believe that it can manage a large number of throws without breakage or anything.
 
@@ -1197,19 +1197,19 @@ Again, I'm pleased that it's simplistic in design.
 
 The combination of black and wood grain is just appealing.
 
-The last point I want to stress here's that it’s lightweight and relatively easy to carry around.
+The last point I want to stress here's that it's lightweight and relatively easy to carry around.
 
 This means you can freely position yourself for a better angle as you aim and improve your shot in the process.
 
 The only downside of the bow that I could think of is that it may only be suitable for a right-hander, as the name implies.
 
-But overall, the Bear Archery Grizzly Recurve Right Hand is the best value for money if you’re specifically looking for durability and quality.
+But overall, the Bear Archery Grizzly Recurve Right Hand is the best value for money if you're specifically looking for durability and quality.
 
 I hope my review of the best mounted archery bows helped you in determining which gear to use.
 
 Nevertheless, I believe that you can never go wrong with any of the brands I listed here.
 
-They’re among the best in the market, and it would be just a matter of personal preference.
+They're among the best in the market, and it would be just a matter of personal preference.
 
 Looks like we covered a lot of ground with this article.
 
@@ -1219,4 +1219,4 @@ Thank you for your time, and I hope to see you in the next articles.
 
 Mounted archery combines horsemanship and archery into one of the most thrilling traditional disciplines you can experience. The bows on this list are built compact and fast-drawing, which is exactly what you need when shooting from a moving horse.
 
-Choose the style that resonates with you, whether it’s a Mongolian horse bow or a Korean traditional recurve, and find a local mounted archery club to start training safely.
+Choose the style that resonates with you, whether it's a Mongolian horse bow or a Korean traditional recurve, and find a local mounted archery club to start training safely.

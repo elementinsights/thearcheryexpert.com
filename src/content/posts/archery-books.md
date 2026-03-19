@@ -60,13 +60,13 @@ faq:
 
 Here's a list of ten best archery books that will keep you glued to the book all the time while transforming you into a better and more experienced archer.
 
-It doesn’t matter which level you're in, these books cut across all levels with some which are specific to a given level of archery.
+It doesn't matter which level you're in, these books cut across all levels with some which are specific to a given level of archery.
 
 If you're a beginner, there are several collections which will give you a detailed step to step and well-illustrated guide on how to be an expert.
 
-Even if you're playing archery for recreational purposes, there’s a set of books that will guide you on making your playing equipment and on how to play safely.
+Even if you're playing archery for recreational purposes, there's a set of books that will guide you on making your playing equipment and on how to play safely.
 
-And if you’ve been playing archery, you’ll also get a series of books which will help you become an expert.
+And if you've been playing archery, you'll also get a series of books which will help you become an expert.
 
 they will guide you on how to execute your shots and accurately aim at your target with great consistency.
 
@@ -140,7 +140,7 @@ This is one of the best classic works on Eastern philosophy archery books writte
 
 This is an indispensable insight book.
 
-This book highlights the real-life story of the author on how he practiced archery in Japan with the help of his trainer who was one of Japan’s great Kyudo (archery) masters.
+This book highlights the real-life story of the author on how he practiced archery in Japan with the help of his trainer who was one of Japan's great Kyudo (archery) masters.
 
 He intended to learn more about the integration and balance between the body and the mind in archery also known as Zen.
 
@@ -181,11 +181,11 @@ It gives a step to step guide on everything that it takes to be an expert archer
 
 The book covers the various useful information such as body alignment during shooting or hunting, muscle recruitment, and shot sequences.
 
-It gives a well-detailed explanation of the skills and techniques one has to employ while preparing for archery competition therefore can act as a perfect coach for you if you don’t have one.
+It gives a well-detailed explanation of the skills and techniques one has to employ while preparing for archery competition therefore can act as a perfect coach for you if you don't have one.
 
 Also, this book gives the details of the mental, physical training and winning aspects of the sport.
 
-Other skills that you’ll get acquitted with once you read this book include how to maximize your practice time and make it worthwhile and how to develop a successful tournament strategy.
+Other skills that you'll get acquitted with once you read this book include how to maximize your practice time and make it worthwhile and how to develop a successful tournament strategy.
 
 In addition to the above, the content of this book is suitable for both the archer and coach who wishes to be more effective in his role and seek exposure in a live setting such as the USA.
 
@@ -361,7 +361,7 @@ It covers very basic and important drills such as. Physical training drills, ski
 
 If you want to know more about the accurate shooting, perfect timing, and execution of your shot as well as maintaining your composure and focus during competition, this book is a perfect choice for you.
 
-This book uses simple and most relevant instructions and will guide the reader into the journey of becoming a great archer who believes that ‘every shot counts’.
+This book uses simple and most relevant instructions and will guide the reader into the journey of becoming a great archer who believes that 'every shot counts'.
 
 Indeed, this book is a must-read for all level archers.
 
@@ -402,7 +402,7 @@ There are many books about archery and therefore one needs to be keen when choos
 
 Ensure you first identify your needs and the gaps that should be filled.
 
-Once you’ve identified the need, browse through the book details, one by one as you highlight the ones that meet your expectations.
+Once you've identified the need, browse through the book details, one by one as you highlight the ones that meet your expectations.
 
 It might seem to be tedious but it's better to invest your time and money into a book that's worth every single penny spent.
 
@@ -416,7 +416,7 @@ These detailed descriptions of the various books mentioned above give you an ins
 
 ## Final Thoughts
 
-A well-chosen archery book can accelerate your learning faster than months of trial and error on the range. Start with a beginner-friendly guide if you’re new, add a drill book once you’ve got the basics down, and consider a philosophy title like Zen in the Art of Archery to sharpen your mental game.
+A well-chosen archery book can accelerate your learning faster than months of trial and error on the range. Start with a beginner-friendly guide if you're new, add a drill book once you've got the basics down, and consider a philosophy title like Zen in the Art of Archery to sharpen your mental game.
 
 The best archers never stop learning, and these books give you a library of expert knowledge to draw from at any stage.
 

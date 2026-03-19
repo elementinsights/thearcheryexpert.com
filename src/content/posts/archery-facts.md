@@ -66,7 +66,7 @@ Archery is the act of using a bow to shoot arrows.
 
 Nowadays, most commonly at a target in a controlled sports setting. However, some do still use Archery in a hunting environment.
 
-The English word Archery is derived firstly from the French word ‘archier’ and before that the Latin word for bow ‘arcus.’ Popular not only amongst adults, but children can also start from as young as ten years old.
+The English word Archery is derived firstly from the French word 'archier' and before that the Latin word for bow 'arcus.' Popular not only amongst adults, but children can also start from as young as ten years old.
 
 It's becoming the most interesting option for young kids in schools and after school clubs.
 
@@ -93,15 +93,15 @@ Women were then allowed to compete in swimming in 1912 and then even later in tr
 
 Archery was the head start by a long way for women in the Olympics.
 
-Even ‘Thelma and Lousie’ star Actress Geena Davis at the age of 41, started practicing Archery.
+Even 'Thelma and Lousie' star Actress Geena Davis at the age of 41, started practicing Archery.
 
 She even made it to the trials in Sydney before the 2000 Olympic games.
 
-“I did it on a whim and became obsessed with it,” said the actress
+"I did it on a whim and became obsessed with it," said the actress
 
-“I trained and trained and trained like crazy and, 2 1/2 years later, I was a semi-finalist for the Olympic trials.
+"I trained and trained and trained like crazy and, 2 1/2 years later, I was a semi-finalist for the Olympic trials.
 
-It was the most out-of-body experience I’ve ever had.”
+It was the most out-of-body experience I've ever had."
 
 Archery was removed as a sport from the Olympic games for fifty-two years.
 
@@ -163,11 +163,11 @@ If you don't have more strength than your bow, you're sure to get tired very qui
 
 Archers often end up with asymmetries on their bodies due to the repetitive movements on one side.
 
-“We’re strong on both sides, but just in different places.
+"We're strong on both sides, but just in different places.
 
-For example, my left side is larger than my right side because that’s the side I lift the bow with.
+For example, my left side is larger than my right side because that's the side I lift the bow with.
 
-But on my right side, my fingers are larger, my forearm is larger, and my lower trap muscle is larger.” said Gibilaro, a 5-5 archer that holds a bow weighing 42 pounds
+But on my right side, my fingers are larger, my forearm is larger, and my lower trap muscle is larger." said Gibilaro, a 5-5 archer that holds a bow weighing 42 pounds
 
 If you ever meet an experienced archer, you'll be sure to find they have a nicely toned and muscular upper back.
 
@@ -196,7 +196,7 @@ Bearing in mind, they have to take into account the worst-case scenarios and inc
 
 In the youth games of 2004, there were reportedly 82 injuries from Archery and 382 from bowling.
 
-“no one gets shot, no one gets concussions, no one breaks an arm or a leg,” Gibilaro said.
+"no one gets shot, no one gets concussions, no one breaks an arm or a leg," Gibilaro said.
 
 Thanks to that, it's becoming a more and more popular sport in schools.
 
@@ -236,7 +236,7 @@ Those sports, including football, tennis, and an early form of cricket, have all
 
 Henry the Vll was an avid lover of Archery.
 
-He even ordered ‘butts’ to be erected beside churches so people could practice Archery after church on Sundays.
+He even ordered 'butts' to be erected beside churches so people could practice Archery after church on Sundays.
 
 He also decreed that each household should be equipped with a bow and arrow.
 
@@ -244,13 +244,13 @@ He then went on to pardon those that accidentally injured a passer-by while prac
 
 Toxiphilus is the strange name given to lovers of Archery.
 
-It's translated from two Greek words meaning ‘lover of the bow.’
+It's translated from two Greek words meaning 'lover of the bow.'
 
 King Henry V was indeed a toxiphilus.
 
 He had 500,000 arrows stored in the Tower of London for the army.
 
-He even had someone appointed to guard the arrows ‘the keeper of the king’s arrows.’
+He even had someone appointed to guard the arrows 'the keeper of the king's arrows.'
 
 However, this enforced Archery paid off as England won one of its greatest victories in history thanks to its long-bow men.
 
@@ -294,11 +294,11 @@ Khatuna Lorig is a five-time Olympic champion.
 
 Khatuna Lorig is a target recurve archer that uses a one over/two under hook that goes under the chin to anchor, not as a traditional style field bow user, used to hunt.
 
-Hence there have been some discrepancies over Katniss Everdeen’s technique in the Hunger Games.
+Hence there have been some discrepancies over Katniss Everdeen's technique in the Hunger Games.
 
 Archery USA even wrote a letter to Collins, the author of the Hunger Games.
 
-“When Katniss Everdeen started brandishing her bow and arrows on movie screens across America, our phones began (literally, began) ringing nonstop,” he said in the letter.
+"When Katniss Everdeen started brandishing her bow and arrows on movie screens across America, our phones began (literally, began) ringing nonstop," he said in the letter.
 
 ## 9. Archery, Bhutan's National Sport
 
@@ -334,7 +334,7 @@ The droplets of rain will weigh down the arrow.
 
 To avoid it being heavier when you're pulling the bow back, you may have to work faster, said the Japanese archer Hayashi Yuki.
 
-“Rain can be hard or easy. I prefer to shoot fast and don’t take too long as arrows can get heavier with the rain and fall below your aim, rather than to the yellow rings,” she said.
+"Rain can be hard or easy. I prefer to shoot fast and don't take too long as arrows can get heavier with the rain and fall below your aim, rather than to the yellow rings," she said.
 
 The other major problem is the sight ring.
 

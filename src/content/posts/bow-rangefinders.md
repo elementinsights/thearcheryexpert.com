@@ -252,7 +252,7 @@ products:
     ctaUrl: "https://www.amazon.com/dp/B07GKJNCKN?tag=thearcheryexpert-20"
 ---
 
-“All the sounds of this valley run together into one great echo, a song that's sung by all the spirits of this valley, only a hunter hears it.”- Chaim Potok.
+"All the sounds of this valley run together into one great echo, a song that's sung by all the spirits of this valley, only a hunter hears it."- Chaim Potok.
 
 In this century, we, the people of the earth, feel the urge to be close to nature, these days going to the mountain is like going home, camping and hunting are necessities to feel alive.
 

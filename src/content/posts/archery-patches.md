@@ -175,7 +175,7 @@ This patch has full 3D embroidery on it and the quality of the embroidery is sup
 
 Antrix also provides hassle-free after-sales service and amazing customer service support which differentiates it from others.
 
-You don’t even have to return the patch in case you aren't satisfied and Antrix Antlers will provide you a 100% refund without any condition.
+You don't even have to return the patch in case you aren't satisfied and Antrix Antlers will provide you a 100% refund without any condition.
 
 If you often go to wildlife hunting, this patch could be the one you're looking for.
 
@@ -185,7 +185,7 @@ This patch has high-quality fabric so it will retain its luster and embroidery f
 
 Considering the cost of this patch, it looks like it's worth every penny.
 
-It’s rectangular and compact and you can apply this patch easily on smaller surfaces.
+It's rectangular and compact and you can apply this patch easily on smaller surfaces.
 
 - 3D look
 
@@ -214,7 +214,7 @@ If you're an admirer of art and a lover of archery, you can add this unique and 
 
 This patch can be easily applied to the tote bag, garment, sheets, placemats, etc.
 
-First, you need to preheat the iron to “cotton setting” but you shouldn’t use steam during application.
+First, you need to preheat the iron to "cotton setting" but you shouldn't use steam during application.
 
 After that, you need to position the patch with a thin cloth and apply the continuous pressure for almost 25 seconds.
 
@@ -306,11 +306,11 @@ Since the decal is completely white, the chances of getting dirty are high if yo
 
 This decal can be applied easily and you won't notice any signs of peeling soon.
 
-Decal sticks so well that you won’t be able to remove this decal without destroying it.
+Decal sticks so well that you won't be able to remove this decal without destroying it.
 
 If you're looking to redesign your bow case, this decal is worth giving a try.
 
-This bow comes with personalized handwritten words - “don't bend” and “thank you” and you'll be pleased to see it.
+This bow comes with personalized handwritten words - "don't bend" and "thank you" and you'll be pleased to see it.
 
 Red Clay Designs ensure quick shipping and delivery once you've placed orders for this decal.
 
@@ -343,7 +343,7 @@ Since decal uses premium quality vinyl, you won't observe any color fading even 
 
 Fascination Inc claims that the decal they're providing is of computer precision cut with clear background.
 
-It should be noted that the room or outside temperature shouldn’t be lower than 50 degrees Fahrenheit as the decal doesn't stick properly in cold environments.
+It should be noted that the room or outside temperature shouldn't be lower than 50 degrees Fahrenheit as the decal doesn't stick properly in cold environments.
 
 It's recommended to clean the area with rubbing alcohol before you apply the decal to the surface.
 
@@ -372,7 +372,7 @@ This decal is a perfect representation of feminism, passion, and respecting choi
 
 This design would definitely catch your attention if you're a passionate hunter.
 
-“Hunt Like a Girl” is a cleverly designed sticker and sets apart this decal from other stickers mentioned in this list.
+"Hunt Like a Girl" is a cleverly designed sticker and sets apart this decal from other stickers mentioned in this list.
 
 A white design comprises a text surrounded by a skull and an arrow crossing the text.
 
@@ -380,11 +380,11 @@ The decal also comes in pink color and could be a perfect choice for a female ar
 
 Decal material can last up to 6 years once applied and can be easily applied to most clean surfaces.
 
-Once you've purchased this decal, the seller will provide you detailed instructions on the application of this decal so you don’t have to wander on your own concerning the application of this decal.
+Once you've purchased this decal, the seller will provide you detailed instructions on the application of this decal so you don't have to wander on your own concerning the application of this decal.
 
 The decal will be provided with clear transfer tape which makes the application easy on the desired surface.
 
-Creative Concept Ideas claims that it’s a computer cut decal of high quality and made in the U.S.A.
+Creative Concept Ideas claims that it's a computer cut decal of high quality and made in the U.S.A.
 
 The seller claims that it's better than bumper stickers as it's made up of vinyl.
 

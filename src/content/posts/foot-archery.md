@@ -26,7 +26,7 @@ toc:
     href: "#upper-body-exercise-for-foot-archery"
   - label: "Lower Body Exercise For Foot Archery"
     href: "#lower-body-exercise-for-foot-archery"
-  - label: "Beginners’ Foot Archery Set Buying Guidelines"
+  - label: "Beginners' Foot Archery Set Buying Guidelines"
     href: "#beginners-foot-archery-set-buying-guidelines"
   - label: "Best Bows For Foot Archery Beginners"
     href: "#best-bows-for-foot-archery-beginners"
@@ -67,13 +67,13 @@ In this article, we'll satisfy your curiosity about foot archery and help you de
 
 ## Disclaimer
 
-But before I begin, I’d like to mention first that the process relayed in this article is only the basics of foot archery, and maybe based on the authors’ interpretation.
+But before I begin, I'd like to mention first that the process relayed in this article is only the basics of foot archery, and maybe based on the authors' interpretation.
 
 This content aims for educational purposes only and to provide you an overview of how this discipline works.
 
-Therefore, you shouldn’t use this as an official guideline to the act and seek advice from professional contortion archery artists.
+Therefore, you shouldn't use this as an official guideline to the act and seek advice from professional contortion archery artists.
 
-So with disclaimers out of the way, let’s start.
+So with disclaimers out of the way, let's start.
 
 ## What's Foot Archery?
 
@@ -117,11 +117,11 @@ If you want to know how it works, then let's continue.
 
 The most popular position of foot archery is the shots thrown over the head.
 
-However, there are many poses you can choose from as long as you’re using your lower body to draw the bow and arrow.
+However, there are many poses you can choose from as long as you're using your lower body to draw the bow and arrow.
 
-The shots over the head are more recognizable because they’re more difficult and challenging to pull off.
+The shots over the head are more recognizable because they're more difficult and challenging to pull off.
 
-One of the most memorable contortion archery performances I saw was in 2016 in America’s Got Talent by Sofie Dossi.
+One of the most memorable contortion archery performances I saw was in 2016 in America's Got Talent by Sofie Dossi.
 
 In the performance, she tried to contort her body first, attempting to eat an apple before drawing the shot.
 
@@ -133,7 +133,7 @@ You can also [check her full performance](https://www.youtube.com/watch?v=iWFdzm
 
 As you see in her performance, foot archery requires the combination of both upper and lower body strength, versatility, balance, and focus.
 
-Aside from strengthening your upper torso, your lower body is as important because it’s there where you’ll draw the power to aim and take the shot eventually.
+Aside from strengthening your upper torso, your lower body is as important because it's there where you'll draw the power to aim and take the shot eventually.
 
 I'll briefly present some of the exercises that could help you in your training.
 
@@ -145,7 +145,7 @@ As a result, it increases your chance of hitting the target.
 
 Versatility or flexibility needs no explanation.
 
-It’s also the reason why some are referring to them as contortion archery.
+It's also the reason why some are referring to them as contortion archery.
 
 For you to have effective flexibility, you also need to have outstanding cardio.
 
@@ -155,7 +155,7 @@ A simple cardio exercise you can do immediately is running.
 
 As repeatedly emphasized, the shots over the head are probably the biggest attention of foot archery.
 
-However, you've to note that this form of archery isn’t just a hobby that you can just pursue and then expect to get decently good at in a short period.
+However, you've to note that this form of archery isn't just a hobby that you can just pursue and then expect to get decently good at in a short period.
 
 The flexibility of the contortion artist or the act of bending alone takes months or even years in some instances to perfect.
 
@@ -175,7 +175,7 @@ However, it may be a little advance to work on.
 
 This workout focuses on improving the versatility of the spine, hips, thighs, and neck.
 
-This form of wellness workout isn’t only good for your lumbar.
+This form of wellness workout isn't only good for your lumbar.
 
 It can also help you minimize any soreness or mild discomfort on your back.
 
@@ -185,11 +185,11 @@ Your stomach lays flat on the ground as you work out on your flexibility.
 
 Since your lumbar will play a critical role during the performance, this extended puppy stretches another exercise that focuses on improving your back's strength and flexibility.
 
-Aside from enhancing the versatility of your spine, it’s also effective on your chest and shoulders.
+Aside from enhancing the versatility of your spine, it's also effective on your chest and shoulders.
 
-They're an important factor since you’re going to balance most of your performance.
+They're an important factor since you're going to balance most of your performance.
 
-In the next section, let’s talk about how you can strengthen your lower torso.
+In the next section, let's talk about how you can strengthen your lower torso.
 
 This is a simple yet effective stretch that aims to strengthen multiples in your body.
 
@@ -199,29 +199,29 @@ What you need to do here's to move sideways and then stretch your arms upward.
 
 Doing them as a warm-up exercise would also help you improve stamina and endurance during the training duration.
 
-Just like the previous, it’s more of a warm-up exercise to help you get to increase your stamina during your foot archery workout.
+Just like the previous, it's more of a warm-up exercise to help you get to increase your stamina during your foot archery workout.
 
-Aside from such benefits, you’ll also benefit from improved flexibility, posture, and preventing possible injuries from occurring.
+Aside from such benefits, you'll also benefit from improved flexibility, posture, and preventing possible injuries from occurring.
 
 It could also help people that are suffering from lower back soreness.
 
 ## Lower Body Exercise For Foot Archery
 
-The lower half of your body is also of extreme importance since you’re going to draw using your legs and toes.
+The lower half of your body is also of extreme importance since you're going to draw using your legs and toes.
 
 In particular, this exercise will specifically target the following points:
 
-Besides helping you improve your foot archer skill set, it’s also significantly beneficial to your overall health and wellness.
+Besides helping you improve your foot archer skill set, it's also significantly beneficial to your overall health and wellness.
 
 Individuals experiencing pain in their lower torso, especially in the hamstring, may also find some of the workouts related in this article as useful.
 
-Anyway, let’s go over some of the top lower body exercises that can help you in your foot archery training:
+Anyway, let's go over some of the top lower body exercises that can help you in your foot archery training:
 
-The first workout I’d like to mention here's a leg exercise called sumo lift.
+The first workout I'd like to mention here's a leg exercise called sumo lift.
 
 You also have to take note that this form of exercise will require you to use the equipment.
 
-And it’s a kettle in this case.
+And it's a kettle in this case.
 
 The benefits of this workout you've to note are that it strengthens the buttocks, hamstrings, and quadriceps.
 
@@ -229,9 +229,9 @@ Another leg workout I find that could provide tremendous aid is the stability ba
 
 And the reason why I believe it to be is that it focuses on your hamstring, which is one of the focal points when drawing the bow.
 
-However, you’ll also need equipment to accomplish this workout.
+However, you'll also need equipment to accomplish this workout.
 
-And in this case, it’s the stability ball.
+And in this case, it's the stability ball.
 
 Again, this workout also focuses on your hamstring, which is especially beneficial to your drawing power.
 
@@ -241,7 +241,7 @@ The branded lateral walk is probably the easiest one on this list.
 
 All you've to do is to walk in lateral movements with a stretchable band on your calves.
 
-But as simple as they may seem, they’re effective in warming up your lower torso before you begin your training.
+But as simple as they may seem, they're effective in warming up your lower torso before you begin your training.
 
 The focus of this workout is to strengthen your abdominal core.
 
@@ -249,13 +249,13 @@ It primarily includes the abdomen, lower lumbar area, and pelvis.
 
 This is especially beneficial because it stimulates your hip muscle, which is important as you maintain your balance during the act.
 
-As mentioned, your toes also play a pivotal role because it’s the one that you’ll use to stretch the bowstring backward.
+As mentioned, your toes also play a pivotal role because it's the one that you'll use to stretch the bowstring backward.
 
 The workout is relatively simple. All you need are two small dumbbells.
 
-And then, you’ll need to attempt to reach upwards through your toes.
+And then, you'll need to attempt to reach upwards through your toes.
 
-Because you’ll rely mostly on your lower body for the initiation, it may also draw a high amount of power during training and actual act.
+Because you'll rely mostly on your lower body for the initiation, it may also draw a high amount of power during training and actual act.
 
 Duck Walk is excellent because aside from leg strength, it also improves your immunity and stamina.
 
@@ -267,7 +267,7 @@ Duck Walk is excellent because aside from leg strength, it also improves your im
 
 - Hamstrings
 
-## Beginners’ Foot Archery Set Buying Guidelines
+## Beginners' Foot Archery Set Buying Guidelines
 
 When you're just starting with contortion archery, it's essential, to begin with, to practice bow sets.
 
@@ -293,7 +293,7 @@ There are several considerations you've to bear in mind, and it includes the fol
 
 We've to first take note of the weight of the bow.
 
-And they’re supposed to be lightweight since there’s not much power you can draw from your legs and toes compared to your arms.
+And they're supposed to be lightweight since there's not much power you can draw from your legs and toes compared to your arms.
 
 The overall weight of the bow should be proportionate to your height and weight as well.
 
@@ -323,23 +323,23 @@ A common problem in foot archery is the accuracy of the shots.
 
 And the reason for such is that because your drawing mechanism is high up, aiming with your peripheral vision will be extremely challenging and would require a lot of practice.
 
-And to help you improve your shot accuracy, it’s important to look for a beginners’ archery set that's tough and not unsafe when you’re trying to make a shot.
+And to help you improve your shot accuracy, it's important to look for a beginners' archery set that's tough and not unsafe when you're trying to make a shot.
 
-If you’re training indoors or within your home, I feel that it would be convenient to replace the tips with suction cups.
+If you're training indoors or within your home, I feel that it would be convenient to replace the tips with suction cups.
 
-It sticks on your wall perfectly, and it’s in this way that we can easily measure our progress.
+It sticks on your wall perfectly, and it's in this way that we can easily measure our progress.
 
 You can put back the regular tips that come along with the package when you resume training outdoors again.
 
 The good thing about practice bows is that most of them are relatively cheap.
 
-But again, this doesn’t mean that we disregard quality over affordability.
+But again, this doesn't mean that we disregard quality over affordability.
 
 If you want to get better at foot archery, you've to look for quality.
 
-As mentioned earlier, I prepared in the following section a list of the best beginners’ bow in the market you can use to improve your skills.
+As mentioned earlier, I prepared in the following section a list of the best beginners' bow in the market you can use to improve your skills.
 
-Let’s continue to the next segment and determine some of the top brands you can use.
+Let's continue to the next segment and determine some of the top brands you can use.
 
 ## Best Bows For Foot Archery Beginners
 
@@ -347,45 +347,45 @@ With important reminders are out of the way, the lists of the best practice bow 
 
 The bow is super lightweight, mainly because the designs especially suit children from ages 8 to 12.
 
-However, this doesn’t mean that you can’t use them for your foot archery training.
+However, this doesn't mean that you can't use them for your foot archery training.
 
-In addition to the bow and arrow set, you’ll also receive two target faces and a set of arm guards (which I doubt would be useful to you).
+In addition to the bow and arrow set, you'll also receive two target faces and a set of arm guards (which I doubt would be useful to you).
 
 If you care about the environment, you may want to consider the handcrafted bow offered by a company called Adventure Awaits.
 
 The tips of the arrows are of rubber materials.
 
-Therefore, they’re extremely safe and don’t possess potential threats of injury when you eventually them.
+Therefore, they're extremely safe and don't possess potential threats of injury when you eventually them.
 
-Although the description primarily mentions that they’re great for kids’ play, they’re also perfect during your foot archery training.
+Although the description primarily mentions that they're great for kids' play, they're also perfect during your foot archery training.
 
 Among the other bow and arrows sets in this list, UTeCiA offers the most extensive - aside from the primary gears, it also includes -
 
-This may be the case - I believe that you’ll only need the bow, plastic-tipped arrows, and target faces.
+This may be the case - I believe that you'll only need the bow, plastic-tipped arrows, and target faces.
 
 As for the bow, they're as durable and lightweight as they can be.
 
 Indeed, they're perfect for beginners, and you can share them with your kids as well if you've one.
 
-It’s an excellent choice for kids ten years old and above and archery beginners.
+It's an excellent choice for kids ten years old and above and archery beginners.
 
-In my opinion, they’re also excellent for foot archery and probably the best item listed in this article.
+In my opinion, they're also excellent for foot archery and probably the best item listed in this article.
 
-It’s is decently lightweight, which weighs only around 1 pound.
+It's is decently lightweight, which weighs only around 1 pound.
 
-Also, it’s very durable thanks to its fiberglass material.
+Also, it's very durable thanks to its fiberglass material.
 
 Overall, the DOSTYLE Outdoor Youth Recurve Bow and Arrow is a must-have for contortion archers.
 
-If you’re looking for an archery set with a wide array of colors to choose from, then you’re looking at the KESHES Archery Recurve Bow.
+If you're looking for an archery set with a wide array of colors to choose from, then you're looking at the KESHES Archery Recurve Bow.
 
 The design of the Recurve is especially suitable for beginners in general.
 
-And it’s also perfect for kids and teens ages eight years old and above.
+And it's also perfect for kids and teens ages eight years old and above.
 
-For the contortion archery artist, they’re also the perfect item to begin with.
+For the contortion archery artist, they're also the perfect item to begin with.
 
-If you’re aiming for safety and sustainability from your archer set, then you've to consider KESHES as one of your options.
+If you're aiming for safety and sustainability from your archer set, then you've to consider KESHES as one of your options.
 
 - 14 pieces of target faces
 
@@ -397,18 +397,18 @@ If you’re aiming for safety and sustainability from your archer set, then you'
 
 ## A Word On Using Practice Bows in Foot Archery
 
-Again, let me emphasize that the items mentioned in the previous section may seem to be suitable just for kids, but they’re also excellent for archery beginners.
+Again, let me emphasize that the items mentioned in the previous section may seem to be suitable just for kids, but they're also excellent for archery beginners.
 
-So much more if they’re a newbie in contortion archery, the more they’d need a lightweight bow and arrow set to kickstart their training.
+So much more if they're a newbie in contortion archery, the more they'd need a lightweight bow and arrow set to kickstart their training.
 
 You can begin using professional sets as you develop your skillset.
 
 But a lightweight bow, like a recurve bow, for example, is still highly recommended for foot archery.
 
-Lastly, although they’re essentially a beginners’ archery set, never attempt to aim them at a person because it could still injure them in some other way.
+Lastly, although they're essentially a beginners' archery set, never attempt to aim them at a person because it could still injure them in some other way.
 
 ## Final Thoughts
 
-Foot archery is one of the most physically demanding and visually impressive forms of archery you’ll find. It combines contortion, balance, and lower body strength in ways that standard archery never touches.
+Foot archery is one of the most physically demanding and visually impressive forms of archery you'll find. It combines contortion, balance, and lower body strength in ways that standard archery never touches.
 
-If you’re serious about trying it, start with flexibility training and lightweight practice bows, and always prioritize safety by never aiming at people or animals.
+If you're serious about trying it, start with flexibility training and lightweight practice bows, and always prioritize safety by never aiming at people or animals.

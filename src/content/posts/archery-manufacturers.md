@@ -219,7 +219,7 @@ An idea that sparked off of a dinner table is now prominent amongst us as one of
 
 Martin Archery is one of the very few brands that have incorporated fishing bows into their archery collection.
 
-They also offer a signature series of apparel which goes by the name of ‘Martin Apparel’.
+They also offer a signature series of apparel which goes by the name of 'Martin Apparel'.
 
 Obviously.
 
@@ -233,7 +233,7 @@ Their bows have been showcased in world-class movies.
 
 Their accessories include some of their signature water bottles and pop sockets too.
 
-Let’s have a quick view of their accessories:
+Let's have a quick view of their accessories:
 
 They also offer spare parts for their bows.
 
@@ -262,11 +262,11 @@ They also offer spare parts for their bows.
   <span class="stat-text">PSE Archery</span>
 </div>
 
-PSE stands for ‘[precision shooting equipment](https://psearchery.com/)’.
+PSE stands for '[precision shooting equipment](https://psearchery.com/)'.
 
 This equipment has a godfather who goes by the name Pete Shepley.
 
-This American brand goes by the slogan ‘carbon done American’.
+This American brand goes by the slogan 'carbon done American'.
 
 Shepley was an engineer by profession but his love for archery made him give birth to the infamous PSE.
 
@@ -284,9 +284,9 @@ These carbon made arrows vary in length, straightness, spine, and the weight tha
 
 PSE paid a massive amount of heed to the design of arrows so that they can perform their best in crucial and demanding situations.
 
-They have an arrow called ‘Desperado Youth’.
+They have an arrow called 'Desperado Youth'.
 
-Now isn’t that the most badass name you might’ve heard for an arrow?
+Now isn't that the most badass name you might've heard for an arrow?
 
 Shepley has been keen on stocking a vast variety of bows, some of which aren't seen on the websites of their counterpart rivals.
 
@@ -335,7 +335,7 @@ It's also known for its relatively reasonable archery equipment.
 
 They have various ranges that cater to all.
 
-So whether you’re a beginner seeking to step into polishing their archery skills or a world Olympic champion, Samsick sports will surely have something for you in stock.
+So whether you're a beginner seeking to step into polishing their archery skills or a world Olympic champion, Samsick sports will surely have something for you in stock.
 
 They use refined and high-quality carbon to manufacture their bows function at their best.
 
@@ -357,7 +357,7 @@ It also includes some apparel.
 
 They're as follows:
 
-- Recurve Bows (further divided into ‘limbs’ and ‘riser’)
+- Recurve Bows (further divided into 'limbs' and 'riser')
 
 - Hunting bows
 
@@ -384,7 +384,7 @@ They're as follows:
   <span class="stat-text">Great Plains Traditional Bow Company</span>
 </div>
 
-If you’re looking for state of the art traditional archery bows, then you’ve come to the right place.
+If you're looking for state of the art traditional archery bows, then you've come to the right place.
 
 Great Plains Traditional Bow Company is known for an exquisite bow collection, its roots being at least 31 years old.
 
@@ -394,7 +394,7 @@ On the contrary, they offer you a customized option for your bow.
 
 Which means you get to decide the type of bow you want and the specs that come along with it.
 
-They don’t just hold skill over customizing bows.
+They don't just hold skill over customizing bows.
 
 They have also mastered the art of customizing arrows.
 
@@ -408,15 +408,15 @@ A 1000 dollars can yield you a very unique customized bow along with some of you
 
 Since they only offer traditional bows, their categories are limited.
 
-What isn’t limited is the range and types of traditional bows that they have to offer.
+What isn't limited is the range and types of traditional bows that they have to offer.
 
 Each traditional bow is unique to its size, shape, and features.
 
-And let’s not forget how they have been embellished with remarkable finishing touches
+And let's not forget how they have been embellished with remarkable finishing touches
 
 They're as follows:
 
-Just like the rest of Great Plains’ traditional range, their accessories too have a traditional touch.
+Just like the rest of Great Plains' traditional range, their accessories too have a traditional touch.
 
 They're as follows:
 
@@ -461,7 +461,7 @@ It leaves a very thrilling impact on the reader.
 
 Black Widow Bows are probably one of the only top leading brands that have openly invited people to try out their bows before purchase.
 
-Just make an appointment on their website and you’re good to go.
+Just make an appointment on their website and you're good to go.
 
 Trying out a bow in person is quite necessary before you proceed forward with making the purchase.
 
@@ -469,7 +469,7 @@ Black Widow Bows understand this, so you can get your hands on the most suitable
 
 Black Widow Bows is over 63 years old.
 
-Which means they really can’t mess up with what they do best.
+Which means they really can't mess up with what they do best.
 
 Their bow range speaks volumes of experience.
 
@@ -526,7 +526,7 @@ Usual traditional bows don't possess such technology and often have to be sent b
 
 Today, they have also come up with a lot of new and exciting bows.
 
-They’ve named them uniquely, each owing a meaning to their name.
+They've named them uniquely, each owing a meaning to their name.
 
 Their recurve bows come in a series.
 
@@ -573,7 +573,7 @@ And it not only offers targets, bows, and related accessories.
 
 It conducts archery lessons too.
 
-They also have their very own club by the name of ‘Merlin Field Archery Club’.
+They also have their very own club by the name of 'Merlin Field Archery Club'.
 
 Heck, they even have a workshop.
 
@@ -581,7 +581,7 @@ A lot of us out there want to learn archery at an affordable price.
 
 Merlin archery not only offers one of the most affordable equipment but trains you as well.
 
-If you live in or somewhere near the United Kingdom, then you’re at luck.
+If you live in or somewhere near the United Kingdom, then you're at luck.
 
 As mentioned earlier, their archery range is impressive and massive.
 
@@ -668,7 +668,7 @@ The most appealing accessory will have to be their feathers which come in so man
 
 Listing every accessory would occupy a whole page.
 
-So we’ll once again classify the accessories generically.
+So we'll once again classify the accessories generically.
 
 They're as follows:
 

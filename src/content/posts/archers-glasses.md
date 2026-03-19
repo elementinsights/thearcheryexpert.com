@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the XAegis Shooting Glasses with Case"
-  text: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you’re still able to see the red laser light."
+  text: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you're still able to see the red laser light."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20"
 toc:
@@ -53,7 +53,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/417gFKGig8L._SL500_.jpg"
-    description: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you’re still able to see the red laser light."
+    description: "This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you're still able to see the red laser light."
     highlights:
       - "UV Protection"
       - "Polycarbonate Lens"
@@ -65,7 +65,7 @@ products:
       - "Comes with a protective carrying case"
       - "Lightweight and comfortable for long range sessions"
     cons:
-      - "Clear lens doesn’t reduce glare in bright sunlight"
+      - "Clear lens doesn't reduce glare in bright sunlight"
       - "One-size design may not fit all face shapes perfectly"
     ctaUrl: "https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20"
   - name: "Smith & Wesson Major Full Frame Shooting Glasses"
@@ -113,7 +113,7 @@ products:
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/31HmXDoXEdL._SL500_.jpg"
-    description: "The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you’d wish."
+    description: "The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you'd wish."
     highlights:
       - "Anti-Fog Lens"
       - "Wraparound View"
@@ -125,7 +125,7 @@ products:
       - "Impact-resistant lens handles flying debris on the range"
       - "Distortion-free optics for accurate target sighting"
     cons:
-      - "Single clear lens doesn’t help with bright glare"
+      - "Single clear lens doesn't help with bright glare"
       - "Wraparound fit can feel tight on wider face shapes"
     ctaUrl: "https://www.amazon.com/dp/B0095I6GC4?tag=thearcheryexpert-20"
   - name: "Bertoni Shooting Glasses with 4 Interchangeable Lenses"
@@ -193,7 +193,7 @@ products:
     badge: "Most Durable"
     rating: 8.3
     image: "https://m.media-amazon.com/images/I/41+WK93FaML._SL500_.jpg"
-    description: "When looking for a decent and stylish product that is perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that’s preferred and is most desirable for sharpshooters as it allows you to see farther and clearer."
+    description: "When looking for a decent and stylish product that is perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that's preferred and is most desirable for sharpshooters as it allows you to see farther and clearer."
     highlights:
       - "Yellow Tint"
       - "Night Vision"
@@ -205,7 +205,7 @@ products:
       - "Stylish design you can wear off the range without looking out of place"
       - "Optical precision helps you see targets farther and clearer"
     cons:
-      - "Yellow tint isn’t ideal for bright sunny conditions"
+      - "Yellow tint isn't ideal for bright sunny conditions"
       - "Not rated for ballistic impact like dedicated safety glasses"
     ctaUrl: "https://www.amazon.com/dp/B06Y12NL7N?tag=thearcheryexpert-20"
   - name: "Howard Leight by Honeywell Genesis Sharp-Shooter Glasses"
@@ -341,7 +341,7 @@ No matter your vision level, the glasses will boost your experience.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you’re still able to see the red laser light.</p>
+<p class="product-card-desc">This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you're still able to see the red laser light.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">UV Protection</span>
 <span class="highlight-tag">Polycarbonate Lens</span>
@@ -379,25 +379,25 @@ Cons
 </div>
 </div>
 
-This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you’re still able to see the red laser light.
+This product has a clear polycarbonate lens that protects your eyes to almost 100% from the damaging ultraviolet rays while you're still able to see the red laser light.
 
-For total comfort, be assured that the XAegis glasses have a versatile quality rubber frame that’s comfortable to wear and can’t easily fall off. You wouldn’t imagine your glasses dropping off during your already enjoyable experience.
+For total comfort, be assured that the XAegis glasses have a versatile quality rubber frame that's comfortable to wear and can't easily fall off. You wouldn't imagine your glasses dropping off during your already enjoyable experience.
 
 The glasses wrap-around lens enables an all-around side vision to keep you conscious of the encircling environment for your maximum safety. You need not worry about the surroundings no matter the situation.
 
 The unisex, partially rimless glasses have a thin lens providing you with maximum protection as they tenderly sit on your nose bridge.
 
-These quality glasses will give your just the comfort you’ve been craving as you carry out your endeared shooting exercise.
+These quality glasses will give your just the comfort you've been craving as you carry out your endeared shooting exercise.
 
 The anti-scratch feature makes the glasses more durable.
 
-You won’t keep purchasing a new pair now and then as these glasses will serve you for a more extended period.
+You won't keep purchasing a new pair now and then as these glasses will serve you for a more extended period.
 
-Besides, you don’t need to acquire a different case as the glasses come with a robust zipper case that protects the product from dust, scratch, and breakage.
+Besides, you don't need to acquire a different case as the glasses come with a robust zipper case that protects the product from dust, scratch, and breakage.
 
 This zipper case also helps with portability, and the case has a plastic hanging clip that you can quickly hook on to your rucksack or belt loop when carrying them around.
 
-However, if you don’t love the glasses, you’re guaranteed a full refund, should they not serve your purpose.
+However, if you don't love the glasses, you're guaranteed a full refund, should they not serve your purpose.
 
 ## 2. Smith & Wesson Major Full Frame Shooting Glasses &mdash; Runner Up
 
@@ -523,13 +523,13 @@ The Blupond glasses come with anti-glare and tinted lenses, perfect for sunny co
 
 They accurately neutralize harmful light for an exciting coverage and present reduced deformation of target. Therefore, these glasses provide for total clarity focus and maximum safety for your eyes.
 
-It doesn’t matter how long you put them on.
+It doesn't matter how long you put them on.
 
 The lightweight material that makes up the lenses ensures they retain comfort when used and are great for long sessions.
 
-You’ll never go wrong with Blupond glasses because they have an amazingly durable metal frame that’s adequately reinforced, making them not easily breakable due to falling, and have rubber support pads for superior comfort.
+You'll never go wrong with Blupond glasses because they have an amazingly durable metal frame that's adequately reinforced, making them not easily breakable due to falling, and have rubber support pads for superior comfort.
 
-These glasses are fashionable for both men and women no matter your circumstance, and you can use them in many situations, be it an adventure, sports, or shooting, they’ll give you just the best.
+These glasses are fashionable for both men and women no matter your circumstance, and you can use them in many situations, be it an adventure, sports, or shooting, they'll give you just the best.
 
 Your selection has never been this favorable: the glasses provide a wide range of lens color choices from Black and Yellow or blackout, silver and orange, silver mirrored, blue mirrored, or yellow.
 
@@ -551,7 +551,7 @@ All these features are for your added convenience and to keep you fully charged 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you’d wish.</p>
+<p class="product-card-desc">The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you'd wish.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Anti-Fog Lens</span>
 <span class="highlight-tag">Wraparound View</span>
@@ -589,11 +589,11 @@ Cons
 </div>
 </div>
 
-The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you’d wish.
+The Radians Rock X-Treme glasses have a wrap-around single lens that provides a distortion-free field of vision and is impact resistant as well, making them more durable as you'd wish.
 
-For your all-day comfort, the glasses have a rubber nose piece that's adjustable not to hurt your nose bridge. This is the comfort you’d wish to have all through your shooting practice.
+For your all-day comfort, the glasses have a rubber nose piece that's adjustable not to hurt your nose bridge. This is the comfort you'd wish to have all through your shooting practice.
 
-Their rubber-tipped temples make them non-slip from their firm grip when in use, the glasses won’t accidentally fall off, leaving you embarrassed during your most vital sessions, which offers the utmost comfort.
+Their rubber-tipped temples make them non-slip from their firm grip when in use, the glasses won't accidentally fall off, leaving you embarrassed during your most vital sessions, which offers the utmost comfort.
 
 With the sleek lightweight design, the anti-fog glasses provide a transparent focus in varying temperatures during your experience.
 
@@ -665,7 +665,7 @@ Violetfor best contrast for orange targets against the deep blue sky and green b
 
 These archer's glasses also come with a prescription removable and easily changeable optical clip and two nose pieces for different uses, one to be used with the optical clip adapter and the other for ordinary use.
 
-The glasses have rubber-tipped arms for comfortable wear, and that enhances slip resistance with the frame’s upper part suitably shaped not to prevent target view.
+The glasses have rubber-tipped arms for comfortable wear, and that enhances slip resistance with the frame's upper part suitably shaped not to prevent target view.
 
 Their uniqueness doesn't end at comfort. The rubber arms have a shiny black finishing enhancing their neatness.
 
@@ -673,13 +673,13 @@ Impact resistance  -  the frameless glasses have a vented anti-crash shatterproo
 
 The glasses protect your eyes from bad weather like dust and wind while at the same time enhancing peripheral vision. Your eyes and face won't be caught unaware irrespective of the environment.
 
-Additionally, it doesn’t matter your face type: these glasses are available in styles suitable for both narrow and wide sizes, catering to everyone.
+Additionally, it doesn't matter your face type: these glasses are available in styles suitable for both narrow and wide sizes, catering to everyone.
 
 The glasses come with a Neoprene casing that makes them easy to carry around and a soft microfiber cleaning cloth.
 
-The case is imprinted with the esteemed Bertoni logo. You won’t doubt the product.
+The case is imprinted with the esteemed Bertoni logo. You won't doubt the product.
 
-What’s more?
+What's more?
 
 The glasses are so sturdy that they have passed the easy breaking test even when they fall.
 
@@ -739,7 +739,7 @@ When considering total comfort, these adjustable glasses have arms that rotate i
 
 You can extend it up to five lengths for a custom fit and ideal comfort.
 
-The Coyote1 glasses come with a padded inner side of the frame to make sure there’s an easy flow of air between the pads, as such, they're well ventilated to prevent fogging.
+The Coyote1 glasses come with a padded inner side of the frame to make sure there's an easy flow of air between the pads, as such, they're well ventilated to prevent fogging.
 
 This product has to insert slides that are adjustable to suit your eye level, as they can be slid either up or down to your required level.
 
@@ -753,7 +753,7 @@ They keep your eyes protected in any situation and are available with a 1-year m
 
 Their frames have pads that are easily removable when in use as general safety work eyeglasses for protection.
 
-That’s not all. You'll enjoy a one year warranty covering all parts apart from any aftermarket prescription lenses.
+That's not all. You'll enjoy a one year warranty covering all parts apart from any aftermarket prescription lenses.
 
 This product is fully multi-purpose as you can use it for a variety of tasks from shooting, sport, military training, woodworking, landscaping, and much more so long as you want to keep your eyes protected.
 
@@ -845,7 +845,7 @@ They come with a one year warranty where you get a full refund of your money sho
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.3/10</span>
 </div>
-<p class="product-card-desc">When looking for a decent and stylish product that’s perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that’s preferred and is most desirable for sharpshooters as it allows you to see farther and clearer.</p>
+<p class="product-card-desc">When looking for a decent and stylish product that's perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that's preferred and is most desirable for sharpshooters as it allows you to see farther and clearer.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Yellow Tint</span>
 <span class="highlight-tag">Night Vision</span>
@@ -883,17 +883,17 @@ Cons
 </div>
 </div>
 
-When looking for a decent and stylish product that's perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that’s preferred and is most desirable for sharpshooters as it allows you to see farther and clearer.
+When looking for a decent and stylish product that's perfect for indoor and outdoor experiences, iLumen8 glasses offer an optical precision that's preferred and is most desirable for sharpshooters as it allows you to see farther and clearer.
 
 The unique glasses have a yellowish lens superior in low light conditions such as dawn, dusk, and cloudy days or when misty or hazy enhancing target vision clarity.
 
 The lens helps in increasing the visibility of target objects.
 
-Should you be suffering from night vision, you’ll love how these irresistible glasses improve your night-time vision and block UV rays for your safety preventing headaches and other related eye strains. You're fully covered.
+Should you be suffering from night vision, you'll love how these irresistible glasses improve your night-time vision and block UV rays for your safety preventing headaches and other related eye strains. You're fully covered.
 
 These lenses filter most of the purple and blue lights produced when using flashlights, which may hamper proper sight.
 
-The lens has an anti-glare coating that’s anti-scratch and impact-resistant, making them perfectly fitting glasses suitable for any outdoor action as they're simply unbreakable.
+The lens has an anti-glare coating that's anti-scratch and impact-resistant, making them perfectly fitting glasses suitable for any outdoor action as they're simply unbreakable.
 
 The glasses are made up of a durable metal clip with a silicon rubber cover to soundly secure the lens attachment.
 
@@ -959,7 +959,7 @@ The glasses are properly ventilated with adequate spacing between the lens and f
 
 Even in extreme conditions, the glasses will give you the most excellent practice.
 
-No matter how long you clean them, the coated lenses don’t easily scratch or break. They remain as good as new despite using them regularly or for a lengthy period.
+No matter how long you clean them, the coated lenses don't easily scratch or break. They remain as good as new despite using them regularly or for a lengthy period.
 
 These glasses meet the standards that are best suited for your face and eye protection as they permanently shield you from all harm.
 
@@ -987,16 +987,16 @@ They're available in various modest styles and costs. There's simply a pair for 
 
 No matter how delightful the indoor or outdoor experience you admire, you could only be lost but not short of selection.
 
-You’ll make your appropriate choice that most suitably favors your task from various glasses while still enjoying the foremost stylish look.
+You'll make your appropriate choice that most suitably favors your task from various glasses while still enjoying the foremost stylish look.
 
 Should you wish to have a treasured collection, it's worth acquiring more than just one type.
 
 The archer's glasses can also be a great gift for your loved ones.
 
-The more exciting part is that the glasses come with a warranty. You may return them if you feel they don’t deserve your penny - talk of value for your money.
+The more exciting part is that the glasses come with a warranty. You may return them if you feel they don't deserve your penny - talk of value for your money.
 
 ## Final Thoughts
 
-A solid pair of archery shooting glasses protects your eyes from string breaks, arrow fragments, and UV damage without getting in the way of your aim. Look for polycarbonate lenses with anti-fog coating, and consider a set with interchangeable lenses so you’re covered in any lighting condition.
+A solid pair of archery shooting glasses protects your eyes from string breaks, arrow fragments, and UV damage without getting in the way of your aim. Look for polycarbonate lenses with anti-fog coating, and consider a set with interchangeable lenses so you're covered in any lighting condition.
 
-They’re one of the most affordable pieces of safety gear you can buy, and they’ll serve you well on the range for years.
+They're one of the most affordable pieces of safety gear you can buy, and they'll serve you well on the range for years.
