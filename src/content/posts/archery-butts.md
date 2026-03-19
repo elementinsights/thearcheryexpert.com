@@ -147,7 +147,7 @@ The invention of gunpowder by the Chinese led to another breakthrough that invol
 
 As the use of bows and arrows in wars gradually declined, people turned this form of fighting into a recreational sport.
 
-In 1844, the Grand National Archery Society held the first meeting in York which mainly aimed at revolutionizing archery.
+In 1844, the Grand National Archery Society held [the first meeting in York](https://www.archerygb.org/about-us-structure-safeguard/about-us/history/#:~:text=Grand%20National%20Archery%20Meetings%20(GNAM,formed%20at%20Liverpool%20in%201861.&text=The%20National%20Governing%20Body%20has,as%20Archery%20GB%20since%202007.) which mainly aimed at revolutionizing archery.
 
 As development in technology claimed the most significant share in civilization, laws governing the use of bows and arrows subsidized, and cultural practices faded away.
 
@@ -283,7 +283,7 @@ The use of bows and arrows in North Africa dates back to more than 6,000 years a
 
 The evidence of the use of archery in hunting and fighting invaders and other armies since the reign of the pharaoh is evident in Egyptian tombs' drawings.
 
-The archery army of Egypt mainly comprised of individuals of the Nubian ancestry popularly known as Medjay.
+The archery army of Egypt mainly comprised of individuals of the [Nubian ancestry popularly known as Medjay](https://oi.uchicago.edu/museum-exhibits/nubia/pan-grave-culture-medjay).
 
 The presence of these ancient archers led to the development of the term Ta-Seti that closely translates the land of the bow.
 
@@ -293,7 +293,7 @@ Archery is one of the most common forms that exhibit the rich Chinese culture in
 
 The Zhou dynasty featured archery as an essential part of the six noble arts and became a virtue of the Chinese emperors.
 
-The famous Chinese politician and philosopher, Confucius is a renowned archery teacher.
+The famous Chinese politician and philosopher, [Confucius](https://en.wikipedia.org/wiki/Confucius) is a renowned archery teacher.
 
 The history of archery in this region spans over different geographical locations and time frames, creating diversity.
 
@@ -305,7 +305,7 @@ The Eurasian Steppes, also known as the Great Steppe, first produced the composi
 
 The composite bow spread to Europe, India, Mesopotamia, and other parts of the world through nomads building civilization.
 
-Remains of arrowheads found in Chariot tombs at Krivoye Lake act as proof of these ancient weapons that contributed to civilization.
+Remains of arrowheads found in Chariot tombs at [Krivoye Lake](https://en.wikipedia.org/wiki/Krivoye_Lake) act as proof of these ancient weapons that contributed to civilization.
 
 Historians believe that Eurasian Steppes is behind the invention of spoke-wheeled chariots and mounted archery in armies.
 
@@ -323,7 +323,7 @@ The Roman Empire recruited archers from other regions to fill the small populati
 
 Archers with effective composite bows were a significant part of the Roman Empire by the 4th Century.
 
-The use of mounted archery by the Hun Invaders imposed pressure on the Roman Empire which led to substantial reliability on this form of archery.
+The use of mounted archery by the [Hun Invaders](https://en.wikipedia.org/wiki/Huns#:~:text=The%20Huns%20were%20a%20nomadic,4th%20and%206th%20century%20AD.&text=In%20451%2C%20the%20Huns%20invaded,in%20452%20they%20invaded%20Italy.) imposed pressure on the Roman Empire which led to substantial reliability on this form of archery.
 
 ## History Of Archery In Mesopotamia
 
@@ -333,7 +333,7 @@ The empires in Mesopotamia are the first to incorporate standing armies dedicate
 
 The army comprised of skilled archers who served as an integrated military branch.
 
-The discovery of three-bladed arrowheads in the United Arab Emirates proves the use of these blades between 100 BC and 150AD.
+The discovery of [three-bladed arrowheads](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0471.2007.00281.x) in the United Arab Emirates proves the use of these blades between 100 BC and 150AD.
 
 The Biblical Old Testament refer to archery as a skill popular among the Hebrews.
 
@@ -351,7 +351,7 @@ The early firearms were simple with slow shooting rates and ranges as opposed to
 
 Firearms could penetrate through steel armor which in turn increased the degree of damage, unlike arrows which had less impact on the steel armor.
 
-Spain became the first country to win the war in Europe in the Battle of Cerignola in 1503 using matchlock firearms.
+Spain became the first country to win the war in Europe in the [Battle of Cerignola](https://en.wikipedia.org/wiki/Battle_of_Cerignola) in 1503 using matchlock firearms.
 
 The Archer's Company, under the Honorable Artillery Company, is known to be the last army unit armed with bows and arrows.
 

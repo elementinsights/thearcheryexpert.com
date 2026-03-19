@@ -79,7 +79,7 @@ Whatever the case may be, an excellent set of bows, arrows, and other archery eq
   <span class="stat-text">Hoyt Archery</span>
 </div>
 
-The moment you'll visit their website, you'll surely realize how these guys aren't into creating mere toys.
+The moment you'll [visit their website](https://hoyt.com/), you'll surely realize how these guys aren't into creating mere toys.
 
 Their slogan is 'get serious, get Hoyt'.
 
@@ -134,7 +134,7 @@ Yet another American brand that has left a benchmark on fine and robust archery 
 
 Bear Archery is over 87 years old.
 
-Thus establishing themselves as one of the pioneers in the archery manufacturing industry.
+Thus establishing themselves as [one of the pioneers](https://beararchery.com/) in the archery manufacturing industry.
 
 It would interest you to know that Bear archery originally started as a silk-screening company and ended up manufacturing one of the best archery products out there.
 
@@ -203,7 +203,7 @@ Their range is beyond the comprehension of this article.
 
 Another industry that jumped onto the bandwagon of producing competitive archery equipment.
 
-And emerged as one of the top archery manufacturers.
+And emerged as one of the [top archery manufacturers](https://martinarchery.com/).
 
 Martin Archery is popular amongst individuals, with their roots in the archery business for the past 60 years.
 
@@ -262,7 +262,7 @@ They also offer spare parts for their bows.
   <span class="stat-text">PSE Archery</span>
 </div>
 
-PSE stands for ‘precision shooting equipment’.
+PSE stands for ‘[precision shooting equipment](https://psearchery.com/)’.
 
 This equipment has a godfather who goes by the name Pete Shepley.
 
@@ -322,7 +322,7 @@ This is a great initiative taken by PSE archery.
 
 - Release aids
 
-## 5. Samsick Sports
+## 5. [Samsick Sports](http://www.samicksports.com/)
 
 <div class="stat-highlight">
   <span class="stat-number">#5</span>
@@ -438,7 +438,7 @@ They're as follows:
 
 - Limb bolts and bezels
 
-## 7. Black Widow Bows
+## 7. [Black Widow Bows](https://www.blackwidowbows.com/)
 
 <div class="stat-highlight">
   <span class="stat-number">#7</span>
@@ -512,7 +512,7 @@ The name is enough on its own to spark interest in hunters.
 
 Their logo is a howling wolf that tells a lot about their brand.
 
-Predator bows are made for professional hunters and they offer a series of premium custom bows.
+Predator bows are [made for professional hunters](https://www.huntersniche.com/) and they offer a series of premium custom bows.
 
 Predator bows were founded back in the '80s and their initial start-up was only to supply replacements and spare parts for archery bows.
 
@@ -559,7 +559,7 @@ They're as follows:
 
 An archery brand from the United Kingdom.
 
-Merlin Archery has got to be one of the most affordable brands out there.
+Merlin Archery has got to be one of the [most affordable brands](https://www.merlinarchery.co.uk/) out there.
 
 Plus, they have the broadest range of every archery related item out there.
 
@@ -634,7 +634,7 @@ They're as follows:
 
 Another brand from the United Kingdom.
 
-3rivers archery is an umbrella term that has a lot to offer.
+[3rivers archery](https://www.3riversarchery.com/) is an umbrella term that has a lot to offer.
 
 It includes a lot of brands that have a lot of hunting equipment and accessories to offer.
 

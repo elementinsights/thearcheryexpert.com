@@ -71,7 +71,7 @@ The certification includes training and testing the instructors of archery skill
 
 ## How To Become A Certified Instructor
 
-There are different levels of archery instructor certification that you've to enroll in, take courses, and pass to be a certified instructor. Here are USA certification levels that you should enroll in to become a certified archery instructor.
+There are different levels of archery instructor certification that you've to enroll in, take courses, and pass to be a certified instructor. Here are [USA certification levels](https://legendarchery.com/blogs/archery-bowhunting-blog/15589208-how-to-become-a-certified-archery-coach) that you should enroll in to become a certified archery instructor.
 
 ## Level 1 Coaching Certification
 
@@ -151,11 +151,11 @@ You'll be required to pursue a higher training level as you'll need supervision 
 
 Being an archery coach requires specific qualities and skills.
 
-These qualities differentiate a good archery instructor from an incompetent one.
+[These qualities differentiate](https://www.archery360.com/2018/01/23/5-qualities-every-archery-instructor/) a good archery instructor from an incompetent one.
 
 Your role as an archery instructor is crucial for the trainees' development and learning throughout the learning process.
 
-To be a good instructor, you should possess these qualities for the betterment of yourself and the trainees.
+To be a good instructor, you should [possess these qualities](https://gonzagalawreview.org/qualities-and-attributes-of-a-great-archery-coach/) for the betterment of yourself and the trainees.
 
 As an archery instructor, you need to be serious and focused, and at the same time, fun to be with during training.
 
@@ -215,7 +215,7 @@ Here are the procedures that you should take to become a certified archery instr
 
 ## Archery Rules
 
-Every game and sports have rules and regulations that the players have to follow to ensure their smooth running.
+Every game and sports have [rules and regulations](https://www.rulesofsport.com/sports/archery.html) that the players have to follow to ensure their smooth running.
 
 Like every other game, archery also has rules and regulations that the players must adhere to for smooth running.
 
@@ -243,7 +243,7 @@ As an archery instructor, you should make sure your trainees know these rules to
 
 To participate in archery, you've to get some equipment.
 
-Here's some equipment necessary for the sport.
+Here's some [equipment necessary for the sport](https://www.archerygb.org/shoot-compete/shoot/start-to-shoot/basic-guide-equipment/).
 
 - Bow- The bow is a piece of equipment that consists of a grip of the handle, two flexible limbs ending in a tip with a string nick, and a riser (a no shooting type)
 

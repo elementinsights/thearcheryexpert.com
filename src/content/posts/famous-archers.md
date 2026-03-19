@@ -64,7 +64,7 @@ You'll see that ancient archers date back to the Stone age around 20,000 BC, wit
 
 The Shang Dynasty of China in 1766-1027 BC had chariots that carried an archer, but it was in the Zhou Dynasty in 1027-256 BC that had archery tournaments done for entertainment.
 
-Japan followed in the 6th century integrating martial arts known as "kyujutsu" or the way of the bow, now termed "kyudo" in modern times.
+Japan followed in the 6th century integrating martial arts known as "kyujutsu" or the way of the bow, [now termed](https://worldarchery.org/History-Archery) "kyudo" in modern times.
 
 The Greco-Roman period used a longbow for warfare and hunting, as recorded in their pottery.
 
@@ -72,7 +72,7 @@ The Middle Eastern Assyrians and Parthians mastered longbow from horseback, with
 
 Since then, the longbow was used in European battles and decreed that an adult man practice longbow every Sunday.
 
-Below is a list of some of the great male and female archers who figured in the Olympics and other historical figures.
+Below is a list of some of the [great male and female archers](https://www.ranker.com/list/best-olympic-athletes-in-archery/voteable) who figured in the Olympics and other historical figures.
 
 They're some of the toughest athletes of the sport.
 
@@ -126,7 +126,7 @@ The next year, using an all-aluminum shaft, he shot 1316 points and won his firs
 
 But in the 1980 Moscow Olympics, when the US boycotted the Olympics, Pace was thinking of retiring but was ready to compete in the 1984 Los Angeles Olympics.
 
-That was the highest point of Pace’s career, where he finished with 2616 points, a new Olympic record.
+That w[as the](https://archery360.com/2015/05/21/8-reasons-to-love-archerys-ki-bo-bae/) highest point of Pace’s career, where he finished with 2616 points, a new Olympic record.
 
 In the 1988 Seoul Olympics, the half FITA rounds used for eliminations took Pace out of the race and, that was the last of his appearance.
 
@@ -246,7 +246,7 @@ Frangelli started his training at the young age of 10 years old in elite Archery
 
 He had many experiences and almost got close to winning every crown in both the junior and senior competitive archery divisions.
 
-Frangelli is the only world champion in the triumvirate of indoor, outdoor, and field disciplines in both the European and Olympic arena.
+Frangelli is the only [world champion in the](https://worldarchery.org/news/178405/michele-frangilli-heretic-archer-or-blueprint-success) triumvirate of indoor, outdoor, and field disciplines in both the European and Olympic arena.
 
 His technique is distinctly unique from an outside observer because it seems to defy the simplicity and elegance which are part of orthodox archery principles.
 
@@ -384,7 +384,7 @@ In 1859 after eleven consecutive wins, Ford suffered from injured muscles in his
 
 He practiced for the next years and only regained his comeback in 1867, to win the Grand National Meeting in Brighton.
 
-Described as a champion who straddled the line and with a “practiced eye and cool judgment gave precision to his shafts, and gained for him the highest score made upon that occasion.”
+[Described as a champion](http://www.stickbow.com/stickbow/history/horace-ford.html) who straddled the line and with a “practiced eye and cool judgment gave precision to his shafts, and gained for him the highest score made upon that occasion.”
 
 He wrote the classic manual “Archery: Its Theory and Practice,” a reference source for modern archery.
 

@@ -112,6 +112,15 @@ const schemas = schema
 
   <!-- Head slot for per-page additions -->
   <slot name="head" />
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3RFCY3CTXY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3RFCY3CTXY');
+  </script>
 </head>
 <body>
   <SearchOverlay />

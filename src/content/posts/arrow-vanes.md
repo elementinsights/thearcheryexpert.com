@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/3129h1evT3L._SL500_.jpg"
     description: "These vanes are made of flexible, soft plastic and can be quickly installed on arrow shafts."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "51 Pack Value"
+      - "Flexible Soft Plastic"
+      - "Featherweight Light"
+      - "Multiple Colors"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "51-pack gives you plenty of vanes for practice and replacements"
+      - "Flexible soft plastic installs quickly on any arrow shaft"
+      - "Nearly as light as feather fletching for reduced drag"
+      - "Available in a wide range of vivid colors for easy tracking"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Soft plastic may not be as durable as stiffer vane materials"
+      - "Adhesive not included, so you'll need fletching glue"
     ctaUrl: "https://www.amazon.com/dp/B081YTY2S9?tag=thearcheryexpert-20"
   - name: "Bohning Blazer Vanes Flannel 36 pk. Red"
     rank: 2
@@ -76,17 +77,17 @@ products:
     image: "https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg"
     description: "With a full five stars on Amazon, this product is a good bet when looking to buy arrow vanes."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "2 Inch Length"
+      - "6 Grain Weight"
+      - "Universal Fit"
+      - "Flannel Texture"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Universal 2-inch design fits broadhead and 3D archery arrows"
+      - "6-grain weight provides solid stabilization without adding bulk"
+      - "Flannel textured surface offers unique visual appeal"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "36-pack runs out quickly with heavy practice use"
+      - "Only available in red in this particular pack"
     ctaUrl: "https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20"
   - name: "Bohning 1.75-Inch Shield Cut X-Vanes (100-Pack)"
     rank: 3
@@ -95,17 +96,17 @@ products:
     image: "https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg"
     description: "This lot comes in a 100-pack and is excellent for indoor sports."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "100 Pack Bulk"
+      - "1.75 Inch Shield Cut"
+      - "Indoor Target Ready"
+      - "Low Profile"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "100-pack provides outstanding value for high-volume shooters"
+      - "1.75-inch shield cut profile is perfect for indoor target archery"
+      - "Low profile design minimizes drag at shorter distances"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Smaller size offers less stabilization for broadhead arrows"
+      - "Shield cut shape isn't ideal for long-range outdoor shooting"
     ctaUrl: "https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20"
   - name: "Bohning Blazer -  Best Arrow Hunting Vanes"
     rank: 4
@@ -114,17 +115,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41PjZOhSc0L._SL500_.jpg"
     description: "These arrow vanes are best for serious hunters."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Hunting Optimized"
+      - "Fast Arrow Spin"
+      - "Weather Resistant"
+      - "Proven Performer"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Specifically designed for hunting with fast arrow stabilization"
+      - "Aggressive angle promotes quick spin and tight groupings"
+      - "Weather-resistant material performs in rain and cold"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Slightly heavier than low-profile target vanes"
+      - "Premium Bohning pricing compared to off-brand alternatives"
     ctaUrl: "https://www.amazon.com/dp/B07TRP35BF?tag=thearcheryexpert-20"
   - name: "Bohning 2.25-Inch  -  Best Arrow Vanes for Accuracy"
     rank: 5
@@ -133,17 +134,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21xRobRr6oL._SL500_.jpg"
     description: "Durable and lightweight, these arrow vanes were tailor-made for indoor sports like archery shooting."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "2.25 Inch Length"
+      - "Accuracy Focused"
+      - "Indoor Specialist"
+      - "Durable Plastic"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "2.25-inch length provides extra stability for precision shooting"
+      - "Tailored for indoor archery where accuracy matters most"
+      - "Durable plastic holds its shape through hundreds of shots"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Longer profile creates more drag at outdoor distances"
+      - "Best suited for indoor use rather than hunting"
     ctaUrl: "https://www.amazon.com/dp/B00B5Q6FJS?tag=thearcheryexpert-20"
   - name: "Q2i Fusion X-II  -  Best Light Weighted Arrow Vanes"
     rank: 6
@@ -152,17 +153,17 @@ products:
     image: "https://m.media-amazon.com/images/I/11THaBtUOZL._SL500_.jpg"
     description: "These high-quality arrow vanes are designed in a shield-cut shape."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Ultra Lightweight"
+      - "Shield Cut Shape"
+      - "High Quality Material"
+      - "Consistent Flight"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "One of the lightest vanes on the market for maximum arrow speed"
+      - "Shield-cut shape balances stability and low drag effectively"
+      - "Consistent manufacturing ensures uniform flight across all vanes"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Lightweight construction can be less forgiving in crosswinds"
+      - "Limited availability in some local archery shops"
     ctaUrl: "https://www.amazon.com/dp/B00XXJ5RFS?tag=thearcheryexpert-20"
   - name: "ISPORT 3” Archery Vanes  -  Best Carbon Arrow Vanes"
     rank: 7
@@ -171,17 +172,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41CdUYth80L._SL500_.jpg"
     description: "These arrow vanes are best for carbon hunting arrows and are meant for serious, aggressive hunters."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "3 Inch Length"
+      - "Carbon Arrow Match"
+      - "Aggressive Steering"
+      - "Hunter's Choice"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "3-inch length provides aggressive steering for carbon hunting arrows"
+      - "Designed to pair specifically with carbon arrow shafts"
+      - "Strong enough to handle high-speed compound bow setups"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Larger 3-inch profile adds more drag than smaller vanes"
+      - "Overkill for casual target shooting at close range"
     ctaUrl: "https://www.amazon.com/dp/B00VDQLCLQ?tag=thearcheryexpert-20"
   - name: "Bohning Blazer Vanes Silver 100 pk."
     rank: 8
@@ -190,17 +191,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21z1VYpOLdL._SL500_.jpg"
     description: "We’re back to talking about Bohning, a brand that has been established for 30 years and is very popular to this day."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "100 Pack Silver"
+      - "30 Year Brand Trust"
+      - "Tournament Grade"
+      - "All-Around Performer"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "100-pack at a competitive price from a trusted 30-year brand"
+      - "Silver color stands out for easy arrow identification"
+      - "Tournament-grade quality used by competitive archers worldwide"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Silver color may be harder to spot in snowy conditions"
+      - "Same Blazer design as other packs with no new features"
     ctaUrl: "https://www.amazon.com/dp/B071RLRQ3T?tag=thearcheryexpert-20"
   - name: "Bohning Blazer Tiger Archery Vane (100-Pack), Green"
     rank: 9
@@ -209,17 +210,17 @@ products:
     image: "https://m.media-amazon.com/images/I/2188LbYA+fL._SL500_.jpg"
     description: "The product’s usual description is 2” X .6” in length and breadth."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Tiger Stripe Pattern"
+      - "100 Pack Green"
+      - "2 Inch Compact"
+      - "Beginner Friendly"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Eye-catching tiger stripe pattern makes arrows easy to find"
+      - "100-pack in green is perfect for outdoor field archery"
+      - "Compact 2-inch size works well for beginners learning to fletch"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Tiger pattern is purely cosmetic and doesn't affect performance"
+      - "Green color can blend into grass and be hard to locate"
     ctaUrl: "https://www.amazon.com/dp/B003DQXZA0?tag=thearcheryexpert-20"
   - name: "TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100"
     rank: 10
@@ -228,17 +229,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg"
     description: "These vanes are great for archery bow hunting and recreational hunting."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Matrix Shield Cut"
+      - "100 Pack Value"
+      - "Dual Purpose"
+      - "Stiff Construction"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Matrix shield cut balances stability for both hunting and target use"
+      - "100-pack offers great value for the cost per vane"
+      - "Stiffer construction holds shape better in warm temperatures"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Less flexible than Bohning Blazers in cold weather"
+      - "TAC brand is less well-known than Bohning in the vane market"
     ctaUrl: "https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20"
 ---
 
@@ -364,10 +365,10 @@ The better the quality of the vane, the better the stability and aim will be.
 </div>
 <p class="product-card-desc">These vanes are made of flexible, soft plastic and can be quickly installed on arrow shafts. They’re light, almost as light as a feather vane, and can therefore reduce drag in flight after arrow release.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">51 Pack Value</span>
+<span class="highlight-tag">Flexible Soft Plastic</span>
+<span class="highlight-tag">Featherweight Light</span>
+<span class="highlight-tag">Multiple Colors</span>
 </div>
 <a href="https://www.amazon.com/dp/B081YTY2S9?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -395,8 +396,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Soft plastic may not be as durable as stiffer vane materials</li>
+<li>Adhesive not included, so you'll need fletching glue</li>
 </ul>
 </div>
 </div>
@@ -436,10 +437,10 @@ The shipping is fast, so you would be receiving your vanes in no time at all.
 </div>
 <p class="product-card-desc">With a full five stars on Amazon, this product is a good bet when looking to buy arrow vanes. It's 2 inches in length and weighs in at 6 grains each. This is a universal vane and can be fitted on any arrow, whether broadhead or 3D archery.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">2 Inch Length</span>
+<span class="highlight-tag">6 Grain Weight</span>
+<span class="highlight-tag">Universal Fit</span>
+<span class="highlight-tag">Flannel Texture</span>
 </div>
 <a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -466,8 +467,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>36-pack runs out quickly with heavy practice use</li>
+<li>Only available in red in this particular pack</li>
 </ul>
 </div>
 </div>
@@ -499,10 +500,10 @@ Sourced and made in the United States, this one comes in a 36-pack.
 </div>
 <p class="product-card-desc">This lot comes in a 100-pack and is excellent for indoor sports. The high number of vanes that come in one lot makes it very convenient for anyone who’s practicing. When it comes to hunting, this vane is very well-suited for arrows with a mechanical broadhead.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">100 Pack Bulk</span>
+<span class="highlight-tag">1.75 Inch Shield Cut</span>
+<span class="highlight-tag">Indoor Target Ready</span>
+<span class="highlight-tag">Low Profile</span>
 </div>
 <a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -530,8 +531,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Smaller size offers less stabilization for broadhead arrows</li>
+<li>Shield cut shape isn't ideal for long-range outdoor shooting</li>
 </ul>
 </div>
 </div>
@@ -565,10 +566,10 @@ They recover quickly after arrow launch and work best with thinner arrows.
 </div>
 <p class="product-card-desc">These arrow vanes are best for serious hunters. For the following reasons - they help arrows spend more time in flight and thus the perfect fit for hunting arrows. These arrow vanes are perfect for broadhead arrows. They're made of plastic and therefore spend more time in flight.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Hunting Optimized</span>
+<span class="highlight-tag">Fast Arrow Spin</span>
+<span class="highlight-tag">Weather Resistant</span>
+<span class="highlight-tag">Proven Performer</span>
 </div>
 <a href="https://www.amazon.com/dp/B07TRP35BF?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -596,8 +597,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Slightly heavier than low-profile target vanes</li>
+<li>Premium Bohning pricing compared to off-brand alternatives</li>
 </ul>
 </div>
 </div>
@@ -651,10 +652,10 @@ According to reviews, these have impressive airtime, look attractive, and ideal 
 </div>
 <p class="product-card-desc">Durable and lightweight, these arrow vanes were tailor-made for indoor sports like archery shooting. These arrow vanes are made of soft quality plastic, hence the durability. The reduced weight means the arrows can enjoy increased flight time, which is a big plus for archery shooting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">2.25 Inch Length</span>
+<span class="highlight-tag">Accuracy Focused</span>
+<span class="highlight-tag">Indoor Specialist</span>
+<span class="highlight-tag">Durable Plastic</span>
 </div>
 <a href="https://www.amazon.com/dp/B00B5Q6FJS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -682,8 +683,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Longer profile creates more drag at outdoor distances</li>
+<li>Best suited for indoor use rather than hunting</li>
 </ul>
 </div>
 </div>
@@ -733,10 +734,10 @@ This helps the arrow maintain its speed for longer. Hence it travels faster and 
 </div>
 <p class="product-card-desc">These high-quality arrow vanes are designed in a shield-cut shape. They maintain a low profile, with muted colors, and make less noise once in the air. Due to their superior build, these arrow vanes minimize drag and are perfect options for hunting and archery.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Ultra Lightweight</span>
+<span class="highlight-tag">Shield Cut Shape</span>
+<span class="highlight-tag">High Quality Material</span>
+<span class="highlight-tag">Consistent Flight</span>
 </div>
 <a href="https://www.amazon.com/dp/B00XXJ5RFS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -763,8 +764,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Lightweight construction can be less forgiving in crosswinds</li>
+<li>Limited availability in some local archery shops</li>
 </ul>
 </div>
 </div>
@@ -810,12 +811,12 @@ Even though they're listed for X-Bow shafts, they can also be used on other kind
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
-<p class="product-card-desc">These arrow vanes are best for carbon hunting arrows and are meant for serious, aggressive hunters. They're available in various sizes, making them versatile and compatible with a wide range of bows. The available sizes are 2.5”, 3”, 5”.</p>
-<div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<p class=”product-card-desc”>These arrow vanes are best for carbon hunting arrows and are meant for serious, aggressive hunters. They're available in various sizes, making them versatile and compatible with a wide range of bows. The available sizes are 2.5”, 3”, 5”.</p>
+<div class=”product-card-highlights”>
+<span class=”highlight-tag”>3 Inch Length</span>
+<span class=”highlight-tag”>Carbon Arrow Match</span>
+<span class=”highlight-tag”>Aggressive Steering</span>
+<span class=”highlight-tag”>Hunter's Choice</span>
 </div>
 <a href="https://www.amazon.com/dp/B00VDQLCLQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -830,10 +831,9 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Ideal for carbon hunting arrows</li>
-<li>Different sizes available</li>
-<li>Most affordable on the list</li>
-<li>Easily bonds with arrows</li>
+<li>3-inch length provides aggressive steering for carbon hunting arrows</li>
+<li>Designed to pair specifically with carbon arrow shafts</li>
+<li>Strong enough to handle high-speed compound bow setups</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -842,8 +842,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Larger 3-inch profile adds more drag than smaller vanes</li>
+<li>Overkill for casual target shooting at close range</li>
 </ul>
 </div>
 </div>
@@ -891,10 +891,10 @@ The delivery is quite fast, and most customers seem very satisfied with the prod
 </div>
 <p class="product-card-desc">We’re back to talking about Bohning, a brand that has been established for 30 years and is very popular to this day. These high profile arrow vanes improve the arrow’s stability a great deal, and they weigh in at only 6 grains each.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">100 Pack Silver</span>
+<span class="highlight-tag">30 Year Brand Trust</span>
+<span class="highlight-tag">Tournament Grade</span>
+<span class="highlight-tag">All-Around Performer</span>
 </div>
 <a href="https://www.amazon.com/dp/B071RLRQ3T?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -920,8 +920,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Silver color may be harder to spot in snowy conditions</li>
+<li>Same Blazer design as other packs with no new features</li>
 </ul>
 </div>
 </div>
@@ -967,10 +967,10 @@ They're 6” tall.
 </div>
 <p class="product-card-desc">The product’s usual description is 2” X .6” in length and breadth. They're made of extremely durable material. Also, they have parabolic paddles that help immensely with superior steerage. They're great for crossbow bolts and are designed to be compatible with both mechanical and fixed broadheads.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Tiger Stripe Pattern</span>
+<span class="highlight-tag">100 Pack Green</span>
+<span class="highlight-tag">2 Inch Compact</span>
+<span class="highlight-tag">Beginner Friendly</span>
 </div>
 <a href="https://www.amazon.com/dp/B003DQXZA0?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -996,8 +996,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Tiger pattern is purely cosmetic and doesn't affect performance</li>
+<li>Green color can blend into grass and be hard to locate</li>
 </ul>
 </div>
 </div>
@@ -1053,10 +1053,10 @@ They're durable, don't tear easily, and are promptly delivered.
 </div>
 <p class="product-card-desc">These vanes are great for archery bow hunting and recreational hunting. These mid-profile vanes are ideal for good clearance. When it comes to the drag time, this is significantly reduced due to the modified shield cut that this vane possesses. This also cuts down the crosswind interference.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Matrix Shield Cut</span>
+<span class="highlight-tag">100 Pack Value</span>
+<span class="highlight-tag">Dual Purpose</span>
+<span class="highlight-tag">Stiff Construction</span>
 </div>
 <a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1083,8 +1083,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Less flexible than Bohning Blazers in cold weather</li>
+<li>TAC brand is less well-known than Bohning in the vane market</li>
 </ul>
 </div>
 </div>

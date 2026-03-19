@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31Yo0KxHstL._SL500_.jpg"
     description: "The Trophy Ridge Lite-1 5 Arrow Quiver is excellent if you're looking for a device that will need several mounting settings, as well as the ability to remove parts to lighten your load weight if necessary."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Quick Detach System"
+      - "Built-In LED Light"
+      - "Camo Finish"
+      - "Ultra Lightweight"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Quick detach feature lets you remove the quiver silently in the field"
+      - "Built-in LED light doubles as a handy flashlight at dusk"
+      - "Non-reflective camo finish won't spook game"
+      - "Also works well with crossbows according to users"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Only holds 5 arrows, which isn't enough for extended target sessions"
+      - "LED batteries need periodic replacement"
     ctaUrl: "https://www.amazon.com/dp/B00FGV0GQQ?tag=thearcheryexpert-20"
   - name: "G4Free High-Grade Matte Velvet Arrow-Back Pot Quiver"
     rank: 2
@@ -76,17 +77,17 @@ products:
     image: "https://m.media-amazon.com/images/I/412iDOPUSQL._SL500_.jpg"
     description: "When you are looking for accuracy and ease of carrying and defending your arrows, the G4Free Arrow-back Pot Quiver is a great product."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Matte Velvet Exterior"
+      - "Back Pot Design"
+      - "Arrow Protection"
+      - "Adjustable Strap"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Matte velvet finish protects arrows from scratching"
+      - "Back pot design keeps arrows organized and easy to reach"
+      - "Adjustable shoulder strap fits a wide range of body sizes"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Pot-style opening can be tricky to access quickly"
+      - "Heavier than minimalist quiver designs"
     ctaUrl: "https://www.amazon.com/dp/B00P7FZN78?tag=thearcheryexpert-20"
   - name: "Easton Flipside 3-Tube Hip Quiver"
     rank: 3
@@ -95,17 +96,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41RzVH1zgEL._SL500_.jpg"
     description: "The Easton Flipside 3-Tube Hip Quiver should be an excellent choice when you need a practical solution."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "3 Tube Separation"
+      - "Hip Mount Design"
+      - "Ambidextrous Use"
+      - "Accessory Pocket"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Three separate tubes keep arrows organized by type"
+      - "Hip mount keeps arrows at your side for fast access"
+      - "Works for both left-handed and right-handed archers"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Hip quiver can bump against legs while walking"
+      - "Not ideal for rough terrain or dense brush"
     ctaUrl: "https://www.amazon.com/dp/B00IEPFDLO?tag=thearcheryexpert-20"
   - name: "LimbSaver Silent Quiver for Bow Hunting"
     rank: 4
@@ -114,17 +115,17 @@ products:
     image: "https://m.media-amazon.com/images/I/418UPFm65rL._SL500_.jpg"
     description: "The LimbSaver Silent Quiver is an ideal hunting solution, and, in keeping with its purpose, it provides a very tight, secure hold for your bow and arrows while moving or at the range downwards."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Vibration Dampening"
+      - "Dead Silent Design"
+      - "Secure Arrow Grip"
+      - "Hunting Focused"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "LimbSaver's NAVCOM technology makes this quiver virtually silent"
+      - "Tight secure hold prevents arrows from rattling during movement"
+      - "Designed specifically for bowhunting scenarios"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Premium price point compared to basic quivers"
+      - "Dampening material can wear down over several seasons"
     ctaUrl: "https://www.amazon.com/dp/B010C4W416?tag=thearcheryexpert-20"
   - name: "Allen Youth Archery Compact Back Quiver"
     rank: 5
@@ -133,17 +134,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41fpJ3We4oL._SL500_.jpg"
     description: "This Allen Company entry-level quiver is targeted towards children beginning in archery."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Youth Sized"
+      - "Compact Design"
+      - "Budget Friendly"
+      - "Easy to Carry"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Compact size designed specifically for young archers"
+      - "Very affordable entry-level price for beginners"
+      - "Lightweight enough for kids to carry comfortably"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Too small for adult archers or full-length arrows"
+      - "Basic construction won't hold up to heavy use"
     ctaUrl: "https://www.amazon.com/dp/B00FXXQ792?tag=thearcheryexpert-20"
   - name: "G4Free Archery Deluxe Canvas Back Arrow Quiver"
     rank: 6
@@ -152,17 +153,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41S32jKtmHL._SL500_.jpg"
     description: "The G4Free brand is, for good reasons, well-trusted among archery hobbyists and hunters."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Durable Canvas"
+      - "Traditional Style"
+      - "Large Capacity"
+      - "Shoulder Strap"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Heavy-duty canvas construction stands up to outdoor conditions"
+      - "Traditional back quiver style holds a large number of arrows"
+      - "Comfortable padded shoulder strap for long carry sessions"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Canvas can absorb moisture in rainy conditions"
+      - "Bulkier than modern minimalist quiver options"
     ctaUrl: "https://www.amazon.com/dp/B011K548Q0?tag=thearcheryexpert-20"
   - name: "Easton Flipside 2-Tube Hip Quiver"
     rank: 7
@@ -171,17 +172,17 @@ products:
     image: "https://m.media-amazon.com/images/I/61ExHwFiu5L._SL500_.jpg"
     description: "The Easton Flipside is a quiver built for right and left users alike."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "2 Tube Design"
+      - "Left/Right Compatible"
+      - "Slim Profile"
+      - "Belt Clip Mount"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Slim 2-tube design keeps things simple and lightweight"
+      - "Fully ambidextrous for left or right-handed shooters"
+      - "Belt clip mounts securely without bouncing around"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Only two tubes limits arrow organization options"
+      - "Smaller capacity than the 3-tube version"
     ctaUrl: "https://www.amazon.com/dp/B00IEPFD1E?tag=thearcheryexpert-20"
   - name: "OMP No Spill Tube Quiver"
     rank: 8
@@ -190,17 +191,17 @@ products:
     image: "https://m.media-amazon.com/images/I/319+3sC9RLL._SL500_.jpg"
     description: "The OMP is an affordably priced quiver that boasts a unique design and is incredibly helpful in keeping the arrows on the shooters' side and at a good angle that facilitates the recovery."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "No Spill Design"
+      - "Angled Tube"
+      - "Affordable Price"
+      - "Quick Arrow Access"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Unique angled design prevents arrows from spilling out"
+      - "Budget-friendly price makes it great for casual archers"
+      - "Quick arrow access without fumbling or looking down"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Tube design limits the number of arrows you can carry"
+      - "Plastic construction feels less premium than competitors"
     ctaUrl: "https://www.amazon.com/dp/B00IQ5RTTQ?tag=thearcheryexpert-20"
   - name: "Kwikee Kwiver Combo  -  4-Arrow Bow Quiver for Archery and Hunting"
     rank: 9
@@ -209,17 +210,17 @@ products:
     image: "https://m.media-amazon.com/images/I/418eWfoqr9L._SL500_.jpg"
     description: "The Kwikee Kwiver Arrow Quiver is the ideal, easy way to protect your arrows without having to worry about falling out while walking or running."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "4 Arrow Capacity"
+      - "Bow Mounted"
+      - "Quick Release"
+      - "Rubber Arrow Grips"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Mounts directly to your bow for compact, all-in-one carry"
+      - "Rubber grips hold arrows securely without rattling"
+      - "Quick release mechanism for fast arrow access during hunts"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "4-arrow capacity isn't enough for target practice"
+      - "Adding weight to the bow can affect balance"
     ctaUrl: "https://www.amazon.com/dp/B004WJ7X6Y?tag=thearcheryexpert-20"
   - name: "Kwikee Kwiver Kompound  -  6-arrow Bow Quiver for Archery and Hunting"
     rank: 10
@@ -228,17 +229,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31TDcwiGkBL._SL500_.jpg"
     description: "The Kwikee Kwiver K6 Arrow Quiver is built with a powerful, robust construction and is ideal for those trying to optimize their next archery trip by allowing quick and easy disconnection of arrows."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "6 Arrow Capacity"
+      - "Robust Construction"
+      - "Quick Disconnect"
+      - "Broadhead Compatible"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Holds 6 arrows for extended hunting trips"
+      - "Robust construction handles rough field conditions"
+      - "Quick disconnect lets you remove the quiver silently in your stand"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Heavier than 4-arrow models when fully loaded"
+      - "Mounting hardware may need adjustment for some bow risers"
     ctaUrl: "https://www.amazon.com/dp/B001SH5T8M?tag=thearcheryexpert-20"
 ---
 
@@ -366,10 +367,10 @@ They're a good bow, some high-quality arrows, and the best bow quiver.
 </div>
 <p class="product-card-desc">The Trophy Ridge Lite-1 5 Arrow Quiver is excellent if you're looking for a device that will need several mounting settings, as well as the ability to remove parts to lighten your load weight if necessary.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Quick Detach System</span>
+<span class="highlight-tag">Built-In LED Light</span>
+<span class="highlight-tag">Camo Finish</span>
+<span class="highlight-tag">Ultra Lightweight</span>
 </div>
 <a href="https://www.amazon.com/dp/B00FGV0GQQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -397,8 +398,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Only holds 5 arrows, which isn't enough for extended target sessions</li>
+<li>LED batteries need periodic replacement</li>
 </ul>
 </div>
 </div>
@@ -440,10 +441,10 @@ It's also very light (true to its name), and it's equally valuable to secure and
 </div>
 <p class="product-card-desc">When you're looking for accuracy and ease of carrying and defending your arrows, the G4Free Arrow-back Pot Quiver is a great product.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Matte Velvet Exterior</span>
+<span class="highlight-tag">Back Pot Design</span>
+<span class="highlight-tag">Arrow Protection</span>
+<span class="highlight-tag">Adjustable Strap</span>
 </div>
 <a href="https://www.amazon.com/dp/B00P7FZN78?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -469,8 +470,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Pot-style opening can be tricky to access quickly</li>
+<li>Heavier than minimalist quiver designs</li>
 </ul>
 </div>
 </div>
@@ -510,10 +511,10 @@ The additional two pockets included on this bow quiver are also perfect for stor
 </div>
 <p class="product-card-desc">The Easton Flipside 3-Tube Hip Quiver should be an excellent choice when you need a practical solution. The commodity consists of the highest quality materials. So it will last many years. The quiver is intended to serve multiple uses.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">3 Tube Separation</span>
+<span class="highlight-tag">Hip Mount Design</span>
+<span class="highlight-tag">Ambidextrous Use</span>
+<span class="highlight-tag">Accessory Pocket</span>
 </div>
 <a href="https://www.amazon.com/dp/B00IEPFDLO?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -541,8 +542,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Hip quiver can bump against legs while walking</li>
+<li>Not ideal for rough terrain or dense brush</li>
 </ul>
 </div>
 </div>
@@ -586,10 +587,10 @@ If you want to make regular use of your quiver, you should pick this one before 
 </div>
 <p class="product-card-desc">The LimbSaver Silent Quiver is an ideal hunting solution, and, in keeping with its purpose, it provides a very tight, secure hold for your bow and arrows while moving or at the range downwards.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Vibration Dampening</span>
+<span class="highlight-tag">Dead Silent Design</span>
+<span class="highlight-tag">Secure Arrow Grip</span>
+<span class="highlight-tag">Hunting Focused</span>
 </div>
 <a href="https://www.amazon.com/dp/B010C4W416?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -615,8 +616,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Premium price point compared to basic quivers</li>
+<li>Dampening material can wear down over several seasons</li>
 </ul>
 </div>
 </div>
@@ -650,10 +651,10 @@ It holds up well, and almost all customers were more than happy with both the pe
 </div>
 <p class="product-card-desc">This Allen Company entry-level quiver is targeted towards children beginning in archery. It's very lightweight and has a sling-style design that allows it to be worn across the back, which can accommodate up to 14 arrows with sizes that can reach a height of 30 inches.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Youth Sized</span>
+<span class="highlight-tag">Compact Design</span>
+<span class="highlight-tag">Budget Friendly</span>
+<span class="highlight-tag">Easy to Carry</span>
 </div>
 <a href="https://www.amazon.com/dp/B00FXXQ792?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -681,8 +682,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Too small for adult archers or full-length arrows</li>
+<li>Basic construction won't hold up to heavy use</li>
 </ul>
 </div>
 </div>
@@ -738,10 +739,10 @@ You'll love the performance.
 </div>
 <p class="product-card-desc">The G4Free brand is, for good reasons, well-trusted among archery hobbyists and hunters. This bow quiver is unique in particular as it's made from Canvas. Canvas is a sturdy, versatile material used to make backpacks, boat sails, tents, handbags, and high-quality shoes.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Durable Canvas</span>
+<span class="highlight-tag">Traditional Style</span>
+<span class="highlight-tag">Large Capacity</span>
+<span class="highlight-tag">Shoulder Strap</span>
 </div>
 <a href="https://www.amazon.com/dp/B011K548Q0?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -768,8 +769,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Canvas can absorb moisture in rainy conditions</li>
+<li>Bulkier than modern minimalist quiver options</li>
 </ul>
 </div>
 </div>
@@ -809,10 +810,10 @@ Its optimized design helps prevent your arrows from spilling out while keeping t
 </div>
 <p class="product-card-desc">The Easton Flipside is a quiver built for right and left users alike. This is made from high-denier poly material and comes in a trendy camouflage color or an eye-catchy mix of orange and black. It's intended primarily for targeting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">2 Tube Design</span>
+<span class="highlight-tag">Left/Right Compatible</span>
+<span class="highlight-tag">Slim Profile</span>
+<span class="highlight-tag">Belt Clip Mount</span>
 </div>
 <a href="https://www.amazon.com/dp/B00IEPFD1E?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -840,8 +841,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Only two tubes limits arrow organization options</li>
+<li>Smaller capacity than the 3-tube version</li>
 </ul>
 </div>
 </div>
@@ -879,10 +880,10 @@ So, if you need a smaller, lighter, more simple bow quiver while on the go, just
 </div>
 <p class="product-card-desc">The OMP is an affordably priced quiver that boasts a unique design and is incredibly helpful in keeping the arrows on the shooters' side and at a good angle that facilitates the recovery.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">No Spill Design</span>
+<span class="highlight-tag">Angled Tube</span>
+<span class="highlight-tag">Affordable Price</span>
+<span class="highlight-tag">Quick Arrow Access</span>
 </div>
 <a href="https://www.amazon.com/dp/B00IQ5RTTQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -909,8 +910,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Tube design limits the number of arrows you can carry</li>
+<li>Plastic construction feels less premium than competitors</li>
 </ul>
 </div>
 </div>
@@ -950,10 +951,10 @@ For those tired of having to bend over and pick up their arrows while out on the
 </div>
 <p class="product-card-desc">The Kwikee Kwiver Arrow Quiver is the ideal, easy way to protect your arrows without having to worry about falling out while walking or running. It also quickly detaches from the mounting point, maximizing both convenience and your ability to respond to a target quickly.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">4 Arrow Capacity</span>
+<span class="highlight-tag">Bow Mounted</span>
+<span class="highlight-tag">Quick Release</span>
+<span class="highlight-tag">Rubber Arrow Grips</span>
 </div>
 <a href="https://www.amazon.com/dp/B004WJ7X6Y?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -981,8 +982,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>4-arrow capacity isn't enough for target practice</li>
+<li>Adding weight to the bow can affect balance</li>
 </ul>
 </div>
 </div>
@@ -1018,10 +1019,10 @@ It's also nice to see a bow quiver, which allows the entire quiver to be safely 
 </div>
 <p class="product-card-desc">The Kwikee Kwiver K6 Arrow Quiver is built with a powerful, robust construction and is ideal for those trying to optimize their next archery trip by allowing quick and easy disconnection of arrows.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">6 Arrow Capacity</span>
+<span class="highlight-tag">Robust Construction</span>
+<span class="highlight-tag">Quick Disconnect</span>
+<span class="highlight-tag">Broadhead Compatible</span>
 </div>
 <a href="https://www.amazon.com/dp/B001SH5T8M?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1047,8 +1048,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Heavier than 4-arrow models when fully loaded</li>
+<li>Mounting hardware may need adjustment for some bow risers</li>
 </ul>
 </div>
 </div>

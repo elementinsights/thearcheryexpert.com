@@ -53,7 +53,7 @@ As you know, two whistle blast means “go the shooting line”, one whistle bla
 
 Let's check out these 5 archery whistle commands every archer should know.
 
-## 1. One whistle blast
+## 1. [One whistle blast](https://yvonnexin47.github.io/hk_archery/whistle_system.html)
 
 The first whistle means the beginning of the shooting in archery. You must know about this whistle.
 
@@ -109,7 +109,7 @@ After shooting, the instructor will blow whistle three. This command means “fo
 
 You've to walk towards the line and wait for commands for pulling your arrow from the target.
 
-## 2. Two whistle blast
+## 2. [Two whistle blast](https://bsar.org/manual/whistles/)
 
 When you hear two whistle blasts mean you should go to the shooting line.
 
@@ -201,7 +201,7 @@ Before hunting, don’t eat caffeine or sugar. It can make you shaky.
 
 Always be straightforward while shooting or archery and drop your arrow after shooting or wait for the signal from the instructors.
 
-## 4. Four whistle blast
+## 4. [Four whistle blast](http://www.scouterlife.com/blog//2014/12/the-four-whistle-commands-used-on-range.html)
 
 These four whistle blasts mean a very menacing condition.
 
@@ -279,7 +279,7 @@ There are different formats of archery, but the aim is to hit your target with s
 
 - WA =122 cm (48 in) (70 and 90 m ) (Olympics)
 
-## 5. Five whistle blast
+## 5. [Five whistle blast](https://washington.extension.wisc.edu/files/2010/06/Archery-Safety-Rules-20141.pdf)
 
 In Olympic archery, as you know it’s a game so there's always a runner.
 
@@ -305,7 +305,7 @@ As you know, there's the “winner” who is the most deserving of the archer.
 
 - You’re allowed to change your kits if it’s damaged. You've to follow the terms and rules for your safety.
 
-## Importance of archery
+## [Importance of archery](https://worldarchery.org/news/147916/8-health-benefits-archery)
 
 As you know, archery is a fun game or hobby. In the modern ages, it's used as a hobby or professional sports consist of bow and arrow.
 

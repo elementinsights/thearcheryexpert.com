@@ -51,7 +51,7 @@ Archery for children is a must, especially in this day and age where kids tend t
 
 Not only do such activities promote their cognitive and motor skills, but also help them explore the outdoors and stay in shape.
 
-Sports bring about many health benefits for them as well.
+Sports bring about [many health benefits](https://www.betterhealth.vic.gov.au/health/HealthyLiving/sport-and-children) for them as well.
 
 Archery is one such sport which children should be introduced to at a young age.
 
@@ -87,7 +87,7 @@ This means that the archer has to walk to the target, pick up their, bow, and wa
 
 This is another wonderful physical activity where they end up walking at least 50 to 100 meters in one session, even if they’re just practicing.
 
-According to a calorie calculation, an average person who weighs 150 pounds can burn up to 300 calories in a 1-hour archery session while a 200-pound person can amp it up to 400 calories per hour.
+[According to a calorie calculation](https://captaincalculator.com/health/calorie/calories-burned-archery/), an average person who weighs 150 pounds can burn up to 300 calories in a 1-hour archery session while a 200-pound person can amp it up to 400 calories per hour.
 
 By this formula, a child would easily burn anywhere from 100 to 200 calories in an hour-long session.
 
@@ -95,7 +95,7 @@ This is excellent for them and keeps them away from obesity or eating disorders.
 
 ## 2. Mental Development
 
-While physical development is a big takeaway, archery also helps in children’s mental and cognitive development, if started from a young age.
+While physical development is a big takeaway, archery also helps in children’s [mental and cognitive development](https://www.lifehack.org/328591/how-archery-can-make-you-mentally-stronger), if started from a young age.
 
 One key component of archery is balancing which allows you to stand perfectly still and stable as you position your bow and set your target.
 
@@ -127,13 +127,13 @@ Children who are into archery are known to mature into confident and motivated a
 
 ## 3. Mental Health
 
-According to the ADAA, there are a large number of adolescent children who go through depression, anxiety, or any related problems at least once in their lives.
+[According to the ADAA](https://adaa.org/living-with-anxiety/children/anxiety-and-depression), there are a large number of adolescent children who go through depression, anxiety, or any related problems at least once in their lives.
 
 It causes them to fall back and drift away from their family and friends, resulting in poor grades, low self-esteem, and constant irritable behavior.
 
 They don’t feel like engaging in any kind of physical activity and just want to stay in their rooms all the time.
 
-According to various case studies, archery is one of those outdoor sports which can greatly benefit their mental health, as it encourages social interaction and physical activity.
+According to [various case studies](https://www.archerygb.org/clubs-facilities-development/clubs/mental-health-and-archery/), archery is one of those outdoor sports which can greatly benefit their mental health, as it encourages social interaction and physical activity.
 
 Plus, it keeps you on your feet giving you no time to brood at home and develop negative thoughts.
 
@@ -163,7 +163,7 @@ Although these rules are mostly implemented in a competitive environment, it’d
 
 While learning archery at a young age, children aren't only developing self-discipline, but they evolve further.
 
-Some experts say that there's a strong relationship between self-discipline and self-esteem or confidence - one simply can't exist without the other.
+Some experts say that there's a strong [relationship between self-discipline and self-esteem](http://neilschwartz.net/the-relationship-between-self-discipline-and-self-esteem/) or confidence - one simply can't exist without the other.
 
 As Napoleon Hill said, “Self-discipline is the master key to riches.”
 
@@ -203,7 +203,7 @@ For children who are aged 4 to 8, there are small archery kits that they can sta
 
 These kits are made out of materials that are safe for kids to use and, under an instructor, they can easily begin their archery journey.
 
-An enthusiastic kid can even make their bow and arrow.
+An enthusiastic kid can even [make their bow and arrow](https://theimaginationtree.com/diy-bow-arrow-kids/).
 
 Initially, you can’t expect a small child to master the skill like an 18-year old or an older person can.
 
@@ -259,7 +259,7 @@ Each player is responsible for the safety of their teammates as well as their op
 
 Since children are inherently restless, they don’t adhere to the rules all the time which can lead them or someone to get injured.
 
-While shooting arrows at a target may sound quite dangerous, archery is considered to be one of the safest sports your child can enjoy.
+While shooting arrows at a target may sound quite dangerous, archery is considered to be [one of the safest sports](https://www.archery360.com/2019/10/01/archery-one-of-the-worlds-safest-sports/) your child can enjoy.
 
 Of course, bowhunting is a different sport which isn’t as safe.
 
@@ -327,7 +327,7 @@ Other than this, you can buy an archery target which starts from $8.
 
 The price increases according to the variety and quality.
 
-Your child can make do without an archery target and you can help them make a DIY archery target at home.
+Your child can make do without an archery target and you can help them make a [DIY archery target at home](https://outdoortroop.com/7-ways-to-make-an-inexpensive-diy-archery-targets/).
 
 ## 10. Olympic-Level Sport
 

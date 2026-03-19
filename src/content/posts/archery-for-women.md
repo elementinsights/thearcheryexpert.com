@@ -89,7 +89,7 @@ Longbows have that classic, rustic style along with high functionality and light
 
 If you consider trying it out, you may want to look around archery stores.
 
-Do a bit of research to see if there's a longbow that you might like.
+Do a bit of research to see if there's a [longbow that you might like](https://www.3riversarchery.com/buy/bows/traditional-bows/longbows).
 
 Recurve bows range from traditional to Olympic types of bows.
 
@@ -107,7 +107,7 @@ Recurve bows also require more strength in drawing and if you're new to the spor
 
 Using recurve bows might wear you down easily.
 
-There are a lot of recurve bows with a variety of designs and set up specialized for women and some of the best recurve bows are highly available in many stores.
+There are a lot of recurve bows with a variety of designs and set up specialized for women and some of the [best recurve bows](https://archershub.com/top-10-recurve-bows-for-women/) are highly available in many stores.
 
 Compound bows are modern bows with a bit more complex mechanical part which helps the power of the archers shot.
 
@@ -117,13 +117,13 @@ One of the most important factors in archery is having the gear that fits you we
 
 A compound bow utilizes the pulley system that helps amplify the power of an archer which also helps in the accuracy.
 
-However, with all the mechanical parts, it can be tedious to maintain a compound bow.
+However, with all the mechanical parts, it can be tedious to [maintain a compound bow](https://www.completeguidetoarchery.com/bow-maintenance-tips-for-archers/).
 
 It's not that impossible to learn with some help from pros or the internet since there are published guides on how you can care for your compound bows if you choose to purchase one.
 
 But if you chose to pursue using a compound bow.
 
-You may find some of the best suggestions that cut compound bows specifically made for women.
+You may find some of the best suggestions that cut [compound bows specifically made for women](https://modernhunting.net/bow/compound-bows-for-women/).
 
 ## How To Choose The Type Of Bow For You?
 
@@ -161,7 +161,7 @@ Draw weight is the force a bow or string requires for you to have a full draw. I
 
 One of the factors that greatly affect a bow’s speed will be the draw weight so it's best to know if a bow is tuned to a bow draw weight that you can support.
 
-There are prescribed draw weights based on the type of bow you’re using, your age, and your gender.
+There are [prescribed draw weights](http://www.learn-archery.com/proper-draw-weight.html) based on the type of bow you’re using, your age, and your gender.
 
 For an average adult woman starting in archery.
 
@@ -183,11 +183,11 @@ For compound bows, you can easily get your draw length by measuring your arm spa
 
 This method has been used as a reliable way to determine your draw length.
 
-Meanwhile, for recurve bows, as much as it can be pulled at any distance you prefer.
+Meanwhile, [for recurve](https://targetcrazy.com/archery/resources/find-recurve-bow-size/) bows, as much as it can be pulled at any distance you prefer.
 
 You'll still need to consider the best measurement for you to deliver a good shot and correspond with your bow's draw weight.
 
-Your draw length will determine the size or your bow so it's best to know how to measure your draw length both for recurve or for the compound to ensure you’ll get the best fit.
+Your draw length will determine the size or your bow so it's best to know how to measure your draw length both for recurve or [for the compound](https://www.huntersfriend.com/compound-bow-fitting-draw-length-draw-weight-help-guide.html) to ensure you’ll get the best fit.
 
 ## Accessories & Safety Gears
 
@@ -239,7 +239,7 @@ It's used to keep their clothing out of the arrow’s way and to keep their spor
 
 For women, it's also best to use a chest guard to create a smooth and flatter surface for the string to keep the arrow's trajectory straight.
 
-Along with these, there are also other archery accessories that you might consider using as you progress on practicing the sport.
+Along with these, there are also [other archery accessories](https://getrecurvebow.com/best-archery-accessories/) that you might consider using as you progress on practicing the sport.
 
 ## Finding A Local Shop
 

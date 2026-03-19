@@ -61,7 +61,7 @@ However, the process is complex and involves the cerebral cortex and cerebellum�
 
 The vestibulo-ocular reflex maintains visual acuity during movement of the head.
 
-Since it’s impossible to hold your head perfectly still, this reflex is incredibly important for keeping your eye on the target while coordinating your hand and body movements to make that precise shot.
+Since it’s impossible to hold your head perfectly still, this reflex is incredibly [important for](https://www.apa.org/monitor/2009/01/brain) keeping your eye on the target while coordinating your hand and body movements to make that precise shot.
 
 The key point is that this is complicated and requires the brain to coordinate proprioception (knowledge of where the body is in space), distance to the target, and what the hands need to do to send the arrow to that target.
 

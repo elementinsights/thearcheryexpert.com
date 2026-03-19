@@ -51,17 +51,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41wujN4mxeL._SL500_.jpg"
     description: "The market is flooded with bows for right-hand use, but WOARCHERY Combat Archery is yours if you're looking for an ambidextrous bow."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Ambidextrous Design"
+      - "ASTM Approved"
+      - "54 Inch Length"
+      - "Fiberglass Limbs"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Ambidextrous riser works for both left and right-hand shooters"
+      - "ASTM and CE safety approved for combat and LARP use"
+      - "Fiberglass limbs paired with a strong nylon riser"
+      - "Includes silica gel finger guard, stringer, and wrench"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "No mounting points for sights or accessories"
+      - "30-40 lb draw weight may be too strong for young children"
     ctaUrl: "https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20"
   - name: "TOP ARCHERY Traditional Recurve Bow 53''"
     rank: 2

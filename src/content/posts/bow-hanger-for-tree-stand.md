@@ -57,17 +57,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31JnhSFRlqL._SL500_.jpg"
     description: "This product is excellent for those who want the best and worth the investment as it is easy to put on and made with heavy-duty metals to last for a longer time."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Universal Fit"
+      - "Heavy Duty Metal"
+      - "Easy Installation"
+      - "Summit Brand Quality"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Universal design fits virtually any tree stand model on the market"
+      - "Heavy-duty metal construction supports fully loaded compound bows"
+      - "Installs in seconds without any tools required"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Metal on metal contact can create noise without padding"
+      - "Doesn't fold flat for compact storage in your pack"
     ctaUrl: "https://www.amazon.com/dp/B003DQTUEU?tag=thearcheryexpert-20"
   - name: "Third Hand Treestand Bow Holder"
     rank: 2
@@ -76,17 +76,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41CWZtZ16zL._SL500_.jpg"
     description: "This product is for those people looking for a simply designed product that is trustworthy and easy to put on."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Simple Design"
+      - "Secure Grip"
+      - "Lightweight Build"
+      - "Quick Mount"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Simple, straightforward design that's easy to figure out"
+      - "Secure grip holds your bow steady even in windy conditions"
+      - "Lightweight enough that it won't add bulk to your hunting pack"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Basic design doesn't include extra hooks for accessories"
+      - "May not fit extra-thick tree stand rails"
     ctaUrl: "https://www.amazon.com/dp/B000PE1GG8?tag=thearcheryexpert-20"
   - name: "Team Realtree Short EZ Hanger"
     rank: 3
@@ -95,17 +95,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21tQYo76lBL._SL500_.jpg"
     description: "This product is great for those looking for a wider bow hook and a sharper screw because team Realtree short EZ hanger has made sure that people won't be disappointed."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Wide Bow Hook"
+      - "Sharp Screw Tip"
+      - "Compact Size"
+      - "Realtree Brand"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Wide bow hook accommodates thick bow risers and stabilizers"
+      - "Sharp screw tip bites into bark quickly for fast setup"
+      - "Compact size fits easily in a jacket pocket or pack"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Screw-in design leaves a hole in the tree each time"
+      - "Short length positions the bow close to the tree trunk"
     ctaUrl: "https://www.amazon.com/dp/B0003YMTOS?tag=thearcheryexpert-20"
   - name: "HME Products Universally Mountable Bow Holders"
     rank: 4
@@ -114,17 +114,17 @@ products:
     image: "https://m.media-amazon.com/images/I/318q870yHmL._SL500_.jpg"
     description: "This product is great for those looking for something affordable."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Universal Mounting"
+      - "Affordable Price"
+      - "Rubber Coated Tips"
+      - "Dual Hook Design"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Universally mountable system works on virtually any tree stand type"
+      - "Very affordable, one of the cheapest bow holders available"
+      - "Rubber-coated tips protect your bow finish from scratches"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Rubber coating can wear thin over multiple seasons"
+      - "Lighter construction may flex under heavy compound bows"
     ctaUrl: "https://www.amazon.com/dp/B000H1K27I?tag=thearcheryexpert-20"
   - name: "HME Products Pro-series Super Hanger"
     rank: 5
@@ -133,17 +133,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41eSI87h-OL._SL500_.jpg"
     description: "This product is great for those who want a bow holder that can be used for hunting blinds, so you don't need to worry about falling your equipment."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Hunting Blind Ready"
+      - "Folding Arm Design"
+      - "Gear Versatile"
+      - "360 Degree Rotation"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Works on hunting blinds in addition to tree stands"
+      - "Folding arm design lets you tuck it away when not in use"
+      - "360-degree rotation positions your bow exactly where you want it"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Folding joints can develop squeaks over time without maintenance"
+      - "Not as sturdy as fixed-arm designs for heavier bows"
     ctaUrl: "https://www.amazon.com/dp/B000H1NUKY?tag=thearcheryexpert-20"
   - name: "RealTree Outfitters EZ Hangers"
     rank: 6
@@ -152,17 +152,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31z5GewwJqL._SL500_.jpg"
     description: "This product is great for those looking for products usually available in smaller sizes, so carrying them is less challenging."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Compact Screw-In"
+      - "Pack of Multiple"
+      - "Lightweight Steel"
+      - "Quick Setup"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Come in a multi-pack so you can set up hangers at multiple locations"
+      - "Lightweight steel construction is easy to carry in your pocket"
+      - "Quick screw-in setup takes just seconds to install"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Screw-in style can be tough to install in hardwood trees"
+      - "Smaller hook size won't fit bows with large stabilizers attached"
     ctaUrl: "https://www.amazon.com/dp/B01BE8CB7G?tag=thearcheryexpert-20"
   - name: "High-Point Product Holder"
     rank: 7
@@ -171,17 +171,17 @@ products:
     image: "https://m.media-amazon.com/images/I/411ejg0SFqL._SL500_.jpg"
     description: "This product is excellent for those who want to attach the bow holder on both sides of the tree stand because it has the feature worth it."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Dual Side Mount"
+      - "Adjustable Arms"
+      - "Heavy Duty Steel"
+      - "Multi-Purpose Use"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Can be attached on both sides of the tree stand for flexible positioning"
+      - "Adjustable arms accommodate different bow sizes and styles"
+      - "Heavy-duty steel handles even the heaviest compound setups"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Heavier weight adds noticeable bulk to your hunting gear"
+      - "Dual mounting hardware takes longer to install than simple screw-ins"
     ctaUrl: "https://www.amazon.com/dp/B003DQNQAY?tag=thearcheryexpert-20"
   - name: "Bow Buddy Bow Hanger"
     rank: 8
@@ -190,17 +190,17 @@ products:
     image: "https://m.media-amazon.com/images/I/51DT-DScQBL._SL500_.jpg"
     description: "This product is great for those looking for a bow hanger for tree stands with the ability to be used on ladder stands and hang on tree stands with solid steel construction."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Solid Steel Build"
+      - "Ladder Stand Compatible"
+      - "Hang-On Stand Ready"
+      - "Padded Contact Points"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Solid steel construction is built to last season after season"
+      - "Compatible with both ladder stands and hang-on style tree stands"
+      - "Padded contact points prevent noise and protect your bow's finish"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Steel weight makes it one of the heavier hangers to carry in"
+      - "Fixed design doesn't fold or adjust for compact packing"
     ctaUrl: "https://www.amazon.com/dp/B06W9MKZD4?tag=thearcheryexpert-20"
   - name: "Team REALTREE 3-Arm EZ Hanger"
     rank: 9
@@ -209,17 +209,17 @@ products:
     image: "https://m.media-amazon.com/images/I/317vt-y+R1L._SL500_.jpg"
     description: "This product is great for those looking for a product that can be screwed easily and extended because the Realtree 3 Arms Long EZ Hanger has made sure that people won't be disappointed as it can be screwed easily and extended 34\" to keep your bow in "
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "3 Arm Design"
+      - "34 Inch Extension"
+      - "Screw-In Mount"
+      - "Multiple Hooks"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "3-arm design gives you hooks for your bow plus extra gear"
+      - "34-inch extension keeps your bow far enough from the trunk for easy access"
+      - "Screw-in mount installs quickly with a simple twist"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Long 34-inch extension can sway in strong winds"
+      - "Screw-in tip requires effort to install in harder wood species"
     ctaUrl: "https://www.amazon.com/dp/B0002LMTHE?tag=thearcheryexpert-20"
   - name: "HME Products Ground Blind Bow Holders"
     rank: 10
@@ -228,17 +228,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21-YBp3qFGL._SL500_.jpg"
     description: "This product is great for those looking for a bow holder that can hold a large bow as this product supports all compound bows because it has three rubberized large accessory hooks to hang."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Ground Blind Specific"
+      - "3 Rubberized Hooks"
+      - "All Compound Bows"
+      - "Stake-In Design"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Purpose-built for ground blind setups where tree hangers won't work"
+      - "3 large rubberized hooks hold your bow plus two additional accessories"
+      - "Supports all compound bows regardless of size or weight"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Ground-only design, so it can't be used in elevated tree stands"
+      - "Stake-in base can be unstable in very soft or sandy soil"
     ctaUrl: "https://www.amazon.com/dp/B005HXXG4C?tag=thearcheryexpert-20"
 ---
 
@@ -362,10 +362,10 @@ Bow holders are compact pieces of equipment that are meant to hold your hunting 
 </div>
 <p class="product-card-desc">This product is excellent for those who want the best and worth the investment as it's easy to put on and made with heavy-duty metals to last for a longer time.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Universal Fit</span>
+<span class="highlight-tag">Heavy Duty Metal</span>
+<span class="highlight-tag">Easy Installation</span>
+<span class="highlight-tag">Summit Brand Quality</span>
 </div>
 <a href="https://www.amazon.com/dp/B003DQTUEU?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -391,8 +391,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Metal on metal contact can create noise without padding</li>
+<li>Doesn't fold flat for compact storage in your pack</li>
 </ul>
 </div>
 </div>
@@ -432,10 +432,10 @@ The summit bow holder isn't featured with expensive features and designs, but it
 </div>
 <p class="product-card-desc">This product is for those people looking for a simply designed product that's trustworthy and easy to put on. The third hand is a simple design tress stand that fits most bots with its S-shaped holding arm and also is different as compared to other models in the list.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Simple Design</span>
+<span class="highlight-tag">Secure Grip</span>
+<span class="highlight-tag">Lightweight Build</span>
+<span class="highlight-tag">Quick Mount</span>
 </div>
 <a href="https://www.amazon.com/dp/B000PE1GG8?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -462,8 +462,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Basic design doesn't include extra hooks for accessories</li>
+<li>May not fit extra-thick tree stand rails</li>
 </ul>
 </div>
 </div>
@@ -501,10 +501,10 @@ It has a simple but robust construction that makes it a long-lasting bow holder 
 </div>
 <p class="product-card-desc">This product is great for those looking for a wider bow hook and a sharper screw because team Realtree short EZ hanger has made sure that people won't be disappointed. The extremely popular Realtree short, long EZ hanger has been an age success for hunters nationwide.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Wide Bow Hook</span>
+<span class="highlight-tag">Sharp Screw Tip</span>
+<span class="highlight-tag">Compact Size</span>
+<span class="highlight-tag">Realtree Brand</span>
 </div>
 <a href="https://www.amazon.com/dp/B0003YMTOS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -532,8 +532,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Screw-in design leaves a hole in the tree each time</li>
+<li>Short length positions the bow close to the tree trunk</li>
 </ul>
 </div>
 </div>
@@ -573,10 +573,10 @@ Hunters will also find this product great for multiple reasons and uses around t
 </div>
 <p class="product-card-desc">This product is great for those looking for something affordable. With the ability to mount within seconds as HME products, universally mountable bow holders are the best choice for them. Not only affordable, but it's made for just about any tree stand, may it be a climber or ladder.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Universal Mounting</span>
+<span class="highlight-tag">Affordable Price</span>
+<span class="highlight-tag">Rubber Coated Tips</span>
+<span class="highlight-tag">Dual Hook Design</span>
 </div>
 <a href="https://www.amazon.com/dp/B000H1K27I?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -604,8 +604,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Rubber coating can wear thin over multiple seasons</li>
+<li>Lighter construction may flex under heavy compound bows</li>
 </ul>
 </div>
 </div>
@@ -645,10 +645,10 @@ Of course, it's not perfect as it also has its dysfunction like, the bow holder 
 </div>
 <p class="product-card-desc">This product is great for those who want a bow holder that can be used for hunting blinds, so you don't need to worry about falling your equipment.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Hunting Blind Ready</span>
+<span class="highlight-tag">Folding Arm Design</span>
+<span class="highlight-tag">Gear Versatile</span>
+<span class="highlight-tag">360 Degree Rotation</span>
 </div>
 <a href="https://www.amazon.com/dp/B000H1NUKY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -675,8 +675,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Folding joints can develop squeaks over time without maintenance</li>
+<li>Not as sturdy as fixed-arm designs for heavier bows</li>
 </ul>
 </div>
 </div>
@@ -712,10 +712,10 @@ It's one of the best bow hangers of its kind as it takes care of the obvious fla
 </div>
 <p class="product-card-desc">This product is great for those looking for products usually available in smaller sizes, so carrying them is less challenging. The Realtree outfitter EZ hanger gives you the best choice for that.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Compact Screw-In</span>
+<span class="highlight-tag">Pack of Multiple</span>
+<span class="highlight-tag">Lightweight Steel</span>
+<span class="highlight-tag">Quick Setup</span>
 </div>
 <a href="https://www.amazon.com/dp/B01BE8CB7G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -741,8 +741,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Screw-in style can be tough to install in hardwood trees</li>
+<li>Smaller hook size won't fit bows with large stabilizers attached</li>
 </ul>
 </div>
 </div>
@@ -784,10 +784,10 @@ Hunters will also find this product great for multiple reasons and uses around t
 </div>
 <p class="product-card-desc">This product is excellent for those who want to attach the bow holder on both sides of the tree stand because it has the feature worth it. It offers a versatile solution with innovative engineering and robust materials.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Dual Side Mount</span>
+<span class="highlight-tag">Adjustable Arms</span>
+<span class="highlight-tag">Heavy Duty Steel</span>
+<span class="highlight-tag">Multi-Purpose Use</span>
 </div>
 <a href="https://www.amazon.com/dp/B003DQNQAY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -813,8 +813,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Heavier weight adds noticeable bulk to your hunting gear</li>
+<li>Dual mounting hardware takes longer to install than simple screw-ins</li>
 </ul>
 </div>
 </div>
@@ -858,10 +858,10 @@ Overall, we like the high point bow holder as it mounts easily, and when it work
 </div>
 <p class="product-card-desc">This product is great for those looking for a bow hanger for tree stands with the ability to be used on ladder stands and hang on tree stands with solid steel construction.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Solid Steel Build</span>
+<span class="highlight-tag">Ladder Stand Compatible</span>
+<span class="highlight-tag">Hang-On Stand Ready</span>
+<span class="highlight-tag">Padded Contact Points</span>
 </div>
 <a href="https://www.amazon.com/dp/B06W9MKZD4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -888,8 +888,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Steel weight makes it one of the heavier hangers to carry in</li>
+<li>Fixed design doesn't fold or adjust for compact packing</li>
 </ul>
 </div>
 </div>
@@ -927,10 +927,10 @@ It works with bows with more horizontal limbs, while curved or vertical ones wil
 </div>
 <p class="product-card-desc">This product is great for those looking for a product that can be screwed easily and extended because the Realtree 3 Arms Long EZ Hanger has made sure that people won't be disappointed as it can be screwed easily and extended 34\" to keep your bow in your arms reach.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">3 Arm Design</span>
+<span class="highlight-tag">34 Inch Extension</span>
+<span class="highlight-tag">Screw-In Mount</span>
+<span class="highlight-tag">Multiple Hooks</span>
 </div>
 <a href="https://www.amazon.com/dp/B0002LMTHE?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -957,8 +957,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Long 34-inch extension can sway in strong winds</li>
+<li>Screw-in tip requires effort to install in harder wood species</li>
 </ul>
 </div>
 </div>
@@ -998,10 +998,10 @@ Hunters will also find this product great for multiple reasons and uses around t
 </div>
 <p class="product-card-desc">This product is great for those looking for a bow holder that can hold a large bow as this product supports all compound bows because it has three rubberized large accessory hooks to hang.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Ground Blind Specific</span>
+<span class="highlight-tag">3 Rubberized Hooks</span>
+<span class="highlight-tag">All Compound Bows</span>
+<span class="highlight-tag">Stake-In Design</span>
 </div>
 <a href="https://www.amazon.com/dp/B005HXXG4C?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1028,8 +1028,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Ground-only design, so it can't be used in elevated tree stands</li>
+<li>Stake-in base can be unstable in very soft or sandy soil</li>
 </ul>
 </div>
 </div>

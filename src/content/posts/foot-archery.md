@@ -129,7 +129,7 @@ She hit the center of the target within 8 feet of range, I'd say.
 
 Needless to say that it was an amazing act that wowed even the harshest of critics like Simon Cowell.
 
-You can also check her full performance.
+You can also [check her full performance](https://www.youtube.com/watch?v=iWFdzmFsL20).
 
 As you see in her performance, foot archery requires the combination of both upper and lower body strength, versatility, balance, and focus.
 
@@ -165,7 +165,7 @@ Some of the best exercises you can begin with are as follows:
 
 This is an excellent way to kickstart your training.
 
-The Cat-Cow Stretch is pretty straightforward and just plain easy.
+The [Cat-Cow Stretch](https://www.verywellfit.com/cat-cow-stretch-chakravakasana-3567178) is pretty straightforward and just plain easy.
 
 This workout focuses on improving flexibility on your back, shoulders, and shoulders.
 

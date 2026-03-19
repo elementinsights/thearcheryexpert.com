@@ -67,7 +67,7 @@ From the compound, long recurve to crossbows and different styles of bows requir
 
 If you're a beginner, it's best to know more about your archery gear first.
 
-There are plenty of gears to choose from and you should know the basic types of bows used for archery.
+There are plenty of gears to choose from and you should know the [basic types of bows](https://www.sportsrec.com/4817172/four-types-of-archery-bows) used for archery.
 
 Research about its parts and learn how it works.
 
@@ -87,7 +87,7 @@ It's also best to ensure that the arrows you’ll use have the correct spine.
 
 Tuning, especially for compound bows requires you to make sure that the equipment is at the manufacturer's specified measurement and specs for the bow to work its full potential.
 
-You'll also need to know the timing of your bow to inspect whether the cams in the two cam systems are synchronized or for solo cam.
+You'll also need to know the [timing of your bow](https://iowaslam.com/2019/11/08/beginner-basics-bow-timing/) to inspect whether the cams in the two cam systems are synchronized or for solo cam.
 
 The cam is set properly for maximum performance.
 
@@ -193,7 +193,7 @@ For your release arm, your elbow must point straight away, against the target.
 
 Meanwhile, the elbow on your bow arm should be a bit bent pointing outward against the bow.
 
-More detailed instructions on how you can obtain the best posture for archery are widely available on the internet.
+More detailed instructions on how you can obtain the [best posture for archery](https://www.archery360.com/2018/08/09/proper-archery-posture-yields-consistent-shooting/#:~:text=A%20neutral%20stance%20keeps%20the,hips%20closed%20to%20the%20target.) are widely available on the internet.
 
 You can consult experts as well to guide you in a 2nd person’s point of view.
 
@@ -203,7 +203,7 @@ The draw length is the distance from the nocking point at the string to the pivo
 
 Your draw length dramatically affects your accuracy so it's best to always be mindful of how you’re pulling your bow’s string.
 
-There are plenty of ways to measure your draw length.
+There are plenty of ways to [measure your draw length](https://thearcheryguide.com/how-to-measure-draw-length/).
 
 The most basic one is by standing straight against the wall with your arms spread and measure or having someone measure your wingspan.
 
@@ -231,7 +231,7 @@ Along with the draw length, it also influences your form, thus affecting your ac
 
 Different arrows have differences in the draw weight that they can support and to determine this, you'll need professional help from bow technicians.
 
-There are some recommendations in determining the correct draw weight for you based on your body built, especially for recurve and compound bows.
+There are [some recommendations in determining the correct draw weight](https://targetcrazy.com/archery/resources/find-draw-weight/) for you based on your body built, especially for recurve and compound bows.
 
 However, keep in mind that it still depends on the level of comfort you feel on exerting a certain amount of pressure as you always need to relax as you aim for that accurate shot.
 
@@ -281,7 +281,7 @@ Another option is to take a deep breath then exhale as you bow.
 
 This will give you a settling feeling and a sense of accumulating strength.
 
-Most archers use deep diaphragmatic breaths in cooperation with certain other breathing techniques that help them achieve the relaxed state that they need.
+Most archers use deep diaphragmatic breaths in cooperation with certain other [breathing techniques that help them achieve the relaxed state](http://www.kslinternationalarchery.com/Technique/BreathingCycle/BreathingCycle.html) that they need.
 
 ## 8. Minding The Execution
 
@@ -299,7 +299,7 @@ It's setting your body in coordination with your mind to execute a shot that’l
 
 Using release aids are optional but can help you to get a good clean release.
 
-Whether you use compound, recurve, or longbow, there are various release aids that you can choose from.
+Whether you use compound, recurve, or longbow, there are [various release aids](https://www.lancasterarchery.com/blog/heres-your-basic-guide-to-archery-release-aids/) that you can choose from.
 
 The four basic classes of release aids for compound shooters are:
 

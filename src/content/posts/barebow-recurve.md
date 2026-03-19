@@ -57,17 +57,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg"
     description: "The Grizzly Recurve Bow is an excellent choice for both beginners and advanced archers; it is great for target practice as well as hunting."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "One Piece Design"
+      - "Bear Archery Heritage"
+      - "Hunting Ready"
+      - "Dymondwood Riser"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Iconic Bear Archery heritage backed by decades of bow-making expertise"
+      - "One-piece design delivers a smooth, consistent draw every time"
+      - "Dymondwood riser is strong, attractive, and weather-resistant"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Right-hand only, so lefties need to look elsewhere"
+      - "One-piece design means you can't swap limbs for different draw weights"
     ctaUrl: "https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20"
   - name: "SAS Explorer Metal Riser Takedown Recurve Bow"
     rank: 2
@@ -76,17 +76,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31E3fJ+gO8L._SL500_.jpg"
     description: "This SAS Explorer bow will make you perfectly prepared for the great fun of practice shooting or trips into the forests for hunting."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Metal Riser"
+      - "Takedown Design"
+      - "Multiple Draw Weights"
+      - "Beginner Friendly"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Durable metal riser handles years of use without warping"
+      - "Takedown design lets you swap limbs as your strength increases"
+      - "Available in multiple draw weights from 22 to 34 pounds"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Metal riser adds weight compared to wood or carbon options"
+      - "Basic limbs may need upgrading for serious competition use"
     ctaUrl: "https://www.amazon.com/dp/B014X4NERY?tag=thearcheryexpert-20"
   - name: "SinoArt 68 Takedown Recurve Bow"
     rank: 3
@@ -95,17 +95,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg"
     description: "The SinoArt Recurve bow is available for both right-handed and left-handed people; if your right-handed bow is taken in the left hand, the arrow will be pulled by the left-hand vice versa."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "68 Inch Length"
+      - "Left/Right Options"
+      - "ILF Compatible"
+      - "Target Bow Design"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "68-inch length provides a forgiving, stable platform for barebow shooting"
+      - "Available for both right-handed and left-handed archers"
+      - "ILF-compatible riser accepts a wide range of aftermarket limbs"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "68-inch length can feel unwieldy in tight hunting spots"
+      - "Entry-level limbs may need replacing for competitive accuracy"
     ctaUrl: "https://www.amazon.com/dp/B076F4Q6LC?tag=thearcheryexpert-20"
   - name: "D&Q Archery Recurve Bow and Arrow Set"
     rank: 4
@@ -114,17 +114,17 @@ products:
     image: "https://m.media-amazon.com/images/I/51xO+-f9ZuL._SL500_.jpg"
     description: "The D&Q Archery Recurve Bow and Arrow Set are well known for being the best recurve bows for beginners due to their smaller length and ease of use."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Complete Arrow Set"
+      - "Compact Length"
+      - "Easy Assembly"
+      - "Affordable Package"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Comes as a complete set with arrows so you can start shooting right away"
+      - "Compact length makes it manageable for smaller-framed archers"
+      - "Easy assembly with no special tools required"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Included arrows are basic and may need upgrading"
+      - "Lower draw weights aren't powerful enough for hunting"
     ctaUrl: "https://www.amazon.com/dp/B079Z56PCS?tag=thearcheryexpert-20"
   - name: "KAINOKAI Traditional Handmade Hunting Recurve Archery Bow"
     rank: 5
@@ -133,17 +133,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg"
     description: "KAINOKAI is a professional seller of bows manufactured by craftsmen, which maintain a powerful, high speed of bows."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Handcrafted Build"
+      - "Traditional Styling"
+      - "High Speed Design"
+      - "Laminated Limbs"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Handcrafted by skilled bow makers for a personal, artisan touch"
+      - "Traditional styling looks beautiful and shoots with authority"
+      - "Laminated limbs store energy efficiently for fast arrow speeds"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Handmade construction means slight variations between individual bows"
+      - "No takedown option, so you're locked into one draw weight"
     ctaUrl: "https://www.amazon.com/dp/B07GBV95XJ?tag=thearcheryexpert-20"
   - name: "Samick Sage Takedown Recurve Bow"
     rank: 6
@@ -152,17 +152,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg"
     description: "The Samick Sage Takedown Recurve Bow is designed to be an accessible, all-around choice for beginner to expert archers."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Industry Standard"
+      - "Wide Draw Weight Range"
+      - "Maple/Fiberglass Limbs"
+      - "Upgradeable Platform"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Considered the industry standard beginner-to-intermediate recurve bow"
+      - "Massive draw weight range from 25 to 60 pounds covers all skill levels"
+      - "Maple and fiberglass limbs deliver a smooth, reliable draw"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Extremely popular, so it doesn't stand out at the range"
+      - "Stock string may benefit from an upgrade to a Flemish twist"
     ctaUrl: "https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20"
   - name: "Great Plains Recurve Bow Green Mamba"
     rank: 7
@@ -171,17 +171,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31UjM-M8baL._SL500_.jpg"
     description: "The Great Plains Recurve Bow Green Mamba is a deadly weapon, and it is excellent for tight hunting situations like ground blinds and tailing animals in limited cover."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Compact 52 Inch"
+      - "Ground Blind Ready"
+      - "Fast Arrow Speed"
+      - "Unique Green Finish"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Compact 52-inch length excels in ground blinds and tight cover"
+      - "Fast arrow speeds despite the shorter overall length"
+      - "Striking green Mamba finish sets it apart from standard bows"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Short length makes it less forgiving for beginners"
+      - "Higher price than standard entry-level recurves"
     ctaUrl: "https://www.amazon.com/dp/B01MYUTOQH?tag=thearcheryexpert-20"
   - name: "PSE Archery Razorback Traditional Takedown Recurve Recreational Shooting Bow"
     rank: 8
@@ -190,17 +190,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21C16Y8509L._SL500_.jpg"
     description: "The PSE Archery Razorback Bow is an amazing shooting bow made of Walnut, Burma White, and Beech Wood with Hard Maple and Fiberglass limbs."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Multi-Wood Riser"
+      - "Fiberglass Limbs"
+      - "Takedown Portability"
+      - "Recreational Focused"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Beautiful multi-wood riser made from Walnut, Burma White, and Beech"
+      - "Fiberglass limbs with Hard Maple core handle recreational shooting well"
+      - "Takedown design breaks apart for easy transport and storage"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Marketed as recreational, so it's not built for heavy hunting use"
+      - "Draw weight options are limited compared to the Samick Sage"
     ctaUrl: "https://www.amazon.com/dp/B01BCZV0EQ?tag=thearcheryexpert-20"
   - name: "Southwest Archery Spyder Takedown Recurve Bow"
     rank: 9
@@ -209,17 +209,17 @@ products:
     image: "https://m.media-amazon.com/images/I/21CvUe0IBHS._SL500_.jpg"
     description: "The Southwest Archery Takedown Recurve Bow is a compact, fast, accurate bow designed by the original Samick Sage engineers and developers."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Samick Sage Engineers"
+      - "Fast and Accurate"
+      - "Ready to Shoot"
+      - "Compact Build"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Designed by the original Samick Sage engineers with improvements"
+      - "Ships ready to shoot with minimal setup required"
+      - "Compact, fast, and accurate right out of the box"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Very similar to the Samick Sage, so the improvements are subtle"
+      - "Some users report the shelf needs aftermarket padding"
     ctaUrl: "https://www.amazon.com/dp/B0017TEFF4?tag=thearcheryexpert-20"
   - name: "Southland Archery Supply SAS Maverick One Piece Traditional Wood Hunting Bow"
     rank: 10
@@ -228,17 +228,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg"
     description: "The Southland Archery Bow is the perfect primitive hunting weapon from 29 to 60 and length of 60\" pounds at the best price."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "One Piece Traditional"
+      - "Wood Construction"
+      - "Wide Draw Range"
+      - "Budget Hunting Bow"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Traditional one-piece wood construction for an authentic feel"
+      - "Draw weight range from 29 to 60 pounds covers target and hunting use"
+      - "Budget-friendly price for a solid traditional hunting bow"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "One-piece design can't be broken down for travel"
+      - "Wood construction requires more care in wet conditions"
     ctaUrl: "https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20"
 ---
 
@@ -360,10 +360,10 @@ There are many recurve bows available in the market, so choosing the best recurv
 </div>
 <p class="product-card-desc">The Grizzly Recurve Bow is an excellent choice for both beginners and advanced archers. It's great for target practice as well as hunting. The bow is generally built for high-performance works, and it has the great accuracy and durability that most archers want.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">One Piece Design</span>
+<span class="highlight-tag">Bear Archery Heritage</span>
+<span class="highlight-tag">Hunting Ready</span>
+<span class="highlight-tag">Dymondwood Riser</span>
 </div>
 <a href="https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -390,8 +390,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Right-hand only, so lefties need to look elsewhere</li>
+<li>One-piece design means you can't swap limbs for different draw weights</li>
 </ul>
 </div>
 </div>
@@ -433,10 +433,10 @@ The Super Kodiak is a beautiful bow without many decorations, and it's made from
 </div>
 <p class="product-card-desc">This SAS Explorer bow will make you perfectly prepared for the great fun of practice shooting or trips into the forests for hunting. Metal Riser is the right model to pick for an individual who is looking for a nice bow for low range hunting or target practicing.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Metal Riser</span>
+<span class="highlight-tag">Takedown Design</span>
+<span class="highlight-tag">Multiple Draw Weights</span>
+<span class="highlight-tag">Beginner Friendly</span>
 </div>
 <a href="https://www.amazon.com/dp/B014X4NERY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -463,8 +463,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Metal riser adds weight compared to wood or carbon options</li>
+<li>Basic limbs may need upgrading for serious competition use</li>
 </ul>
 </div>
 </div>
@@ -506,10 +506,10 @@ It's available in five different colors, including options, so it will be easy f
 </div>
 <p class="product-card-desc">The SinoArt Recurve bow is available for both right-handed and left-handed people. If your right-handed bow is taken in the left hand, the arrow will be pulled by the left-hand vice versa.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">68 Inch Length</span>
+<span class="highlight-tag">Left/Right Options</span>
+<span class="highlight-tag">ILF Compatible</span>
+<span class="highlight-tag">Target Bow Design</span>
 </div>
 <a href="https://www.amazon.com/dp/B076F4Q6LC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -536,8 +536,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>68-inch length can feel unwieldy in tight hunting spots</li>
+<li>Entry-level limbs may need replacing for competitive accuracy</li>
 </ul>
 </div>
 </div>
@@ -577,10 +577,10 @@ The bow limbs tend to twist when it's in use, causing them to break altogether i
 </div>
 <p class="product-card-desc">The D&Q Archery Recurve Bow and Arrow Set are well known for being the best recurve bows for beginners due to their smaller length and ease of use. D&Q Archery recurve bow is a classic, beautiful, shiny and ergonomically designed with an impressive rounded body.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Complete Arrow Set</span>
+<span class="highlight-tag">Compact Length</span>
+<span class="highlight-tag">Easy Assembly</span>
+<span class="highlight-tag">Affordable Package</span>
 </div>
 <a href="https://www.amazon.com/dp/B079Z56PCS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -606,8 +606,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Included arrows are basic and may need upgrading</li>
+<li>Lower draw weights aren't powerful enough for hunting</li>
 </ul>
 </div>
 </div>
@@ -649,10 +649,10 @@ The whole set comes with a takedown recurve bow, 12 pieces arrows, two pieces St
 </div>
 <p class="product-card-desc">KAINOKAI is a professional seller of bows manufactured by craftsmen, which maintain a powerful, high speed of bows. It's suitable for hunting, shooting training, physical exercise, entertainment, and decoration collection.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Handcrafted Build</span>
+<span class="highlight-tag">Traditional Styling</span>
+<span class="highlight-tag">High Speed Design</span>
+<span class="highlight-tag">Laminated Limbs</span>
 </div>
 <a href="https://www.amazon.com/dp/B07GBV95XJ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -679,8 +679,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Handmade construction means slight variations between individual bows</li>
+<li>No takedown option, so you're locked into one draw weight</li>
 </ul>
 </div>
 </div>
@@ -724,10 +724,10 @@ The KAINOKAI recurve bow is filled with a lot of unique features like accuracy a
 </div>
 <p class="product-card-desc">The Samick Sage Takedown Recurve Bow is designed to be an accessible, all-around choice for beginner to expert archers. Samick products are well-proven by archery champions worldwide, and their goal is to provide the best quality curved bows with durability.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Industry Standard</span>
+<span class="highlight-tag">Wide Draw Weight Range</span>
+<span class="highlight-tag">Maple/Fiberglass Limbs</span>
+<span class="highlight-tag">Upgradeable Platform</span>
 </div>
 <a href="https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -755,8 +755,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Extremely popular, so it doesn't stand out at the range</li>
+<li>Stock string may benefit from an upgrade to a Flemish twist</li>
 </ul>
 </div>
 </div>
@@ -798,10 +798,10 @@ The gorgeous and durable maple wood base comes with a maximum 29" length and 25-
 </div>
 <p class="product-card-desc">The Great Plains Recurve Bow Green Mamba is a deadly weapon, and it's excellent for tight hunting situations like ground blinds and tailing animals in limited cover.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Compact 52 Inch</span>
+<span class="highlight-tag">Ground Blind Ready</span>
+<span class="highlight-tag">Fast Arrow Speed</span>
+<span class="highlight-tag">Unique Green Finish</span>
 </div>
 <a href="https://www.amazon.com/dp/B01MYUTOQH?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -827,8 +827,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Short length makes it less forgiving for beginners</li>
+<li>Higher price than standard entry-level recurves</li>
 </ul>
 </div>
 </div>
@@ -870,10 +870,10 @@ The Great Plains Recurve Bows are easily known through their 18-month limited wa
 </div>
 <p class="product-card-desc">The PSE Archery Razorback Bow is an amazing shooting bow made of Walnut, Burma White, and Beech Wood with Hard Maple and Fiberglass limbs. Recurve bow fit for female archers, the draw weight is adjustable from 15 to 35 pounds, and the brace height is 7 inches.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Multi-Wood Riser</span>
+<span class="highlight-tag">Fiberglass Limbs</span>
+<span class="highlight-tag">Takedown Portability</span>
+<span class="highlight-tag">Recreational Focused</span>
 </div>
 <a href="https://www.amazon.com/dp/B01BCZV0EQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -899,8 +899,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Marketed as recreational, so it's not built for heavy hunting use</li>
+<li>Draw weight options are limited compared to the Samick Sage</li>
 </ul>
 </div>
 </div>
@@ -946,10 +946,10 @@ The Razorback has a one-year limited warranty agreement, which provides you suff
 </div>
 <p class="product-card-desc">The Southwest Archery Takedown Recurve Bow is a compact, fast, accurate bow designed by the original Samick Sage engineers and developers. Its developers have combined four naturally sourced kinds of wood to create this beautiful bow that's the perfect choice for anyone.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Samick Sage Engineers</span>
+<span class="highlight-tag">Fast and Accurate</span>
+<span class="highlight-tag">Ready to Shoot</span>
+<span class="highlight-tag">Compact Build</span>
 </div>
 <a href="https://www.amazon.com/dp/B0017TEFF4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -976,8 +976,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Very similar to the Samick Sage, so the improvements are subtle</li>
+<li>Some users report the shelf needs aftermarket padding</li>
 </ul>
 </div>
 </div>
@@ -1019,10 +1019,10 @@ You can use this bow for hunting deer and bow fishing and also for target practi
 </div>
 <p class="product-card-desc">The Southland Archery Bow is the perfect primitive hunting weapon from 29 to 60 and length of 60\" pounds at the best price.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">One Piece Traditional</span>
+<span class="highlight-tag">Wood Construction</span>
+<span class="highlight-tag">Wide Draw Range</span>
+<span class="highlight-tag">Budget Hunting Bow</span>
 </div>
 <a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1049,8 +1049,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>One-piece design can't be broken down for travel</li>
+<li>Wood construction requires more care in wet conditions</li>
 </ul>
 </div>
 </div>

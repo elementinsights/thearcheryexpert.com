@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41qdHuwxqyL._SL500_.jpg"
     description: "Archery Max Handmade Brown Leather Three Finger Archery Glove’s materials are cow leather and these gloves have outstanding sensitivity to the absolute feel of the string and these gloves have an adjustable Velcro wrist strap."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Cow Leather"
+      - "Velcro Wrist Strap"
+      - "High String Feel"
+      - "Recurve Ready"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Cow leather provides outstanding string sensitivity"
+      - "Adjustable Velcro wrist strap for a secure fit"
+      - "Works well with higher draw weight bows"
+      - "Natural feel lets you sense the arrow release"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Runs short for extra-large hands"
+      - "Designed primarily for left-hand use"
     ctaUrl: "https://www.amazon.com/dp/B013XF5LAW?tag=thearcheryexpert-20"
   - name: "Coolrunner Archery Glove 3 Finger Leather Archery Protective Gloves"
     rank: 2
@@ -76,17 +77,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31sAB7e7MOL._SL500_.jpg"
     description: "Coolrunner Archery Glove’s material is made of quality thickened leather, also it breathable stretch knitted fabric, sewing is too good, very lightweight and it is durable."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Thickened Leather"
+      - "Breathable Fabric"
+      - "Non-Slip Tips"
+      - "Lightweight"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Thickened leather with breathable knitted fabric backing"
+      - "Non-slip finger design improves cushioning effect"
+      - "Adjustable Velcro strap fits various hand sizes"
+      - "Very lightweight so you won’t feel weighed down"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Sizing can run a bit large for smaller hands"
+      - "Leather pads may need breaking in before they soften"
     ctaUrl: "https://www.amazon.com/dp/B08FMLL2RN?tag=thearcheryexpert-20"
   - name: "Bear Archery Leather 3 Finger Traditional Archery Glove"
     rank: 3
@@ -95,17 +97,18 @@ products:
     image: "https://m.media-amazon.com/images/I/410JzEq8+HL._SL500_.jpg"
     description: "Handcrafted and manufactured purely full-grain leather for increased durability."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Full-Grain Leather"
+      - "Ambidextrous"
+      - "Handcrafted"
+      - "Friction Reducing"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Handcrafted from full-grain leather for long-lasting use"
+      - "Ambidextrous design works for left and right-handed shooters"
+      - "Reduces bowstring friction for smoother releases"
+      - "Velcro wrist strap ensures a snug comfortable fit"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Can feel stiff until broken in after several sessions"
+      - "Limited color options compared to competitors"
     ctaUrl: "https://www.amazon.com/dp/B07YQ4V1KT?tag=thearcheryexpert-20"
   - name: "Krayney Adult and Youth Leather Gloves"
     rank: 4
@@ -114,17 +117,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg"
     description: "For youth, this item length will be 7in and for adults, this item length will be 7.5in."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Youth + Adult Sizes"
+      - "Anti-Skid Fur Tips"
+      - "Hook and Loop"
+      - "Soft Leather"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Available in both youth (7 in) and adult (7.5 in) sizes"
+      - "Anti-skid fur on fingertips prevents string slippage"
+      - "Hook and loop fastener makes it easy to put on and remove"
+      - "Soft leather stays comfortable during long shooting sessions"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Wrist strap doesn’t adjust enough for very large wrists"
+      - "Finger coverage may feel short for archers with longer fingers"
     ctaUrl: "https://www.amazon.com/dp/B0C64D1VQ2?tag=thearcheryexpert-20"
   - name: "Damascus Doeskin Shooting Glove"
     rank: 5
@@ -133,17 +137,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31DRjf3It0L._SL500_.jpg"
     description: "Due to the thinner leather, this glove is much different from other full palm design gloves."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Doeskin Leather"
+      - "Full Palm Design"
+      - "Reinforced Tips"
+      - "Thin Profile"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Thin doeskin leather gives excellent string feel"
+      - "Full palm design covers more of the hand than finger-only gloves"
+      - "Reinforced fingertips hold up to repeated string contact"
+      - "Velcro closure wrist strap keeps the fit snug"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Thinner leather won’t handle bows above 50 lb draw weight as well"
+      - "Full palm design can feel warm in hot weather"
     ctaUrl: "https://www.amazon.com/dp/B000P9WFF4?tag=thearcheryexpert-20"
   - name: "Toparchery Leather 2 Straps Arm Guard & 3 Finger Protective Gloves"
     rank: 6
@@ -152,17 +157,18 @@ products:
     image: "https://m.media-amazon.com/images/I/5160UzO+dbL._SL500_.jpg"
     description: "This is one durable archery arm guard with 2 completely elastic straps."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Guard + Glove Combo"
+      - "Elastic Straps"
+      - "Forearm Protection"
+      - "Wrist Belt"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Includes both an arm guard and finger gloves in one package"
+      - "Two elastic straps on the arm guard adjust to most forearm sizes"
+      - "Lightweight enough to carry comfortably on long hunts"
+      - "Wrist belt keeps the glove secure during shooting"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Arm guard and glove are basic compared to standalone options"
+      - "Elastic straps can loosen over time with heavy use"
     ctaUrl: "https://www.amazon.com/dp/B073W9HCHQ?tag=thearcheryexpert-20"
   - name: "Mountain Man Leather Shooting Archery Glove"
     rank: 7
@@ -171,36 +177,38 @@ products:
     image: "https://m.media-amazon.com/images/I/410a51-3saL._SL500_.jpg"
     description: "This shooting glove is handcrafted from premium quality leather."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Handcrafted"
+      - "Premium Leather"
+      - "Reinforced Tips"
+      - "Unisex Fit"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Handcrafted from premium leather with excellent stitching"
+      - "Reinforced fingertips provide long-lasting string protection"
+      - "Soft leather gives a natural feel on the bowstring"
+      - "Fits both men and women comfortably"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Doesn’t come in as many sizes as some competitors"
+      - "Premium leather price point is higher than synthetic options"
     ctaUrl: "https://www.amazon.com/dp/B0097RGAWO?tag=thearcheryexpert-20"
   - name: "YJYWZH 1pc Archery Cowhide Finger Guard Protector Archery"
     rank: 8
     badge: "Most Durable"
     rating: 8.4
     image: "https://m.media-amazon.com/images/I/31DRjf3It0L._SL500_.jpg"
-    description: "The leather material finger tab has a double layers protector and it will protect the archer's thumb."
+    description: "The leather material finger tab has a double layers protector and it will protect the archer’s thumb."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Double Layer Pad"
+      - "Thumb Protection"
+      - "Cowhide Material"
+      - "Universal Fit"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Double layer protection pads shield fingers from injury"
+      - "Cowhide material is built to last through heavy use"
+      - "Universal adjustable size fits most finger widths"
+      - "Works for both left and right-handed archers"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Finger tab style takes practice to position correctly each shot"
+      - "Thicker double layers reduce some string sensitivity"
     ctaUrl: "https://www.amazon.com/dp/B003DQXRGC?tag=thearcheryexpert-20"
   - name: "EAmber Archery Shooting Gloves"
     rank: 9
@@ -209,17 +217,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41CXeTM4kiL._SL500_.jpg"
     description: "This soft cow leather finger will protect fingertips from the huge pressure of the string, and it helps keep the fingers from any types of injuries during the shooting."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Silicone Guard"
+      - "Elastic Polyester"
+      - "Breathable Mesh"
+      - "Beginner Friendly"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Silicone finger guard adds extra grip on the string"
+      - "High elastic polyester body is lightweight and breathable"
+      - "Thick cow leather fingertips absorb string pressure"
+      - "Adjustable Velcro strap fits most hand sizes"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Polyester body isn’t as durable as full leather gloves"
+      - "Need to measure carefully as sizes run slightly off"
     ctaUrl: "https://www.amazon.com/dp/B07P627W23?tag=thearcheryexpert-20"
   - name: "Neet Suede Leather Archery Glove"
     rank: 10
@@ -228,17 +237,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41BS1hF4UoL._SL500_.jpg"
     description: "This leather glove is the elastic back that confirms a satisfiable fit."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Suede Leather"
+      - "Elastic Back"
+      - "Slick Release"
+      - "Clean String Feel"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Suede leather tips deliver a smooth, slick release"
+      - "Elastic back panel conforms to your hand shape"
+      - "Velcro wrist attachment is easy to put on and take off"
+      - "Great entry-level option for new recurve archers"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Suede wears faster than cowhide under heavy use"
+      - "Elastic back can stretch out after extended sessions"
     ctaUrl: "https://www.amazon.com/dp/B000P9YDMW?tag=thearcheryexpert-20"
 ---
 
@@ -364,12 +374,12 @@ Truly, without gloves, there's no other best way to protect your fingers and ner
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">Archery Max Handmade Brown Leather Three Finger Archery Glove’s materials are cow leather and these gloves have outstanding sensitivity to the absolute feel of the string and these gloves have an adjustable Velcro wrist strap. Definitely, it helps keep your fingers from trouble when you're shooting your recurve bow.</p>
+<p class="product-card-desc">Archery Max Handmade Brown Leather Three Finger Archery Glove’s materials are cow leather and these gloves have outstanding sensitivity to the absolute feel of the string and these gloves have an adjustable Velcro wrist strap. Definitely, it helps keep your fingers from trouble when you’re shooting your recurve bow.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Cow Leather</span>
+<span class="highlight-tag">Velcro Wrist Strap</span>
+<span class="highlight-tag">High String Feel</span>
+<span class="highlight-tag">Recurve Ready</span>
 </div>
 <a href="https://www.amazon.com/dp/B013XF5LAW?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -384,10 +394,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>All the materials commit it easier to realize the arrows</li>
-<li>It works prominently with upper draw weight bows</li>
-<li>It provides more and more naturalistic realize to the hand</li>
-<li>Good protection with excellent fit, little slippage, and very comfortable</li>
+<li>Cow leather provides outstanding string sensitivity</li>
+<li>Adjustable Velcro wrist strap for a secure fit</li>
+<li>Works well with higher draw weight bows</li>
+<li>Natural feel lets you sense the arrow release</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -396,8 +406,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Runs short for extra-large hands</li>
+<li>Designed primarily for left-hand use</li>
 </ul>
 </div>
 </div>
@@ -435,10 +445,10 @@ Some people think that this item is designed only for left-handed people.
 </div>
 <p class="product-card-desc">Coolrunner Archery Glove’s material is made of quality thickened leather, also it breathable stretch knitted fabric, sewing is too good, very lightweight and it's durable. Three-Finger designed is a non-slip design, which helps to enhance the cushioning effect. Also it can remove any type of discomfort.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Thickened Leather</span>
+<span class="highlight-tag">Breathable Fabric</span>
+<span class="highlight-tag">Non-Slip Tips</span>
+<span class="highlight-tag">Lightweight</span>
 </div>
 <a href="https://www.amazon.com/dp/B08FMLL2RN?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -453,11 +463,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Suitable for all types of archery</li>
-<li>Adjustable velcro strap</li>
-<li>Non-slip leather design for 3 fingers</li>
-<li>Comfortable for fingers</li>
-<li>Breathable stretch knitted material</li>
+<li>Thickened leather with breathable knitted fabric backing</li>
+<li>Non-slip finger design improves cushioning effect</li>
+<li>Adjustable Velcro strap fits various hand sizes</li>
+<li>Very lightweight so you won’t feel weighed down</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -466,8 +475,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Sizing can run a bit large for smaller hands</li>
+<li>Leather pads may need breaking in before they soften</li>
 </ul>
 </div>
 </div>
@@ -497,10 +506,10 @@ Also, Coolrunner Archery Glove’s texture is good and will last for long time u
 </div>
 <p class="product-card-desc">Handcrafted and manufactured purely full-grain leather for increased durability. Also, it has an adjustable Velcro wrist strap and ensures comfortable proper fitness and it reduces friction from the bowstring. Ambidextrous design for left-handed and right-handed both shooters.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Full-Grain Leather</span>
+<span class="highlight-tag">Ambidextrous</span>
+<span class="highlight-tag">Handcrafted</span>
+<span class="highlight-tag">Friction Reducing</span>
 </div>
 <a href="https://www.amazon.com/dp/B07YQ4V1KT?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -515,11 +524,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Completely handcrafted</li>
-<li>Reduce the friction from bowstring in a much better way</li>
-<li>Adjustable velcro strap</li>
-<li>Full-grain leather</li>
-<li>Soft and flexible</li>
+<li>Handcrafted from full-grain leather for long-lasting use</li>
+<li>Ambidextrous design works for left and right-handed shooters</li>
+<li>Reduces bowstring friction for smoother releases</li>
+<li>Velcro wrist strap ensures a snug comfortable fit</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -528,8 +536,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Can feel stiff until broken in after several sessions</li>
+<li>Limited color options compared to competitors</li>
 </ul>
 </div>
 </div>
@@ -565,10 +573,10 @@ These types of the bow have an 80lb pull with great accuracy and completely perf
 </div>
 <p class="product-card-desc">For youth, this item length will be 7in and for adults, this item length will be 7.5in. Also, this item's material is leather, very soft, and durable. It has an adjustable wrist strap with an elastic insert for a more comfortable fit for anyone.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Youth + Adult Sizes</span>
+<span class="highlight-tag">Anti-Skid Fur Tips</span>
+<span class="highlight-tag">Hook and Loop</span>
+<span class="highlight-tag">Soft Leather</span>
 </div>
 <a href="https://www.amazon.com/dp/B0C64D1VQ2?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -583,11 +591,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Soft leather</li>
-<li>Flexible and durable</li>
-<li>For both kids and adult size available</li>
-<li>Better protection for lower arm and fingers</li>
-<li>Classic design with anti-skid fur on fingers</li>
+<li>Available in both youth (7 in) and adult (7.5 in) sizes</li>
+<li>Anti-skid fur on fingertips prevents string slippage</li>
+<li>Hook and loop fastener makes it easy to put on and remove</li>
+<li>Soft leather stays comfortable during long shooting sessions</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -596,8 +603,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Wrist strap doesn't adjust enough for very large wrists</li>
+<li>Finger coverage may feel short for archers with longer fingers</li>
 </ul>
 </div>
 </div>
@@ -637,10 +644,10 @@ It's best to choose for longtime users.
 </div>
 <p class="product-card-desc">Due to the thinner leather, this glove is much different from other full palm design gloves. It's made from doeskin and that allows the Bowhunter to have a good feel of the string. It has an adjustable velcro closure wrist strap to assure a snug fit.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Doeskin Leather</span>
+<span class="highlight-tag">Full Palm Design</span>
+<span class="highlight-tag">Reinforced Tips</span>
+<span class="highlight-tag">Thin Profile</span>
 </div>
 <a href="https://www.amazon.com/dp/B000P9WFF4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -655,11 +662,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Full palm design</li>
-<li>Reinforced tip</li>
-<li>A lightweight, thinner leather</li>
-<li>Velcro closure wrist strap</li>
-<li>Suitable for 45-50lb bow</li>
+<li>Thin doeskin leather gives excellent string feel</li>
+<li>Full palm design covers more of the hand than finger-only gloves</li>
+<li>Reinforced fingertips hold up to repeated string contact</li>
+<li>Velcro closure wrist strap keeps the fit snug</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -668,8 +674,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Thinner leather won't handle bows above 50 lb draw weight as well</li>
+<li>Full palm design can feel warm in hot weather</li>
 </ul>
 </div>
 </div>
@@ -701,10 +707,10 @@ The Damascus 3 finger archery glove is more different from other archery gloves 
 </div>
 <p class="product-card-desc">This is one durable archery arm guard with 2 completely elastic straps. The arm guard in this item will protect your forearm from being hit and will prevent any damage by the bowstring. The arm guard is very comfortable and easily adjustable to fit most of the sizes.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Guard + Glove Combo</span>
+<span class="highlight-tag">Elastic Straps</span>
+<span class="highlight-tag">Forearm Protection</span>
+<span class="highlight-tag">Wrist Belt</span>
 </div>
 <a href="https://www.amazon.com/dp/B073W9HCHQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -719,11 +725,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Lightweight and easy for carrying</li>
-<li>The arm guard is easily and comfortably adjustable</li>
-<li>2 elastic straps</li>
-<li>Have a belt on the wrist</li>
-<li>Comfortable touch feeling</li>
+<li>Includes both an arm guard and finger gloves in one package</li>
+<li>Two elastic straps on the arm guard adjust to most forearm sizes</li>
+<li>Lightweight enough to carry comfortably on long hunts</li>
+<li>Wrist belt keeps the glove secure during shooting</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -732,8 +737,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Arm guard and glove are basic compared to standalone options</li>
+<li>Elastic straps can loosen over time with heavy use</li>
 </ul>
 </div>
 </div>
@@ -765,10 +770,10 @@ With the belt in the wrist, adjustable this item could be suitable for most peop
 </div>
 <p class="product-card-desc">This shooting glove is handcrafted from premium quality leather. It's reinforced with fingertips and has adjustable Velcro straps. This shooting glove is soft with good quality leather as well as more comfortable. This shooting leather glove has really helped all the archers during archery practices.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Handcrafted</span>
+<span class="highlight-tag">Premium Leather</span>
+<span class="highlight-tag">Reinforced Tips</span>
+<span class="highlight-tag">Unisex Fit</span>
 </div>
 <a href="https://www.amazon.com/dp/B0097RGAWO?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -783,11 +788,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Handcrafted gloves</li>
-<li>Reinforced fingertips</li>
-<li>Premium quality leather</li>
-<li>Adjustable velcro strap</li>
-<li>Provides a good feel on the string</li>
+<li>Handcrafted from premium leather with excellent stitching</li>
+<li>Reinforced fingertips provide long-lasting string protection</li>
+<li>Soft leather gives a natural feel on the bowstring</li>
+<li>Fits both men and women comfortably</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -796,8 +800,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Doesn't come in as many sizes as some competitors</li>
+<li>Premium leather price point is higher than synthetic options</li>
 </ul>
 </div>
 </div>
@@ -831,10 +835,10 @@ This leather is very soft and very nice bow gloves real leather with a good fit 
 </div>
 <p class="product-card-desc">The leather material finger tab has a double layers protector and it will protect the archer's thumb. This glove fits for hunting or shooting recurve bows. Also, it can be used with finger savers or arm guards.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Double Layer Pad</span>
+<span class="highlight-tag">Thumb Protection</span>
+<span class="highlight-tag">Cowhide Material</span>
+<span class="highlight-tag">Universal Fit</span>
 </div>
 <a href="https://www.amazon.com/dp/B003DQXRGC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -849,10 +853,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Double layer protection</li>
-<li>Works great for traditional bows</li>
-<li>Cowhide material</li>
-<li>Adjustable and durable</li>
+<li>Double layer protection pads shield fingers from injury</li>
+<li>Cowhide material is built to last through heavy use</li>
+<li>Universal adjustable size fits most finger widths</li>
+<li>Works for both left and right-handed archers</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -861,8 +865,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Finger tab style takes practice to position correctly each shot</li>
+<li>Thicker double layers reduce some string sensitivity</li>
 </ul>
 </div>
 </div>
@@ -898,10 +902,10 @@ Also, the archer can adjust according to her or his measurement and it can take 
 </div>
 <p class="product-card-desc">This soft cow leather finger will protect fingertips from the huge pressure of the string, and it helps keep the fingers from any types of injuries during the shooting. Give archery a great feel for the bow.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Silicone Guard</span>
+<span class="highlight-tag">Elastic Polyester</span>
+<span class="highlight-tag">Breathable Mesh</span>
+<span class="highlight-tag">Beginner Friendly</span>
 </div>
 <a href="https://www.amazon.com/dp/B07P627W23?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -916,11 +920,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Thick cow leather</li>
-<li>Adjustable velcro wrist strap</li>
-<li>Silicone finger guard</li>
-<li>Fits most of the size</li>
-<li>Lightweight, comfortable and breathable</li>
+<li>Silicone finger guard adds extra grip on the string</li>
+<li>High elastic polyester body is lightweight and breathable</li>
+<li>Thick cow leather fingertips absorb string pressure</li>
+<li>Adjustable Velcro strap fits most hand sizes</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -929,8 +932,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Polyester body isn't as durable as full leather gloves</li>
+<li>Need to measure carefully as sizes run slightly off</li>
 </ul>
 </div>
 </div>
@@ -978,10 +981,10 @@ Due to breathing, it's good in the hot weather too.
 </div>
 <p class="product-card-desc">This leather glove is the elastic back that confirms a satisfiable fit. The Velcro wrist attachment and the archer can easily on it and ease off it. The main point of this leather glove is the smooth leather tips deliver a slick release for clean string release.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Suede Leather</span>
+<span class="highlight-tag">Elastic Back</span>
+<span class="highlight-tag">Slick Release</span>
+<span class="highlight-tag">Clean String Feel</span>
 </div>
 <a href="https://www.amazon.com/dp/B000P9YDMW?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -996,11 +999,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Elastic back</li>
-<li>Adjustable wrist strap</li>
-<li>Reinforced leather tips</li>
-<li>A good aid for accuracy</li>
-<li>Better for new archers</li>
+<li>Suede leather tips deliver a smooth, slick release</li>
+<li>Elastic back panel conforms to your hand shape</li>
+<li>Velcro wrist attachment is easy to put on and take off</li>
+<li>Great entry-level option for new recurve archers</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -1009,8 +1011,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Suede wears faster than cowhide under heavy use</li>
+<li>Elastic back can stretch out after extended sessions</li>
 </ul>
 </div>
 </div>

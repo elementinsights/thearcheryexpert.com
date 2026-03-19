@@ -53,7 +53,7 @@ As an archer, you want to hit your mark every time you draw your bow and shoot.
 
 In other words, your goal is to repeat your clean shots over and over again.
 
-Because of this repetitive nature, archers must focus on the form and alignment of their bow and arrow.
+Because of this repetitive nature, archers must focus on the [form and alignment](https://www.acearchers.com/archery-form/expansion-and-alignment/) of their bow and arrow.
 
 After all, if you're going to repeat a shot accurately, you must first master every aspect that came in to play to achieve that shot.
 
@@ -117,7 +117,7 @@ So far, we've learned a lot about anchor point archery, and now it’s time to s
 
 Hint: It’s all about practice, experimenting, and more practice.
 
-I assume you already know how to draw a bow correctly.
+I assume you already know [how to draw a bow correctly](https://www.completeguidetoarchery.com/how-to-draw-your-bow/).
 
 Here’s a checklist to ensure you do it right:
 
@@ -211,7 +211,7 @@ The pressure you exalt on the nose also counts -you don’t want to put too much
 
 Peep alignment isn’t an actual contact point, but rather a strategy to maintain consistency in your shots.
 
-You can only use peep alignment with a compound bow that has a peep sight installed.
+You can only use peep alignment with a compound bow that has a [peep sight](https://www.gohunt.com/read/skills/ins-and-outs-of-selecting-an-archery-peep-sight#gs.8iguln) installed.
 
 A peep sight is a small ring placed on the bowstring to help when aiming.
 
@@ -353,7 +353,7 @@ The good thing about this anchor point is that it gives room for secondary conta
 
 You can place the index finger of your drawing hand under the jaw and the bowstring can lightly touch your nose or lips.
 
-If you use a finger tab (a small patch of leather placed between your drawing hand and the bowstring), you can use a shelf.
+If you use a [finger tab](https://www.archery360.com/2015/03/19/archery-gear-how-to-choose-and-use-your-finger-tab/) (a small patch of leather placed between your drawing hand and the bowstring), you can use a shelf.
 
 A shelf works like a kisser button.
 
@@ -363,7 +363,7 @@ With practice, this anchor point becomes easy, and you'll remember all the point
 
 Another plus for this anchor point is you've more vision because the drawing hand is out of the way.
 
-Traditional and barebow archers don't use a sight or a stabilizer.
+[Traditional and barebow](https://www.archery360.com/2018/07/13/john-wert-barebow/) archers don't use a sight or a stabilizer.
 
 Therefore, they go for higher anchor points so that they can use the arrow as a sighting tool.
 

@@ -67,7 +67,7 @@ It also helps in developing cognitive and motor skills as well as reflexes.
 
 Archery is a wonderful activity for people of all ages and it’s an excellent sport for children, however dangerous it might seem.
 
-Children who are exposed to archery at a young age develop stunning reflexes and hand-eye coordination which are only a few of the various benefits of archery for children.
+Children who are exposed to archery at a young age develop stunning reflexes and hand-eye coordination which are only a few of the [various benefits of archery for children](https://thearcheryguide.com/archery-for-kids/).
 
 It’s highly important to maintain the proper form which includes a few factors that you need to take care of.
 
@@ -87,7 +87,7 @@ If you’re unable to maintain the same stance, chances are that your target wil
 
 It’s not just about where you place your feet.
 
-While maintaining the proper stance, the responsibility lies on your head, neck, back, shoulders, hips, and knees.
+While [maintaining the proper stance](https://www.archery360.com/2018/08/09/proper-archery-posture-yields-consistent-shooting/#:~:text=Foot%20position%20provides%20the%20foundation,apart%20with%20knees%20slightly%20bent.&text=A%20closed%20stance%20slightly%20staggers,hips%20closed%20to%20the%20target.), the responsibility lies on your head, neck, back, shoulders, hips, and knees.
 
 It all starts with the foot position.
 
@@ -131,7 +131,7 @@ If you’ve never heard about this, the dominant eye refers to which eye your br
 
 You can do this by actually using a bow and eyeing the target while drawing it.
 
-But, if you don’t have a bow at hand, you can follow a simple dominant eye test which can be carried out anywhere.
+But, if you don’t have a bow at hand, you can follow a [simple dominant eye test](https://www.allaboutvision.com/resources/dominant-eye-test.htm#:~:text=With%20both%20eyes%20open%2C%20center,eye%20is%20your%20dominant%20eye.) which can be carried out anywhere.
 
 If you’re left-handed and your dominant eye is the left one, you can surely buy a left-handed bow, and vice versa.
 
@@ -145,7 +145,7 @@ Now that we’ve helped you stand properly, and also handed you the right (of le
 
 It’s time to learn how to hold your bow properly.
 
-The key to holding a bow properly is to master the grip and if you watch Green Arrow too much,
+The [key to holding a bow properly is to master the grip](https://store.elitearchery.com/blogs/news/proper-bow-grip#:~:text=Bow%20Hand%20Grip%20%E2%80%93%20The%20Importance%20of%20%22Grip%22%20on%20Consistency&text=Good%20form%20will%20allow%20you,proven%20at%20producing%20good%20results.) and if you watch Green Arrow too much,
 
 You’ll be misguided and think that you've to use your entire palm to grip the bow.
 
@@ -249,7 +249,7 @@ Now that your arrow is nocked and in place, or locked and loaded.
 
 If you may - you've to pull the bowstring back which is your next step to achieving the right archery form.
 
-This is one of the more sensitive and careful steps, as it’s the cause of many archery injuries.
+This is one of the more sensitive and careful steps, as it’s the cause of [many archery injuries](https://archershub.com/10-common-archery-injuries-and-how-to-stay-safe/).
 
 There are different types of finger positions or placements that professional archers use to maintain safety and also perfect their shot.
 

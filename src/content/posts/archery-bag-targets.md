@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg"
     description: "This archery bag target is great for beginners and sport hunters to practice their skills."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "1000 PSI Tri-Core"
+      - "Two-Sided Design"
+      - "5 lb Lightweight"
+      - "Easy 2-Finger Pull"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Tri-core technology handles thousands of shots without wearing down"
+      - "Deer vitals on reverse side add practice variety"
+      - "Only 5 pounds with heavy-duty carry handle"
+      - "Available in three sizes (20, 25, and 28 inch)"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Can’t withstand prolonged sun or rain exposure"
+      - "Not designed for broadhead use"
     ctaUrl: "#"
   - name: "Morrell Yellow Jacket Crossbow Target"
     rank: 2
@@ -76,17 +77,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg"
     description: "Morrell targets offer the best archery targets."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Stops 350 FPS"
+      - "Replaceable Covers"
+      - "One-Hand Removal"
+      - "Grommets Included"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Stops crossbow bolts up to 350 fps with layered center"
+      - "Replaceable covers save money over buying a new target"
+      - "Grommets let you hang it from a tree for angled practice"
+      - "One-hand arrow removal makes retrieval effortless"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Weighs 30 pounds, so it’s not the lightest option"
+      - "Needs support behind it when placed on the ground"
     ctaUrl: "#"
   - name: "Morrell Yellow Jacket Supreme 3"
     rank: 3
@@ -95,17 +97,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg"
     description: "The Morrell yellow jacket supreme is another bag target of the Morrell line."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "350 FPS Rated"
+      - "Weatherproof"
+      - "High-Vis Graphics"
+      - "Multi-Bow Compatible"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Works with longbow, recurve, compound, and crossbow setups"
+      - "Weatherproof construction lets you leave it outside in rain"
+      - "Red, yellow, and black graphics are visible from long distances"
+      - "Two-finger arrow removal keeps retrieval quick and easy"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Not very stable on the ground without a support block"
+      - "Wildlife can damage it if left unattended outdoors"
     ctaUrl: "https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20"
   - name: "Morrell Yellow Jacket Stinger Field"
     rank: 4
@@ -114,17 +117,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51qYkXC9VsL._SL500_.jpg"
     description: "If you have just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "38-Layer Center"
+      - "Waterproof Cover"
+      - "10 Bullseyes"
+      - "325 FPS Rated"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "38-layer dense center stops bolts up to 325 fps"
+      - "Two shooting sides with 10 bullseyes for varied practice"
+      - "Waterproof cover holds up through rain without damage"
+      - "Tote carry handle makes transport between locations simple"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Only 19 pounds, which means it can tip over from hits"
+      - "Best suited for indoor use rather than extended field sessions"
     ctaUrl: "https://www.amazon.com/dp/B00AI9IXJS?tag=thearcheryexpert-20"
   - name: "Morrell Supreme Range Field Point Bag Archery Target"
     rank: 5
@@ -133,17 +137,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51dPF4wLXML._SL500_.jpg"
     description: "If you are passionate about archery then chances are that your children would be too."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "NASP Approved"
+      - "100% Weatherproof"
+      - "55 lb Heavy-Duty"
+      - "Grommet Hanging"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "NASP scoring rings make it perfect for school archery programs"
+      - "100% weatherproof so it stands up to sun, rain, and snow"
+      - "55-pound weight provides excellent ground stability"
+      - "Grommet holes let you hang it from a tree or pole"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Arrows may bounce off after heavy prolonged use"
+      - "Too heavy at 55 lbs for frequent carrying between locations"
     ctaUrl: "https://www.amazon.com/dp/B00CJJ76HU?tag=thearcheryexpert-20"
   - name: "Delta McKenzie Speedbag 20/20 Archery Target"
     rank: 6
@@ -152,17 +157,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51JTDWO+itL._SL500_.jpg"
     description: "This is the first McKenzie archery target in this list."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Hydro-Press Fill"
+      - "Velcro Re-Stuff Flap"
+      - "Budget Friendly"
+      - "Sewn-In Handle"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Hydro-press stuffing provides superior arrow stopping power"
+      - "Velcro flap on the bottom lets you re-stuff the fill material"
+      - "Priced lower than most targets with comparable features"
+      - "Contrasting graphics are easy to spot from long range"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Arrow removal takes more effort than Morrell targets"
+      - "Top section can be unstable without a concrete block behind it"
     ctaUrl: "https://www.amazon.com/dp/B01BUDMSMI?tag=thearcheryexpert-20"
   - name: "Morrell Keep Hammering Outdoor Range Target"
     rank: 7
@@ -171,17 +177,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51Kvuf6wnSL._SL500_.jpg"
     description: "This Morrell bag target is perfect for beginners or sport hunters who want to hone their skills on a long-range target that is kept outdoors."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Oversized 32x29 in"
+      - "76 Stopping Layers"
+      - "380 FPS Rated"
+      - "100% Weatherproof"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Oversized 32x29 inch face gives beginners a larger margin for error"
+      - "76 layers of stopping material handles bolts up to 380 fps"
+      - "100% weatherproof for permanent outdoor placement"
+      - "Full-size bullseyes on both sides with varied aiming dots"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Weighs 54 pounds, making it difficult to move around"
+      - "Large size won’t fit in smaller indoor shooting spaces"
     ctaUrl: "https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20"
   - name: "Field Logic Hurricane H21 Crossbow Archery Bag Target"
     rank: 8
@@ -190,17 +197,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51spJKSjQuL._SL500_.jpg"
     description: "Another top-notch target in the Hurricane bag target series is this field logic hurricane h21."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Crossbow Rated"
+      - "Deer Vitals Side"
+      - "Mildew Resistant"
+      - "Compact 21x15 in"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Handles crossbows and high-speed compound bows without pass-throughs"
+      - "Deer vitals on one side with offset aiming points on the other"
+      - "Fill material resists mildew, mold, and rot in any weather"
+      - "Compact 21x15 inch size is ideal for indoor and close-range practice"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Smaller shooting surface limits long-range practice options"
+      - "At 30 pounds, it’s heavier than the larger H25 model"
     ctaUrl: "https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20"
   - name: "Bulldog Targets Doghouse Field Point Archery Target Plus"
     rank: 9
@@ -209,17 +217,18 @@ products:
     image: "https://m.media-amazon.com/images/I/5122CTxLoZL._SL500_.jpg"
     description: "If you are an experienced archer or a toxophilite, who loves shooting at targets hundreds of times a day, then this Bulldog target is just for you."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Lifetime Warranty"
+      - "Stands Upright Solo"
+      - "All Bow Types"
+      - "Easy-Grip Handle"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Only bag target on the market with a lifetime warranty"
+      - "Stands upright on its own without any support behind it"
+      - "Compatible with recurve, compound, and crossbow setups"
+      - "Two-finger arrow pull is easy on older or fatigued archers"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Broadheads can penetrate and cause extensive damage"
+      - "24x24 inch face may be too small for long-distance shooters"
     ctaUrl: "https://www.amazon.com/dp/B07NBWWFM7?tag=thearcheryexpert-20"
   - name: "DELTA 70630 Speed Bag Crossbow"
     rank: 10
@@ -228,17 +237,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41ZTKs587uL._SL500_.jpg"
     description: "This bag target is another one of the Speedbag series designed and created especially for outdoor use."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "400 FPS Crossbow"
+      - "Hydro-Press Fill"
+      - "10 Bullseye Targets"
+      - "Outdoor Rated"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Stops crossbow bolts up to 400 fps without pass-throughs"
+      - "Hydro-press composition provides extreme durability"
+      - "7 medium and 3 small bullseyes offer varied aiming points"
+      - "High contrast graphics are easy to acquire from long distances"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Weighs 45 pounds, so it’s meant to stay in one spot"
+      - "Arrow removal requires more effort than lighter bag targets"
     ctaUrl: "https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20"
 ---
 
@@ -376,10 +386,10 @@ Here's a list of the 10 best archery bag targets that we've gathered for you to 
 </div>
 <p class="product-card-desc">This archery bag target is great for beginners and sport hunters to practice their skills. The key feature of the product is that it's very durable.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">1000 PSI Tri-Core</span>
+<span class="highlight-tag">Two-Sided Design</span>
+<span class="highlight-tag">5 lb Lightweight</span>
+<span class="highlight-tag">Easy 2-Finger Pull</span>
 </div>
 <a href="#" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -394,10 +404,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Sturdy and versatile</li>
-<li>Versatile</li>
-<li>Lightweight and portable</li>
-<li>Relatively affordable</li>
+<li>Tri-core technology handles thousands of shots without wearing down</li>
+<li>Deer vitals on reverse side add practice variety</li>
+<li>Only 5 pounds with heavy-duty carry handle</li>
+<li>Available in three sizes (20, 25, and 28 inch)</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -406,8 +416,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Can't withstand prolonged sun or rain exposure</li>
+<li>Not designed for broadhead use</li>
 </ul>
 </div>
 </div>
@@ -455,10 +465,10 @@ It can't withstand prolonged sun or rain exposure, so you should better keep it 
 </div>
 <p class="product-card-desc">Morrell targets offer the best archery targets. They’re well renowned in the industry for their provision of good quality archery targets at an affordable price. This particular bag target of Morrell is unique in its ability to withstand pressure from a range of high-speed bows including crossbows and compound bows.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Stops 350 FPS</span>
+<span class="highlight-tag">Replaceable Covers</span>
+<span class="highlight-tag">One-Hand Removal</span>
+<span class="highlight-tag">Grommets Included</span>
 </div>
 <a href="#" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -473,10 +483,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Long-lasting</li>
-<li>Great stability on the ground</li>
-<li>Easy transport and hanging</li>
-<li>Replaceable covers</li>
+<li>Stops crossbow bolts up to 350 fps with layered center</li>
+<li>Replaceable covers save money over buying a new target</li>
+<li>Grommets let you hang it from a tree for angled practice</li>
+<li>One-hand arrow removal makes retrieval effortless</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -485,8 +495,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Weighs 30 pounds, so it's not the lightest option</li>
+<li>Needs support behind it when placed on the ground</li>
 </ul>
 </div>
 </div>
@@ -538,10 +548,10 @@ If the cover of your target wears out then you can get it replaced to provide a 
 </div>
 <p class="product-card-desc">The Morrell yellow jacket supreme is another bag target of the Morrell line. If you practice with field points using high-speed compound bows, then this bag target is just for you.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">350 FPS Rated</span>
+<span class="highlight-tag">Weatherproof</span>
+<span class="highlight-tag">High-Vis Graphics</span>
+<span class="highlight-tag">Multi-Bow Compatible</span>
 </div>
 <a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -556,10 +566,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>An ideal target for crossbows</li>
-<li>Its graphic is perfect for long-range</li>
-<li>Weatherproof</li>
-<li>It stops bolts at a high speed</li>
+<li>Works with longbow, recurve, compound, and crossbow setups</li>
+<li>Weatherproof construction lets you leave it outside in rain</li>
+<li>Red, yellow, and black graphics are visible from long distances</li>
+<li>Two-finger arrow removal keeps retrieval quick and easy</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -568,8 +578,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Not very stable on the ground without a support block</li>
+<li>Wildlife can damage it if left unattended outdoors</li>
 </ul>
 </div>
 </div>
@@ -617,10 +627,10 @@ If you're an experienced archer using high-speed crossbows and want to practice 
 </div>
 <p class="product-card-desc">If you've just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center. This Morrell yellow jacket stinger is an ideal bag target for you.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">38-Layer Center</span>
+<span class="highlight-tag">Waterproof Cover</span>
+<span class="highlight-tag">10 Bullseyes</span>
+<span class="highlight-tag">325 FPS Rated</span>
 </div>
 <a href="https://www.amazon.com/dp/B00AI9IXJS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -635,10 +645,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Effective layering to stop arrows</li>
-<li>Easy arrow removal</li>
-<li>Waterproof</li>
-<li>Best for traditional and compound bows</li>
+<li>38-layer dense center stops bolts up to 325 fps</li>
+<li>Two shooting sides with 10 bullseyes for varied practice</li>
+<li>Waterproof cover holds up through rain without damage</li>
+<li>Tote carry handle makes transport between locations simple</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -647,8 +657,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Only 19 pounds, which means it can tip over from hits</li>
+<li>Best suited for indoor use rather than extended field sessions</li>
 </ul>
 </div>
 </div>
@@ -694,10 +704,10 @@ This target is best used for indoor practice sessions by beginners or skilled sp
 </div>
 <p class="product-card-desc">If you're passionate about archery then chances are that your children would be too. National Archery in the school program is an initiative to indulge students in the educational benefits of archery and this would be an excellent medium for your children to enhance their skill level.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">NASP Approved</span>
+<span class="highlight-tag">100% Weatherproof</span>
+<span class="highlight-tag">55 lb Heavy-Duty</span>
+<span class="highlight-tag">Grommet Hanging</span>
 </div>
 <a href="https://www.amazon.com/dp/B00CJJ76HU?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -712,10 +722,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>NASP archery target</li>
-<li>100% weatherproof</li>
-<li>Prevent arrows from bouncing off</li>
-<li>Sturdy</li>
+<li>NASP scoring rings make it perfect for school archery programs</li>
+<li>100% weatherproof so it stands up to sun, rain, and snow</li>
+<li>55-pound weight provides excellent ground stability</li>
+<li>Grommet holes let you hang it from a tree or pole</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -724,8 +734,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Arrows may bounce off after heavy prolonged use</li>
+<li>Too heavy at 55 lbs for frequent carrying between locations</li>
 </ul>
 </div>
 </div>
@@ -773,10 +783,10 @@ It’s built for field points only and using them would increase its life. Unlik
 </div>
 <p class="product-card-desc">This is the first McKenzie archery target in this list. The distinguishing feature of this specific bag target is the hydro-press stuffing of material. Unlike the process of manually stuffing the material.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Hydro-Press Fill</span>
+<span class="highlight-tag">Velcro Re-Stuff Flap</span>
+<span class="highlight-tag">Budget Friendly</span>
+<span class="highlight-tag">Sewn-In Handle</span>
 </div>
 <a href="https://www.amazon.com/dp/B01BUDMSMI?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -791,10 +801,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Best arrow stopping power</li>
-<li>Portable</li>
-<li>High contrast graphics</li>
-<li>Affordable</li>
+<li>Hydro-press stuffing provides superior arrow stopping power</li>
+<li>Velcro flap on the bottom lets you re-stuff the fill material</li>
+<li>Priced lower than most targets with comparable features</li>
+<li>Contrasting graphics are easy to spot from long range</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -803,8 +813,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Arrow removal takes more effort than Morrell targets</li>
+<li>Top section can be unstable without a concrete block behind it</li>
 </ul>
 </div>
 </div>
@@ -858,10 +868,10 @@ This bag target is for indoor practice, so bring it inside with you after practi
 </div>
 <p class="product-card-desc">This Morrell bag target is perfect for beginners or sport hunters who want to hone their skills on a long-range target that's kept outdoors. The size of this bag target is almost double the size of similar targets providing a large room for errors by beginners and long-range shots.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Oversized 32x29 in</span>
+<span class="highlight-tag">76 Stopping Layers</span>
+<span class="highlight-tag">380 FPS Rated</span>
+<span class="highlight-tag">100% Weatherproof</span>
 </div>
 <a href="https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -876,10 +886,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Huge size and shooting target</li>
-<li>Ideal for outdoor practice</li>
-<li>100% weatherproof</li>
-<li>Versatile design</li>
+<li>Oversized 32x29 inch face gives beginners a larger margin for error</li>
+<li>76 layers of stopping material handles bolts up to 380 fps</li>
+<li>100% weatherproof for permanent outdoor placement</li>
+<li>Full-size bullseyes on both sides with varied aiming dots</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -888,8 +898,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Weighs 54 pounds, making it difficult to move around</li>
+<li>Large size won't fit in smaller indoor shooting spaces</li>
 </ul>
 </div>
 </div>
@@ -939,10 +949,10 @@ The cover of the target provides a unique set of various dots to target and shoo
 </div>
 <p class="product-card-desc">Another top-notch target in the Hurricane bag target series is this field logic hurricane h21. Similar to the other Hurricane field logic h25 target, this bag target also exhibits two shooting sides with versatile design.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Crossbow Rated</span>
+<span class="highlight-tag">Deer Vitals Side</span>
+<span class="highlight-tag">Mildew Resistant</span>
+<span class="highlight-tag">Compact 21x15 in</span>
 </div>
 <a href="https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -957,10 +967,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Indoor and close-range target</li>
-<li>Easy arrow removal</li>
-<li>High contrast graphics</li>
-<li>Portable</li>
+<li>Handles crossbows and high-speed compound bows without pass-throughs</li>
+<li>Deer vitals on one side with offset aiming points on the other</li>
+<li>Fill material resists mildew, mold, and rot in any weather</li>
+<li>Compact 21x15 inch size is ideal for indoor and close-range practice</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -969,8 +979,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Smaller shooting surface limits long-range practice options</li>
+<li>At 30 pounds, it's heavier than the larger H25 model</li>
 </ul>
 </div>
 </div>
@@ -1020,10 +1030,10 @@ Use it for field points only and it will stay with you for years.
 </div>
 <p class="product-card-desc">If you're an experienced archer or a toxophilite, who loves shooting at targets hundreds of times a day, then this Bulldog target is just for you. This is the only archery bag target that comes with a lifetime warranty. It could be the only archery target you would buy.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Lifetime Warranty</span>
+<span class="highlight-tag">Stands Upright Solo</span>
+<span class="highlight-tag">All Bow Types</span>
+<span class="highlight-tag">Easy-Grip Handle</span>
 </div>
 <a href="https://www.amazon.com/dp/B07NBWWFM7?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1038,10 +1048,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Lifetime warranty</li>
-<li>Easy arrow removal</li>
-<li>Great stability without target stand</li>
-<li>Portable</li>
+<li>Only bag target on the market with a lifetime warranty</li>
+<li>Stands upright on its own without any support behind it</li>
+<li>Compatible with recurve, compound, and crossbow setups</li>
+<li>Two-finger arrow pull is easy on older or fatigued archers</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -1050,8 +1060,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Broadheads can penetrate and cause extensive damage</li>
+<li>24x24 inch face may be too small for long-distance shooters</li>
 </ul>
 </div>
 </div>
@@ -1105,10 +1115,10 @@ Shooters who don’t like to move their targets around and beginners who are sta
 </div>
 <p class="product-card-desc">This bag target is another one of the Speedbag series designed and created especially for outdoor use.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">400 FPS Crossbow</span>
+<span class="highlight-tag">Hydro-Press Fill</span>
+<span class="highlight-tag">10 Bullseye Targets</span>
+<span class="highlight-tag">Outdoor Rated</span>
 </div>
 <a href="https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1123,10 +1133,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Hydro-press internal composition</li>
-<li>High contrast graphics</li>
-<li>For crossbows up to 400 fps</li>
-<li>Durable and long-lasting</li>
+<li>Stops crossbow bolts up to 400 fps without pass-throughs</li>
+<li>Hydro-press composition provides extreme durability</li>
+<li>7 medium and 3 small bullseyes offer varied aiming points</li>
+<li>High contrast graphics are easy to acquire from long distances</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -1135,8 +1145,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Weighs 45 pounds, so it's meant to stay in one spot</li>
+<li>Arrow removal requires more effort than lighter bag targets</li>
 </ul>
 </div>
 </div>

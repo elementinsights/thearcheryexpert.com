@@ -103,7 +103,7 @@ This will enable you to lift your trophy high with both hands for the world to s
 
 If what you seek is the feeling of real recognition, then this is the trophy for you.
 
-## 2. Perpetual Series Trophy
+## 2. [Perpetual Series Trophy](https://www.trophycentral.com/qtarchperp.html)
 
 <div class="stat-highlight">
   <span class="stat-number">#2</span>
@@ -194,7 +194,7 @@ This is truly an opportunity for you as an archer to appreciate your efforts.
 
 The trophy then has more than enough space for you to have your name engraved, and one can have a name engraving surface tailor-made for them for free.
 
-## 5. Cosmos Archery Award
+## 5. [Cosmos Archery Award](https://www.premiertrophies.co.uk/cosmos-archery-award.html)
 
 <div class="stat-highlight">
   <span class="stat-number">#5</span>
@@ -250,7 +250,7 @@ The unique design is eye-catching and will transform your trophy's space and giv
 
 If your award space is in an office setting, this archery trophy can help you strike amazing deals with your clients as it portrays you as a star or rather a performer in whatever you do.
 
-## 7. JOAD Star Pins
+## 7. [JOAD Star Pins](http://usarchery.drivemarketing.com/joad/awards.html)
 
 <div class="stat-highlight">
   <span class="stat-number">#7</span>
@@ -304,7 +304,7 @@ You can also get the "6 gold" pin by shooting six 10's in a row either in a sing
 
 The pins are customized with the archery game symbol, and this allows them to be the best awards in this game as they show the world the exact game that you qualified as a winner just by a glimpse.
 
-The pins have a unique sumptuous design that makes you proud of owning one and making others respect you for the skills you got in archery.
+[The pins have a unique sumptuous design](https://www.usarchery.org/images/tinymce/230419050820-achievement%20awards_Adult%20Pins.png) that makes you proud of owning one and making others respect you for the skills you got in archery.
 
 The best thing about the pins is that you can't be asked to re-earn the pin that has already been awarded to you.
 
@@ -339,7 +339,7 @@ This award trophy has a unique and simple design making it outstanding compared 
 
 Most of the “Doc” Counsilman award trophies are made of wood, which makes them durable, and therefore you don’t have to worry about winning an award and then losing it the next minute due to breakage or other accidents.
 
-This trophy will be with you for a lifetime, and it’s very important as it helps you retain your top talent even for generations to come.
+[This trophy will be with you for a lifetime](https://www.facebook.com/illinoiswheelchairathletics/posts/congratulations-coach-adam-bleakney-recipient-of-the-doc-counsilman-science-awar/10154329281438501/), and it’s very important as it helps you retain your top talent even for generations to come.
 
 ## 10. Archery Sculpture Resin Trophy
 

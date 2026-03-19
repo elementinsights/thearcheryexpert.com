@@ -10,7 +10,11 @@ const year = new Date().getFullYear();
   <div class="container">
     <div class="footer-grid">
       <div class="footer-brand">
-        <a href="/" class="logo">{namePrefix}<span>{siteConfig.nameHighlight}</span></a>
+        {siteConfig.logo ? (
+          <a href="/" class="logo footer-logo-img"><img src={siteConfig.logo} alt={siteConfig.name} width="188" height="36" /></a>
+        ) : (
+          <a href="/" class="logo">{namePrefix}<span>{siteConfig.nameHighlight}</span></a>
+        )}
         <p>{siteConfig.footerDescription}</p>
         <div class="footer-social">
           {siteConfig.social.facebook && (
@@ -90,6 +94,7 @@ const year = new Date().getFullYear();
     border-bottom: 1px solid rgba(255,255,255,0.08);
   }
   .footer-brand .logo { color: #fff; margin-bottom: 14px; display: inline-block; font-size: 1.6rem; font-weight: 900; letter-spacing: -0.02em; }
+  .footer-logo-img img { height: 36px; width: auto; display: block; filter: brightness(0) invert(1); }
   .footer-brand .logo span { color: var(--accent); }
   .footer-brand p { font-size: 14px; line-height: 1.7; margin-bottom: 18px; }
   .footer-social { display: flex; gap: 10px; }

@@ -61,7 +61,7 @@ As with archery, the correct technique is the key to your continuous improvement
 
 Having the correct posture allows you to generate the most energy in the most efficient manner, which helps ensure your shots hit.
 
-If you want to check whether your archery skill is good or needs to improve, pick the bow, then close your eyes and shoot the target. If your arrow lands close to the target, then you're making good progress.
+If you want to [check whether your archery](https://study.com/academy/lesson/archery-skills-rules-techniques.html) skill is good or needs to improve, pick the bow, then close your eyes and shoot the target. If your arrow lands close to the target, then you're making good progress.
 
 Otherwise, drastic improvements are needed.
 
@@ -87,7 +87,7 @@ Pay attention to the foot stance and always remember to take the same stance, en
 
 It's important to maintain the same stance at all times to maximize consistency and make sure your practice is beneficial.
 
-There are generally three different types of stances that you can follow any to which you're comfortable.
+There are generally three [different types of stances](https://www.letsmoveschools.org/archery-stance/) that you can follow any to which you're comfortable.
 
 The square stance is the most used stance for beginner learners because it's easy to practice and helps you start better.
 
@@ -191,9 +191,9 @@ Meanwhile, a bent bow arm reduces the arm's overall strength and makes it diffic
 
 Apply a little tension to the bowstring and rotate your elbow a little away from the string in a clockwise direction for the right-handed archers - and the opposite for the left-handed archers.
 
-It helps to set your bow arm into a strong position keeping the bowstring away from your elbow.
+It helps to set your bow arm into a [strong position keeping the](https://en.m.wikipedia.org/wiki/Bowstring) bowstring away from your elbow.
 
-The shoulders should create a bone on the bone connection in your bow arms shoulder, and it properly maintains your drawing arms shoulder for quick and productive drawing.
+The shoulders should create a bone on the bone connection in your bow arms shoulder, and it properly maintains your drawing arms shoulder for [quick and](http://www.learn-archery.com/draw-and-load.html) productive drawing.
 
 ## Step 7: Shoulder position
 

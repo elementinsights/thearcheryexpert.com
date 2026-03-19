@@ -62,7 +62,7 @@ The broad knowledge enables them to choose wisely for the best equipment to use.
 
 Here are the four main types of bows every pro should know.
 
-## 1. Recurve Bow
+## 1. [Recurve Bow](https://en.wikipedia.org/wiki/Recurve_bow)
 
 <div class="stat-highlight">
   <span class="stat-number">#1</span>
@@ -141,7 +141,7 @@ It's mainly a power reflector in terms of balance for both limbs.
 
 - They're hazardous if not well handled, especially with new archers
 
-## 2. Compound Bow
+## 2. [Compound Bow](https://en.wikipedia.org/wiki/Compound_bow)
 
 <div class="stat-highlight">
   <span class="stat-number">#2</span>
@@ -178,7 +178,7 @@ When the cams rotate, they offer a let-off scenario for the bow and arrows.
 
 The result is made effective by the fact that the cams are rather eccentric than round.
 
-The eccentric state makes the cams rotate, making their radii change, a feature that isn't possible with the round cable state.
+The [eccentric state makes the cams rotate](https://www.collinsdictionary.com/dictionary/english/eccentric), making their radii change, a feature that isn't possible with the round cable state.
 
 There're two tracks featured in each of the bow's two cams.
 
@@ -202,7 +202,7 @@ For the issue of hard-drawing, it occurs exactly opposite of the soft-drawing fe
 
 There's a very fast build-up in peak's draw-weight, especially in a long plateau where there's weight maintenance.
 
-There's a relatively quick let-off in the compound bow with a short valley.
+There's a [relatively quick let-off](https://thewoodsandback.com/bow-let-off/) in the compound bow with a short valley.
 
 Many of the compound bows offer a relatively higher let-off rate with an average of 0.8.
 
@@ -218,7 +218,7 @@ This compound bow many referred to it as a composite bow, but modern technology 
 
 - They're very accurate with shots on target
 
-- They have a greater Effective Kill Range
+- They have a greater [Effective Kill Range](https://guns.fandom.com/wiki/Effective_range#:~:text=The%20effective%20range%20of%20a,effect%20on%20a%20particular%20target.&text=Below%20this%20range%20the%20projectile,against%20a%20perfectly%20stationary%20target)
 
 - They require extensive maintenance for effective use
 
@@ -228,7 +228,7 @@ This compound bow many referred to it as a composite bow, but modern technology 
 
 - They look complicated compared to other bows out there in terms of appearance
 
-## 3. Longbow
+## 3. [Longbow](https://en.wikipedia.org/wiki/English_longbow)
 
 <div class="stat-highlight">
   <span class="stat-number">#3</span>
@@ -289,7 +289,7 @@ There have been many materials for discussion, like the horn, yew, elm, and even
 
 Well, most longbows are constructed using the yew, a coniferous tree wood.
 
-The yew has been regularly confused with elm as a good number also argue longbows are made of elm rather than yew.
+[The yew has been regularly confused](https://en.wikipedia.org/wiki/Yew#:~:text=Yew%20is%20a%20common%20name,or%20western%20yew%20(Taxus%20brevifolia)) with elm as a good number also argue longbows are made of elm rather than yew.
 
 Yew takes years to dry to be made into a good shape to be used for longbows.
 
@@ -319,9 +319,9 @@ This feature makes the longbow long-lasting.
 
 - They tend to be less mobile
 
-- They tend to cause hand-shock, which is very hazardous
+- They [tend to cause hand-shock](https://archeryboss.com/guides-info/hand-shock), which is very hazardous
 
-## 4. Crossbow
+## 4. [Crossbow](https://en.wikipedia.org/wiki/Crossbow)
 
 <div class="stat-highlight">
   <span class="stat-number">#4</span>

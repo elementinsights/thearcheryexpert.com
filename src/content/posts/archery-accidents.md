@@ -77,7 +77,7 @@ Well, dry firing is one of the most common causes of archery accidents and hence
 
 This is indeed a common mistake with novices.
 
-As the name suggests, “dry firing” basically refers to firing your bow without an arrow.
+As the name suggests, “dry firing” basically refers to [firing your bow without an arrow](https://www.pewpewtactical.com/dry-fire-guide-training-home/).
 
 Beginners usually find it intriguing to try out their new bow.
 
@@ -87,7 +87,7 @@ This can cause accidents.
 
 At the least, it will end up breaking your bow and might as well hurt you in the worst scenarios.
 
-Compound bows are usually more prone to breaking as compared to the old school wooden bow and arrows.
+[Compound bows](https://www.artofmanliness.com/articles/a-primer-on-the-compound-bow/) are usually more prone to breaking as compared to the old school wooden bow and arrows.
 
 This is because of the presence of those small mechanical parts.
 
@@ -109,7 +109,7 @@ If not, then perhaps you ain’t a true archer.
 
 String slaps are the symbols of a successful archer.
 
-Almost every archer out there has had a lot of string slaps in his life.
+Almost every archer out there has had a lot of [string slaps](https://battlearchery.com/how-to-prevent-bow-string-slap/) in his life.
 
 Remember, if you're a beginner, you might end up getting bruised on your arms frequently.
 
@@ -155,7 +155,7 @@ These refer to the shots that aren't a part of the usual or normal archery.
 
 One of the most dangerous improper shots is the “Amateur Straight Up” shot.
 
-Sometimes, curious beginners try shooting straight up to the sky to see what happens without thinking of the deadly consequences.
+Sometimes, curious beginners try [shooting straight up to the sky](https://www.wired.com/story/can-an-arrow-fired-straight-up-fall-fast-enough-to-kill-you/) to see what happens without thinking of the deadly consequences.
 
 The arrow might come down and pierce straight through someone’s head or face.
 
@@ -199,7 +199,7 @@ To do with all such potential accidents, here are some of the safety measures yo
 
 - Always handle the bow and arrow carefully
 
-- Make a shot after ensuring all the proper stuff like the bow grip, draw length, and others to avoid accidents
+- Make a shot after ensuring all the proper stuff like the bow grip, [draw length](http://www.learn-archery.com/proper-draw-length.html), and others to avoid accidents
 
 ## Step 5: Cross-Check Your Target & Nearby Places
 
@@ -207,7 +207,7 @@ Many cases have been reported earlier where nearby people have been hurt by an a
 
 This happens when there are people nearby and you don’t take a look at your target carefully.
 
-There’s this man who luckily survived after an arrow went straight through his neck piercing through the other side.
+There’s this man who luckily survived after an [arrow went straight through his neck piercing](https://www.dailymail.co.uk/news/article-2140751/Father-shot-neck-arrow-narrowly-survives-misses-brain-just-millimetre.html) through the other side.
 
 The stuck arrow was surgically removed thereafter.
 
@@ -249,7 +249,7 @@ A lot of people have gone through such accidents where the parts of the broken a
 
 This can get very painful and dangerous.
 
-A guy got hurt the same way and wasn’t able to move his injured hands for a couple of months.
+A guy got hurt the same way and [wasn’t able to move his injured hands](https://www.archerytalk.com/vb/showthread.php?t=398290) for a couple of months.
 
 While these accidents usually cause injuries on the hands, the pain gets extremely unbearable at times.
 
@@ -275,7 +275,7 @@ How about an arrow splinter piercing right through your eyeballs?
 
 That won’t be great at all, isn’t it?
 
-Breast bruises are mainly caused due to string slaps or backfiring.
+[Breast bruises](https://www.archeryinterchange.com/threads/bruise-from-full-draw-why.184200/) are mainly caused due to string slaps or backfiring.
 
 This is again because of mishandling the bow and arrow without proper knowledge.
 
@@ -311,7 +311,7 @@ Someone who isn't an archer might think that all you got to do is just pull the 
 
 Let me tell you pal that you're wrong. There's way more than that.
 
-A slight torque can break the string and hurt you badly.
+A [slight torque can break the string](https://www.archerytalk.com/vb/showthread.php?t=5313707) and hurt you badly.
 
 That’s why handling a string the proper way is very crucial.
 
@@ -349,7 +349,7 @@ Being a beginner or just for the sake of practice, using a broadhead arrow or ot
 
 Other than that, accidents are most probable to occur if you're using faulty equipment.
 
-A bow or arrow with cracks, loose parts in a compound bow, an overtight/ slacking string can always lead to some kind of accidents.
+A bow or [arrow with cracks](https://www.completeguidetoarchery.com/never-shoot-a-damaged-arrow/#:~:text=If%20the%20arrow%20folds%20or,lot%20of%20wear%20and%20tear.), loose parts in a compound bow, an overtight/ slacking string can always lead to some kind of accidents.
 
 Not just this but there's a lot of other such stuff that leads to accidents sometime or the other.
 

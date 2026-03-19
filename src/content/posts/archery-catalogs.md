@@ -85,7 +85,7 @@ Later the business grew up to 10 000 square feet warehouse in the small town of 
 
 Nowadays, the company is the "World's Largest Traditional Archery Supplier".
 
-The online archery catalog is impressive.
+The [online archery catalog](https://www.3riversarchery.com) is impressive.
 
 It’s straightforward to use. There's the possibility to shop by category such as target, bows, or you can buy by brand.
 
@@ -142,7 +142,7 @@ Moreover, you can shop by brand or product type (arrows, bows, shooting gear).
 
 You can read the customers' feedback, and product information are clear and precise.
 
-At the bottom of the website, you can upload the PDF version of the catalogs or request to have it send at home.
+At the bottom of the website, you can upload the PDF [version of the catalog](https://www.lancasterarchery.com/)s or request to have it send at home.
 
 The company has more than 500 hundred brands in stocks and an extensive panoply of products suitable for all levels and ages:
 
@@ -189,7 +189,7 @@ Not long after, they open their online shop: Hunting-Bow.
 
 The online platform has a professional look, and it’s easy to navigate.
 
-You can shop by category or research what you desire by taping in the search bar.
+You can shop by category or research what you desire by [taping in the search bar](https://www.hunting-bow.com).
 
 Products are well explained, and customers' reviews are available.
 
@@ -236,7 +236,7 @@ The founder selects the name "TenPoint" out of the desire to distinguish his com
 
 According to Rick, the word "ten" encourages perfection, like in the phrase "a perfect 10".
 
-In 2026, the business was launching the first silent cocking, safe de-coking system.
+In 2026, the business was launching the [first silent cocking, safe de-coking system](https://www.tenpointcrossbows.com/acuslide/).
 
 The most innovative part of the de-cocking design is its ease of use.
 
@@ -250,7 +250,7 @@ The product's descriptives are very detailed and interactive, especially the one
 
 The customer reviews are useful and appear clearly.
 
-TenPoint Crossbows is selling its brand, and some crossbows from Wicked Ridge can be found.
+[TenPoint Crossbows is selling its brand](https://www.tenpointcrossbows.com/our-story/), and some crossbows from Wicked Ridge can be found.
 
 Prices are high, for example, you've to spend at least £459,99 for a crossbow.
 
@@ -305,7 +305,7 @@ There's no clear distinction between the products sold online and the others.
 
 Although you can find many dealers in the US.
 
-Bear Archery is working with companies such as Trophy Ridge and Fletcher Archery.
+[Bear Archery is working](https://beararchery.com/) with companies such as Trophy Ridge and Fletcher Archery.
 
 The quality product is premium, and this is why the prices are relatively high.
 
@@ -340,7 +340,7 @@ Barnett slowly grows his reputation as an expert craftsman in the crossbow indus
 
 A couple of years later, he starts distributing his product in the United States by partnering with one of his friends from Michigan.
 
-The company is responsible for some of the most essential innovations in the industry.
+[The company is responsible](https://www.barnettcrossbows.com') for some of the most essential innovations in the industry.
 
 Such as crank cocking devices and the anti-dry fire device.
 
@@ -393,7 +393,7 @@ Created in 1922, Easton Archery is always focusing on offering innovative, premi
 
 In 1940, the business transformed the sport of archery, developing the first straight, consistent aluminum arrows.
 
-Since then, Easton Archery has been the world’s leading archery innovator.
+Since then, [Easton Archery has been the world’s leading archery](https://eastonarchery.com/company/) innovator.
 
 The online platform is practical to navigate.
 
@@ -436,7 +436,7 @@ If you've still issues after reading the FAQ, you can quickly call the company. 
 
 In 1999, Hunter's Friend began, it's now one of the nation's largest stand-alone archery pro-shops.
 
-The company is an accredited member of the Better Business Bureau with an A+ and a member of the Archery Trade Association (ATA).
+The company is an accredited member of the [Better Business Bureau](https://www.bbb.org/) with an A+ and a member of the [Archery Trade Association](https://www.archerytrade.org/) (ATA).
 
 Hunter's Friend has elegant web design, principally white.
 
@@ -446,7 +446,7 @@ The product descriptions are clear and useful.
 
 Unfortunately, there's no customer feedback to help you with your purchase decision.
 
-Hunter's Friend is selling brands such as Obsession, Diamond, PSE, G5.
+[Hunter's Friend is selling brands](https://www.huntersfriend.com) such as Obsession, Diamond, PSE, G5.
 
 Less than 2% of the bows sell by the business are bare bows.
 
@@ -460,7 +460,7 @@ The company can be easily contacted on social media messenger, phone, or email.
 
 The employees are friendly and helpful.
 
-A Guide helping you to buy a compound bow is available on the website.
+[A Guide helping you to buy a compound bow](https://www.huntersfriend.com/compound-bow-selection-guide-research-contents.html) is available on the website.
 
 The guide is complete, it reports everything you need to know before buying a bow.
 
@@ -495,7 +495,7 @@ Later on, David proposed his ideas. The owner told him that he had no bits of kn
 
 Frustrated, David discussed with his grandmother, who gave him $300, what was needed to start Dick's Sporting Goods.
 
-In 1970, the product line was developed to include much of what you’ll find at DICK’S Sporting Goods now.
+In 1970, the product line was developed to include much of what you’ll [find at DICK’S Sporting Goods](https://www.dickssportinggoods.com/c/bow-arrow-archery-supplies) now.
 
 The website is aesthetic and user-friendly. To find archery equipment, you've to shop by sport and look under "Hunting equipment."
 
@@ -542,7 +542,7 @@ Products description are explicit, and you can read the customers' reviews.
 
 If you want a paper version of the catalog, you can request it from the website.
 
-Cabela's sells products from brands such as Gold Tip, Carbon Express, Apple archery, and Goat tuff.
+[Cabela's sells products from brands](https://www.cabelas.com/) such as Gold Tip, Carbon Express, Apple archery, and Goat tuff.
 
 Prices are average. For example, the cheapest compound bow costs $200, while the most expensive cost $800.
 

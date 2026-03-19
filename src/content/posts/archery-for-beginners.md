@@ -65,7 +65,7 @@ Stop being a dreamer only and join us giving you the best start ways to start yo
 
 Pick up your best to become an ace archer just following the tips given here.
 
-Learn some easy steps to begin archery and enjoy the wonderful sport in this archery for beginners' guide.
+Learn some easy steps to [begin archery and enjoy](https://www.letsmoveschools.org/archery-for-beginners/) the wonderful sport in this archery for beginners' guide.
 
 ## Step 1: A Good Archery Club Must Be Your Be First Priority
 
@@ -85,7 +85,7 @@ If you find, regularly attend classes first before taking out your bow and arrow
 
 Going to the club to properly get yourself is the best way to start the sport.
 
-It won't only boost your confidence to have so much experience around but the people there will teach you from the ABC of the art.
+It won't only boost your confidence to have so much experience around but the [people there will teach you](https://www.archerygb.org/wp-content/uploads/2017/05/11_page_Guide_for_Clubs_and_Orgs.pdf) from the ABC of the art.
 
 Also, you'll learn more in a short period in an archery club rather than self-educating yourself about archery.
 
@@ -115,7 +115,7 @@ You must be very clear with your coach on instructing him from the beginning,
 
 Don't assume that you’re a regular player or want a regular sportsperson of archery.
 
-It should be made clear that you need an introduction to the detailed rules and the equipment of the sport before blindly beginning to shoot arrows.
+It should be made clear that you need an introduction to the detailed rules and [the equipment of the sport](https://www.archery360.com/2016/11/21/gear-up-6-essentials-for-beginning-archers/) before blindly beginning to shoot arrows.
 
 Most clubs provide equipment for free for newer members which seem fascinating but know your equipment before getting it for free.
 
@@ -255,7 +255,7 @@ If you’re using the wrong equipment rather you’re unaware of the equipment t
 
 You need the right equipment not only to make the right aim but also to stay positive about the training that you’re so passionately doing.
 
-If you’re a beginner the right equipment for you is a specialized beginner’s kit that will include right-sized bow and aim to suit you on your initial shots?
+If you’re a beginner [the right equipment for you](https://www.thelongbowshop.com/pages/a-beginners-guide-to-archery) is a specialized beginner’s kit that will include right-sized bow and aim to suit you on your initial shots?
 
 Getting an experienced player’s kit just in the hope of making flawless aim in your initial training will miserably disappoint you and in such cases.
 

@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41rceCvj1rL._SL500_.jpg"
     description: "Trophy Ridge is one of the leading brands in making archery accessories."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "5 Fiber Optic Pins"
+      - "Aluminum Frame"
+      - "Ambidextrous Mount"
+      - "Ballistix Coating"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Five bright .019 fiber optic pins for clear aiming at multiple distances"
+      - "Lightweight aluminum frame with corrosion-resistant finish"
+      - "Reversible mount design works for left or right-handed bows"
+      - "Soft Ballistix coating reduces vibration while aiming"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Fixed pin sight requires pre-setting each distance before hunting"
+      - ".019 pins can feel cluttered for archers who prefer a cleaner view"
     ctaUrl: "https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20"
   - name: "CBE Engage Hybrid Bow Sight 3 Pin RH .010"
     rank: 2
@@ -76,17 +77,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41I7l4fjyJL._SL500_.jpg"
     description: "This hunting sight is produced by a USA company, CBE-Custom Bow Equipment which has the vision to manufacture durable and accurate-shooting archery accessories."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Dovetail Mount"
+      - "Hybrid 3-Pin"
+      - "Rapid Drive"
+      - "Armed Guard Fiber"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Dovetail mounting system creates a rock-solid stable connection"
+      - "Micro-adjustable pins with hex screws for frustration-free tuning"
+      - "Rapid drive elevation gives 1.5 inches of travel per turn"
+      - "Armed Guard Fiber Management protects fibers from block to pin"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Right-hand only model, no left-hand version available"
+      - "Higher price than most 3-pin sights on the market"
     ctaUrl: "https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20"
   - name: "Bow sight Define Range Finding 5 Pin"
     rank: 3
@@ -95,17 +97,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41kMnWU4GtL._SL500_.jpg"
     description: "IQ Bowsight which was introduced in 2010 is the manufacturer of this bow sight."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Built-In Rangefinder"
+      - "OLED Display"
+      - "99-Yard Range"
+      - "Dual Mount"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Built-in rangefinder displays true angle-compensated yardage to 99 yards"
+      - "OLED display with 4 brightness settings is easy to read"
+      - "Tool-free locking knobs for quick windage and elevation adjustments"
+      - "Dual mounting system works for both left and right-handed archers"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Requires a CR2 battery that needs periodic replacement"
+      - "Heavier than standard pin sights due to the built-in electronics"
     ctaUrl: "https://www.amazon.com/dp/B07CLQDTTZ?tag=thearcheryexpert-20"
   - name: "AccuTouch Carbon Pro Sight"
     rank: 4
@@ -114,17 +117,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31Vo-rF5QWL._SL500_.jpg"
     description: "Axcel Sights or T.R.U Ball Releases together have produced this bow sight which depicts its great expertise in making this product."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Carbon Construction"
+      - "Accu-Click Tech"
+      - "Single Pin Slider"
+      - "3-Axis Adjustment"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Carbon construction is ultra-lightweight yet stiff and strong"
+      - "Accu-Click technology auto-stops slider at your preset yardages"
+      - "Single pin slider gives a clean, uncluttered sight picture"
+      - "1st, 2nd, and 3rd axis adjustments need no washers or tools"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Premium price makes this one of the most expensive sights listed"
+      - "Single pin requires dialing before each shot at varying distances"
     ctaUrl: "https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20"
   - name: "Range-Rover Pro LED Bow Sight"
     rank: 5
@@ -133,17 +137,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg"
     description: "This 2-dot style Range-Rover Pro sight is produced by TRUGLO Company which beliefs in supporting the hunting community by providing advanced and innovative archery accessories."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "CNC Machined"
+      - "LED Powered"
+      - "80+ Yardage Tapes"
+      - "Tool-Free Adjust"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "CNC machined construction ensures precision and durability"
+      - "11 brightness settings for red and green LED aiming dots"
+      - "Over 80 pre-marked yardage tapes for quick zero-in setup"
+      - "Tool-free windage and yardage adjustments save time in the field"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Lens is sold separately and must be purchased on its own"
+      - "2-dot aiming style has a learning curve compared to pin sights"
     ctaUrl: "https://www.amazon.com/dp/B07JPCZZHM?tag=thearcheryexpert-20"
   - name: "Oracle Rangefinder Bow Sight"
     rank: 6
@@ -152,17 +157,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51IIO6Bqf7L._SL500_.jpg"
     description: "This bow sight is manufactured by Burris Optics that is famous and is a trusted supplier for binoculars, scopes, and reticles for all hunting and shooting needs."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Laser Rangefinder"
+      - "No Guessing"
+      - "Aluminum Build"
+      - "2 Arrow Profiles"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Built-in laser rangefinder eliminates guessing distance entirely"
+      - "Shows the exact aiming point so there is no gap between pins"
+      - "Aluminum body is scratch-free, lightweight, and corrosion-resistant"
+      - "Learns two different arrow configurations for versatile setups"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Weighs 17 oz, which is heavier than most standard bow sights"
+      - "CR123 battery runs down faster with frequent rangefinder use"
     ctaUrl: "https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20"
   - name: "React Pro Sight"
     rank: 7
@@ -171,17 +177,18 @@ products:
     image: "https://m.media-amazon.com/images/I/514oaF5HqmL._SL500_.jpg"
     description: "This Pro Sight is made by Trophy Ridge, a famous company for making archery sights, rests, and quivers."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "React Technology"
+      - "Auto Pin Adjust"
+      - "Rheostat Light"
+      - "3rd Axis Ready"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Patented React Technology auto-adjusts all 5 pins mathematically"
+      - "Tool-less micro-click windage and elevation adjustments"
+      - "Rheostat light adapts to any visibility condition"
+      - "Third axis adjustment maintains accuracy at steep angles"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Left-hand version only comes in .019 pin size"
+      - "React system needs careful initial calibration to work properly"
     ctaUrl: "https://www.amazon.com/dp/B00OJM8732?tag=thearcheryexpert-20"
   - name: "TOPOINT ARCHERY 3 Pin Bow Sight"
     rank: 8
@@ -190,17 +197,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41mmsP7iuPL._SL500_.jpg"
     description: "This three-pin bow sight is manufactured by Topoint Archery, a Chinese Company."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "3 Fiber Optic Pins"
+      - "Budget Aluminum"
+      - "Ambidextrous"
+      - ".029 Pin Size"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Three color-coded fiber optic pins for quick target acquisition"
+      - "Aluminum frame is lightweight, corrosion-resistant, and economical"
+      - "Adjustable for both left and right-handed shooters"
+      - "Elevation and windage adjustments are straightforward to dial in"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Larger .029 pin size can obscure small targets at longer range"
+      - "Fewer features than mid-range sights at a similar price point"
     ctaUrl: "https://www.amazon.com/dp/B00G6M5MBI?tag=thearcheryexpert-20"
   - name: "Define Pro 7-Pin Bow Range Finding Sight"
     rank: 9
@@ -209,17 +217,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg"
     description: "This 7-pin bow sight is manufactured by “IQ Bowsight” just like the 5-pin Range Finding Sight."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Retina Lock Tech"
+      - "7 Fiber Optic Pins"
+      - "Magnesium Frame"
+      - "150-Yard Range"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Retina Lock Technology detects even the slightest anchor point change"
+      - "Seven .019 fiber optic pins boost brightness by 30%"
+      - "Magnesium frame is the lightest structural metal available"
+      - "Range finding unit displays distance up to 150 yards"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Seven pins create a crowded sight picture for some archers"
+      - "OLED display and rangefinder add complexity for beginners"
     ctaUrl: "https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20"
   - name: "RDS-22 Micro Red Dot Sight"
     rank: 10
@@ -228,17 +237,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41PZG9fFkFL._SL500_.jpg"
     description: "This product is supplied by Feyachi that is committed to providing reliable products to its customers."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Red Dot Optic"
+      - "4 MOA Dot"
+      - "Compact Design"
+      - "Multi-Platform"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Red dot optic offers fast target acquisition with both eyes open"
+      - "Compact and lightweight design doesn't add bulk to your bow"
+      - "Works on multiple platforms beyond just archery"
+      - "Affordable entry point into red dot sighting systems"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Not a traditional archery sight so it takes time to adapt"
+      - "Battery-powered dot can wash out in very bright sunlight"
     ctaUrl: "https://www.amazon.com/dp/B07R7SHGJ6?tag=thearcheryexpert-20"
 ---
 
@@ -366,10 +376,10 @@ These accessories are very beneficial for archers so do read these reviews on ar
 </div>
 <p class="product-card-desc">Trophy Ridge is one of the leading brands in making archery accessories. In 2001, Bear Archery declared the acquisition of the assets of Trophy Ridge so now it's owned by the former one. The material used by the manufacturer is Aluminum which gives several advantages to the bowmen.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">5 Fiber Optic Pins</span>
+<span class="highlight-tag">Aluminum Frame</span>
+<span class="highlight-tag">Ambidextrous Mount</span>
+<span class="highlight-tag">Ballistix Coating</span>
 </div>
 <a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -397,8 +407,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Fixed pin sight requires pre-setting each distance before hunting</li>
+<li>.019 pins can feel cluttered for archers who prefer a cleaner view</li>
 </ul>
 </div>
 </div>
@@ -446,10 +456,10 @@ It comes with black color and has dimensions of 9 x 4 x 9 inches.
 </div>
 <p class="product-card-desc">This hunting sight is produced by a USA company, CBE-Custom Bow Equipment which has the vision to manufacture durable and accurate-shooting archery accessories. CBE also provides replacement or repair of bow sights. This bow sight has a dovetail mounting system i.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Dovetail Mount</span>
+<span class="highlight-tag">Hybrid 3-Pin</span>
+<span class="highlight-tag">Rapid Drive</span>
+<span class="highlight-tag">Armed Guard Fiber</span>
 </div>
 <a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -476,8 +486,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Right-hand only model, no left-hand version available</li>
+<li>Higher price than most 3-pin sights on the market</li>
 </ul>
 </div>
 </div>
@@ -517,10 +527,10 @@ It weighs 14.4 ounces and has dimensions of 10 x 4.2 x 3 inches.
 </div>
 <p class="product-card-desc">IQ Bowsight which was introduced in 2010 is the manufacturer of this bow sight. IQ Bowsight immediately grabbed people’s attention and quickly became one of the world’s most precise archery sighting systems.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Built-In Rangefinder</span>
+<span class="highlight-tag">OLED Display</span>
+<span class="highlight-tag">99-Yard Range</span>
+<span class="highlight-tag">Dual Mount</span>
 </div>
 <a href="https://www.amazon.com/dp/B07CLQDTTZ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -548,8 +558,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Requires a CR2 battery that needs periodic replacement</li>
+<li>Heavier than standard pin sights due to the built-in electronics</li>
 </ul>
 </div>
 </div>
@@ -593,10 +603,10 @@ This bow sight runs by a CR2 battery and has a dual mounting system, therefore, 
 </div>
 <p class="product-card-desc">Axcel Sights or T.R.U Ball Releases together have produced this bow sight which depicts its great expertise in making this product. The company has a goal to provide archery accessories all over the world and it doesn’t compromise in its quality.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Carbon Construction</span>
+<span class="highlight-tag">Accu-Click Tech</span>
+<span class="highlight-tag">Single Pin Slider</span>
+<span class="highlight-tag">3-Axis Adjustment</span>
 </div>
 <a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -624,8 +634,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Premium price makes this one of the most expensive sights listed</li>
+<li>Single pin requires dialing before each shot at varying distances</li>
 </ul>
 </div>
 </div>
@@ -673,10 +683,10 @@ The Axcel Company has designed it with a composite carbon technology which makes
 </div>
 <p class="product-card-desc">This 2-dot style Range-Rover Pro sight is produced by TRUGLO Company which beliefs in supporting the hunting community by providing advanced and innovative archery accessories.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">CNC Machined</span>
+<span class="highlight-tag">LED Powered</span>
+<span class="highlight-tag">80+ Yardage Tapes</span>
+<span class="highlight-tag">Tool-Free Adjust</span>
 </div>
 <a href="https://www.amazon.com/dp/B07JPCZZHM?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -704,8 +714,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Lens is sold separately and must be purchased on its own</li>
+<li>2-dot aiming style has a learning curve compared to pin sights</li>
 </ul>
 </div>
 </div>
@@ -759,10 +769,10 @@ The 1-dot style has dimensions of 10 x 10.2 x 4 inches and the 2-dot style has d
 </div>
 <p class="product-card-desc">This bow sight is manufactured by Burris Optics that's famous and is a trusted supplier for binoculars, scopes, and reticles for all hunting and shooting needs.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Laser Rangefinder</span>
+<span class="highlight-tag">No Guessing</span>
+<span class="highlight-tag">Aluminum Build</span>
+<span class="highlight-tag">2 Arrow Profiles</span>
 </div>
 <a href="https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -790,8 +800,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Weighs 17 oz, which is heavier than most standard bow sights</li>
+<li>CR123 battery runs down faster with frequent rangefinder use</li>
 </ul>
 </div>
 </div>
@@ -833,10 +843,10 @@ This scope weighs 17 ounces and is powered by a CR123 battery.
 </div>
 <p class="product-card-desc">This Pro Sight is made by Trophy Ridge, a famous company for making archery sights, rests, and quivers. The feedstock used for this material is Aluminum which makes it durable and lightweight. Aluminum also makes the bow sight impermeable that even with 0.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">React Technology</span>
+<span class="highlight-tag">Auto Pin Adjust</span>
+<span class="highlight-tag">Rheostat Light</span>
+<span class="highlight-tag">3rd Axis Ready</span>
 </div>
 <a href="https://www.amazon.com/dp/B00OJM8732?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -863,8 +873,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Left-hand version only comes in .019 pin size</li>
+<li>React system needs careful initial calibration to work properly</li>
 </ul>
 </div>
 </div>
@@ -908,10 +918,10 @@ The product comes with black color and its dimensions are 5 x 8 x 0.75 inches.
 </div>
 <p class="product-card-desc">This three-pin bow sight is manufactured by Topoint Archery, a Chinese Company. Topoint Archery has used Aluminum to manufacture this bow sight which gives several advantages to the user. Aluminum makes the bow sight lightweight while being durable. The bow sight becomes stainless as Aluminum makes it corrosion-resistant.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">3 Fiber Optic Pins</span>
+<span class="highlight-tag">Budget Aluminum</span>
+<span class="highlight-tag">Ambidextrous</span>
+<span class="highlight-tag">.029 Pin Size</span>
 </div>
 <a href="https://www.amazon.com/dp/B00G6M5MBI?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -939,8 +949,7 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+SCCONS
 </ul>
 </div>
 </div>
@@ -980,10 +989,10 @@ The sight can be adjusted for both left and right-handed users.
 </div>
 <p class="product-card-desc">This 7-pin bow sight is manufactured by “IQ Bowsight” just like the 5-pin Range Finding Sight. This bow sight possesses the new Retina Lock Technology that controls the muscle memory and consistency and allows us to shoot at longer distances while also showing the slightest anchor point change.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Retina Lock Tech</span>
+<span class="highlight-tag">7 Fiber Optic Pins</span>
+<span class="highlight-tag">Magnesium Frame</span>
+<span class="highlight-tag">150-Yard Range</span>
 </div>
 <a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1011,8 +1020,7 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+SCCONS
 </ul>
 </div>
 </div>
@@ -1064,10 +1072,10 @@ Yardage displayed is always horizontal distance and it also has a built-in angle
 </div>
 <p class="product-card-desc">This product is supplied by Feyachi that's committed to providing reliable products to its customers. This RDS-22 model comes with two MOA-Minute of Angle i.e. a term denoting the accuracy of the scope, red dot sights that can be used for both-eyes-open shooting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Red Dot Optic</span>
+<span class="highlight-tag">4 MOA Dot</span>
+<span class="highlight-tag">Compact Design</span>
+<span class="highlight-tag">Multi-Platform</span>
 </div>
 <a href="https://www.amazon.com/dp/B07R7SHGJ6?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1095,8 +1103,7 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+SCCONS
 </ul>
 </div>
 </div>

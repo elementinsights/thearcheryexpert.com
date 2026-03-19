@@ -86,7 +86,7 @@ products:
   <div class="trust-item"><span class="trust-icon">⭐</span> Expert Reviewed</div>
 </div>
 
-The Diamond Archery Infinite Edge Pro is a bow that's manufactured in a way that's suitable for both beginner and intermediate users.
+[The Diamond Archery Infinite Edge Pro](https://diamondarchery.com/bows/infinite-edge-pro-2/) is a bow that's manufactured in a way that's suitable for both beginner and intermediate users.
 
 Diamond Archery was created by a bow manufacturer that made it especially for competition, recreation, and hunting purposes.
 

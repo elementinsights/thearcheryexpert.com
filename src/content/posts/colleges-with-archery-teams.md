@@ -65,7 +65,7 @@ The USCA also promotes many archery disciplines that include Olympic Recurve, Co
 
 Without further ado, let's talk about the top ten college archery teams that are absolutely killing it with their performance.
 
-## 1. Union College
+## 1. [Union College](http://www.gounionbulldogs.com/sport/0/32)
 
 In 2018, the Bulldogs were runners-up in the Indoor National Championship.
 
@@ -85,7 +85,7 @@ He registered a score of 147 in the quarterfinal and the semifinal round to prog
 
 In the finals, Smith defeated Eli Bond of Southeastern Illinois College 149-148 and got the gold medal in his name.
 
-Haley Golden and Dakota Smith teamed up for the mixed Bowhunter championship, defeating the University of the Cumberlands (Ky.) 159-157 and got the gold medal.
+Haley Golden and Dakota Smith teamed up for the mixed Bowhunter championship, defeating the [University of the Cumberlands](https://cumberlandspatriots.com/sports/arch) (Ky.) 159-157 and got the gold medal.
 
 In the women's compound division, Jamilee Moore (FR / Mathews, N.C.) of Union College and Jodi Hicks (SR / Gosport, IND.) competed to decide the championship round.
 
@@ -105,9 +105,9 @@ Johnathan Stanley of Union College was the single Bulldog who secured a bronze m
 
 The Union College Bulldogs' other bronze came in the mixed compound team.
 
-After this first leg of the conference competition, Union College stands third in the ranks behind the University of the Cumberlands (Ky.) and Lindsey Wilson College (Ky.).
+After this first leg of the conference competition, Union College stands third in the ranks behind the University of the Cumberlands (Ky.) and [Lindsey Wilson College](http://www.lindseyathletics.com/sport/0/41.php) (Ky.).
 
-## 2. Mount Marty College
+## 2. [Mount Marty College](https://www.mountmarty.edu/)
 
 The Mount Marty College archery team performed well, and it scored the USCA Indoor National Championship on the strength of three gold medals in 2026.
 
@@ -123,7 +123,7 @@ In the women's Recurve competition, McKenna Cooley qualified for the quarterfina
 
 She registered a score of 84 in the semifinal round to progress into the championship round.
 
-In the finals, McKenna Cooley defeated MOROZKO of the University of California, Irvine, by 133-113 scores, and got the gold medal.
+In the finals, McKenna Cooley defeated MOROZKO of the [University of California, Irvine](https://www.campusrec.uci.edu/club/archery.asp), by 133-113 scores, and got the gold medal.
 
 Brianna Notebaert and Sapp teamed up for the mixed Recurve competition, defeating the rival from the Union College 155-153 and got the gold medal.
 
@@ -143,7 +143,7 @@ In addition to the personal medal, Carson Sapp played a very good role by making
 
 The team included the captain, freshman compound archer Daniel Carlton (FR/Plattsburg, MO), and freshman Olympic Recurve archer Lindsey Bouffard (FR/Concord, NH).
 
-## 3. University of Pikeville
+## 3. [University of Pikeville](https://www.upike.edu/)
 
 The University of Pikeville archery team performed well, and it scored the USCA Indoor National Championship on the strength of two gold medals in 2026.
 
@@ -197,7 +197,7 @@ In the Compound Women Team finals, CURRIE Tara, MILLER Brooke, and RAYBURN Saman
 
 In the Compound Mixed Team finals, CURRIE Tara and ISENHOFF Josh of the University of the Cumberlands defeated the Union College team with 152-151 scores and garnered the gold medal in their names.
 
-## 5. Kentucky Christian University
+## 5. [Kentucky Christian University](http://www.kcuknights.com/archive/0/12)
 
 The Kentucky Christian University Archery performed well, and it scored the NAIA Mid-South Conference Archery Championship on the strength of four gold medals in 2018.
 
@@ -231,7 +231,7 @@ In the Compound Men Team finals, HINES Dakota, WILHELM Nate, and WILLIAMSON Aust
 
 In the Compound Mixed Team finals, HINES Dakota and TOMPKINS MacKenzie remained runner up from the University of the Cumberlands team with 146-150 scores and garnered the silver medal in their names.
 
-## 6. Hocking College
+## 6. [Hocking College](https://hocking.prestosports.com/sports/archery/2017-18/releases/0518_-_Archery_Takes_Third)
 
 The Hocking College archery team performed well, and it scored the USCA Intercollegiate Indoor Archery Championships on the strength of one gold medal in 2018.
 
@@ -281,7 +281,7 @@ After that, she recorded scores of 75 in a quarterfinal, 88 in the semifinal, an
 
 In the finals of the Recurve Women's competition, CASSIDY Kirsten defeated the AGNEW Katherine of Liberty University and garnered the bronze medal in her name.
 
-## 8. Golden West College
+## 8. [Golden West College](https://prod.goldenwestcollege.edu/)
 
 The Golden West College archery team performed well, and it scored the US Intercollegiate 3D Archery Championships on the strength of three gold medals in 2017.
 
@@ -339,7 +339,7 @@ In the Mixed Compound Team Bracket, Lindsey Wilson College defeated the Universi
 
 In the Mixed Recurve Team Bracket, Women's Recurve Team Bracket, and Men's Recurve Team Bracket, Blue Raiders also remained prominent with gold medals.
 
-## 10. Dine College
+## 10. [Dine College](http://hooghan.dinecollege.edu/gowarriors/archery/roster.php)
 
 Dine College Warriors remained dominant in the West Region Intercollegiate Archery Championship in 2018 held at Fountain Valley USA.
 

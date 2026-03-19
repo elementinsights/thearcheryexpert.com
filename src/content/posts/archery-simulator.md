@@ -65,7 +65,7 @@ All this can be done without being exposed to the outside environment or any har
 
 This technique is used for various experimental and training purposes because it provides a rather realistic approach than theoretical studies.
 
-## The History of Archery
+## [The History of Archery](https://en.wikipedia.org/wiki/Archery)
 
 The oldest tales of bows and arrows came from the continent of Africa, where its remains were found by archeologists.
 
@@ -81,7 +81,7 @@ Through contact with Europeans, archery came into America.
 
 Then, it evolved highly in Asia too.
 
-Archery is a sport that involves shooting arrows with the help of a bow at a target.
+Archery is a sport that [involves shooting arrows](https://www.archerymalta.com/what-is-archery/) with the help of a bow at a target.
 
 This sport had a major decline in the past, but it regained popularity back from the late 18th century.
 
@@ -165,7 +165,7 @@ Various designs of archery simulators have been made to practice this sport at h
 
 ## What Is An Archery Simulator?
 
-Now, the Archery simulator is a machine/program which is designed to provide a simulation or imitation of the process of archery.
+Now, the Archery simulator [is a machine/program](https://www.pcmag.com/news/all-the-fun-none-of-the-sharp-arrows-project-aero-brings-vr-to-archery) which is designed to provide a simulation or imitation of the process of archery.
 
 You can also view this as creating a virtual version of archery shooting.
 

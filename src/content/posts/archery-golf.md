@@ -83,7 +83,7 @@ However, you can use the equipment that the golf course club will give you befor
 
 ## Equipment You Need In Archery Golf
 
-Here are some of the tools that you need while playing archery golf:
+Here are some of the [tools that you need](https://www.archerygolfwi.com/equipment.html) while playing archery golf:
 
 Bows and arrows are the primary tools for playing archery golf and you don't want to go wrong in the one that you select.
 
@@ -99,7 +99,7 @@ Bows and arrows are the primary tools for playing archery golf and you don't wan
 
 ## Choosing The Right Bow
 
-Different archery shops will have a variety of bows, all with separate price tags, and knowing the best one to buy can be overwhelming.
+Different archery shops will have a [variety of bows](https://www.themeateater.com/hunt/gear-hunt/archery-101-how-to-choose-a-bow), all with separate price tags, and knowing the best one to buy can be overwhelming.
 
 Here you'll be shooting different bows for some time to allow you to access the quality, comfortability of the grip, and valley of the bow.
 
@@ -137,7 +137,7 @@ Some of the most important factors to consider include:
 
 The spine, which is the most crucial feature to look at when choosing an arrow shows the stiffness in a bolt
 
-The two major spine measurements are the static spine and dynamic spine.
+The two major spine measurements are the [static spine and dynamic spine.](https://shootingtime.com/archery/arrow-spine/#:~:text=dynamic%20arrow%20spine-,Static%20arrow%20spine,do%20not%20come%20into%20play.)
 
 You need to take the time to choose the right spine size depending on the bow and arrow you're using.
 
@@ -165,13 +165,13 @@ You may be having all the accessories and equipment you need to play archery gol
 
 In the golf course area, there are 18 targets, and the equipment that you need is one bow and several arrows whose tip should have a diameter of fewer than 0.5 inches.
 
-The only time one can use another bow is when the first bow fails, and you cant use crossbows while playing.
+The only time one can use another bow is when the first bow fails, and you [cant use crossbows](https://en.wikipedia.org/wiki/Crossbow) while playing.
 
 Here are more rules that come with archery golf:
 
 The number of archers per group should be more than three but not go beyond six
 
-An archer will only tee off when the previous group completes its turn and moves away from the course, and a flag is necessary in the range to warn on the shots taking place
+An archer will [only tee off when](https://www.archerygolfwi.com/rules-of-the-game.html) the previous group completes its turn and moves away from the course, and a flag is necessary in the range to warn on the shots taking place
 
 In case of a tee-off shot, one can make it from a realistic point at a line that's imaginary and perpendicular to the tee that runs across the tee off yardage marker
 

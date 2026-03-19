@@ -57,17 +57,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31tf7XICbbL._SL500_.jpg"
     description: "This archery manufacturer has a large presence in archery equipment."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Ages 7 and Up"
+      - "Bear Archery Brand"
+      - "Complete Starter Kit"
+      - "Ambidextrous Design"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Trusted Bear Archery brand with decades of youth archery experience"
+      - "Complete kit includes bow, arrows, quiver, and arm guard"
+      - "Ambidextrous design works for both left and right-handed kids"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Draw weight is too low for older teens or adults"
+      - "Included arrows are basic and may bend with heavy use"
     ctaUrl: "https://www.amazon.com/dp/B00OYIT07S?tag=thearcheryexpert-20"
   - name: "Dude Perfect Signature Bow"
     rank: 2
@@ -76,17 +76,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41honQ65YvL._SL500_.jpg"
     description: "The Dude Perfect Signature Bow is the biggest nerf bow at 122 centimeters long."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "122cm Nerf Bow"
+      - "Foam Arrows"
+      - "Indoor Safe"
+      - "Trick Shot Fun"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Massive 122cm size makes it the biggest Nerf bow for maximum fun"
+      - "Foam arrows are completely safe for indoor play"
+      - "Dude Perfect branding appeals to kids who love trick shots"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Foam arrows don't fly like real arrows, so it won't teach proper form"
+      - "Not a real archery bow, strictly a toy for entertainment"
     ctaUrl: "https://www.amazon.com/dp/B01MUHDRZY?tag=thearcheryexpert-20"
   - name: "Genesis Original Kit"
     rank: 3
@@ -95,17 +95,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31ZTWO7x1-L._SL500_.jpg"
     description: "This Bow is used to teach archery in archery courses."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "NASP Official Bow"
+      - "Zero Let-Off Cam"
+      - "No Draw Length Adjust"
+      - "School Program Standard"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Official bow of the National Archery in the Schools Program (NASP)"
+      - "Zero let-off cam system means no specific draw length is required"
+      - "Used in school archery programs across the country"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Higher price than basic youth toy bows on this list"
+      - "Compound design may be heavier than expected for very young kids"
     ctaUrl: "https://www.amazon.com/dp/B002KMNWTC?tag=thearcheryexpert-20"
   - name: "CenterPoint Archery ABY215 Sentinel Youth Recurve Bow, Right Hand"
     rank: 4
@@ -114,17 +114,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41DEwiCIphL._SL500_.jpg"
     description: "This product is for right-handed shooters only it's Integrated design allows for optimum hand placement."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Youth Recurve"
+      - "Integrated Grip"
+      - "Right Hand Only"
+      - "15 lb Draw Weight"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Integrated riser design ensures proper hand placement for beginners"
+      - "Recurve style teaches proper traditional archery form from the start"
+      - "15-pound draw weight is manageable for most youth archers"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Right-hand only, so left-handed kids can't use it"
+      - "Basic construction without many upgrade options"
     ctaUrl: "https://www.amazon.com/dp/B001PO5QVS?tag=thearcheryexpert-20"
   - name: "Youth Wooden Bow and Arrows"
     rank: 5
@@ -133,17 +133,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "Youth Wooden Bow and Arrows with Quiver is made from solid wood."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Solid Wood Build"
+      - "Includes Quiver"
+      - "Traditional Feel"
+      - "Handcrafted Look"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Solid wood construction gives an authentic, traditional archery feel"
+      - "Comes with a matching quiver for a complete package"
+      - "Handcrafted look makes it a great display piece or gift"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Wood arrows can splinter with repeated impact"
+      - "Low draw weight limits it to very close-range backyard fun"
     ctaUrl: "https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20"
   - name: "Kiddie Play Bow and Arrow"
     rank: 6
@@ -152,17 +152,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg"
     description: "This Kiddie Bow and Arrow Archery Set come with a target attached to a stable stand."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Target Included"
+      - "Suction Cup Arrows"
+      - "Stable Target Stand"
+      - "Ages 3 and Up"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Includes a target with a stable stand so you're ready to play right away"
+      - "Suction cup arrows are safe for very young children"
+      - "Designed for ages 3 and up to introduce archery concepts early"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Strictly a toy and won't develop real archery skills"
+      - "Suction cups lose sticking power quickly with use"
     ctaUrl: "https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20"
   - name: "Marky Sparky Faux Bow Pro"
     rank: 7
@@ -171,17 +171,17 @@ products:
     image: "https://m.media-amazon.com/images/I/31+eu4aDdbL._SL500_.jpg"
     description: "This product comes with oversized arrows and is ultra-lightweight providing safety, without compromising distance power and fun."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Oversized Foam Arrows"
+      - "Ultra Lightweight"
+      - "Shoots 200+ Feet"
+      - "Safe for All Ages"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Oversized foam arrows fly straight and can't cause injury"
+      - "Ultra-lightweight design is easy for any age to handle"
+      - "Impressive range of over 200 feet for outdoor fun"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Foam arrows don't simulate real arrow flight or weight"
+      - "Wind can easily blow lightweight foam arrows off course"
     ctaUrl: "https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20"
   - name: "DOSTYLE Bow and Arrow Set"
     rank: 8
@@ -190,17 +190,17 @@ products:
     image: "https://m.media-amazon.com/images/I/41YDGUAj31L._SL500_.jpg"
     description: "This product is lightweight and made from durable fiberglass material for easy take of kids."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Fiberglass Material"
+      - "Lightweight Frame"
+      - "Kids Friendly"
+      - "Durable Build"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Fiberglass construction is lightweight yet more durable than plastic"
+      - "Kid-friendly design makes it easy for small hands to grip and draw"
+      - "Stands up to the rough handling that kids put equipment through"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Low draw weight keeps it in the toy category"
+      - "Arrows included are very basic and can bend easily"
     ctaUrl: "https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20"
   - name: "Click N' Play Bow & Arrow Archery Set"
     rank: 9
@@ -209,17 +209,17 @@ products:
     image: "https://m.media-amazon.com/images/I/5151gpoMYML._SL500_.jpg"
     description: "Click N' Play Light Up Bow & Arrow Archery Set is another market-leading brand, introducing three arrows with suction cups bow sets for beginners, kids, and adults."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "LED Light-Up"
+      - "3 Suction Arrows"
+      - "Indoor/Outdoor"
+      - "Eye-Catching Design"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "LED light-up feature makes it exciting and fun for kids"
+      - "Suction cup arrows work for both indoor and outdoor play"
+      - "Eye-catching design keeps children engaged and entertained"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Batteries required for the LED light feature"
+      - "Suction cups don't stick well to all surfaces"
     ctaUrl: "https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20"
   - name: "Genesis Mini Kit"
     rank: 10
@@ -228,17 +228,17 @@ products:
     image: "https://m.media-amazon.com/images/I/315v+BCSB3L._SL500_.jpg"
     description: "Genesis Mini compound bows are a great product for younger kids."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Smaller Than Original"
+      - "Fits Young Kids"
+      - "Compound Bow Style"
+      - "NASP Approved"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Scaled-down version of the Genesis Original designed for younger kids"
+      - "Compound bow style introduces kids to modern archery mechanics"
+      - "NASP-approved for school and youth program use"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Kids will outgrow it faster than the full-size Genesis Original"
+      - "Still relatively pricey for a youth compound bow"
     ctaUrl: "https://www.amazon.com/dp/B0042J5QGI?tag=thearcheryexpert-20"
 ---
 
@@ -362,10 +362,10 @@ We've included models that are ideal for kids just beginning the game and option
 </div>
 <p class="product-card-desc">This archery manufacturer has a large presence in archery equipment. This Bear Archery Brave Bow Set is perfect for young adults over seven years old. This product's size is 27 x 11 x 3.1 inches, and its weight is 3.3 pounds.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Ages 7 and Up</span>
+<span class="highlight-tag">Bear Archery Brand</span>
+<span class="highlight-tag">Complete Starter Kit</span>
+<span class="highlight-tag">Ambidextrous Design</span>
 </div>
 <a href="https://www.amazon.com/dp/B00OYIT07S?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -391,8 +391,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Draw weight is too low for older teens or adults</li>
+<li>Included arrows are basic and may bend with heavy use</li>
 </ul>
 </div>
 </div>
@@ -442,10 +442,10 @@ This kit contains Whisker Biscuit, 1-pin sight, finger rollers, armguard, arrow 
 </div>
 <p class="product-card-desc">The Dude Perfect Signature Bow is the biggest nerf bow at 122 centimeters long. The Nerf Sports Dude Perfect Signature Bow can fire up to 32 meters.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">122cm Nerf Bow</span>
+<span class="highlight-tag">Foam Arrows</span>
+<span class="highlight-tag">Indoor Safe</span>
+<span class="highlight-tag">Trick Shot Fun</span>
 </div>
 <a href="https://www.amazon.com/dp/B01MUHDRZY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -471,8 +471,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Foam arrows don't fly like real arrows, so it won't teach proper form</li>
+<li>Not a real archery bow, strictly a toy for entertainment</li>
 </ul>
 </div>
 </div>
@@ -526,10 +526,10 @@ This kit contains a bow, two arrows, target (2 pieces), pole (5 pieces), Instruc
 </div>
 <p class="product-card-desc">This Bow is used to teach archery in archery courses. This is a great starter bow for archers of all ages and athletic abilities. It includes a machined aluminum riser, cam and idler wheel, and sturdy composite limbs. This kit comes with high-strength bowstrings.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">NASP Official Bow</span>
+<span class="highlight-tag">Zero Let-Off Cam</span>
+<span class="highlight-tag">No Draw Length Adjust</span>
+<span class="highlight-tag">School Program Standard</span>
 </div>
 <a href="https://www.amazon.com/dp/B002KMNWTC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -556,8 +556,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Higher price than basic youth toy bows on this list</li>
+<li>Compound design may be heavier than expected for very young kids</li>
 </ul>
 </div>
 </div>
@@ -611,10 +611,10 @@ This kit contains Bow, five aluminum arrows, adjustable arm guard, belt tube qui
 </div>
 <p class="product-card-desc">This product is for right-handed shooters only it's Integrated design allows for optimum hand placement. Its longer limbs are designed for improved balance. This product is excellent for beginners. Its build quality allows you to use the same bow set for years.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Youth Recurve</span>
+<span class="highlight-tag">Integrated Grip</span>
+<span class="highlight-tag">Right Hand Only</span>
+<span class="highlight-tag">15 lb Draw Weight</span>
 </div>
 <a href="https://www.amazon.com/dp/B001PO5QVS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -640,8 +640,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Right-hand only, so left-handed kids can't use it</li>
+<li>Basic construction without many upgrade options</li>
 </ul>
 </div>
 </div>
@@ -689,10 +689,10 @@ This kit contains the bow, two-piece quiver, finger tab, two composite youth arr
 </div>
 <p class="product-card-desc">Youth Wooden Bow and Arrows with Quiver is made from solid wood. This set is great for a youth wanting to learn archery. Please note that this doesn't function as a real bow. This is a toy and isn't meant for serious archers.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Solid Wood Build</span>
+<span class="highlight-tag">Includes Quiver</span>
+<span class="highlight-tag">Traditional Feel</span>
+<span class="highlight-tag">Handcrafted Look</span>
 </div>
 <a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -718,8 +718,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Wood arrows can splinter with repeated impact</li>
+<li>Low draw weight limits it to very close-range backyard fun</li>
 </ul>
 </div>
 </div>
@@ -763,10 +763,10 @@ This kit contains a bow, quiver, three arrows with rubber tips.
 </div>
 <p class="product-card-desc">This Kiddie Bow and Arrow Archery Set come with a target attached to a stable stand. You can also use this target without the stand by attaching it to a wall or a tree. This set comes with three arrows that have strong suction cups to stick on the target.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Target Included</span>
+<span class="highlight-tag">Suction Cup Arrows</span>
+<span class="highlight-tag">Stable Target Stand</span>
+<span class="highlight-tag">Ages 3 and Up</span>
 </div>
 <a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -792,8 +792,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Strictly a toy and won't develop real archery skills</li>
+<li>Suction cups lose sticking power quickly with use</li>
 </ul>
 </div>
 </div>
@@ -839,10 +839,10 @@ This kit contains a bow, three arrows with strong suction cups, Target with a du
 </div>
 <p class="product-card-desc">This product comes with oversized arrows and is ultra-lightweight providing safety, without compromising distance power and fun. Marky Sparky Faux Bow Pro by Marky Sparky is an interesting hunting Archery Set for youth.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Oversized Foam Arrows</span>
+<span class="highlight-tag">Ultra Lightweight</span>
+<span class="highlight-tag">Shoots 200+ Feet</span>
+<span class="highlight-tag">Safe for All Ages</span>
 </div>
 <a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -868,8 +868,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Foam arrows don't simulate real arrow flight or weight</li>
+<li>Wind can easily blow lightweight foam arrows off course</li>
 </ul>
 </div>
 </div>
@@ -919,10 +919,10 @@ This kit contains Bow, Quiver Clip, 3 Arrows, Bowstring,
 </div>
 <p class="product-card-desc">This product is lightweight and made from durable fiberglass material for easy take of kids. If you're a beginner and looking for the best bow and arrow set, this is a great product. This arrow set has 5-16lb of draw weight and a 16-inch draw length.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Fiberglass Material</span>
+<span class="highlight-tag">Lightweight Frame</span>
+<span class="highlight-tag">Kids Friendly</span>
+<span class="highlight-tag">Durable Build</span>
 </div>
 <a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -948,8 +948,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Low draw weight keeps it in the toy category</li>
+<li>Arrows included are very basic and can bend easily</li>
 </ul>
 </div>
 </div>
@@ -991,10 +991,10 @@ This kit contains Bow, 4 Fiberglass Arrows, 5 x Archery Papers(40cmx40cm), Finge
 </div>
 <p class="product-card-desc">Click N' Play Light Up Bow & Arrow Archery Set is another market-leading brand, introducing three arrows with suction cups bow sets for beginners, kids, and adults. It comes up with three suction cup bows and arrows, a quiver, and a target.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">LED Light-Up</span>
+<span class="highlight-tag">3 Suction Arrows</span>
+<span class="highlight-tag">Indoor/Outdoor</span>
+<span class="highlight-tag">Eye-Catching Design</span>
 </div>
 <a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1020,8 +1020,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Batteries required for the LED light feature</li>
+<li>Suction cups don't stick well to all surfaces</li>
 </ul>
 </div>
 </div>
@@ -1073,10 +1073,10 @@ This kit contains 24 inch Bow, 3 x 16-inch arrows, Quiver, Target.
 </div>
 <p class="product-card-desc">Genesis Mini compound bows are a great product for younger kids. If your child is younger than eight years old and looking to get into this sport, this kit is an ideal bow for you.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Smaller Than Original</span>
+<span class="highlight-tag">Fits Young Kids</span>
+<span class="highlight-tag">Compound Bow Style</span>
+<span class="highlight-tag">NASP Approved</span>
 </div>
 <a href="https://www.amazon.com/dp/B0042J5QGI?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1102,8 +1102,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Kids will outgrow it faster than the full-size Genesis Original</li>
+<li>Still relatively pricey for a youth compound bow</li>
 </ul>
 </div>
 </div>

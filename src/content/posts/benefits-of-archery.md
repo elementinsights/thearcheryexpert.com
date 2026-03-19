@@ -103,7 +103,7 @@ That’s what hand-eye coordination means.
 
 When practicing archery, archers are required to have a high degree of hand-eye coordination.
 
-In order to shoot successfully, you’ll have to aim at the target with great precision.
+In order to shoot successfully, you’ll have to [aim at the target](https://www.thebodytraining.com/how-to-aim-in-archery/) with great precision.
 
 When you’re trying to aim at the target, your hands need to make fine and careful adjustments according to the information received by your eyes.
 
@@ -150,7 +150,7 @@ It’s not going to cause permanent damage to your muscles.
 
 Your body will then repair the damaged muscle fibers, making them bigger.
 
-This process is called muscular hypertrophy.
+This process is [called muscular hypertrophy](https://www.healthline.com/health/muscular-hypertrophy#how-to).
 
 By practicing archery, you’ll be able to put your muscles to work effectively.
 
@@ -165,7 +165,7 @@ For those who want a stronger body, you might want to give archery a try.
 
 The heart is a vital organ of your body, so its health shouldn't be neglected.
 
-Heart diseases like Coronary Artery Disease and heart failure may arise if you don’t take good care of your heart.
+Heart diseases like [Coronary Artery Disease](https://www.healthline.com/health/high-cholesterol/preventing-CAD) and [heart failure may arise](https://www.healthline.com/health/heart-failure#prevention) if you don’t take good care of your heart.
 
 Coronary artery disease (CAD) is the most common type of heart disease.
 
@@ -185,7 +185,7 @@ According to statistics, about 6.5 million American adults have heart failure.
 
 Heart failure is most commonly caused by coronary artery disease.
 
-Other factors that may contribute to heart failure include cardiomyopathy, high blood pressure, diabetes, etc.
+Other factors that may [contribute to heart failure include cardiomyopathy](https://www.healthline.com/health/heart-disease/cardiomyopathy), high blood pressure, diabetes, etc.
 
 Heart failure symptoms include excessive fatigue, loss of appetite, persistent coughing, sudden weight gain, and so forth.
 
@@ -218,7 +218,7 @@ Unlike vehicles, we humans obtain energy through the consumption of food and bev
 
 Normally, your daily activities will do the job of burning calories, and there’s not much to be worried about it.
 
-However, if you’re consuming too many calories and/or being inactive, your body will have to store those extra calories in the form of body fat.
+However, if you’re consuming too many calories and/or being inactive, your body will have to store those extra calories in the [form of body fat](https://www.healthline.com/nutrition/calories-in-a-pound-of-fat#section3).
 
 And as we all know, that’ll cause health problems like obesity and heart diseases.
 
@@ -405,7 +405,7 @@ Practicing archery is a great way for you to relieve a whole week of stress from
 
 Reducing stress and elevating your mood can lower to risk of developing health problems like depression, high blood pressure, and anxiety.
 
-Moreover, participating in sports activities like archery will prompt your body to release a hormone called endorphin.
+Moreover, participating in sports activities like archery will prompt your body to release [a hormone called endorphin](https://www.healthline.com/health/endorphins#purpose).
 
 The pituitary gland produces endorphins.
 

@@ -83,7 +83,7 @@ Practice proper stance to prevent stress on the rotator cuff.
 
 Perhaps, you’re a newbie in this archery field and don’t know much about proper mechanics.
 
-Let’s Move Schools Outside said you should do the following to develop a proper stance:
+[Let’s Move Schools Outside](https://www.letsmoveschools.org/archery-stance/) said you should do the following to develop a proper stance:
 
 Measure your shoulder width, stand up straight, and position each foot to match the shoulder width.
 
@@ -153,7 +153,7 @@ The gear has saved me from an injury many times, and expect that it will save yo
 
 Though archery is one of the world’s safest sport, accidents may still happen.
 
-And according to Archery Edge, one of the accidents is the bowstring slapping your forearm.
+And [according to Archery Edge](https://archeryedge.com/best-archery-arm-guard/), one of the accidents is the bowstring slapping your forearm.
 
 A forearm guard won’t only protect your arm but will also prevent clothing sleeves from getting in your way.
 
@@ -335,7 +335,7 @@ Use thick gloves and the right tools, like a wrench, when assembling and disasse
 
 Get an excellent quiver to store all the arrows properly.
 
-According to Bow Hunter, a quiver is an essential piece of equipment for archers, from beginners to professionals.
+[According to Bow Hunter](https://www.bowshunter.com/archery-for-beginners/), a quiver is an essential piece of equipment for archers, from beginners to professionals.
 
 Not just for safety but also efficiency.
 
@@ -433,7 +433,7 @@ Apply ice to the affected area and seek medication if symptoms persist.
 
 ## Step 9: The Frozen Shoulder or Adhesive Capsulitis
 
-According to MayoClinic, adhesive capsulitis may last for one to three years.
+[According to MayoClinic](https://www.mayoclinic.org/diseases-conditions/frozen-shoulder/symptoms-causes/syc-20372684), adhesive capsulitis may last for one to three years.
 
 As the name suggests, the injury is characterized by stiffness and pain of shoulder joints.
 
@@ -495,7 +495,7 @@ Drawing arrows not only put stress on the shoulder but on the neck area too.
 
 So, in the end, you’ll have difficulty moving your shoulder and turning your head.
 
-According to Cleveland Clinic, osteoarthritis often gives birth to bone spurs.
+[According to Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/10395-bone-spurs), osteoarthritis often gives birth to bone spurs.
 
 Through aging, cartilage breaks down, resulting in swelling, pain, and movement difficulties.
 

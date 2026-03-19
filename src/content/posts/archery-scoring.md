@@ -217,7 +217,7 @@ GNAS rules call for an average distance range of 18 meters for indoor archery an
 
 You can release 5 dozen arrows at a unique ‘Portsmouth’ round, for indoor archery.
 
-The distance guidelines for outdoor archery are as follows:
+The distance [guidelines for outdoor archery](https://en.wikipedia.org/wiki/Target_archery#Metric_Rounds_(WA_rules)) are as follows:
 
 - For senior male citizens: 40-100 yards.
 
@@ -267,7 +267,7 @@ Let’s not forget the perks and benefits of getting the leverage to practice ar
 
 And once you’ve practiced for quite some time while being indoors, you could always pave your way to the great outdoors.
 
-You’ll come across a set of two varieties in target faces for indoor shooting.
+You’ll come across a set of two [varieties in target faces](https://www.wokingarchery.club/home/archers-resources/scoring-guide/) for indoor shooting.
 
 One being the Three Spot FETA target face.
 

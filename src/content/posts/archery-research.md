@@ -60,7 +60,7 @@ faq:
 
 Archery isn't only a sport, practice, or skill, but it also has historical roots in hunting and combat training.
 
-Archery derived from the Latin word arcus - it has evolved into a modern, competitive sport apart from its roots as a recreational activity.
+[Archery derived from the Latin word arcus](https://www.topendsports.com/sport/list/archery.htm) - it has evolved into a modern, competitive sport apart from its roots as a recreational activity.
 
 There are different types of Archery sports, Target, Field, Crossbow, and Flight Archery, all using the same fundamentals of shooting an arrow to the target with a bow.
 
@@ -74,7 +74,7 @@ If you want to level-up your knowledge and skill in Archery, it’s best you rea
 
 The following papers are a collection of articles written by doctors, coaches, and trainers that explain the crucial role of exercise in working on the right form and posture.
 
-## 1. The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Archers by Surreya Yonca Sezer
+## 1. [The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Archers by Surreya Yonca Sezer](https://files.eric.ed.gov/fulltext/EJ1139035.pdf)
 
 <div class="stat-highlight">
   <span class="stat-number">#1</span>
@@ -91,7 +91,7 @@ The archers were observed for one hour a day, three times a week on Mondays, Wed
 
 Only the archers without any eye, ear, or orthopedic problems were accepted into the program to evaluate the strength capacity of every participant.
 
-Tests started with the participant standing straight without bending the arm to do the hand-grip strength using the Jamar hydraulic dynamometer device.
+Tests started with the participant standing straight without bending the arm to do the hand-grip strength using the [Jamar hydraulic dynamometer device](https://www.prohealthcareproducts.com/blog/jamar-hand-dynamometers-used-in-scientific-studies/).
 
 Exercises such as sit-ups, pull-ups, push-ups were done to test upper body strength, arm flexor muscle strength, as well as bicep and tricep flexor muscles.
 
@@ -99,9 +99,9 @@ The exercise heartbeat rate of the archers was measured before and after the exe
 
 When the Archer started target shooting after the exercises, the accuracy scores were higher than before the exercises.
 
-The conclusion was that the Biomotor strength test measurements and the exercise heartbeat rate contribute to the skill and focus of the archers.
+The conclusion was that the [Biomotor strength test measurements](https://www.ptonthenet.com/articles/Biomotor-Conditioning-for-Athletes-2325) and the exercise heartbeat rate contribute to the skill and focus of the archers.
 
-## 2. Strength Training those “Archery Muscles” by Annette M. Musta
+## 2. [Strength Training those “Archery Muscles” by Annette M. Musta](https://d36m266ykvepgv.cloudfront.net/uploads/media/NzxiDCPKRq/o/strengthtrainingandexercise.pdf)
 
 <div class="stat-highlight">
   <span class="stat-number">#2</span>
@@ -114,7 +114,7 @@ You’ll find this article on pages 8-10 of Archery Focus published last Nov.
 
 2, 2000, and accessed on the web in the strengthtrainingandexercise.pdf in Innovative Web Concepts, Inc.
 
-The physiological explanation of the overload principle of strength training is when a muscle needs to be challenged or overloaded to achieve results.
+The physiological explanation of the [overload principle of strength training](https://www.issaonline.com/blog/index.cfm/2019/understanding-and-using-the-overload-principle#:~:text=The%20overload%20principle%20is%20one,%2C%20strength%2C%20or%20muscle%20size.) is when a muscle needs to be challenged or overloaded to achieve results.
 
 A strength training program is a combination of resistance, which is the amount of weight used, and repetitions are the number of times performed.
 
@@ -130,7 +130,7 @@ The primary draw muscles include the shoulders and the back, the accessory muscl
 
 Strengthening all these muscles won't only improve your shot but increase your endurance during practice sessions and long competitions.
 
-## 3. Specific Physical Training Handbook by Kisik Lee
+## 3. [Specific Physical Training Handbook by Kisik Lee](http://www.kslinternationalarchery.com/Training/SPTs/SPTtrainingHandbook.pdf)
 
 <div class="stat-highlight">
   <span class="stat-number">#3</span>
@@ -157,7 +157,7 @@ The shooting arm scapula is raised towards the target and goes through an angle 
 
 Alignment is checked by looking at the elbow that should be in line with the arrow, while the triceps keep the bow arm shoulder down.
 
-## 4. Archery Exercises You should Do by Tyler Ridenour
+## 4. [Archery Exercises You should Do by Tyler Ridenour](https://archery360.com/2018/10/11/4-archery-exercises-you-should-do/)
 
 <div class="stat-highlight">
   <span class="stat-number">#4</span>
@@ -186,7 +186,7 @@ By doing exercises with high repetitions and light weights, you can do the arche
 
 Muscle conditions build strength without increasing the mass, so there's no need for a gym or CrossFit routine.
 
-## 5. Weight Training Program for Archery by D.K. Lieu
+## 5. [Weight Training Program for Archery by D.K. Lieu](https://archery.berkeley.edu/wp-content/uploads/docs/strength-training.pdf)
 
 <div class="stat-highlight">
   <span class="stat-number">#5</span>
@@ -244,7 +244,7 @@ The BEST method is a driven process based on a series of exercises by mimicking 
 
 The program will teach the new archer to be familiar with the solid fundamentals of championship shooting form as a starting point.
 
-## 7. Shooting dynamics in archery: A multidimensional analysis from drawing to releasing in male archers by Cevdet Tinazci
+## 7. [Shooting dynamics in archery: A multidimensional analysis from drawing to releasing in male archers by Cevdet Tinazci](https://www.researchgate.net/publication/251716841_Shooting_dynamics_in_archery_A_multidimensional_analysis_from_drawing_to_releasing_in_male_archers)
 
 <div class="stat-highlight">
   <span class="stat-number">#7</span>
@@ -255,7 +255,7 @@ Shooting dynamics in archery: A multidimensional analysis from drawing to releas
 
 It was published by Elsevier Ltd on May 14, 2011, for the 5th Asia-Pacific Congress on Sports Technology.
 
-The study investigates the relationship between physiological and mechanical dynamics when the arrow is released, using the mechanical clicker reaction time (MCRT).
+The study investigates the relationship between physiological and mechanical dynamics when the arrow is released, using the [mechanical clicker reaction time (MCRT)](https://www.springerprofessional.de/en/shooting-dynamics-in-archery/3331104).
 
 Archery is a static sport wherein drawing the bow, aiming, and releasing and requires strength and endurance of the upper body's forearm and shoulder girdle.
 
@@ -271,7 +271,7 @@ The performance of male archers varies based on the flexor muscle activity where
 
 Archers develop a specific muscular strategy, aiming behavior, and postural sway to shoot an arrow.
 
-## 8. Archery Skills, Tactics, Techniques by Deborah Charles
+## 8. [Archery Skills, Tactics, Techniques by Deborah Charles](http://dziki.2box.pl/archery/e-books/archery-skills-tactics-techniques.pdf)
 
 <div class="stat-highlight">
   <span class="stat-number">#8</span>
@@ -300,7 +300,7 @@ Archery is a sport of repetition to hit the center target, using a stable form t
 
 It discusses making technical adjustments as well as basic shooting techniques for building the best form for competing.
 
-## 9. Archery Steps to Success by Kathleen M. Haywood Ph.D. and Catherine F. Lewis MEd
+## 9. [Archery Steps to Success by Kathleen M. Haywood Ph.D. and Catherine F. Lewis MEd](http://psulibrary.palawan.edu.ph/wtbooks/resources/pdf/902670.pdf)
 
 <div class="stat-highlight">
   <span class="stat-number">#9</span>
@@ -331,7 +331,7 @@ Using simple equipment and a finger release that's custom-fitted to your size an
 
 setting up the exact position on subsequent shots is the goal.
 
-## 10. The role of vision and visual skill in Archery by B Strydom and JT Ferreira
+## 10. [The role of vision and visual skill in Archery by B Strydom and JT Ferreira](https://www.researchgate.net/publication/238709646_The_role_of_vision_and_visual_skills_in_archery)
 
 <div class="stat-highlight">
   <span class="stat-number">#10</span>
@@ -348,7 +348,7 @@ Twenty-one male and seven female archers ages 12-58 years old with different ski
 
 Distance judging and accuracy were measured using monocular and binocular aiming to measure the archer’s ability to judge the distance of objects and unknown distance.
 
-The vital visual skills in Archery are visual acuity, contrast sensitivity, stereopsis, eye-hand coordination, eye-body coordination, and vision response time.
+The vital [visual skills in Archery are visual acuity](https://www.sciencedaily.com/terms/visual_acuity.htm), contrast sensitivity, stereopsis, eye-hand coordination, eye-body coordination, and vision response time.
 
 The athlete undergoes the sports vision study on his visual ability in recreational or competitive sport to develop accuracy, stamina, and consistency.
 

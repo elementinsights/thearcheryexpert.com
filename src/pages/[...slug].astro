@@ -279,7 +279,11 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
     <p class="article-excerpt">{post.data.description}</p>
     <div class="article-meta">
       <div class="article-author">
-        <div class="article-author-avatar">{siteConfig.author.initial}</div>
+        {siteConfig.author.image ? (
+          <img class="article-author-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="40" height="40" />
+        ) : (
+          <div class="article-author-avatar">{siteConfig.author.initial}</div>
+        )}
         <div class="article-author-info">
           <div class="article-author-name">{post.data.author || siteConfig.author.name}</div>
           <div class="article-author-date">Last Updated: {publishDate}{post.data.readTime && ` \u2022 ${post.data.readTime}`}</div>
@@ -390,6 +394,14 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
     display: flex;
     align-items: center;
     gap: 10px;
+  }
+  .article-author-avatar-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+    flex-shrink: 0;
   }
   .article-author-avatar {
     width: 40px;

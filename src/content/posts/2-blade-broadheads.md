@@ -57,17 +57,19 @@ products:
     image: "https://m.media-amazon.com/images/I/31a2X95sq-L._SL500_.jpg"
     description: "This F-15 is built with ingenuity, efficiency, and accuracy in mind."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Expandable Design"
+      - "1.375\" Cut Width"
+      - "100% Spin Tested"
+      - "Aerodynamic Profile"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Wound channel up to 250% wider than standard broadheads"
+      - "Aerodynamic profile delivers excellent arrow flight at distance"
+      - "Long-lasting .030\" stainless steel blades stay sharp"
+      - "100% spin-tested for consistent accuracy"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Expandable blades can lose energy on deployment"
+      - "Not ideal for low-poundage bows"
+      - "Blades aren't replaceable after heavy use"
     ctaUrl: "https://www.amazon.com/dp/B001SH1M92?tag=thearcheryexpert-20"
   - name: "2-Blade  -  Shock Collar and Ferrule Alignment Technology"
     rank: 2
@@ -76,17 +78,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31gEOoY+gXL._SL500_.jpg"
     description: "It's one of the most excellent styles of Crossbow Broadheads, that becomes what you really need for your hunting task."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Crossbow Optimized"
+      - "Shock Collar Tech"
+      - "Stainless Blades"
+      - "Free Practice Head"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Designed specifically for crossbow use with higher bolt speeds"
+      - "Shock collar provides maximum blade retention on impact"
+      - "Stainless steel blades deliver ultra-sharp cutting performance"
+      - "Includes a free practice head in the package"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Built for crossbows only, not ideal for compound bows"
+      - "Mechanical design adds moving parts that can fail"
     ctaUrl: "https://www.amazon.com/dp/B00AU6DAHY?tag=thearcheryexpert-20"
   - name: "Swhacker SWH00207 #207"
     rank: 3
@@ -95,17 +98,18 @@ products:
     image: "https://m.media-amazon.com/images/I/411lm4pjkXL._SL500_.jpg"
     description: "There are many explanations why this broadhead, one of which is the unique blade style, stood out to us."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Dual Cutting Edges"
+      - "100 Grain"
+      - "Aircraft Aluminum"
+      - "Carbon Steel Tip"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Two-stage blade design splits hide first, then cuts internal organs"
+      - "Aircraft-grade anodized aluminum ferrule for lasting durability"
+      - "High-carbon steel hardened tip punches through bone"
+      - "Affordable price for a 100-grain expandable broadhead"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Blades need resharpening before first use"
+      - "Wing blades can bend on heavy bone hits"
     ctaUrl: "https://www.amazon.com/dp/B00K0LJV6I?tag=thearcheryexpert-20"
   - name: "Rage Bow Hunting Hypodermic"
     rank: 4
@@ -114,17 +118,19 @@ products:
     image: "https://m.media-amazon.com/images/I/41EEndVNvxL._SL500_.jpg"
     description: "There are several characteristics of the Rage Hypodermic broadhead that have managed to have quite an effect."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "SlipCam Deploy"
+      - "2\" Cut Diameter"
+      - "Hybrid Tip"
+      - "Steel Ferrule"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "SlipCam technology prevents kinetic energy loss on blade deployment"
+      - "Solid steel ferrule with hybrid tip for aerodynamic flight"
+      - "Full 2-inch cutting diameter for massive wound channels"
+      - "Patented shock collar and NC retention system"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Premium price point compared to other Rage models"
+      - "Hybrid tip can be harder to resharpen than a chisel point"
+      - "Blades aren't reusable after impact"
     ctaUrl: "https://www.amazon.com/dp/B0197DARSU?tag=thearcheryexpert-20"
   - name: "Rage 2 Blade Broadhead"
     rank: 5
@@ -133,17 +139,18 @@ products:
     image: "https://m.media-amazon.com/images/I/315uPAHXvVL._SL500_.jpg"
     description: "This product, carefully built to have outstanding penetration, is highly efficient and exceptionally robust."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Shock Collar"
+      - "2\" Cutting Width"
+      - "Budget Friendly"
+      - "Wide Leading Edge"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Budget-friendly option that still delivers a 2-inch cut diameter"
+      - "Shock collar technology keeps blades securely retained"
+      - "Wide leading-edge blade boosts momentum for quick kills"
+      - "Retains kinetic energy well for bigger game"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Doesn't include SlipCam tech like the Hypodermic model"
+      - "Blade retention can loosen after repeated practice shots"
     ctaUrl: "https://www.amazon.com/dp/B00QQNV6LC?tag=thearcheryexpert-20"
   - name: "STINGER 2 Blade Arrow Broadhead"
     rank: 6
@@ -152,17 +159,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31ATIB+NbyL._SL500_.jpg"
     description: "With its impeccable style, this marvelous broadhead captured the attention."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Diamond Tip"
+      - "Lifetime Warranty"
+      - "Spin Tested"
+      - "Knife-Grade Steel"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Proprietary diamond tip handles the toughest hides and bone"
+      - "Lifetime replacement warranty for long-term value"
+      - "Spin-tested for proper alignment and consistent flight"
+      - "Razor-sharp right out of the box"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Fixed blade design limits wound channel width"
+      - "Heavier than some competing expandable options"
     ctaUrl: "https://www.amazon.com/dp/B00BNUTUJI?tag=thearcheryexpert-20"
   - name: "Magnus SBC100-2 Stinger Buzzcut 2 Blade Broadhead"
     rank: 7
@@ -171,17 +179,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51KWyN3OYhL._SL500_.jpg"
     description: "Numerous variations in this product have attracted interest in the product."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Serrated Blade"
+      - "Resharpenable"
+      - "Lifetime Replace"
+      - "Precision Machined"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Serrated main blade tears through organs for effective cuts"
+      - "Easy to resharpen for repeated use over multiple seasons"
+      - "Lifetime replacement guarantee backs up the build quality"
+      - "Precision-machined and spin-tested for reliable flight"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Serrated edge can snag on thick hide during pass-throughs"
+      - "100-grain weight limits compatibility with lighter arrow setups"
     ctaUrl: "https://www.amazon.com/dp/B001EYIV02?tag=thearcheryexpert-20"
   - name: "B3 Exoskeletal 2 Blade Broadhead"
     rank: 8
@@ -190,17 +199,19 @@ products:
     image: "https://m.media-amazon.com/images/I/31+tIeZNIhL._SL500_.jpg"
     description: "Stronger, smoother, and preferable, a patent-pending model created by archers and hunters."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Patent Pending"
+      - "400 Series Steel"
+      - "Silent Flight"
+      - "2 1/8\" Cut"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "400 series hardened steel construction for extreme durability"
+      - "Curved blades deliver deeper penetration with less resistance"
+      - "Silent flight profile matches field point accuracy"
+      - "No pins or washers needed thanks to the exoskeletal mount system"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Patent-pending design means limited replacement part availability"
+      - "Curved blade design is harder to resharpen than flat blades"
+      - ".032\" thick blades add extra weight to your arrow setup"
     ctaUrl: "https://www.amazon.com/dp/B07TCCQT5P?tag=thearcheryexpert-20"
   - name: "G5 Montec 2 Blade Broadhead"
     rank: 9
@@ -209,17 +220,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31LyYgXxgoL._SL500_.jpg"
     description: "The device is 100 % effective and practical as it quickly slices the target body when it comes into contact with it."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "One-Piece Design"
+      - "100% Steel"
+      - "No Assembly"
+      - "Easily Sharpened"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "One-piece MonoFlow design with no assembly required"
+      - "100% steel construction for maximum toughness"
+      - "Blades are easy to resharpen at home between hunts"
+      - "100% spin-tested for reliable accuracy out of the box"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Fixed blade profile doesn't create as wide a wound channel"
+      - "Heavier one-piece build can affect arrow speed"
     ctaUrl: "https://www.amazon.com/dp/B000IENPWS?tag=thearcheryexpert-20"
   - name: "Bloodrunner 2 Blade Broadheads"
     rank: 10
@@ -228,17 +240,19 @@ products:
     image: "https://m.media-amazon.com/images/I/515j6P7nN6L._SL500_.jpg"
     description: "The strong and durable, carbon steel, minuscule, rear deployed 2 blade features around two inches of splitting diameter, has a low 1.125 flight profile for field point precision and diminishing cutting strength."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Rear Deployed"
+      - "Carbon Steel"
+      - "2\" Open Cut"
+      - "7075 Aluminum"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Rear-deployed blades create massive entry and exit wounds"
+      - "7075 aircraft aluminum ferrule provides extreme strength"
+      - "Low 1.125\" flight profile delivers field point precision"
+      - "Won't accidentally open in your quiver without o-rings"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Rear deployment can reduce penetration on angled shots"
+      - "Carbon steel blades require more maintenance to prevent rust"
+      - ".039\" blade thickness adds weight to the arrow front"
     ctaUrl: "https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20"
 ---
 
@@ -366,10 +380,10 @@ A fixed blade and a mechanical blade are included.
 </div>
 <p class="product-card-desc">This F-15 is built with ingenuity, efficiency, and accuracy in mind. The edges of the broadheads create an incision channel that's two to half times wider and more powerful than standard versions. These models are portable, with performance enhanced by their aerodynamic profile and hundred percent spin monitoring.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Expandable Design</span>
+<span class="highlight-tag">1.375" Cut Width</span>
+<span class="highlight-tag">100% Spin Tested</span>
+<span class="highlight-tag">Aerodynamic Profile</span>
 </div>
 <a href="https://www.amazon.com/dp/B001SH1M92?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -397,8 +411,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Expandable blades can lose energy on deployment</li>
+<li>Not ideal for low-poundage bows</li>
+<li>Blades aren't replaceable after heavy use</li>
 </ul>
 </div>
 </div>
@@ -432,10 +447,10 @@ For an accurate killing, the blades are sharp and render the wound accessible.
 </div>
 <p class="product-card-desc">It's one of the most excellent styles of Crossbow Broadheads, that becomes what you really need for your hunting task. Its blades are ultra-sharp, so the target body can be cut too easily.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Crossbow Optimized</span>
+<span class="highlight-tag">Shock Collar Tech</span>
+<span class="highlight-tag">Stainless Blades</span>
+<span class="highlight-tag">Free Practice Head</span>
 </div>
 <a href="https://www.amazon.com/dp/B00AU6DAHY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -462,8 +477,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Built for crossbows only, not ideal for compound bows</li>
+<li>Mechanical design adds moving parts that can fail</li>
 </ul>
 </div>
 </div>
@@ -505,10 +520,10 @@ Don't waste time, and then accomplish your objectives in the best possible way.
 </div>
 <p class="product-card-desc">There are many explanations why this broadhead, one of which is the unique blade style, stood out to us. Two different cutting edges have the overall blade style. The wing blades that split the hide and the very first rib sets are regarded as the first set of blades available.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Dual Cutting Edges</span>
+<span class="highlight-tag">100 Grain</span>
+<span class="highlight-tag">Aircraft Aluminum</span>
+<span class="highlight-tag">Carbon Steel Tip</span>
 </div>
 <a href="https://www.amazon.com/dp/B00K0LJV6I?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -536,8 +551,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Blades need resharpening before first use</li>
+<li>Wing blades can bend on heavy bone hits</li>
 </ul>
 </div>
 </div>
@@ -577,10 +592,10 @@ It ought to be sharpened. But, it's a price worth paying.
 </div>
 <p class="product-card-desc">There are several characteristics of the Rage Hypodermic broadhead that have managed to have quite an effect. It contains a solid steel ferrule equipped with a hybrid tip that provides the product with aerodynamics. Another impressive aspect of the object is how it doesn't lose impact power.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">SlipCam Deploy</span>
+<span class="highlight-tag">2" Cut Diameter</span>
+<span class="highlight-tag">Hybrid Tip</span>
+<span class="highlight-tag">Steel Ferrule</span>
 </div>
 <a href="https://www.amazon.com/dp/B0197DARSU?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -608,8 +623,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Premium price point compared to other Rage models</li>
+<li>Hybrid tip can be harder to resharpen than a chisel point</li>
+<li>Blades aren't reusable after impact</li>
 </ul>
 </div>
 </div>
@@ -653,10 +669,10 @@ In comparison, the retention mechanism is unmatched. The service is also a perfe
 </div>
 <p class="product-card-desc">This product, carefully built to have outstanding penetration, is highly efficient and exceptionally robust. It has an advanced technology for shock collars that provides excellent retention of the blade. To offer an effective hit, the wide leading-edge blade enhances traction and induces the animal's imminent death to minimize the pain.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Shock Collar</span>
+<span class="highlight-tag">2" Cutting Width</span>
+<span class="highlight-tag">Budget Friendly</span>
+<span class="highlight-tag">Wide Leading Edge</span>
 </div>
 <a href="https://www.amazon.com/dp/B00QQNV6LC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -684,8 +700,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Doesn't include SlipCam tech like the Hypodermic model</li>
+<li>Blade retention can loosen after repeated practice shots</li>
 </ul>
 </div>
 </div>
@@ -725,10 +741,10 @@ Overall, however, it's proving to be a worthwhile venture.
 </div>
 <p class="product-card-desc">With its impeccable style, this marvelous broadhead captured the attention. It has been built from a stainless steel grade knife and is rendered straight out of the box to be razor-sharp. Given its acrylic aircraft-grade aluminum structure, it appears to have an outstanding flight.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Diamond Tip</span>
+<span class="highlight-tag">Lifetime Warranty</span>
+<span class="highlight-tag">Spin Tested</span>
+<span class="highlight-tag">Knife-Grade Steel</span>
 </div>
 <a href="https://www.amazon.com/dp/B00BNUTUJI?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -756,8 +772,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Fixed blade design limits wound channel width</li>
+<li>Heavier than some competing expandable options</li>
 </ul>
 </div>
 </div>
@@ -797,10 +813,10 @@ It's, thus, deemed to be an outstanding purchase.
 </div>
 <p class="product-card-desc">Numerous variations in this product have attracted interest in the product. The concept is unbelievably creative and exceedingly accurate. It's made of stainless steel knife-grade and has razor-sharp durability, making it both highly robust and highly damageable.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Serrated Blade</span>
+<span class="highlight-tag">Resharpenable</span>
+<span class="highlight-tag">Lifetime Replace</span>
+<span class="highlight-tag">Precision Machined</span>
 </div>
 <a href="https://www.amazon.com/dp/B001EYIV02?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -828,8 +844,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Serrated edge can snag on thick hide during pass-throughs</li>
+<li>100-grain weight limits compatibility with lighter arrow setups</li>
 </ul>
 </div>
 </div>
@@ -867,10 +883,10 @@ It's, indeed, a perfect investment.
 </div>
 <p class="product-card-desc">Stronger, smoother, and preferable, a patent-pending model created by archers and hunters. Curved blades can cut more easily and penetrate longer. The combination of smooth blades with a friction dowel under the blades removes visible bands. Silent flight with the precision of field trips.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Patent Pending</span>
+<span class="highlight-tag">400 Series Steel</span>
+<span class="highlight-tag">Silent Flight</span>
+<span class="highlight-tag">2 1/8" Cut</span>
 </div>
 <a href="https://www.amazon.com/dp/B07TCCQT5P?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -898,8 +914,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Patent-pending design means limited replacement part availability</li>
+<li>Curved blade design is harder to resharpen than flat blades</li>
+<li>.032" thick blades add extra weight to your arrow setup</li>
 </ul>
 </div>
 </div>
@@ -947,10 +964,10 @@ Two-blade style, + 2 1/8 inches of cutting surface.
 </div>
 <p class="product-card-desc">The device is 100 % effective and practical as it quickly slices the target body when it comes into contact with it. The blades of this Broadhead are incredibly sharp and provide you with the full performance of your targets for hunting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">One-Piece Design</span>
+<span class="highlight-tag">100% Steel</span>
+<span class="highlight-tag">No Assembly</span>
+<span class="highlight-tag">Easily Sharpened</span>
 </div>
 <a href="https://www.amazon.com/dp/B000IENPWS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -978,8 +995,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Fixed blade profile doesn't create as wide a wound channel</li>
+<li>Heavier one-piece build can affect arrow speed</li>
 </ul>
 </div>
 </div>
@@ -1019,10 +1036,10 @@ So, with this awesome Broadhead, you'll get the perfect results.
 </div>
 <p class="product-card-desc">The strong and durable, carbon steel, minuscule, rear deployed 2 blade features around two inches of splitting diameter, has a low 1.125 flight profile for field point precision and diminishing cutting strength. Producing huge entry and exit loops, major blood trails, and quicker recoveries on impact.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Rear Deployed</span>
+<span class="highlight-tag">Carbon Steel</span>
+<span class="highlight-tag">2" Open Cut</span>
+<span class="highlight-tag">7075 Aluminum</span>
 </div>
 <a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1050,8 +1067,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Rear deployment can reduce penetration on angled shots</li>
+<li>Carbon steel blades require more maintenance to prevent rust</li>
+<li>.039" blade thickness adds weight to the arrow front</li>
 </ul>
 </div>
 </div>

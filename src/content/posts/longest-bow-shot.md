@@ -151,7 +151,7 @@ Recorded in the Southern California Archery Association Tournament on May 31, 19
 
 A Drake bow designed in 1964 was able to shoot and record a distance of 1,077 yards on October 24, 1971, in the Official North America Archery Flight Championships.
 
-Drake Bows are very popular and has a huge reputation for being very powerful, accurate, smooth, excellent shooters, and a tendency to not stack.
+[Drake Bows are very popular](http://www.vintagearchery.org/drake.html) and has a huge reputation for being very powerful, accurate, smooth, excellent shooters, and a tendency to not stack.
 
 ## Largest Archery Tournament
 
@@ -197,7 +197,7 @@ Hamish Murray (UK) had the most arrows shot simultaneously with a total of 12 fr
 
 ## Most Balloons Burst With a Single Bolt Shot From a Crossbow Backwards
 
-Ian Stewart recorded the most balloons burst in a single bolt shot with a total of 13 from a crossbow backward.
+[Ian Stewart recorded the most balloons burst](https://www.worldrecordacademy.com/stunts/stunts_world_records_80331.htm) in a single bolt shot with a total of 13 from a crossbow backward.
 
 It was achieved in North River, Nova Scotia, Canada, on 3 June 2026.
 
@@ -269,7 +269,7 @@ Ella Gibson held the record for three weeks with a total shot 596 until Prieels 
 
 ## Most Archery Women’s Compound World Cup Wins
 
-Sara López achieved the most wins of the Archery World Cup women’s compound title with a total of 5, in 2014, 2015, 2017, 2018 & 2026.
+Sara López achieved [the most wins of the Archery World Cup women’s compound title](https://worldarchery.sport/news/174946/sara-lopez-wins-record-fifth-hyundai-archery-world-cup-champion-title) with a total of 5, in 2014, 2015, 2017, 2018 & 2026.
 
 Tied with Brady Ellison (men’s recurve).
 
@@ -379,7 +379,7 @@ All World Archery 36-arrow records must be set as part of a full 1440 round, whi
 
 ## Most Points Scored in 50-meter 36-arrow Outdoor Compound Archery (Female)
 
-Sara López (Colombia) achieved the most points scored in 50-meter 36-arrow outdoor compound archery (female) with a total of 356 out of 360.
+Sara López (Colombia) [achieved the most points scored in 50-meter 36-arrow outdoor](https://worldarchery.sport/news/175769/kim-woojin-breaks-22-year-old-50-metre-world-record-352-1) compound archery (female) with a total of 356 out of 360.
 
 It was recorded at the XX Juegos Nacionales “Carlos Lleras Restrepo” on 10 November 2015 in Ibagué, Colombia.
 

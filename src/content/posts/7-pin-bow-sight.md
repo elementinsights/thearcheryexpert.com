@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41zX70BgP2L._SL500_.jpg"
     description: "Topoint Archery CNC Aluminium 7 pin bow sight is one of the top-rated and most preferred 7 pin bow sight which is available on Amazon.com."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "CNC Aluminum"
+      - "Steel Tube Pins"
+      - "Micro Adjustable"
+      - "Ambidextrous"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Full CNC aluminum alloy body for long-lasting durability"
+      - "Stainless steel tube pin design for brighter visibility"
+      - "Works for both left-handed and right-handed shooters"
+      - "Adjustable brightness sight light for varying conditions"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Heavier than composite-bodied sights"
+      - "Second-axis adjustment takes time to dial in"
     ctaUrl: "https://www.amazon.com/dp/B07R9SY4M4?tag=thearcheryexpert-20"
   - name: "IQ Define Pro 7-Pin"
     rank: 2
@@ -76,17 +77,19 @@ products:
     image: "https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg"
     description: "IQ Define Pro 7 pin is also one of the most reliable and premium option which archers opt for in the modern era of archery."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Rangefinder Built-In"
+      - "OLED Display"
+      - "Magnesium Frame"
+      - "150 Yard Range"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Built-in CR-2 powered rangefinder reaches up to 150 yards"
+      - "Magnesium frame keeps it lightweight despite all the features"
+      - "Integrated sight light with 5 adjustable brightness levels"
+      - "OLED display shows yardage and battery status at a glance"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Battery-powered rangefinder adds a point of failure in the field"
+      - "Premium price tag puts it above most competitors"
+      - "Heavier feature set may overwhelm beginning archers"
     ctaUrl: "https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20"
   - name: "Trophy Ridge React 7 Pro Bow Sight"
     rank: 3
@@ -95,17 +98,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg"
     description: "Trophy Ridge React 7 Pro Bow Sight is a vertical pin bow sight that is most suitable for users who prefer vertical pins in their sight."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Vertical Pins"
+      - "React Technology"
+      - "Rheostat Light"
+      - "Aluminum Body"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Vertical inline pin technology for cleaner long-range shots"
+      - "Included rheostat light works well in low-light conditions"
+      - "Refined aluminum body balances durability with light weight"
+      - "Mid-budget price with features that compete with premium sights"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Vertical pin layout takes time to get used to"
+      - "React technology requires careful initial calibration"
     ctaUrl: "https://www.amazon.com/dp/B0197D9WHC?tag=thearcheryexpert-20"
   - name: "IQ Bowsights 7-Pin Micro Bow Sight"
     rank: 4
@@ -114,17 +118,19 @@ products:
     image: "https://m.media-amazon.com/images/I/41k2zbNoFML._SL500_.jpg"
     description: "IQ Bowsights 7-pin Micro Bow Sight is one of the best pin bow sights available in the market having an excellent quality so that you can hit perfect shots over longer distances."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Retina Lock"
+      - "Micro Knob"
+      - "Premium Build"
+      - "Long Range"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Retina Lock technology helps lock onto targets at longer ranges"
+      - "Micro knob makes pin adjustment quick and precise"
+      - "Premium build quality for years of reliable use"
+      - "Flexible mounting options to fit your preferred bow setup"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Designed for right-handed shooters only"
+      - "Higher cost than similarly featured sights"
+      - "Micro knob can be fiddly with cold or gloved hands"
     ctaUrl: "https://www.amazon.com/dp/B00CQ8CL60?tag=thearcheryexpert-20"
   - name: "TRUGLO Hyper-Strike Ultra-Light Long Range Bow Sight"
     rank: 5
@@ -133,36 +139,38 @@ products:
     image: "https://m.media-amazon.com/images/I/41-PXAkuMTL._SL500_.jpg"
     description: "Truglo Hyper-Strike Ultra-Light Long Range Bow Sight is designed to allow the users to make long and close-range shots perfectly."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Ultra-Light"
+      - "Carbon Composite"
+      - "Pro-Brite Pins"
+      - "Tool-Less Adjust"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Ultra-lightweight carbon composite and aluminum body"
+      - "Pro-Brite pin technology for extra brightness and durability"
+      - "Tool-less micro windage and elevation adjustments"
+      - "Budget-friendly without sacrificing essential features"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Carbon composite frame isn't as rugged as full aluminum"
+      - "Rotary light limited to 3 brightness positions"
     ctaUrl: "https://www.amazon.com/dp/B078J9Q77F?tag=thearcheryexpert-20"
-  - name: "7 Pins Compound Bow Sight. 019”"
+  - name: “7 Pins Compound Bow Sight. 019””
     rank: 6
-    badge: "Most Popular"
+    badge: “Most Popular”
     rating: 8.8
-    image: "https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg"
-    description: "You can go for 7Pins Compound Bow Sight as it is one of the best options for you if you cannot spend a large amount of money or you are just starting."
+    image: “https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg”
+    description: “You can go for 7Pins Compound Bow Sight as it is one of the best options for you if you cannot spend a large amount of money or you are just starting.”
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - “Starter Friendly”
+      - “LED Sight Light”
+      - “Steel Hardware”
+      - “Ambidextrous”
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - “Solid aluminum frame with stainless steel hardware for durability”
+      - “Detachable LED sight light with adjustable brightness”
+      - “Works for both left-handed and right-handed shooters”
+      - “One of the most affordable 7-pin sights on the market”
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - “Basic feature set compared to premium models”
+      - “LED light requires separate battery replacement”
     ctaUrl: "https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20"
   - name: "Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust"
     rank: 7
@@ -171,17 +179,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg"
     description: "This 7 pin bow sight features 0.019 optical fiber pins with micro adjust tool-less design, making it a solid choice for compound bow hunting."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "0.019 Fiber Optic"
+      - "Rheostat Light"
+      - "Retina Lock"
+      - "CNC Aluminum"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Full CNC aluminum frame handles rough field conditions"
+      - "Ultra-bright rheostat light adjusts for any lighting scenario"
+      - "Retina Lock alignment technology for moving target accuracy"
+      - "Premium features at a budget-friendly price point"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Pin brightness can wash out in direct sunlight"
+      - "Lacks a built-in rangefinder found on pricier models"
     ctaUrl: "https://www.amazon.com/dp/B07R8PJ7BG?tag=thearcheryexpert-20"
   - name: "5 Pin / 7 Pin Bow Sight Micro-Adjustable Aluminum"
     rank: 8
@@ -190,17 +199,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51rykyUNaoL._SL500_.jpg"
     description: "This micro-adjustable aluminum archery sight features 0.019 fiber optics for compound bows. It works for both right and left handed shooters and delivers reliable accuracy at an affordable price."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "5/7 Pin Option"
+      - "Elevation Knob"
+      - "Weather Resistant"
+      - "Affordable Price"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Choose between 5-pin or 7-pin configuration for your needs"
+      - "Simple elevation knob adjusts quickly between shooting positions"
+      - "CNC aluminum frame holds up in extreme weather conditions"
+      - "Very affordable with Retina Lock tech usually found on pricier sights"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Fiber optic pins aren't as bright as higher-end competitors"
+      - "Lacks a built-in sight light for low-light shooting"
     ctaUrl: "https://www.amazon.com/dp/B01M6W425T?tag=thearcheryexpert-20"
   - name: "Axcel Armortech HD Sight - 7 Pins .010"
     rank: 9
@@ -209,17 +219,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41FZ-c9Ia5L._SL500_.jpg"
     description: "Axcel Armortech HD Sight - 7 pins bow sight are made up of Armor Fiber Technology which provides 100% protection to the fibers."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Armor Fiber Tech"
+      - ".010 Pin Size"
+      - "Wrench Included"
+      - "True Center View"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Armor Fiber Technology gives 100% fiber protection from impacts"
+      - ".010 pin size for a cleaner, less cluttered sight picture"
+      - "Included wrench lets you micro-adjust individual pins easily"
+      - "Works for both left-handed and right-handed shooters"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Requires a wrench for pin adjustments instead of tool-less design"
+      - ".010 pins can be harder to see in low-light conditions"
     ctaUrl: "https://www.amazon.com/dp/B003DR0S5Y?tag=thearcheryexpert-20"
   - name: "IQ Define Pro 7-Pin Bow Range Finding Sight"
     rank: 10
@@ -228,17 +239,19 @@ products:
     image: "https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg"
     description: "This comes with a 3 digit OLED Display with blue yardage and yellow battery indicator, 2 min scan mode."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Range Finder"
+      - "OLED Display"
+      - "Red Dot Laser"
+      - "Angle Compensate"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Built-in rangefinder with angle compensation for true horizontal distance"
+      - "3-digit OLED display shows yardage and battery status clearly"
+      - "Red dot visible laser makes calibration simple and fast"
+      - "Micro-adjustable pins with Retina Lock for precise aiming"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Requires CR-2 battery that can die at the worst time"
+      - "Scan mode only lasts 2 minutes before it times out"
+      - "Priciest option in the lineup for what's essentially an upgraded IQ Define"
     ctaUrl: "https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20"
 ---
 
@@ -366,10 +379,10 @@ To increase accuracy, many different accessories have been developed which helps
 </div>
 <p class="product-card-desc">Topoint Archery CNC Aluminium 7 pin bow sight is one of the top-rated and most preferred 7 pin bow sight which is available on Amazon.com. This bow sight has a special stainless steel tube pin design which gives the archer an added advantage of increased durability and brightness.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">CNC Aluminum</span>
+<span class="highlight-tag">Steel Tube Pins</span>
+<span class="highlight-tag">Micro Adjustable</span>
+<span class="highlight-tag">Ambidextrous</span>
 </div>
 <a href="https://www.amazon.com/dp/B07R9SY4M4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -397,8 +410,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Heavier than composite-bodied sights</li>
+<li>Second-axis adjustment takes time to dial in</li>
 </ul>
 </div>
 </div>
@@ -436,10 +449,10 @@ Topoint bow sight is available in many variants and options for archers such as:
 </div>
 <p class="product-card-desc">IQ Define Pro 7 pin is also one of the most reliable and premium option which archers opt for in the modern era of archery.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Rangefinder Built-In</span>
+<span class="highlight-tag">OLED Display</span>
+<span class="highlight-tag">Magnesium Frame</span>
+<span class="highlight-tag">150 Yard Range</span>
 </div>
 <a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -467,8 +480,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Battery-powered rangefinder adds a point of failure in the field</li>
+<li>Premium price tag puts it above most competitors</li>
+<li>Heavier feature set may overwhelm beginning archers</li>
 </ul>
 </div>
 </div>
@@ -506,10 +520,10 @@ It also has an integrated sight light with 5 brightness levels which helps arche
 </div>
 <p class="product-card-desc">Trophy Ridge React 7 Pro Bow Sight is a vertical pin bow sight that's most suitable for users who prefer vertical pins in their sight.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Vertical Pins</span>
+<span class="highlight-tag">React Technology</span>
+<span class="highlight-tag">Rheostat Light</span>
+<span class="highlight-tag">Aluminum Body</span>
 </div>
 <a href="https://www.amazon.com/dp/B0197D9WHC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -537,8 +551,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Vertical pin layout takes time to get used to</li>
+<li>React technology requires careful initial calibration</li>
 </ul>
 </div>
 </div>
@@ -580,10 +594,10 @@ This advanced technology helps to clear all barriers which boost your accuracy.
 </div>
 <p class="product-card-desc">IQ Bowsights 7-pin Micro Bow Sight is one of the best pin bow sights available in the market having an excellent quality so that you can hit perfect shots over longer distances. Although IQ Bowsights 7-pin Micro Bow Sight is a bit costly as compared to other pin bow sight.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Retina Lock</span>
+<span class="highlight-tag">Micro Knob</span>
+<span class="highlight-tag">Premium Build</span>
+<span class="highlight-tag">Long Range</span>
 </div>
 <a href="https://www.amazon.com/dp/B00CQ8CL60?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -610,8 +624,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Designed for right-handed shooters only</li>
+<li>Higher cost than similarly featured sights</li>
+<li>Micro knob can be fiddly with cold or gloved hands</li>
 </ul>
 </div>
 </div>
@@ -649,10 +664,10 @@ IQ Bowsights 7-pin Micro Bow Sight is mostly suitable for right-handed people wh
 </div>
 <p class="product-card-desc">Truglo Hyper-Strike Ultra-Light Long Range Bow Sight is designed to allow the users to make long and close-range shots perfectly. This Bow Sight is made up of ultra-lightweight carbon composite and aluminum construction which makes the bow sight highly durable and long-lasting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Ultra-Light</span>
+<span class="highlight-tag">Carbon Composite</span>
+<span class="highlight-tag">Pro-Brite Pins</span>
+<span class="highlight-tag">Tool-Less Adjust</span>
 </div>
 <a href="https://www.amazon.com/dp/B078J9Q77F?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -679,8 +694,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Carbon composite frame isn't as rugged as full aluminum</li>
+<li>Rotary light limited to 3 brightness positions</li>
 </ul>
 </div>
 </div>
@@ -714,10 +729,10 @@ Truglo Hyper-Strike Ultra-Light Long Range Bow Sight has tool-less micro windage
 </div>
 <p class="product-card-desc">You can go for 7Pins Compound Bow Sight as it's one of the best options for you if you can't spend a large amount of money or you're just starting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Starter Friendly</span>
+<span class="highlight-tag">LED Sight Light</span>
+<span class="highlight-tag">Steel Hardware</span>
+<span class="highlight-tag">Ambidextrous</span>
 </div>
 <a href="https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -745,8 +760,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Basic feature set compared to premium models</li>
+<li>LED light requires separate battery replacement</li>
 </ul>
 </div>
 </div>
@@ -782,10 +797,10 @@ Also available with an option of detachable Bracket LED Sight Light which helps 
 </div>
 <p class="product-card-desc">This 7 pin bow sight features 0.019 optical fiber pins with a tool-less micro adjust design for compound bows. It is a great option for archery hunting with bright fiber optic pins.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">0.019 Fiber Optic</span>
+<span class="highlight-tag">Rheostat Light</span>
+<span class="highlight-tag">Retina Lock</span>
+<span class="highlight-tag">CNC Aluminum</span>
 </div>
 <a href="https://www.amazon.com/dp/B07R8PJ7BG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -812,8 +827,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Pin brightness can wash out in direct sunlight</li>
+<li>Lacks a built-in rangefinder found on pricier models</li>
 </ul>
 </div>
 </div>
@@ -857,10 +872,10 @@ Ace Hunter offers many such features that are available in premium bow sights th
 </div>
 <p class="product-card-desc">This micro-adjustable aluminum archery sight features 0.019 fiber optics for compound bows. It works for both right and left handed shooters and delivers reliable accuracy at an affordable price point.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">5/7 Pin Option</span>
+<span class="highlight-tag">Elevation Knob</span>
+<span class="highlight-tag">Weather Resistant</span>
+<span class="highlight-tag">Affordable Price</span>
 </div>
 <a href="https://www.amazon.com/dp/B01M6W425T?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -887,8 +902,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Fiber optic pins aren't as bright as higher-end competitors</li>
+<li>Lacks a built-in sight light for low-light shooting</li>
 </ul>
 </div>
 </div>
@@ -922,10 +937,10 @@ The 7 pins of this bow sight will help you solve this particular problem.
 </div>
 <p class="product-card-desc">Axcel Armortech HD Sight - 7 pins bow sight are made up of Armor Fiber Technology which provides 100% protection to the fibers. This bow sight has an elevation and windage knob which helps to adjust your bow sight as per your needs and requirements very easily.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Armor Fiber Tech</span>
+<span class="highlight-tag">.010 Pin Size</span>
+<span class="highlight-tag">Wrench Included</span>
+<span class="highlight-tag">True Center View</span>
 </div>
 <a href="https://www.amazon.com/dp/B003DR0S5Y?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -952,8 +967,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Requires a wrench for pin adjustments instead of tool-less design</li>
+<li>.010 pins can be harder to see in low-light conditions</li>
 </ul>
 </div>
 </div>
@@ -985,10 +1000,10 @@ It comes along with a true center vision which supplies a circular sight picture
 </div>
 <p class="product-card-desc">This comes with a 3 digit OLED Display with blue yardage and yellow battery indicator, 2 min scan mode. It has an external trigger with adhesive, separate red dot visible laser for calibration New housing has the Retina Lock incorporated into it and features micro-adjustable pins.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Range Finder</span>
+<span class="highlight-tag">OLED Display</span>
+<span class="highlight-tag">Red Dot Laser</span>
+<span class="highlight-tag">Angle Compensate</span>
 </div>
 <a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1016,8 +1031,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Requires CR-2 battery that can die at the worst time</li>
+<li>Scan mode only lasts 2 minutes before it times out</li>
+<li>Priciest option in the lineup for what's essentially an upgraded IQ Define</li>
 </ul>
 </div>
 </div>

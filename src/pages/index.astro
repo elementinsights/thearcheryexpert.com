@@ -60,7 +60,11 @@ const schema = [
           </h1>
           <div class="hero-meta">
             <span class="hero-meta-author">
-              <span class="hero-meta-avatar">{siteConfig.author.initial}</span>
+              {siteConfig.author.image ? (
+                <img class="hero-meta-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="32" height="32" />
+              ) : (
+                <span class="hero-meta-avatar">{siteConfig.author.initial}</span>
+              )}
               {latestPosts[0].data.author || siteConfig.author.name}
             </span>
             <span class="hero-meta-dot"></span>
@@ -295,6 +299,13 @@ const schema = [
     gap: 8px;
     font-weight: 600;
     color: #fff;
+  }
+  .hero-meta-avatar-img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
   }
   .hero-meta-avatar {
     width: 32px;

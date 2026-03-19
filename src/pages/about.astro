@@ -133,7 +133,11 @@ const breadcrumbSchema = {
     </div>
     <div class="founder-card animate-on-scroll">
       <div class="founder-avatar-wrap">
-        <div class="founder-avatar">{siteConfig.author.initial}</div>
+        {siteConfig.author.image ? (
+          <img class="founder-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="120" height="120" />
+        ) : (
+          <div class="founder-avatar">{siteConfig.author.initial}</div>
+        )}
       </div>
       <div class="founder-info">
         <h3 class="founder-name">{siteConfig.author.name}</h3>
@@ -476,6 +480,13 @@ const breadcrumbSchema = {
   .founder-avatar-wrap {
     flex-shrink: 0;
     text-align: center;
+  }
+  .founder-avatar-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
   }
   .founder-avatar {
     width: 120px;

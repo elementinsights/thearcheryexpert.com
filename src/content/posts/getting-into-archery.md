@@ -67,7 +67,7 @@ Beginners may want to read from start to finish, but I think there's something f
 
 Without further ado, here's how to get into archery professionally & for beginners.
 
-Archery dates back to the age of Cavemen and was initially used for hunting to provide food for the tribe and ensure their survival.
+Archery [dates back to the age of Cavemen](https://www.thebodytraining.com/anatomy-of-archery-archery-from-a-to-z/?gclid=Cj0KCQjwlvT8BRDeARIsAACRFiWeAICAg4T3iVIi53BPgyi2GEPpv37yAEPp-I8LKj4zsprcw68eW-EaApTkEALw_wcB) and was initially used for hunting to provide food for the tribe and ensure their survival.
 
 The idea was to kill something either before it could be spooked and run away, as in the case of a deer or antelope-type thing, or before it could kill you, as in the case of a lion or predator-type thing.
 
@@ -87,7 +87,7 @@ It has remained popular due to the skill involved as well as the ability to hunt
 
 The tournaments are exciting to watch, and the draw isn't only the skill level but the opportunity to be solely responsible for the outcome, not relying on teammates or being brought down by an opponent.
 
-It has been part of the Olympic Games since 1972 (it was also part of the games between 1900 and 1920 and was contested several times before being removed between 1920 and 1972).
+It has been part of the Olympic Games [since 1972](https://www.olympic.org/archery#:~:text=Archery%20first%20appeared%20in%20the,gold%20and%20three%20silver%20medals.) (it was also part of the games between 1900 and 1920 and was contested several times before being removed between 1920 and 1972).
 
 This is a noble and ancient sport that requires discipline, strength, concentration, and lots of practice.
 
@@ -127,7 +127,7 @@ Bowhunting is real-world hunting where you're using a bow rather than a gun and 
 
 There are arguably two main categories of bows to consider: recurve bows and compound bows.
 
-There are also longbows (favored by traditionalists) and crossbows (which are somewhat controversial in the purist archery world) that won't be discussed here as they're more specialized and not generally used for competition or by beginners.
+There are also longbows (favored by traditionalists) and crossbows [(which are somewhat controversial in the purist archery world)](https://archershub.com/what-is-crossbow-archery/) that won't be discussed here as they're more specialized and not generally used for competition or by beginners.
 
 If you’ve never shot a bow before, it’s a good idea to head to your local archery club or archery store and practice with different types of bows before purchasing your own.
 
@@ -141,7 +141,7 @@ These can come with removable/changeable limbs in the case of takedown recurve b
 
 This is your typical Robin Hood or Katniss Everdeen bow and is the only type of bow you'll see in the Olympics.
 
-Compound bows have the same parts as a recurve bow, but they also use a pretty complex lever system to increase the force that moves the arrow.
+Compound bows have the same parts as a recurve bow, but they also use a pretty [complex](https://www.completeguidetoarchery.com/archery-for-beginners-how-to-get-started/) lever system to increase the force that moves the arrow.
 
 This allows the arrow to fly further, fly faster, and hit the target harder.
 
@@ -227,7 +227,7 @@ If you're considering shooting on your private property, make sure you've safety
 
 It’s also an excellent idea to take lessons from a professional, no matter how much natural talent you think you've from all those viewings of the Lord of the Rings trilogy.
 
-Check with local archery clubs or stores or look online for archery instructors near you.
+Check with local archery clubs or stores or look online for archery instructors [near you](https://archery360.com/2019/03/15/getting-started-in-archery/).
 
 Videos are another great place to get started if you’re having difficulty finding an instructor near you, but they should probably be considered only a short-term replacement for actual instruction.
 
@@ -305,7 +305,7 @@ Initially, you'll need to fund your travel and entrance fees for competitions, a
 
 Don’t expect sponsors to find you until you’ve won many tournaments and begun to make a name for yourself.
 
-Most professional archers still have to work outside of the sport to support their passion, and if you want to do this for a living, be prepared to not just shoot well and win a lot but also to market yourself and your equipment to catch the eye of potential sponsors.
+Most professional archers [still have to work outside](https://www.bow-international.com/features/turning-pro/) of the sport to support their passion, and if you want to do this for a living, be prepared to not just shoot well and win a lot but also to market yourself and your equipment to catch the eye of potential sponsors.
 
 Besides lucrative sponsorship deals, other ways to make money as an archer include coaching, making your brand of archery products, and media/marketing platforms.
 

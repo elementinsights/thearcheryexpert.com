@@ -154,7 +154,7 @@ You’re going to shoot your way to college with $20,000.
 
 If you think your love for archery gives you no chance, think again.
 
-In 2016, Joe Shawn Head, who played archery as one of his sports, was awarded a great sum.
+In 2016, Joe Shawn Head, [who played archery as one of his sports](https://www.prnewswire.com/news-releases/foot-locker-foundation-unveils-recipients-of-fifth-annual-foot-locker-scholar-athletes-program-300262361.html), was awarded a great sum.
 
 I bet you've a chance too.
 
@@ -200,7 +200,7 @@ In a river clean-up mission, for example, you’re the one who gets your hands d
 
 Like a king who charges first in a battle, not one who hides behind the backs of his troops.
 
-Visit the scholarship website for more information.
+Visit [the scholarship website](https://footlockerscholarathletes.squarespace.com/about-the-scholarship) for more information.
 
 - A good sportsman with good character.
 
@@ -210,7 +210,7 @@ Visit the scholarship website for more information.
 
 - Display good leadership qualities.
 
-## 3. Texas A&M Archery Scholarships
+## 3. [Texas A&M Archery](https://tamuarchery.com/scholarship-info) Scholarships
 
 <div class="stat-highlight">
   <span class="stat-number">#3</span>
@@ -308,7 +308,7 @@ If you live in an affluent family, better give a chance to others who are in dir
 
 Go to the university website for more information.
 
-## 5. Texas Field Archery Association (TFAA) Youth Scholarship
+## 5. [Texas Field Archery Association](https://texasfieldarchery.org/SCHOLARSHIP) (TFAA) Youth Scholarship
 
 <div class="stat-highlight">
   <span class="stat-number">#5</span>
@@ -354,7 +354,7 @@ In case both organizations accept you, get both if they will allow or select one
   <span class="stat-text">Prince William Sound College (PWSC)- Archery Sportsmanship Scholarship</span>
 </div>
 
-PWSC has scholarships that range from $250-$1250 per semester.
+[PWSC has scholarships](https://pwsc.alaska.edu/cost-of-attendance/financial-aid/scholarships.cshtml) that range from $250-$1250 per semester.
 
 All PWSC students eligible for financial aid may apply.
 
@@ -430,7 +430,7 @@ Include the results as part of the application.
   <span class="stat-text">Shootingtime.com Archery Scholarship</span>
 </div>
 
-The Shootingtime website proudly announced its annual archery scholarship offering students taking part in archery while taking up college.
+The Shootingtime [website proudly announced](https://shootingtime.com/archery/archery-scholarship/) its annual archery scholarship offering students taking part in archery while taking up college.
 
 They congratulated Brenna M. as the first recipient, a nursing student from South Dakota.
 

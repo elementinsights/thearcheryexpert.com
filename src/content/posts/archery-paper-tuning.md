@@ -85,7 +85,7 @@ Combine furring strips with drywall screws in a way to make a perfect square or 
 
 There's another cheap method to make your stand for paper tuning.
 
-You can make it with the help of PVC pipes.
+You can make it [with the help of PVC pipes](https://youtu.be/IjXW3hYOBaw).
 
 ## Step 2: Set Up The Paper In Frame
 

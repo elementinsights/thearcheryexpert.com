@@ -89,7 +89,7 @@ Unaware that something might go wrong, you can cause minor accidents like having
 
 A slightly tainted arrow can break into pieces after losing it to aim at a target.
 
-While archery is stepping up its game to modernization, there are some things to look after on its creation, especially on choosing the right arrow types, for it can be harmful to someone with a bare knowledge of it.
+While archery is stepping up its game to modernization, there are some things to look after on its creation, especially on [choosing the right arrow types](https://www.mastandoartrip.com/personal-injury-law/the-unspoken-dangers-of-carbon-fiber-arrows/), for it can be harmful to someone with a bare knowledge of it.
 
 It's also important to look at the right bow product for you.
 
@@ -111,7 +111,7 @@ This assessment helps you choose the accurate tools for your expected outcome.
 
 For instance, having the right goods broaden your shooting skill knowledge and make it easier for you to adjust your career or personal goals in this specialty.
 
-Once you’ve finally decided what kind of archery you prefer, you can go ahead and research what set of equipment you should purchase online.
+Once you’ve finally decided what kind of archery you prefer, you can go ahead and [research what set of equipment you should purchase](http://www.thearcherycompany.com/shop/Content/choosing-your-first-bow.asp) online.
 
 This is vital to the level of physical strength you've as a variety of bows and arrows need to work together in harmony, and failing to do so will cost you inconvenience resulting in poor performance or, worst, minor accidents that we all want to elude.
 
@@ -134,7 +134,7 @@ By constant practice, you're most likely allowing yourself to hone your skills a
 
 As you get better, you're simultaneously discovering the dos and don'ts in your avenue of training that will either save or jeopardize you because the art of archery is a trial and error fate just like any other sports - you’ll get hurt in the process.
 
-Avoid having a first not-so-good encounter in a professional duel by equipping yourself with the basic enactment routine in your safest shape that serves as a list of habits that you can consolidate and recreate on your strategy to fit in your comfortable pace of learning.
+Avoid having a first not-so-good encounter in a professional duel by equipping yourself with the basic [enactment routine in your safest shape](https://www.acearchers.com/archery-form/what-is-archery-practice/) that serves as a list of habits that you can consolidate and recreate on your strategy to fit in your comfortable pace of learning.
 
 ## 3. Maintain the right posture
 
@@ -153,7 +153,7 @@ Better safe than sorry as what sport iconic say during the peak seasons of train
 
 In the interval of these events, aspiring archers might have practiced shooting mistakes, and right posture application is one of those to blame for.
 
-Archery techniques compromise posture for the latter varies on the type of equipment you're using, but regardless of that though, you must comply with the general standard posture and body alignment habits to avoid mild to severe injuries.
+[Archery techniques compromise posture](https://rangerexpert.com/archery-bow-types-and-terminologies/) for the latter varies on the type of equipment you're using, but regardless of that though, you must comply with the general standard posture and body alignment habits to avoid mild to severe injuries.
 
 Practice makes sense, after all, and we shouldn’t rush the process of learning a flawless posture stunt to avoid irreversible accidents like this.
 

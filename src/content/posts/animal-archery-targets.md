@@ -57,17 +57,18 @@ products:
     image: "https://m.media-amazon.com/images/I/51tdw3Xlt9L._SL500_.jpg"
     description: "It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Self-Healing Foam"
+      - "Life-Size Turkey"
+      - "Stable Base"
+      - "One-Piece Body"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "High-density self-healing FlexFoam withstands hundreds of shots"
+      - "Life-size turkey shape creates realistic hunting practice"
+      - "Stable base prevents tipping after repeated hits"
+      - "Works with field points, fixed blades, and mechanicals"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "No replaceable core, so the whole target wears out over time"
+      - "Occasional manufacturing defects reported on delivery"
     ctaUrl: "https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20"
   - name: "Shooter Buck 3D Deer Archery Target With Replaceable Core"
     rank: 2
@@ -76,17 +77,18 @@ products:
     image: "https://m.media-amazon.com/images/I/312XJNx+7yL._SL500_.jpg"
     description: "It’s a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Replaceable Core"
+      - "48\" Tall Deer"
+      - "Ground Stakes"
+      - "400 FPS Rated"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "25% larger replaceable core extends target lifespan significantly"
+      - "Handles arrows up to 400 feet per second without issue"
+      - "Scoring rings placed on vital areas for realistic practice"
+      - "Ground stakes provide stability against powerful shots"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Heavy at nearly 13 lbs, not easy to move around"
+      - "One-handed arrow removal can be tough with broadheads"
     ctaUrl: "https://www.amazon.com/dp/B003K2940W?tag=thearcheryexpert-20"
   - name: "Rinehart Peccary Boar Target IBO Pattern"
     rank: 3
@@ -95,17 +97,19 @@ products:
     image: "https://m.media-amazon.com/images/I/41VDxCjQOoL._SL500_.jpg"
     description: "This product by Rinehart is a 3D Peccary Boar target that weighs 22.95 pounds and measures 20 inches tall 39 inches long."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "IBO Scoring"
+      - "Locking Insert"
+      - "Self-Healing Foam"
+      - "Boar Shape"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Patented locking insert makes core replacement hassle-free"
+      - "Self-healing foam heals within 10 seconds of arrow removal"
+      - "IBO pattern scoring rings for competition-grade practice"
+      - "Stops broadheads, field points, and expandables"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Dark black color makes it hard to see scoring rings in low light"
+      - "Non-core body sections aren't replaceable"
+      - "Weighs nearly 23 lbs, not very portable"
     ctaUrl: "https://www.amazon.com/dp/B0049GYV0G?tag=thearcheryexpert-20"
   - name: "Delta McKenzie Aim Rite Bear"
     rank: 4
@@ -114,17 +118,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31nfTs422AL._SL500_.jpg"
     description: "This 3D life-like target from Delta McKenzie comes in flexible and durable FlexFoam."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Bear Shape"
+      - "Layered FlexFoam"
+      - "Metal Stakes"
+      - "Replaceable Core"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Layered compression FlexFoam stops arrows up to 350 fps"
+      - "Two 16-inch metal stakes provide solid ground stability"
+      - "Replaceable core saves money on long-term use"
+      - "Life-size 28\" x 45\" bear shape for realistic hunting practice"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "At 12 kg it's too heavy to move around frequently"
+      - "Arrows from powerful bows can be difficult to extract"
     ctaUrl: "https://www.amazon.com/dp/B000WVRCMQ?tag=thearcheryexpert-20"
   - name: "GlenDel Buck 3D Archery Target With Replaceable Insert Core"
     rank: 5
@@ -133,17 +138,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41irzupa8DL._SL500_.jpg"
     description: "If you want the biggest buck to practice on right there in your backyard, this 62-inch tall animal target is your best shot at improving your aim."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "62\" Tall Buck"
+      - "4-Sided Core"
+      - "Vital Markings"
+      - "Full Rut Stand"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Massive 62-inch tall buck is the most realistic deer target available"
+      - "4-sided replaceable core gives you four times the shooting surface"
+      - "Vital organ locations (heart, lung, liver) shown on each side"
+      - "Includes a 150-inch full rut stand for stability"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "At nearly 16 kg it's not easy to transport"
+      - "Large size requires significant backyard space"
     ctaUrl: "https://www.amazon.com/dp/B003A1P4P2?tag=thearcheryexpert-20"
   - name: "Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target"
     rank: 6
@@ -152,17 +158,18 @@ products:
     image: "https://m.media-amazon.com/images/I/414wAzFg4vL._SL500_.jpg"
     description: "This animal target is manufactured by a company known as Morrell which is well known for its block targets."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Solid Foam"
+      - "4 Kill Zones"
+      - "Rotating Head"
+      - "320 FPS Rated"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Four kill zones with scoring rings and raised vitals on opposite sides"
+      - "Rotating head and tail create varied shooting scenarios"
+      - "Fade-resistant paint keeps it looking good outdoors"
+      - "Replaceable midsection extends the target's lifespan"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Weighs about 50 lbs, very hard to move by yourself"
+      - "Solid foam can grip arrows tightly, making removal tough"
     ctaUrl: "https://www.amazon.com/dp/B00AKO1NG6?tag=thearcheryexpert-20"
   - name: "Delta McKenzie Howling Coyote 3D Target"
     rank: 7
@@ -171,17 +178,18 @@ products:
     image: "https://m.media-amazon.com/images/I/31ipvotqPAL._SL500_.jpg"
     description: "This animal target resembles a real-life Coyote with life-sized dimensions which make it an ideal practice for hunting shots."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Coyote Shape"
+      - "Scoring Rings"
+      - "Lightweight Foam"
+      - "Replacement Parts"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Life-sized coyote shape trains your aim on smaller game"
+      - "Self-healing Tech Flex E-Z Pull Foam for easy arrow removal"
+      - "Three scoring rings focus practice on vital zones"
+      - "Replacement head and body parts available separately"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "No replaceable core shortens overall lifespan"
+      - "Doesn't come with a stand so it tips easily"
     ctaUrl: "https://www.amazon.com/dp/B000LH5W0K?tag=thearcheryexpert-20"
   - name: "CW-X Delta McKenzie 3D Raccoon Backyard Target"
     rank: 8
@@ -190,17 +198,19 @@ products:
     image: "https://m.media-amazon.com/images/I/51O83qwV2mL._SL500_.jpg"
     description: "If you are looking for a small budget-friendly 3D target, this lightweight option by Delta McKenzie is suitable for beginners and also experienced archers."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Raccoon Shape"
+      - "Ultra-Light 8 lbs"
+      - "Budget Friendly"
+      - "Indoor/Outdoor"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Compact and lightweight at just 8 lbs for easy portability"
+      - "Realistic raccoon shape is fun for kids and adults alike"
+      - "Scoring rings help focus on vital area accuracy"
+      - "Budget-friendly entry point for 3D target practice"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "No replaceable core wears out faster with heavy use"
+      - "Small size tips over easily from powerful bow shots"
+      - "Broadheads can be difficult to pull out of the small body"
     ctaUrl: "https://www.amazon.com/dp/B000LH34EG?tag=thearcheryexpert-20"
   - name: "Delta Riverbottom Series Challenger"
     rank: 9
@@ -209,17 +219,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41Ch4eytSKL._SL500_.jpg"
     description: "This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club’s member’s economic competition."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "UV Resistant"
+      - "Dual-Side Core"
+      - "1-Year Warranty"
+      - "FlexFoam Body"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Each side has an independently replaceable vital core"
+      - "UV-resistant coating holds up to extended outdoor exposure"
+      - "1-year manufacturer warranty from Delta McKenzie"
+      - "Lightweight at 7.78 kg for easy transport between locations"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Smaller 40-inch size may not simulate full-size deer well"
+      - "FlexFoam body isn’t as durable as layered compression models"
     ctaUrl: "https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20"
   - name: "Rinehart Woodland Boar 3D Target"
     rank: 10
@@ -228,17 +239,18 @@ products:
     image: "https://m.media-amazon.com/images/I/41aJeEoDLoL._SL500_.jpg"
     description: "It’s a Reinhart Target’s product that stands at 29 inches tall and 39 inches long."
     highlights:
-      - "Quality Build"
-      - "Great Value"
-      - "Archery Tested"
-      - "Top Rated"
+      - "Woodland Boar"
+      - "Signature Foam"
+      - "Locking Insert"
+      - "IBO Scored"
     pros:
-      - "Well-designed for archery use"
-      - "Good value for the price"
-      - "Durable construction"
+      - "Rinehart’s signature self-healing foam takes thousands of shots"
+      - "Locking insert core is simple to swap when worn out"
+      - "IBO competition-grade scoring rings for serious practice"
+      - "Realistic woodland boar shape for hog hunting preparation"
     cons:
-      - "May not suit all preferences"
-      - "Size options may vary"
+      - "Pricier than comparable Delta McKenzie targets"
+      - "Replacement cores add ongoing cost over time"
     ctaUrl: "https://www.amazon.com/dp/B01DMD5SRG?tag=thearcheryexpert-20"
 ---
 
@@ -364,10 +376,10 @@ There are other 3D animal archery targets such as zombies, dinosaurs, and even a
 </div>
 <p class="product-card-desc">It’s the best target practice for those who love pursuing elusive wild turkeys with bows and arrows. It’s a turkey realistic in both size and appearance that weighs approximately 7 kilograms and measures 26*18*13 inches. For long-lasting use, Delta McKenzie uses high-density flexible foam material to make this item.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Self-Healing Foam</span>
+<span class="highlight-tag">Life-Size Turkey</span>
+<span class="highlight-tag">Stable Base</span>
+<span class="highlight-tag">One-Piece Body</span>
 </div>
 <a href="https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -393,8 +405,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>No replaceable core, so the whole target wears out over time</li>
+<li>Occasional manufacturing defects reported on delivery</li>
 </ul>
 </div>
 </div>
@@ -442,10 +454,10 @@ All this is taken care of by the warranty that covers any manufacturer’s defec
 </div>
 <p class="product-card-desc">It’s a product by Feradyne Outdoors LLC, a well-known manufacturer of outdoor sports goods such as bows, arrows, crossbows, quivers, and other archery products. If you want to practice your aim on a life-like buck design, this huge target that stands at 48 inches tall and weighs 5.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Replaceable Core</span>
+<span class="highlight-tag">48" Tall Deer</span>
+<span class="highlight-tag">Ground Stakes</span>
+<span class="highlight-tag">400 FPS Rated</span>
 </div>
 <a href="https://www.amazon.com/dp/B003K2940W?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -472,8 +484,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Heavy at nearly 13 lbs, not easy to move around</li>
+<li>One-handed arrow removal can be tough with broadheads</li>
 </ul>
 </div>
 </div>
@@ -515,10 +527,10 @@ This animal target can be suitable for both casual and serious hunters.
 </div>
 <p class="product-card-desc">This product by Rinehart is a 3D Peccary Boar target that weighs 22.95 pounds and measures 20 inches tall 39 inches long. The use of self-healing foam in its manufacture means that it can take shot after shot without any damage even during vigorous practice.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">IBO Scoring</span>
+<span class="highlight-tag">Locking Insert</span>
+<span class="highlight-tag">Self-Healing Foam</span>
+<span class="highlight-tag">Boar Shape</span>
 </div>
 <a href="https://www.amazon.com/dp/B0049GYV0G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -544,8 +556,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Dark black color makes it hard to see scoring rings in low light</li>
+<li>Non-core body sections aren't replaceable</li>
+<li>Weighs nearly 23 lbs, not very portable</li>
 </ul>
 </div>
 </div>
@@ -589,10 +602,10 @@ It’s a clear indication that this is one of the best middle-sized animal targe
 </div>
 <p class="product-card-desc">This 3D life-like target from Delta McKenzie comes in flexible and durable FlexFoam. This material is tightly compressed in layers for increased durability during vigorous practice or even competition. It's a huge animal target that resembles a real-life bear and is 28 inches high and 45 inches long.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Bear Shape</span>
+<span class="highlight-tag">Layered FlexFoam</span>
+<span class="highlight-tag">Metal Stakes</span>
+<span class="highlight-tag">Replaceable Core</span>
 </div>
 <a href="https://www.amazon.com/dp/B000WVRCMQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -618,8 +631,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>At 12 kg it's too heavy to move around frequently</li>
+<li>Arrows from powerful bows can be difficult to extract</li>
 </ul>
 </div>
 </div>
@@ -667,10 +680,10 @@ It's suitable for practice in your backyard or even in economic competitions for
 </div>
 <p class="product-card-desc">If you want the biggest buck to practice on right there in your backyard, this 62-inch tall animal target is your best shot at improving your aim. It's a magnificent life-like buck with a shoulder height of 37 inches and weighs 15.88 Kilograms.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">62" Tall Buck</span>
+<span class="highlight-tag">4-Sided Core</span>
+<span class="highlight-tag">Vital Markings</span>
+<span class="highlight-tag">Full Rut Stand</span>
 </div>
 <a href="https://www.amazon.com/dp/B003A1P4P2?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -696,8 +709,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>At nearly 16 kg it's not easy to transport</li>
+<li>Large size requires significant backyard space</li>
 </ul>
 </div>
 </div>
@@ -743,10 +756,10 @@ It's easy to set up as it comes with a 150-inch full rut stand for more stabilit
 </div>
 <p class="product-card-desc">This animal target is manufactured by a company known as Morrell which is well known for its block targets. The company only makes a few 3D targets, the Bionic Buck being one of them. It stands at 30 inches tall and 21 inches long while weighing approximately fifty pounds.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Solid Foam</span>
+<span class="highlight-tag">4 Kill Zones</span>
+<span class="highlight-tag">Rotating Head</span>
+<span class="highlight-tag">320 FPS Rated</span>
 </div>
 <a href="https://www.amazon.com/dp/B00AKO1NG6?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -772,8 +785,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Weighs about 50 lbs, very hard to move by yourself</li>
+<li>Solid foam can grip arrows tightly, making removal tough</li>
 </ul>
 </div>
 </div>
@@ -819,10 +832,10 @@ The entire midsection with all the kill zones is replaceable after taking too ma
 </div>
 <p class="product-card-desc">This animal target resembles a real-life Coyote with life-sized dimensions which make it an ideal practice for hunting shots. It stands at 35 inches high and 33 inches long and weighs 6.28 kilograms.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Coyote Shape</span>
+<span class="highlight-tag">Scoring Rings</span>
+<span class="highlight-tag">Lightweight Foam</span>
+<span class="highlight-tag">Replacement Parts</span>
 </div>
 <a href="https://www.amazon.com/dp/B000LH5W0K?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -848,8 +861,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>No replaceable core shortens overall lifespan</li>
+<li>Doesn't come with a stand so it tips easily</li>
 </ul>
 </div>
 </div>
@@ -895,10 +908,10 @@ It also comes without any stands and it’s not as stable as it would be with a 
 </div>
 <p class="product-card-desc">If you're looking for a small budget-friendly 3D target, this lightweight option by Delta McKenzie is suitable for beginners and also experienced archers. The use of FlexFoam material which is durable makes it a long-lasting target.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Raccoon Shape</span>
+<span class="highlight-tag">Ultra-Light 8 lbs</span>
+<span class="highlight-tag">Budget Friendly</span>
+<span class="highlight-tag">Indoor/Outdoor</span>
 </div>
 <a href="https://www.amazon.com/dp/B000LH34EG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -924,8 +937,9 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>No replaceable core wears out faster with heavy use</li>
+<li>Small size tips over easily from powerful bow shots</li>
+<li>Broadheads can be difficult to pull out of the small body</li>
 </ul>
 </div>
 </div>
@@ -973,10 +987,10 @@ For competitive shooters, it comes with scoring rings that enable you to focus m
 </div>
 <p class="product-card-desc">This animal target is suitable for whitetail buck hunting in your backyard or out in the field for a club’s member’s economic competition. It’s made from FlexFoam which is light in mass and features a UV-resistant coating. It can handle arrows from some of the most powerful bows.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">UV Resistant</span>
+<span class="highlight-tag">Dual-Side Core</span>
+<span class="highlight-tag">1-Year Warranty</span>
+<span class="highlight-tag">FlexFoam Body</span>
 </div>
 <a href="https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1003,8 +1017,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Smaller 40-inch size may not simulate full-size deer well</li>
+<li>FlexFoam body isn't as durable as layered compression models</li>
 </ul>
 </div>
 </div>
@@ -1050,10 +1064,10 @@ This animal target can be for both kids and adults for practice as well as both 
 </div>
 <p class="product-card-desc">It’s a Reinhart Target’s product that stands at 29 inches tall and 39 inches long. It’s sturdy and can withstand aluminum, wood, and carbon arrows shot from compound and crossbows. The use of Reinhart FX patented self-healing foam enables it to work this magic.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Quality Build</span>
-<span class="highlight-tag">Great Value</span>
-<span class="highlight-tag">Archery Tested</span>
-<span class="highlight-tag">Top Rated</span>
+<span class="highlight-tag">Woodland Boar</span>
+<span class="highlight-tag">Signature Foam</span>
+<span class="highlight-tag">Locking Insert</span>
+<span class="highlight-tag">IBO Scored</span>
 </div>
 <a href="https://www.amazon.com/dp/B01DMD5SRG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1079,8 +1093,8 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>May not suit all preferences</li>
-<li>Size options may vary</li>
+<li>Pricier than comparable Delta McKenzie targets</li>
+<li>Replacement cores add ongoing cost over time</li>
 </ul>
 </div>
 </div>

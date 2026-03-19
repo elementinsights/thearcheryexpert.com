@@ -64,7 +64,7 @@ Archery isn't an easy sport to get into as the archer needs to focus his attenti
 
 It requires a person with a determined mindset and a commitment to practice repetitively, which means investing plenty of time into the sport.
 
-If your goal is to become more accurate in your shot, you've to work on the technical side of archery through practice games.
+If your goal is to become more accurate in your shot, you've to [work on](https://worldarchery.org/news/157503/10-practice-methods-shoot-better-arrows-1) the [technical side of archery](https://www.60xcustomstrings.com/blog/10-tips-to-improve-archery-accuracy/) through practice games.
 
 Have you checked if your grip is relaxed that will allow you to cradle the bow so it can jump forward into the bow sling when you take the shot?
 
@@ -209,7 +209,7 @@ Your accuracy is sharpened in an outdoor setting since you've to deal with diffe
   <span class="stat-text">H.O.R.S.E.</span>
 </div>
 
-The Horse game is similar to the one played in basketball when you take turns making the same shot from the same position.
+The Horse game is [similar to the one played in basketball](https://eastonarchery.com/2014/07/FUN-ARCHERY-PRACTICE-GAMES/) when you take turns making the same shot from the same position.
 
 With 2-3 players aiming for the target, if one misses the target, the person earns the letter H and spells it down to complete the word H.O.R.S.E. until the last letter disqualifies from the game.
 

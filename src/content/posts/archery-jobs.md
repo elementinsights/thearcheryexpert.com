@@ -73,7 +73,7 @@ Although archery wasn't originally a sport, as mentioned before, however, with t
 
 People often compete in international tournaments and competition events, representing their countries, sponsors, or professional teams.
 
-Stephan Hasan, a world-renowned archer, is a prime example of a professional archer athlete.
+[Stephan Hasan, a world-renowned archer](https://worldarchery.org/news/157483/how-difficult-it-become-professional-archer), is a prime example of a professional archer athlete.
 
 For individuals with a liking for archery, being a professional archer is possibly the top career path for their passion.
 
@@ -213,7 +213,7 @@ This is why hunting lounges exist to give such individuals their respective spac
 
 The primary role of the hunting guidesman is to provide shelter, food, gear, and guide services to individuals in unfamiliar territories.
 
-A hunting guidesman, as the name suggests, acts as a guide instructing and tutoring the interested individuals on how to use a bow and arrow to hunt down animals and birds.
+[A hunting guidesman](https://www.petersenshunting.com/editorial/17-dream-jobs-in-the-outdoor-industry/272393), as the name suggests, acts as a guide instructing and tutoring the interested individuals on how to use a bow and arrow to hunt down animals and birds.
 
 The guide also allows the individuals to practice stripping the animal skin and cooking it on wildfire, similar to ancient practices.
 
@@ -299,7 +299,7 @@ It allows them to retain their passion for archery without sacrificing or compro
 
 Furthermore, it allows them to practice their art, develop their skill, and mingle among the archery community without any worry.
 
-An off-season archer participates in archery competitions and events during the high seasons.
+[An off-season archer](https://www.dailypioneer.com/2018/sports/i-wanted-a-career-in-archery.html) participates in archery competitions and events during the high seasons.
 
 They don't necessarily pursue this as a full-time career. However, they enjoy the sport's adrenaline rush through their off-season practice.
 

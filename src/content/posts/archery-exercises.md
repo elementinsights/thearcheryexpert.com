@@ -165,7 +165,7 @@ The same applies to the other numbers of the Clock.
 
 You may adjust to the left or right, above or below the target circle.
 
-You're trained to sharpen your skill in aiming off wherein you point your aim away from the middle of the target.
+You're trained to [sharpen your skill in](https://worldarchery.org/news/157503/10-practice-methods-shoot-better-arrows-1) aiming off wherein you point your aim away from the middle of the target.
 
 This simulates a windy condition where the wind direction plays an integral part in getting the shot nearest to the aim.
 
@@ -179,7 +179,7 @@ You’re pushed to get out of the usual center and faced to point the arrow on t
 
 This forces you to take an aim that you’re not used to and expands your aiming skill.
 
-This exercise eases up any pressure for perfect aiming and is a good practice for target panic.
+This exercise eases up any pressure for perfect aiming and is a [good practice for](https://www.archery360.com/2018/09/20/target-panic-overcoming-mental-block/) target panic.
 
 It pushes you as an archer to be flexible in aiming at another shot aside from the center target.
 

@@ -63,7 +63,11 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 <section class="sh-intro">
   <div class="container">
     <div class="sh-intro-inner animate-on-scroll">
-      <div class="sh-avatar">{siteConfig.author.initial}</div>
+      {siteConfig.author.image ? (
+        <img class="sh-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="80" height="80" />
+      ) : (
+        <div class="sh-avatar">{siteConfig.author.initial}</div>
+      )}
       <div class="sh-intro-text">
         <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've spent years testing hundreds of products so you don't have to rely on spec sheets and sponsored reviews. I started this site because most product reviews are written by people who've never actually used what they recommend &mdash; and that's not good enough when you're spending your hard-earned money.</p>
         <p>Here, every product gets hands-on testing in real-world conditions. Below you'll find our most popular content organized by topic and the fastest way to find the right product for your needs. No matter what you're looking for, there's something here for you.</p>
@@ -204,6 +208,14 @@ const popularLinks = siteConfig.footerPopularLinks || [];
     gap: 32px;
     max-width: 820px;
     margin: 0 auto;
+  }
+  .sh-avatar-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+    flex-shrink: 0;
   }
   .sh-avatar {
     flex-shrink: 0;

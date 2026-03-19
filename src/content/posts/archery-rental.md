@@ -63,7 +63,7 @@ Whether it's an Olympics competition or local, different bow styles and equipmen
 
 ## Archery Equipment
 
-Some of the basic tools of Archery include. A bracer, bow, strings, finger tab, a target to aim for, a bow stand, quiver, wooden arrows, and most importantly, a bow stringer.
+Some of the [basic tools of Archery](https://www.archerygb.org/shoot-compete/shoot/start-to-shoot/basic-guide-equipment/) include. A bracer, bow, strings, finger tab, a target to aim for, a bow stand, quiver, wooden arrows, and most importantly, a bow stringer.
 
 Many newcomers may not be familiar with these devices.
 
@@ -125,7 +125,7 @@ Lastly, the pile is the pointy end of the arrow.
 
 It's made from a stronger material to aid in the arrow's straight flying in the intended direction.
 
-## Different Types Of Archery
+## [Different](https://targetcrazy.com/archery/resources/types-of-archery/) Types Of Archery
 
 Different types of Archery have different levels of aerodynamic qualities with exceptional projectile features.
 
@@ -175,7 +175,7 @@ This type of archery game is only possible with a recurve bow type.
 
 It's not permitted to use any other kind of bow style in the Olympics.
 
-It's a course version of the Archery game played in an open-air, such as uneven paths or woody locations.
+It's a course version of [the Archery game played](https://www.justhunters.pk/archery#:~:text=Archery%20Accessories%20%26%20Supplies&text=Just%20Hunters%20offers%20all%20varieties,broadheads%20for%20your%20entire%20season.) in an open-air, such as uneven paths or woody locations.
 
 The players set their targets at varying distances. The uneven terrain provides different elevation and difficulty levels.
 
@@ -473,7 +473,7 @@ Just make sure that you know all the required information, and have complete kno
 
 ## Rates & Equipment
 
-In open shooting ranges, different hourly rates are applicable on different hours and days of the week.
+In open shooting ranges, [different hourly rates](https://www.eastonsaltlakearcherycenter.org/hourly-rates) are applicable on different hours and days of the week.
 
 Early morning to noon shooting, you’ll be charged $5 for each hour.
 
@@ -485,7 +485,7 @@ If you rent the equipment then, $10 is charged for the tool along with the hourl
 
 The tools available at this rate are bows, Quiver, Armguard, and Five arrows.
 
-Archery lane rentals are also applicable.
+[Archery lane rentals](https://archeryonly.com/indoor-archery-range/) are also applicable.
 
 Each person has to pay $30 for lane rent, equipment rent, and an hourly rate for each person.
 

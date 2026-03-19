@@ -93,11 +93,11 @@ A bow and an arrow aren't the only tools you need. You require a quiver to hold 
 
 Here's an essential guide on the equipment you need.
 
-Also, check out what you need to look out for when selecting archery equipment.
+Also, check out what you need to look out for when [selecting archery equipment](https://huntfish.mdc.mo.gov/huntfish/hunting-trapping/species-z/deer/deer-getting-started/choosing-right-archery-equipment).
 
 ## Step 2: Assume a consistent anchor position
 
-Having that one anchor point will help improve your shooting skills, and it's critical in archery.
+Having that [one anchor point will help improve your shooting skills](https://www.archery360.com/2018/12/12/compound-anchor-point/#:~:text=Archery%20is%20all%20about%20consistency,is%20called%20an%20anchor%20point.), and it's critical in archery.
 
 If you don't have that one, then getting accurate shots is hard.
 
@@ -191,7 +191,7 @@ The more you control your breathing, the more you're likely to be accurate when 
 
 Avoid tensing since this will impact your concentration, and you won't accurately hit the target.
 
-You can try these methods so that you can control your breathing.
+You can [try these methods](https://www.ammoland.com/2016/06/three-archery-breathing-techniques/) so that you can control your breathing.
 
 ## Step 5: Practice shooting at a certain distance
 
