@@ -363,7 +363,7 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Chairs</div>
 <h3 class="product-card-name">Southwest Archery Shooter Stool</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings. You’ll have full confidence in its heavy-duty foldable chair that can hold an archer as heavy as 300 pounds. This detachable chair can be swapped left or right, depending on the need of the shooter.</p>
@@ -435,7 +435,7 @@ They call this the last tournament chair, considered a favorite for many archers
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Chairs</div>
 <h3 class="product-card-name">Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Shrewd SMSSIDEKICKBK Archery Chair is rated five out of five stars from 2 global ratings. You'll find it easy to lug around the Shrewd Chair with Arrow Storage because it has the straps for backpack or shoulder position with a comfortable handle for you to grab at any time.</p>
@@ -511,7 +511,7 @@ This chair is perfect for the shooter who puts importance on being comfortable w
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Chairs</div>
 <h3 class="product-card-name"></b><b>GigaTent Folding 3 in 1 Stool Backpack Folding Stool</b><b></h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The Giga Tent Folding 3 in 1 Backpack Folding Stool has 4.7 out of 5 stars from 33 global ratings. It's a durable material made from lightweight 600D nylon, a tubular frame made from stainless steel with a durable cloth.</p>
@@ -587,7 +587,7 @@ You can treat this chair as multi-functional, where it serves as a hunting chair
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Chairs</div>
 <h3 class="product-card-name">Allen Company Camo Folding Hunting Stool</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The Allen Company Camo Folding Hunting Stool has 4.6 out of 5 stars from 98 global ratings. It's made of durable and sturdy material with its steel frame that can carry the weight of as heavy as a 225 pounds hunter. With its size of 12 length x 14.</p>
@@ -663,7 +663,7 @@ This makes the whole hunting experience hassle-free and enjoyable.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Chairs</div>
 <h3 class="product-card-name">Redcamp 2-Pack Tripod Hunting Chair</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">The Redcamp 2-pack Tripod Hunting Chair has 4.6 out of 5 stars from 56 global ratings. Its sturdy material is made from 600D oxford fabric for the seats that are powder-coated steel tubes and can carry a hunter's weight as heavy as 225 pounds.</p>
@@ -739,7 +739,7 @@ This is a multi-functional seat for light hunting trips and any outdoor activity
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Chairs</div>
 <h3 class="product-card-name">Baronett Blinds BC101 Tripod XL Folding Hunting Chair</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The Baronett Blinds BC101 Tripod XL Folding Hunting Chair has 4.1 out of 5 stars from 131 global ratings. It's made of 100% polyester heavy-duty material that can hold as heavy as 300 pounds of weight. Its chair size XL allows enough space for comfortable seating on the tripod legs.</p>
@@ -815,7 +815,7 @@ This is also for the weekend hunter who likes to bring chairs in a weekend home 
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Chairs</div>
 <h3 class="product-card-name">Portal Extra Large Quick Folding Tripod Stool</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">The Portal Extra Large Quick Folding Tripod Stool has 4.5 out of 5 stars from 299 global ratings. It's the extra-large seat with back support made from a poly/fabric material that's durable to sit while waiting during a hunt.</p>
@@ -891,7 +891,7 @@ You'll also like its multi-functional use since you can bring it not only for a 
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Chairs</div>
 <h3 class="product-card-name">ALPS OutdoorZ Stealth Hunter Blind Chair</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">The ALPS OutdoorZ Stealth Hunter Blind Chair has 4.4 out of 5 stars from 613 global ratings. It's labeled #1 Best Seller in Amazon Hunting Seats because of its popularity. You’ll understand why this chair is a favorite among many hunters once you've tried it.</p>
@@ -967,7 +967,7 @@ This is a maximum comfort seat for serious hunters willing to wait long periods 
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Chairs</div>
 <h3 class="product-card-name">Browning Camping Dove Shooter Hunting Chair</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">The Browning Camping Steady Stool has a 4. out of 5 stars from58 global ratings. You’ll sit comfortably in the extra-wide seat with back support that's durable to carry as heavy as 275 pounds. The powder-coated steel frame is sturdy with a dimension of 22” length x 13.</p>
@@ -1043,7 +1043,7 @@ This seat can function as an outdoor chair for hunting and other sports like fis
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Chairs</div>
 <h3 class="product-card-name">Muddy MGS400 Swivel-Ease Ground Seat</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">The Muddy MGS400 Swivel-Ease Ground Chair has 4.4 out of 5 stars from 55 global ratings. The seat has a unique material called flex-tek, which assures the hunter its durable construction.</p>

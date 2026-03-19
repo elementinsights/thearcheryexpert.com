@@ -361,7 +361,7 @@ It's regulated to guard against poaching that's illegal in most countries to pro
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Packs</div>
 <h3 class="product-card-name">Badlands Pursuit Hunting Backpack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The Badlands Pursuit Hunting Backpack is designed with Badlands’ AirTrack technology. This technology puts channels into the foam suspension so that air can pass between your body and your Backpack. It also has a breathable mesh over the foam as another layer of comfort and ventilation.</p>
@@ -437,7 +437,7 @@ This Backpack has an unconditional lifetime warranty. Badlands gear is built so 
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Packs</div>
 <h3 class="product-card-name">Great Fit Pursuit Bruiser Deer Hunting Treestand Backpack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">The Great Fit Pursuit Deer Hunting Backpack is an easy access treestand pack that's made of Velcro-free soft, quiet, and silent pocket closure material for a tactful hunt.</p>
@@ -507,7 +507,7 @@ It also features 1212 cubic inches of carrying capacity to enable you to carry a
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Packs</div>
 <h3 class="product-card-name">North Mountain Gear Camo Hunting Backpack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">This Hunting Backpack is constructed of 100% durable polyester Camo fabric light in weight and waterproof. It has a fully padded back panel that allows air to pass between you and the backpack keeping you cool and dry throughout the day.</p>
@@ -581,7 +581,7 @@ This hunting backpack has a quality guarantee and is returnable for a refund if 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Packs</div>
 <h3 class="product-card-name">Slumberjack Pursuit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The Slumberjack Pursuit Backpack is worn low profile and fits snugly against your body, allowing you to stalk, shoot, ride, or cast with ease. It's a low profile solution to carry essential hunting items and water that need to be easily accessed throughout the day.</p>
@@ -652,7 +652,7 @@ It's light in weight and durable to assure high performance and allows you to fo
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Packs</div>
 <h3 class="product-card-name">TENZING TX Pace Day Hunting Pack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">This Tenzing Hunting Pack is torture-tested in the field, and it outlasts a lifetime of most brutal hunts. It features a wide interior main compartment, a versatile face compartment, and a fleece-lined slash pocket for quiet flashlight storage.</p>
@@ -719,7 +719,7 @@ Its color is mossy oak break-up country that camouflages the approach of the hun
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Packs</div>
 <h3 class="product-card-name">ALPS Outdoorz Big Bear Hunting Day Pack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The ALPS Outdoorz Big Bear Day Pack is unique and can be used as a fanny pack, day pack, or both. This Day Pack has a large main compartment, two side pockets, and a front pocket giving you plenty of room to organize your hunting gear.</p>
@@ -793,7 +793,7 @@ It has a lot of storage space with a total storage of 2700 cubic inches.
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Packs</div>
 <h3 class="product-card-name">G GATRIAL Hunting Backpack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">The G GATRIAL Backpack has a Molle system and has hydration compatibility that works great for a hydration bladder as a hydration backpack. It's a very popular multipurpose backpack for traveling, trekking, hunting, hiking, and other outdoor activities for both men and women.</p>
@@ -869,7 +869,7 @@ It's available in a khaki color shade that camouflages during a hunt expedition.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Packs</div>
 <h3 class="product-card-name">Badlands Diablo Dos Hunting Backpack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">The Badlands Diablo Dos Hunting Backpack uses Badlands Hypervent suspension that pulls your Backpack away from your back for a constant flow of cooling air.</p>
@@ -947,7 +947,7 @@ It's available in Approach, Approach FX, and Realtree Edge color patterns unique
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Packs</div>
 <h3 class="product-card-name">SOWLAND Hunting Backpacks</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Sowland's high-tech innovation, combined with traditional craftsmanship, creates the most accurate, highest-quality, and most technologically advanced outdoor bag in the world. This backpack has one of the largest main compartments and can hold all the items you need to travel for one to three days.</p>
@@ -1022,7 +1022,7 @@ It's available in various color shades, green and khaki, which camouflages the h
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Packs</div>
 <h3 class="product-card-name">INSIGHTS Hunting Backpack</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This Insights’ Hunting Backpack is dubbed the most comprehensive designed hunting backpack available. This hunting backpack comes with the T53 front panel system featured in Insights’ hybrid weapon carrier packs.</p>

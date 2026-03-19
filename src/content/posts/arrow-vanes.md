@@ -359,7 +359,7 @@ The better the quality of the vane, the better the stability and aim will be.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Vanes</div>
 <h3 class="product-card-name">M.SJUMPPER ARCHERY Arrows Vanes (51 Pack)</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">These vanes are made of flexible, soft plastic and can be quickly installed on arrow shafts. They’re light, almost as light as a feather vane, and can therefore reduce drag in flight after arrow release.</p>
@@ -431,7 +431,7 @@ The shipping is fast, so you would be receiving your vanes in no time at all.
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Vanes</div>
 <h3 class="product-card-name">Bohning Blazer Vanes Flannel 36 pk. Red</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">With a full five stars on Amazon, this product is a good bet when looking to buy arrow vanes. It's 2 inches in length and weighs in at 6 grains each. This is a universal vane and can be fitted on any arrow, whether broadhead or 3D archery.</p>
@@ -494,7 +494,7 @@ Sourced and made in the United States, this one comes in a 36-pack.
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Vanes</div>
 <h3 class="product-card-name">Bohning 1.75-Inch Shield Cut X-Vanes (100-Pack)</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">This lot comes in a 100-pack and is excellent for indoor sports. The high number of vanes that come in one lot makes it very convenient for anyone who’s practicing. When it comes to hunting, this vane is very well-suited for arrows with a mechanical broadhead.</p>
@@ -560,7 +560,7 @@ They recover quickly after arrow launch and work best with thinner arrows.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Vanes</div>
 <h3 class="product-card-name">Bohning Blazer -  Best Arrow Hunting Vanes</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">These arrow vanes are best for serious hunters. For the following reasons - they help arrows spend more time in flight and thus the perfect fit for hunting arrows. These arrow vanes are perfect for broadhead arrows. They're made of plastic and therefore spend more time in flight.</p>
@@ -646,7 +646,7 @@ According to reviews, these have impressive airtime, look attractive, and ideal 
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Vanes</div>
 <h3 class="product-card-name">Bohning 2.25-Inch  -  Best Arrow Vanes for Accuracy</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Durable and lightweight, these arrow vanes were tailor-made for indoor sports like archery shooting. These arrow vanes are made of soft quality plastic, hence the durability. The reduced weight means the arrows can enjoy increased flight time, which is a big plus for archery shooting.</p>
@@ -728,7 +728,7 @@ This helps the arrow maintain its speed for longer. Hence it travels faster and 
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Vanes</div>
 <h3 class="product-card-name">Q2i Fusion X-II  -  Best Light Weighted Arrow Vanes</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">These high-quality arrow vanes are designed in a shield-cut shape. They maintain a low profile, with muted colors, and make less noise once in the air. Due to their superior build, these arrow vanes minimize drag and are perfect options for hunting and archery.</p>
@@ -807,7 +807,7 @@ Even though they're listed for X-Bow shafts, they can also be used on other kind
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Vanes</div>
 <h3 class="product-card-name">ISPORT 3” Archery Vanes  -  Best Carbon Arrow Vanes</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">These arrow vanes are best for carbon hunting arrows and are meant for serious, aggressive hunters. They're available in various sizes, making them versatile and compatible with a wide range of bows. The available sizes are 2.5”, 3”, 5”.</p>
@@ -886,7 +886,7 @@ The delivery is quite fast, and most customers seem very satisfied with the prod
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Vanes</div>
 <h3 class="product-card-name">Bohning Blazer Vanes Silver 100 pk.</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">We’re back to talking about Bohning, a brand that has been established for 30 years and is very popular to this day. These high profile arrow vanes improve the arrow’s stability a great deal, and they weigh in at only 6 grains each.</p>
@@ -962,7 +962,7 @@ They're 6” tall.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Vanes</div>
 <h3 class="product-card-name">Bohning Blazer Tiger Archery Vane (100-Pack), Green</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">The product’s usual description is 2” X .6” in length and breadth. They're made of extremely durable material. Also, they have parabolic paddles that help immensely with superior steerage. They're great for crossbow bolts and are designed to be compatible with both mechanical and fixed broadheads.</p>
@@ -1048,7 +1048,7 @@ They're durable, don't tear easily, and are promptly delivered.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Vanes</div>
 <h3 class="product-card-name">TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">These vanes are great for archery bow hunting and recreational hunting. These mid-profile vanes are ideal for good clearance. When it comes to the drag time, this is significantly reduced due to the modified shield cut that this vane possesses. This also cuts down the crosswind interference.</p>

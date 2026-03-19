@@ -361,7 +361,7 @@ But there are so many things in archery that we love and can make a great gift f
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Gifts</div>
 <h3 class="product-card-name">Arrow Rest - Trophy Ridge Sync Drop Away Right Hand Arrow Rest</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">An arrow rest is something that all archers need and are constantly in search of updating their old ones with more comfortable ones. An arrow rest can greatly help out an archer, an adjustable one can fit any bow.</p>
@@ -445,7 +445,7 @@ This is the perfect gift for a young archer who wants to practice archery at hom
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Gifts</div>
 <h3 class="product-card-name">Release - Scott Archery Talon Bow Release Buckle Strap</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">The release is essential equipment in archery. An archer needs a release to help him with the shot, but at the same time, protecting the archer’s fingers from physical damage.</p>
@@ -527,7 +527,7 @@ it can immediately be bought off the link as it's also one of the more affordabl
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Gifts</div>
 <h3 class="product-card-name">Custom Arrow Strings - KESHES Dacron Bow String Replacement</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The strings of the bow are something that every archer changes regularly within a year or so. This is something, your archer would most likely love to get as a surprise gift.</p>
@@ -613,7 +613,7 @@ This makes it an overall perfect gift for your loved ones.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Gifts</div>
 <h3 class="product-card-name">Plano Protector Pillar Locked Protective Bow Case</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">If your beloved archer doesn't have a portable case for his most cherished bow and arrows, then there's no doubt that this is the perfect gift for him. A bow’s case is essential in each archer’s arsenal.</p>
@@ -689,7 +689,7 @@ Overall, this bow case will make a perfect gift for your loved ones, as this isn
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Gifts</div>
 <h3 class="product-card-name">Sights - Trophy Ridge Joker Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Sights are also an extremely important instrument for an archer. A sight is a piece of equipment that lets you aim better for a perfect shot and can increase the chances of hitting the target.</p>
@@ -773,7 +773,7 @@ All in all, this is a wonderful gift for your archer to practice, improve the sk
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Gifts</div>
 <h3 class="product-card-name">Archery Bow Stand - HME Products Hard Surface Practice Hanger</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">Another very important secondary thing in archery is a bow stand. A bow stand is used for holding the bow while not in use during the practice sessions.</p>
@@ -855,7 +855,7 @@ Overall, this is a perfect gift for your archer, providing him/her much-needed a
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Gifts</div>
 <h3 class="product-card-name">Archery Target - Morrell Yellow Jacket Supreme Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Well. There might not be a single archer who doesn't need a target. These are if not the most important equipment in archery. A target lets an archer practice his/her accuracy in shooting. Targets get used very quickly and thus have to be switched.</p>
@@ -935,7 +935,7 @@ Overall, this is a perfect archery gift for your beginner marksman, allowing him
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Gifts</div>
 <h3 class="product-card-name">Quiver - G4Free Archery Back Arrow Quiver Canvas</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">A quiver lets an archer carry the arrows in the range at the time of the shooting. It's essentially a case for arrows. A quiver can be custom made very easily, and hence makes a perfect gift for your loved archer.</p>
@@ -1013,7 +1013,7 @@ All in all, this durable and comfortable quiver is the best gift for your archer
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Gifts</div>
 <h3 class="product-card-name">Camouflage Cloth - LOOGU Hunting Ghillie Suit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">If your archer is a regular hunter, what's one thing that’s going to help him when he is out there hunting in the wild? Camouflage cloth. A camouflage cloth makes a perfect gift for an archer who goes on regular hunts.</p>
@@ -1091,7 +1091,7 @@ This makes it just a perfect archery gift for your archer.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Gifts</div>
 <h3 class="product-card-name">Arrow For The Bow - Linkboy Archery Carbon Arrows</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">Arrows are something that every archer requires and these things break very easily. Every archer needs either more or better arrows. They can easily bend, or get lost during practice or hunting in the wild making them a real pain.</p>

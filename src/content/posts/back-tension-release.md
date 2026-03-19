@@ -415,7 +415,7 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Releases</div>
 <h3 class="product-card-name">Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">Tru-Fire archery products have always been the best archery products with great accuracy, reliability, and functionality for many years. Tru-Fire Edge 4 Finger Hand Held Bow Releases is one the best back tension release for beginners, hunters, or professional tournament archers.</p>
@@ -490,7 +490,7 @@ It's awesomely light, high quality, and has a beautiful design with great adjust
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Releases</div>
 <h3 class="product-card-name">Tru-Fire Sear Hand-Held Archery Compound</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Again amazing back tension release by True-Fire. Its design, color combinations, and power is amazing, and you'll love it. This heavy brass handle features a versatile end that ends up to 45°, so you can fit it 3 or 4 finger release.</p>
@@ -564,7 +564,7 @@ Tru-Fire has tested their back tension releases, and they can handle an excessiv
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Releases</div>
 <h3 class="product-card-name">Scott Archery Ascent Micro</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.4/10</span>
 </div>
 <p class="product-card-desc">Scott archery ascent micro is a great back tension release if you're looking for features like dual sear locking design and micro-adjustable travel on it. The materials used for manufacturing are Aluminum, Neoprene, Leather, Cotton, etc.</p>
@@ -634,7 +634,7 @@ Extreme flexible used by tons of pros worldwide, if you're thinking about it, ju
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Releases</div>
 <h3 class="product-card-name">Stanislawski Perfex Resistance</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.2/10</span>
 </div>
 <p class="product-card-desc">A blue in black amazing back pain release comes in 4 different sizes they're small, medium, large, and X-large. This tension release is great for your safety because it will only fire after you reach full draw. Once a certain amount of activation tension is released, it will fire.</p>
@@ -706,7 +706,7 @@ You won't miss your shot after the proper setup of it, perfect release to learn 
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Releases</div>
 <h3 class="product-card-name">Scott Pro Adv Back</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">All its parts are made of high-quality products for durable construction and full value for your money. Designed to shoot targets of long-distance lengths easily without much effort and accurately. The trigger comes with a micro-adjustment screw that helps you to control the flexibility of the draw.</p>
@@ -781,7 +781,7 @@ It has a click feature, which means it will alert you when the bow is about to f
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Releases</div>
 <h3 class="product-card-name">Scott Archery Longhorn Hunter Release</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Scott archery’s longhorn hunter release is built for the hunter. You can take into the woods with confidence. Three-finger designs are made with light metal, steel, or aluminum, making them light and easy to use.</p>
@@ -854,7 +854,7 @@ Each release puts your fingers in optimal action postures  -  we call this “fi
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Releases</div>
 <h3 class="product-card-name">Carter Enterprises Inc Carter 2 Moons Release</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The carter two jaws are designed to be D-Loop friendly, and its nice shiny blue color makes it more attractive. This back tension release has a radical clicker that can be adjusted in the length of the release.</p>
@@ -927,7 +927,7 @@ At first, it's a little much harder to adjust it, but once it's done, you'll enj
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Releases</div>
 <h3 class="product-card-name">Tru-Fire Hardcore Buckle Foldback</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Tru-Fire is the largest manufacturer of releases globally. It has produced an excellent wrist release in the Tru-Fire hardcore buckle foldback. Instead of jaws like other releases, it contains a simple single hook, making it perfect for hunting purposes.</p>
@@ -1001,7 +1001,7 @@ This USA made great quality product to improves your shots. The triggers are fan
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Releases</div>
 <h3 class="product-card-name">Tru Ball V-Lock Buckle Strap</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.5/10</span>
 </div>
 <p class="product-card-desc">The Tru Ball V-Lock is a wrist strap constructed to fit Tru Ball mechanisms, including the Max Hunter 3, Fang 3 & 4, the Max Pro series, Handle Thumb, Boss X, and Max Pro Series.</p>
@@ -1074,7 +1074,7 @@ It's very easy and safe to install without any worry of losing up screws.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Releases</div>
 <h3 class="product-card-name">Tru-Fire Patriot Archery Compound Bow Release</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.3/10</span>
 </div>
 <p class="product-card-desc">Improve your shots with the Tru-Fire Patriot archery compound release during your next practice session. Made with the padded nylon power strap and velcro closure system and its triggers are made for dependable uses. Comfortable to use with both right and left-handed, and also contains adjustable trigger travel within it.</p>
@@ -1152,7 +1152,7 @@ It makes your shooting 100% fun, no need to worry about hurting your fingers whi
 <div class="product-card-rank"><span class="rank-badge">#11 Pick</span> Great Pick Releases</div>
 <h3 class="product-card-name">Spot Hogg Purple WiseGuy Release</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">The Spot hogg purple wise guy release would be best for the people wanting too loose-fitting wrist straps. This is made for improving the comforts and precise fitting gear throughout the sporting industry. Very easy to adjust as it has versatility in wrist adjustment options.</p>
@@ -1226,7 +1226,7 @@ The quality and comfort of it are far the best you've seen in any release on the
 <div class="product-card-rank"><span class="rank-badge">#12 Pick</span> Solid Choice Releases</div>
 <h3 class="product-card-name">Cobra Archery Switch Thumb and Back Tension Release</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">Designed for the winter and target archery thumb release and back tension release is self-closing & easy loading D-Loop. The easily adjustable sensitivity thumb trigger setting comes with two standard thumb barrels. Fast single step process to switch into shooting styles and fully enclosed caliper.</p>

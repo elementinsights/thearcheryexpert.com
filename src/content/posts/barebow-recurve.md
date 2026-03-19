@@ -355,7 +355,7 @@ There are many recurve bows available in the market, so choosing the best recurv
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
 <h3 class="product-card-name">Bear Archery Grizzly Recurve Bow Right Hand</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The Grizzly Recurve Bow is an excellent choice for both beginners and advanced archers. It's great for target practice as well as hunting. The bow is generally built for high-performance works, and it has the great accuracy and durability that most archers want.</p>
@@ -428,7 +428,7 @@ The Super Kodiak is a beautiful bow without many decorations, and it's made from
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
 <h3 class="product-card-name">SAS Explorer Metal Riser Takedown Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">This SAS Explorer bow will make you perfectly prepared for the great fun of practice shooting or trips into the forests for hunting. Metal Riser is the right model to pick for an individual who is looking for a nice bow for low range hunting or target practicing.</p>
@@ -501,7 +501,7 @@ It's available in five different colors, including options, so it will be easy f
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
 <h3 class="product-card-name">SinoArt 68 Takedown Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The SinoArt Recurve bow is available for both right-handed and left-handed people. If your right-handed bow is taken in the left hand, the arrow will be pulled by the left-hand vice versa.</p>
@@ -572,7 +572,7 @@ The bow limbs tend to twist when it's in use, causing them to break altogether i
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
 <h3 class="product-card-name">D&Q Archery Recurve Bow and Arrow Set</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The D&Q Archery Recurve Bow and Arrow Set are well known for being the best recurve bows for beginners due to their smaller length and ease of use. D&Q Archery recurve bow is a classic, beautiful, shiny and ergonomically designed with an impressive rounded body.</p>
@@ -644,7 +644,7 @@ The whole set comes with a takedown recurve bow, 12 pieces arrows, two pieces St
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
 <h3 class="product-card-name">KAINOKAI Traditional Handmade Hunting Recurve Archery Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">KAINOKAI is a professional seller of bows manufactured by craftsmen, which maintain a powerful, high speed of bows. It's suitable for hunting, shooting training, physical exercise, entertainment, and decoration collection.</p>
@@ -719,7 +719,7 @@ The KAINOKAI recurve bow is filled with a lot of unique features like accuracy a
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
 <h3 class="product-card-name">Samick Sage Takedown Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The Samick Sage Takedown Recurve Bow is designed to be an accessible, all-around choice for beginner to expert archers. Samick products are well-proven by archery champions worldwide, and their goal is to provide the best quality curved bows with durability.</p>
@@ -793,7 +793,7 @@ The gorgeous and durable maple wood base comes with a maximum 29" length and 25-
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
 <h3 class="product-card-name">Great Plains Recurve Bow Green Mamba</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">The Great Plains Recurve Bow Green Mamba is a deadly weapon, and it's excellent for tight hunting situations like ground blinds and tailing animals in limited cover.</p>
@@ -865,7 +865,7 @@ The Great Plains Recurve Bows are easily known through their 18-month limited wa
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
 <h3 class="product-card-name">PSE Archery Razorback Traditional Takedown Recurve Recreational Shooting Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">The PSE Archery Razorback Bow is an amazing shooting bow made of Walnut, Burma White, and Beech Wood with Hard Maple and Fiberglass limbs. Recurve bow fit for female archers, the draw weight is adjustable from 15 to 35 pounds, and the brace height is 7 inches.</p>
@@ -941,7 +941,7 @@ The Razorback has a one-year limited warranty agreement, which provides you suff
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bows</div>
 <h3 class="product-card-name">Southwest Archery Spyder Takedown Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">The Southwest Archery Takedown Recurve Bow is a compact, fast, accurate bow designed by the original Samick Sage engineers and developers. Its developers have combined four naturally sourced kinds of wood to create this beautiful bow that's the perfect choice for anyone.</p>
@@ -1014,7 +1014,7 @@ You can use this bow for hunting deer and bow fishing and also for target practi
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
 <h3 class="product-card-name">Southland Archery Supply SAS Maverick One Piece Traditional Wood Hunting Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">The Southland Archery Bow is the perfect primitive hunting weapon from 29 to 60 and length of 60\" pounds at the best price.</p>

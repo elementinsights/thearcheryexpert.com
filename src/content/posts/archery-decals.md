@@ -333,7 +333,7 @@ One of the chicest, unique, and on-fleek decalcomania concepts is archery or the
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Decals</div>
 <h3 class="product-card-name">Slap-Art Bowhunter Arrow Archery Shooting Bow Vinyl Decal Bumper Sticker</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">Slap-Art’s design is on point - from their brand name itself, its visuals will slap the reality out of you in this decal type.</p>
@@ -402,7 +402,7 @@ You don't have to worry about its longevity as it can last for years. No need to
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Decals</div>
 <h3 class="product-card-name">Decal Serpent’s Archery Mom Sports Vinyl 6-Inch Decal</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">This decal variety is for those who want to highlight empowerment on their valuables. Its style and font emboss a loud magnificent message for women, especially for moms out there. Colors, art structure, concept, text, and style are a huge part of a living and non-living character.</p>
@@ -471,7 +471,7 @@ You're probably in a tight budget but have a highly-ignited fashion sense that m
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Decals</div>
 <h3 class="product-card-name">Mathews Archery Logo with Arrow - White Hunting Window Decal Sticker</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">LVE Decals' exquisitely well-modified decal sticker with the famous brand of bow and arrow manufacturer, Mathews is made available for the public at a very reasonable price and features.</p>
@@ -538,7 +538,7 @@ You can also enjoy a lavish-like life in disguise by just turning your ordinary 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Decals</div>
 <h3 class="product-card-name">D1062 Silent Entry Deer Hunting Bowhunting Decal for Truck</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Daring, fearless, adventurous - these three words best describe this decal as it flaunts its distinct features of style, mood, and imagery.</p>
@@ -607,7 +607,7 @@ This isn't your ordinary sticker that sends off encouraging messages and reminde
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Decals</div>
 <h3 class="product-card-name">White Bowtech Logo Vinyl Decal Sticker</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Another archery equipment manufacturing company is Bowtech, which honors a neat and minimalist style. As we unravel our ever-evolving world, we also let ourselves be involved in the process of acquiring impeccable learning, especially in lifestyle.</p>
@@ -675,7 +675,7 @@ The product is beyond worth it because being stylish isn't merely the point of e
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Most Popular Decals</div>
 <h3 class="product-card-name">Duckits LLC’s Arrow Minded Archery Decal Vinyl Sticker</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.7/10</span>
 </div>
 <p class="product-card-desc">A physically convincing layout that used the idea of hunting in the form of a deer figure to establish a unique representation of archery is right in front of your eyes.</p>
@@ -744,7 +744,7 @@ On the other hand, if you're looking for an intensely classified compound that r
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Decals</div>
 <h3 class="product-card-name">Graphecs’ Archery Vinyl Decal Sticker Hunting Bow And Arrow Woman Warrior</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.5/10</span>
 </div>
 <p class="product-card-desc">Are you tired of scrolling around your phone to search for a decal gem for your room makeover plans? If that's the case, you just conserved your time and energy. Graphecs' type of decal product has one specific pattern and color in each quantity.</p>
@@ -815,7 +815,7 @@ Moreover, this is one of the low-cost decals with a top-notch function that will
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Decals</div>
 <h3 class="product-card-name">3-Pack Addicted To Archery Vinyl Sticker Decal</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.3/10</span>
 </div>
 <p class="product-card-desc">A genius-crafted output that commemorates the new millennium trend for the print industry because of the overall look inspired by the customized printed label t-shirts that use taglines, quotes, or slogans for self-expression.</p>
@@ -882,7 +882,7 @@ The underlying effect of a material depends on the content and if you want to gi
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Decals</div>
 <h3 class="product-card-name">Arrow Heart - Die Cut Teal Vinyl by Red Clay Designs</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.1/10</span>
 </div>
 <p class="product-card-desc">This piece from Red Clay Designs is an epitome of the line, “you don’t need to be grand all the time to stand out” for its aesthetically pleasing look that's elegant enough to make things lively and adorable.</p>

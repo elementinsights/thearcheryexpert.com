@@ -365,7 +365,7 @@ You can pick your archery backpacks from various colors of bright and bold color
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Backpacks</div>
 <h3 class="product-card-name">Legend - XT720 Recurve Bow Case | Backpack Style Bag</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The Legend XT720 backpack fashion recurves bow case completely defends your recurve bow and all your assistants. It can take up to 2 bows at a time and there's a movable inside case for your riser (up to 27\") and 2 legs.</p>
@@ -442,7 +442,7 @@ Our fast entrance features let you instantly regain your bow and accessories whi
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Backpacks</div>
 <h3 class="product-card-name">Legend Archery ProTour Backpack - Premium Recurve Bow Case</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Gear safeguard extra thick foam wadding to safely transport your recurve bow, arrows, quiver, and additional assistants. Multi openings & organizer easily move every small and big archery accessories like the release, button, strings, stabs, quiver stabs, etc.</p>
@@ -529,7 +529,7 @@ Our uncommon combination of tough nylon and shock foam padding gives great stren
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Backpacks</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Black</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The latest backpack fashion recurves bow case completely defends your recurve bow and all your assistants. It can take up to 2 bows at a time and there's a movable inside case for your riser and 2 legs.</p>
@@ -622,7 +622,7 @@ You can use it while hiking or riding a bike or ATV.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Backpacks</div>
 <h3 class="product-card-name">SAS Archery Recurve Takedown Bow Backpack With Arrow Tube</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Best protection included fully padded rucksack with extra removable limb riser bag for max protection over your head from injuries.</p>
@@ -706,7 +706,7 @@ Soft inner fully padded backpack with extra removable limb riser bag for max pro
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Backpacks</div>
 <h3 class="product-card-name">Lug Women's Archer Backpack, One Size</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">A Lug Women's Archer Backpack archery backpack helps you stay prepared and always ready for a distinct archery session. Best protection included fully padded rucksack with extra removable limb riser bag for max protection over your head from injuries.</p>
@@ -784,7 +784,7 @@ It has an extendable telescopic active shell arrow container that can keep up to
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Backpacks</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Blue</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The latest backpack fashion recurves bow case completely defends your recurve bow and all your assistants. It can take up to 2 bows at a time and there's a movable inside case for your riser and 2 legs. Three-dimensional excitement foam padding guards your bow and every accessory.</p>
@@ -872,7 +872,7 @@ Construct of Oxford cloth, 4 tubes, durable, and easy to carry.
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Backpacks</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Red</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Best protection included fully padded rucksack with extra removable limb riser bag for max protection over your head from injuries. Two big front bags with a total of three ran pockets, extra three pockets inside the bags for all your abettors.</p>
@@ -956,7 +956,7 @@ Follow thousands of happy archers match add-to-cart to order today.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Backpacks</div>
 <h3 class="product-card-name">XTACER Multi-Function 4-Tubes Back Field Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">The XTACER multi-function 4 tubes backfield quiver backpack fashion recurve bow case completely defends your recurve bow and all your assistants. It can take up to 2 bows at a time and there's a movable inside case for your riser (up to 27\") and 2 legs.</p>
@@ -1037,7 +1037,7 @@ Large carrying capacity, very cool, and fashionable.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Backpacks</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Gray</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">The latest backpack fashion recurves bow case completely defends your recurve bow and all your assistants. It can take up to 2 bows at a time and there's a movable inside case for your riser and 2 legs. Three-dimensional excitement foam padding guards your bow and every accessory.</p>
@@ -1125,7 +1125,7 @@ Large carrying capacity, very cool and fashionable.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Backpacks</div>
 <h3 class="product-card-name">ALPS OutdoorZ Crossfire Hunting Pack Field Quiver Training Archery</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">Vented back and tubular lightweight structure archery backpack. The accessory pouch can be detached and used with the dressing or it can be used independently without the pack. Waistband belts can provide clip-style holsters so you can securely carry a handgun.</p>

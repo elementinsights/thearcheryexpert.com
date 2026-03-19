@@ -361,7 +361,7 @@ Look at the recommended product and check out the clothing below.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Items</div>
 <h3 class="product-card-name">TIDEWE Hunting Clothes with Fleece Lining</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This water-resistant hunting suit features quiet fabric with magnet buckles to keep you stealthy in the field. The fleece lining provides reliable warmth during cold weather hunts without adding bulk. It allows you to spend more time in the field by keeping you warm from head to toe.</p>
@@ -442,7 +442,7 @@ Get one for yourself, and you'll wonder how you ever hunted in the extreme-cold 
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Items</div>
 <h3 class="product-card-name">North Mountain Gear Woodland Camo Ghillie Suit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Well, as you know this archery hunting is the best outdoor clothing for the hunters.</p>
@@ -524,7 +524,7 @@ Hunting Jacket with a hood comes with an archery outfit. Very stylish, naturally
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Items</div>
 <h3 class="product-card-name">Sitka Men's Hunting Core Lightweight Crew Long Sleeve Shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Here's a new long shirt and the best selling shirt during archery or hunting. It’s made up of polyester so it‘s very light, comfortable, fit and it’s made up 100% polyester. As you know, these long shirts are very easy to use during archery hunting.</p>
@@ -610,7 +610,7 @@ This long sleeves shirt is breathing comfortably, controls odor, and heat sweat 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Items</div>
 <h3 class="product-card-name">Iwom Xt Archery Hunting Clothing</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Look check its new product for clothing for winter hunting. It’s a brand for IWOM Outerwear. You can use this product “IWOM XT” for archery hunting. The best products are for the winter season. As you know, it’s waterproof plus windproof products.</p>
@@ -700,7 +700,7 @@ This quality of this product is the best cold-season hunting system.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Items</div>
 <h3 class="product-card-name">ScentLok Men's Recon Thermal Pants</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Well, the new unique “Scentlok Men’s Recon Thermal Pants” is 100% made up of polyester. When you want to hunt during a cold, freeze point, you need warm pants during hunting. These products, the pants thermal warmth when the temperature is cold while hunting.</p>
@@ -788,7 +788,7 @@ It provides for health and safety during the hunting program.
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Items</div>
 <h3 class="product-card-name">ScentLok Men's Hunting Clothes- ScentLok Taktix Hunting Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">Interestingly, the ScentLok Taktix hunting jacket is a new technology in this market. Within this particular, is the mixture of carbon and zeolite. This new technology helps to remove smell and odor while hunting. It also helps you to absorb sweats, keep you more confident while hunting clothes.</p>
@@ -871,7 +871,7 @@ It’s made up of morphic water resistance and windproof too.
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Items</div>
 <h3 class="product-card-name">Yukon Gear Men's Waylay Softshell Hunting Jacket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">With this particular, this product allows you to hunt longer and stay more comfortable while hunting by providing a barrier to an element. It’s windproof, water-resistant, and fleece-lined and can be used in different conditions. It’s made up of 94 % polyester and 6 % elastane.</p>
@@ -957,7 +957,7 @@ So, if you buy this product you won’t regret it.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Items</div>
 <h3 class="product-card-name">Earoomze Men's 3-Dimension Breathable Hunting Outfit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">Well, as you know, the new 3-dimensional breathable hunting outfit is the “ Earoomze outfit” in this market. It’s made up of very high quality. It consists of polyester, lightweight, and has a natural feel because it looks like leaves clothing.</p>
@@ -1033,7 +1033,7 @@ This clothes’ suit for forest hunting, forest sniper, watching birds, and so o
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Items</div>
 <h3 class="product-card-name">New View Hunting Outfit</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Here comes a great outdoor product New view hunting suit. This product comes with a set of jackets and pants. It’s also smooth face polyester material with windproof, water-resistance, and breathable. It’s designed with camouflage print, shark skin softshell fabric which lets you be more comfortable.</p>
@@ -1117,7 +1117,7 @@ This suit is also perfect for early morning dew and light rain.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Items</div>
 <h3 class="product-card-name">Icebreaker Boot Blanket</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This product is a boot type blanket for heavy winter conditions. It’s not designed for walking a distance but keeps your hands and feet warmer in extreme winter situations. The boot blanket is insulated with 2-ply 300-gram insulation placed between the tough poly/cotton outer shell and water resistance inner shell.</p>

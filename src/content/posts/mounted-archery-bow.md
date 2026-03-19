@@ -357,7 +357,7 @@ Anyway, you might’ve come here because a passion for mounted archery developed
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
 <h3 class="product-card-name">Huntingdoor Archery Traditional Recurve Mongolian Horse Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The Mongolians have the fiercest army in the ancient world. They’re swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians’ secrets in battle is their horsemen, particularly the horse bow infantry.</p>
@@ -443,7 +443,7 @@ They're a good value for money, and I assure you that you won’t regret buying 
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
 <h3 class="product-card-name">AF Turkish Short Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Turkey is another powerhouse during medieval times in regard to ancient warfare. And what's the formula to their success? Just like the Mongolians, the Turkish are also the masters of both horses and the art of archery.</p>
@@ -531,7 +531,7 @@ Nevertheless, it's a great bow to own if you value the equipment's durability an
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
 <h3 class="product-card-name">AF Handmade Traditional Crimean Tatar Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Another bow of AF Archery that I’ll be talking about is the AF Archery Horse Bow. The brand itself produces some of the top bows in the market. Therefore, rest assured that you’re only receiving the best if you buy any of their archery equipment.</p>
@@ -617,7 +617,7 @@ I believe that the AF Handmade Traditional Crimean Tatar Recurve Bow is the best
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
 <h3 class="product-card-name">Southland Archery Traditional Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Southland Archery is a popular archery supply provider. They have a wide range of selections in supplies.</p>
@@ -707,7 +707,7 @@ Aside from the horse bow, it also includes brass bushing, quiver, sight, stabili
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
 <h3 class="product-card-name">Premium Korean Traditional Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Korea is currently the top-performing country in regards to archery, in general. They take their archery lessons very seriously. Their ability to compete well in archery range is also mirrored by their bow and arrow production.</p>
@@ -791,7 +791,7 @@ If the best country in archery competition likes it, then it means that this bow
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
 <h3 class="product-card-name">PSE Archery Pro Max Traditional Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">Suppose you're not particularly looking for bows to use in official competitions but still want to get your hands on premium and quality archery gears. In that case, you've to check out PSE Archery Pro Max Traditional Recurve Bow.</p>
@@ -871,7 +871,7 @@ In addition to the bow, you'll also get extras such as a recurve stringer, quive
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
 <h3 class="product-card-name">D&Q Takedown Recurve Bow and Arrow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">The D&Q Takedown Recurve Bow is extremely durable and extraordinarily tough, and I guarantee you that. Why am I confident? Well, it's because the primary materials incorporated into the bow are a durable aluminum riser.</p>
@@ -962,7 +962,7 @@ The good thing is that the package also includes other essential items in improv
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
 <h3 class="product-card-name">Spyder XL Takedown Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">If you want to look more professional, then the Spyder XL Takedown Recurve Bow is what you're looking for. The bow's overall design is just pleasing to look at, which is a combination of hardwood and modern materials to suit the needs of today's mounted archers.</p>
@@ -1038,7 +1038,7 @@ So I believe that it's worth every penny if eventually, you purchase them.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bows</div>
 <h3 class="product-card-name">AF Turkish Style Handmade Traditional Laminated Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">We'll take another look at a Turkish handcrafted bow and the third archery item in this list for this section. I simply love the Turkish bow and arrow because of its simplicity and compactness.</p>
@@ -1120,7 +1120,7 @@ I believe that the AF Turkish Style Handmade Laminated Traditional Recurve Bow i
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
 <h3 class="product-card-name">Bear Archery Grizzly Recurve Right Hand</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">If you’re looking for an archery store with a long history, then you must visit Bear Archery. The store has been around since 1933. And staying in this business for that long says a lot about the credibility of the business.</p>

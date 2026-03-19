@@ -371,7 +371,7 @@ Here's a list of the 10 best archery bag targets that we've gathered for you to 
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Targets</div>
 <h3 class="product-card-name">Field Logic Hurricane Archery Bag Target H25</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This archery bag target is great for beginners and sport hunters to practice their skills. The key feature of the product is that it's very durable.</p>
@@ -450,7 +450,7 @@ It can't withstand prolonged sun or rain exposure, so you should better keep it 
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Targets</div>
 <h3 class="product-card-name">Morrell Yellow Jacket Crossbow Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Morrell targets offer the best archery targets. They’re well renowned in the industry for their provision of good quality archery targets at an affordable price. This particular bag target of Morrell is unique in its ability to withstand pressure from a range of high-speed bows including crossbows and compound bows.</p>
@@ -533,7 +533,7 @@ If the cover of your target wears out then you can get it replaced to provide a 
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Targets</div>
 <h3 class="product-card-name">Morrell Yellow Jacket Supreme 3</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The Morrell yellow jacket supreme is another bag target of the Morrell line. If you practice with field points using high-speed compound bows, then this bag target is just for you.</p>
@@ -612,7 +612,7 @@ If you're an experienced archer using high-speed crossbows and want to practice 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Targets</div>
 <h3 class="product-card-name">Morrell Yellow Jacket Stinger Field</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">If you've just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center. This Morrell yellow jacket stinger is an ideal bag target for you.</p>
@@ -689,7 +689,7 @@ This target is best used for indoor practice sessions by beginners or skilled sp
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Targets</div>
 <h3 class="product-card-name">Morrell Supreme Range Field Point Bag Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">If you're passionate about archery then chances are that your children would be too. National Archery in the school program is an initiative to indulge students in the educational benefits of archery and this would be an excellent medium for your children to enhance their skill level.</p>
@@ -768,7 +768,7 @@ It’s built for field points only and using them would increase its life. Unlik
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Targets</div>
 <h3 class="product-card-name">Delta McKenzie Speedbag 20/20 Archery Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">This is the first McKenzie archery target in this list. The distinguishing feature of this specific bag target is the hydro-press stuffing of material. Unlike the process of manually stuffing the material.</p>
@@ -853,7 +853,7 @@ This bag target is for indoor practice, so bring it inside with you after practi
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Targets</div>
 <h3 class="product-card-name">Morrell Keep Hammering Outdoor Range Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This Morrell bag target is perfect for beginners or sport hunters who want to hone their skills on a long-range target that's kept outdoors. The size of this bag target is almost double the size of similar targets providing a large room for errors by beginners and long-range shots.</p>
@@ -934,7 +934,7 @@ The cover of the target provides a unique set of various dots to target and shoo
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Targets</div>
 <h3 class="product-card-name">Field Logic Hurricane H21 Crossbow Archery Bag Target</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">Another top-notch target in the Hurricane bag target series is this field logic hurricane h21. Similar to the other Hurricane field logic h25 target, this bag target also exhibits two shooting sides with versatile design.</p>
@@ -1015,7 +1015,7 @@ Use it for field points only and it will stay with you for years.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Targets</div>
 <h3 class="product-card-name">Bulldog Targets Doghouse Field Point Archery Target Plus</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">If you're an experienced archer or a toxophilite, who loves shooting at targets hundreds of times a day, then this Bulldog target is just for you. This is the only archery bag target that comes with a lifetime warranty. It could be the only archery target you would buy.</p>
@@ -1100,7 +1100,7 @@ Shooters who don’t like to move their targets around and beginners who are sta
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Targets</div>
 <h3 class="product-card-name">DELTA 70630 Speed Bag Crossbow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This bag target is another one of the Speedbag series designed and created especially for outdoor use.</p>

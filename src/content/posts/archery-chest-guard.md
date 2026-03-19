@@ -357,7 +357,7 @@ We can select from much different protective equipment while considering their a
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guards</div>
 <h3 class="product-card-name">Easton Diamond Chest Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This chest guard dates back to 2013, and many people are still using it. It's flexible to use during any ongoing activity, as it's short-sleeved. It provides the athlete the advantage of reduced sweating as much more sweat can accumulate in long-sleeved attire.</p>
@@ -429,7 +429,7 @@ There's an advantage for athletes from the same team as several athletes can sha
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guards</div>
 <h3 class="product-card-name">Hunting Archery Adjustable Chest Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Similar to the Easton Diamond Chest Guard, this item is very lightweight, merely weighing less than a kilogram. However, this item is lighter, making it easier to use. Most people prefer to use light items to increase their movement flexibility.</p>
@@ -506,7 +506,7 @@ Hunters highly use the item as they undertake their everyday life routine and ar
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guards</div>
 <h3 class="product-card-name">Starlight Collective Archery Chest Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">This item can be used for sports and any other activity that requires chest protection. Women prefer this item as it provides excellent protection for their chests. Women who are in sports can use this wear for protection against any hit on their chest area.</p>
@@ -589,7 +589,7 @@ The straps are fitted with a snap closure that enables the user to work appropri
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guards</div>
 <h3 class="product-card-name">KOWinner 1-Piece Archery Chest Protector Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">This item covers both the left side of the chest and also the right side of the chest. People have different chest sizes and hence it comes in different sizes, be it small, medium, or large. Since people have different chest sizes, this item is fitted with straps.</p>
@@ -664,7 +664,7 @@ Its material is primarily made of black, which is preferred for major activities
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guards</div>
 <h3 class="product-card-name">Cartel Chest guard 101 White</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">It's an attractive item to work with, and the public quickly notices one as it's shiny and made of bright white color.</p>
@@ -745,7 +745,7 @@ The item is designed for right-hand use only.
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guards</div>
 <h3 class="product-card-name">Adjustable Ergonomically Designed Shooting Chest Protector</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">A very light item with an average weight of seventy grams makes it easy to carry around. The lightweight increases the user's flexibility and provides comfort, which is vital when undertaking an activity. This item is preferred for hunting and also shooting activities.</p>
@@ -822,7 +822,7 @@ Easy to clean as it's mainly made of a black material that doesn't readily absor
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guards</div>
 <h3 class="product-card-name">TOPARCHERY Archery Hand Guard protector Shooting Glove For Left Hand</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This protective wear is highly loved and has always recorded one of the most sales in history. It comes in the color black, which has proven to be a perfect color for many users.</p>
@@ -899,7 +899,7 @@ This guard is light and doesn't burden the user, making it possible to be used a
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guards</div>
 <h3 class="product-card-name">Striker Bows Brown Three Finger Archery Glove Genuine Handmade Leather</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">One of the most rated gloves that offer the best services to its users. It's made of pure leather that enhances its durability and offers service for a more extended period. The leather material is, however, not thick and has a smooth lining.</p>
@@ -975,7 +975,7 @@ The fingertips are reinforced for maximum protection and strength.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guards</div>
 <h3 class="product-card-name">Wizard Youth Archery Arm Guard For Target Shooting</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Are you a kid? Do you've a kid or a young relative? Do your kids love hunting and shooting? This item is majorly designed for the young ones interested in hunting and shooting games. The item can also be used for training purposes for the kids.</p>
@@ -1062,7 +1062,7 @@ This item is dated back to 2014 and has always been ranked as one of the guards 
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guards</div>
 <h3 class="product-card-name">HRCHCG Archery Gloves Bow Finger/Hand Guard (Pack of 3)</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This product comes in three packs for protection for the three fingers mainly used to hold the bow. The three middle fingers mostly hold the bow, and the arrow is released between the fingers.</p>

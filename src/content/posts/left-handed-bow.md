@@ -329,7 +329,7 @@ The string, as well, might be made of an assortment of materials, the imperative
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
 <h3 class="product-card-name">Genesis Original Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The Genesis unique unit is a top-notch bow that's anything but difficult to set up and use. They're accessible in different tones like orange, pink, green, and some more. With a customizable attract weight of 10 to 20 lbs, this is an ideal starter bow for youngsters.</p>
@@ -402,7 +402,7 @@ It functions with the single-cam innovation. There are no tuning issues, less fo
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
 <h3 class="product-card-name">Samick Sage Takedown Recurve Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">The Samick Sage Takedown recurve bow is an ideal bow for apprentices. It has an attractive weight of 25 to 60 lbs and is utilized for sport shooting and chasing.</p>
@@ -468,7 +468,7 @@ This bow is sturdy and lightweight with solid appendages with metal pockets that
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
 <h3 class="product-card-name">Barnett Outdoors Lil Banshee Jr. Compound Youth Archery Set</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The Barnett Outdoors Jr. Compound bow has a draw weight of 18 lbs and an attract length of 18 to 22 inches. With a net load of 1.8 lbs and a general length of 33.5 inches, this bow is ideal for little youngsters.</p>
@@ -534,7 +534,7 @@ Besides, this bow accompanies a five-year restricted guarantee so you can fix an
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
 <h3 class="product-card-name">Diamond Archery Infinite Edge Pro Bow Package</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The Diamond Arrow-based Weaponry Boundless Edge Genius has flexible reaches that permit it to be a lifetime bow. It has an attract length of 13 to 31 inches, and an attract weight of 15 to 70 lbs.</p>
@@ -600,7 +600,7 @@ It's a smooth compound bow accessible in a pink burst, dark operations, and over
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
 <h3 class="product-card-name">Bear Archery Cruzer G2 Adult Compound Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">The Bear Bow and Arrows Cruzer G2 have an attract weight of 5 to 70 lbs, and an attract weight of 12 to 30 inches. With 315 fps, this bow offers speed and control that's essential when chasing or shooting.</p>
@@ -669,7 +669,7 @@ The Bear Archery Crozer G2 highlights a particular grasp plan that diminishes ha
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
 <h3 class="product-card-name">Bear Archery Approach RTH Compound Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.7/10</span>
 </div>
 <p class="product-card-desc">The Bear arrow-based weaponry approach is a first in class chasing gear that you can buy at a reasonable cost. It has an attractive weight of 55 to 70 lbs and a draw length of 23.5 to 30.5. This bow can dispatch consistent and moderate shots.</p>
@@ -735,7 +735,7 @@ This sort of bow has a mechanical investigation and gives another degree of cont
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
 <h3 class="product-card-name">Genesis Mini Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.5/10</span>
 </div>
 <p class="product-card-desc">The Genesis small bow is the ideal bow for youngsters. It's an effective bow that your youngster can utilize when learning arrow-based weaponry. It's outfitted with wellbeing highlights to ensure that your kid is sheltered while utilizing the bow.</p>
@@ -800,7 +800,7 @@ This bow is ideal for little children since it has a low draw weight.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
 <h3 class="product-card-name">PSE ARCHERY Mini Burner Compound Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.3/10</span>
 </div>
 <p class="product-card-desc">The PSE small burner is the ideal left-handed bow for youngsters between the ages of 8 to 12 years of age. It has a movable attract length of 16 to 26.5 inches, and an attract weight of 29 to 40 lbs.</p>
@@ -871,7 +871,7 @@ It's sufficiently light to carry for your hunting trips.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Bows</div>
 <h3 class="product-card-name">SinoArt Bow and Arrow Set for Teen</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.1/10</span>
 </div>
 <p class="product-card-desc">The SinoArt Bow and Arrow Set is explicitly calibrated for youngsters. This bow functions admirably for clients who have little hands and low draw loads. With an attractive weight of 7 to 12 lbs, this left-gave bow is lightweight and strong.</p>

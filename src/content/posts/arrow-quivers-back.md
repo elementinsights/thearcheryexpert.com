@@ -361,7 +361,7 @@ They're a good bow, some high-quality arrows, and the best bow quiver.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Quivers</div>
 <h3 class="product-card-name">Trophy Ridge Lite-1 5 Arrow Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The Trophy Ridge Lite-1 5 Arrow Quiver is excellent if you're looking for a device that will need several mounting settings, as well as the ability to remove parts to lighten your load weight if necessary.</p>
@@ -435,7 +435,7 @@ It's also very light (true to its name), and it's equally valuable to secure and
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Quivers</div>
 <h3 class="product-card-name">G4Free High-Grade Matte Velvet Arrow-Back Pot Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">When you're looking for accuracy and ease of carrying and defending your arrows, the G4Free Arrow-back Pot Quiver is a great product.</p>
@@ -505,7 +505,7 @@ The additional two pockets included on this bow quiver are also perfect for stor
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Quivers</div>
 <h3 class="product-card-name">Easton Flipside 3-Tube Hip Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">The Easton Flipside 3-Tube Hip Quiver should be an excellent choice when you need a practical solution. The commodity consists of the highest quality materials. So it will last many years. The quiver is intended to serve multiple uses.</p>
@@ -581,7 +581,7 @@ If you want to make regular use of your quiver, you should pick this one before 
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Quivers</div>
 <h3 class="product-card-name">LimbSaver Silent Quiver for Bow Hunting</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">The LimbSaver Silent Quiver is an ideal hunting solution, and, in keeping with its purpose, it provides a very tight, secure hold for your bow and arrows while moving or at the range downwards.</p>
@@ -645,7 +645,7 @@ It holds up well, and almost all customers were more than happy with both the pe
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Quivers</div>
 <h3 class="product-card-name">Allen Youth Archery Compact Back Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">This Allen Company entry-level quiver is targeted towards children beginning in archery. It's very lightweight and has a sling-style design that allows it to be worn across the back, which can accommodate up to 14 arrows with sizes that can reach a height of 30 inches.</p>
@@ -733,7 +733,7 @@ You'll love the performance.
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Quivers</div>
 <h3 class="product-card-name">G4Free Archery Deluxe Canvas Back Arrow Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">The G4Free brand is, for good reasons, well-trusted among archery hobbyists and hunters. This bow quiver is unique in particular as it's made from Canvas. Canvas is a sturdy, versatile material used to make backpacks, boat sails, tents, handbags, and high-quality shoes.</p>
@@ -804,7 +804,7 @@ Its optimized design helps prevent your arrows from spilling out while keeping t
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Quivers</div>
 <h3 class="product-card-name">Easton Flipside 2-Tube Hip Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">The Easton Flipside is a quiver built for right and left users alike. This is made from high-denier poly material and comes in a trendy camouflage color or an eye-catchy mix of orange and black. It's intended primarily for targeting.</p>
@@ -874,7 +874,7 @@ So, if you need a smaller, lighter, more simple bow quiver while on the go, just
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Quivers</div>
 <h3 class="product-card-name">OMP No Spill Tube Quiver</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">The OMP is an affordably priced quiver that boasts a unique design and is incredibly helpful in keeping the arrows on the shooters' side and at a good angle that facilitates the recovery.</p>
@@ -945,7 +945,7 @@ For those tired of having to bend over and pick up their arrows while out on the
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Quivers</div>
 <h3 class="product-card-name">Kwikee Kwiver Combo  -  4-Arrow Bow Quiver for Archery and Hunting</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">The Kwikee Kwiver Arrow Quiver is the ideal, easy way to protect your arrows without having to worry about falling out while walking or running. It also quickly detaches from the mounting point, maximizing both convenience and your ability to respond to a target quickly.</p>
@@ -1013,7 +1013,7 @@ It's also nice to see a bow quiver, which allows the entire quiver to be safely 
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Quivers</div>
 <h3 class="product-card-name">Kwikee Kwiver Kompound  -  6-arrow Bow Quiver for Archery and Hunting</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">The Kwikee Kwiver K6 Arrow Quiver is built with a powerful, robust construction and is ideal for those trying to optimize their next archery trip by allowing quick and easy disconnection of arrows.</p>

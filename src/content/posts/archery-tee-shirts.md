@@ -361,7 +361,7 @@ Many of these tee shirts are light in weight, making people opt for them during 
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Shirts</div>
 <h3 class="product-card-name">Vintage Hoyt Archery Brawling Bucks T-shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">It’s a vintage type of men’s T-shirt which comes in a large size. For those fascinated by the vintage style and vibe, you could consider checking it out. It’s pretty affordable and has a high-class quality. It’s available in two colors. Dark Heather, Gray and Black.</p>
@@ -439,7 +439,7 @@ As long as it fits you perfectly, you can enjoy the rest of the day comfortably 
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Shirts</div>
 <h3 class="product-card-name">We Are US Archery - National Team Supporter T-Shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">This tee shirt is available in all fit types: men, women, and youth. Apart from the fit types available, this tee shirt also comes with a wide variety of colors to choose from. There's a good variety in the available shirt sizes, which range up to 3XL.</p>
@@ -506,7 +506,7 @@ The US flag is featured prominently on the shirt - a great way to show your patr
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Shirts</div>
 <h3 class="product-card-name">A & E Designs Rambo Shirt Archery T-shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">A & E Designs have been able to provide something fashionable for Rambo die-hard fans. If you’re one, listen to this. This great tee shirt is available in a light yellow color, and it’s quite inexpensive.</p>
@@ -586,7 +586,7 @@ Don’t hesitate to get one.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Shirts</div>
 <h3 class="product-card-name">Smokem’ Whitetail Soldier Deer Hunting T-shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">It’s an awesome men’s tee shirt and quite cheap. It’s a Lavonne Company product that comes in three cool colors. Brown Savana, Forest Green, and Navy Blue.</p>
@@ -663,7 +663,7 @@ You can wear this t-shirt with jeans, sweatpants, khakis, or shorts, just whiche
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Shirts</div>
 <h3 class="product-card-name">Idakoos I Love Archery Men's T-shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Ladies, are you looking for something good you can give to that special man in your life? Well, this t-shirt could be an excellent option. Idakoos made sure that they provide this product in a variety of colors to suit different people. This tee shirt has a round neckline.</p>
@@ -739,7 +739,7 @@ You can now proceed with ordering this tee shirt for someone or even yourself as
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Shirts</div>
 <h3 class="product-card-name">King’s Camo Ladies Hunter Series Long Sleeve Camo Tee</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">It’s superb polyester outdoor wear, especially when hunting. Just as the name suggests, it camouflages well with the environment because of its patterns. Even those little creatures will never notice you. It’s long-sleeved hence will protect your hands from all forms of bruises, scratches, and rashes.</p>
@@ -822,7 +822,7 @@ It should be noted that you’ll be better off if you know the correct size for 
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Shirts</div>
 <h3 class="product-card-name">King’s Camo Cotton Short Sleeve Hunting Tee</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">It's a nice men's t-shirt worn during hunting. If you're searching for an alternative for you or another person to wear during hunting, camping, and such similar activities, then look no more. This tee shirt is quite pocket friendly. It includes three colors. Desert Shadow, Mountain Shadow, and woodland shadow.</p>
@@ -898,7 +898,7 @@ You can pair up this tee shirt with some hunting pants, faded jeans, or just any
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Shirts</div>
 <h3 class="product-card-name">Teeburon Archery Only For the Brave Women Tee</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">Many people love t-shirts that aren’t too tight or too loose on them, a regular fitting size. If you’re one of them, then this ladies T-shirt could be a brilliant option for you. Also, it’s cheap and ushers you to be part of the ‘brave women’s archery group.</p>
@@ -979,7 +979,7 @@ You’ll also have added flavor to the look by adding headgear.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Shirts</div>
 <h3 class="product-card-name">Buxsbaum Girlie T-shirt Archery Logo</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">It’s a ladies’ tee shirt that’s designed and printed by a German brand- Buxsbaum. It's affordable, and you can set aside a few coins to buy one.</p>
@@ -1060,7 +1060,7 @@ You can give this to your Mom, sister, favorite cousin, best friend, or aunt. Th
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Shirts</div>
 <h3 class="product-card-name">Bear Archery Retro Kodiak Tee Shirt</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">It’s an outdoor, wildlife, and hunting tee shirt for men created by Bear Archery Gear Company. It comes in gray color. It's 65/35 poly-cotton blended, meaning its fabric contains a percentage of polyester besides having cotton. This makes it good to wear outdoors during the winter or autumn seasons.</p>

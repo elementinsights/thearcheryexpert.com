@@ -365,7 +365,7 @@ As you search for your target archery brace, as Effie Trinke says in Hunger game
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bracers</div>
 <h3 class="product-card-name">Southland Archery Supply Armguard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">From the makers of everything about archery comes this easy to use, affordable, and convenient bracers. Southland Archery Supply has been producing quality products that circles around crossbows and archery. One of which is this armguard that’s so economical but won’t sacrifice your forearm literally.</p>
@@ -441,7 +441,7 @@ This one size fits all gear can assure you that you can always strike with confi
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bracers</div>
 <h3 class="product-card-name">Goabroa Archery Arm Guards</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Goabroa archery arm guard is one of the top items for archery bracers in Amazon. As you know, to prevent yourself from being hit with the bowstring, the arm guard should provide excellent coverage and protection while shooting.</p>
@@ -517,7 +517,7 @@ So, it's no wonder why it’s part of archery’s cream of the crop.
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bracers</div>
 <h3 class="product-card-name">Allen Company Mesh Archery Arm Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">For everything about outdoor sports, Allen company has been providing a wide array of tactical equipment from fishing, shooting, hunting, and archery. That’s why it's no surprise they also put an intricate touch to their arm guard.</p>
@@ -589,7 +589,7 @@ Given that versatility, for sure kids will love it.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bracers</div>
 <h3 class="product-card-name">KESHES Archery Armguard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">Perfect for youth and adults, Keshes archery armguard measures just right with dimensions of 3” by 8”. The company knows that aside from durability, the size is also just as important to avoid obstruction.</p>
@@ -671,7 +671,7 @@ And that sounds like the company you’re looking for.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bracers</div>
 <h3 class="product-card-name">Huntingdoor Arm Guards</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">We believe at one point in your life you've watched a movie or a scene wherein archery is involved. Perhaps that’s the reason why you were hooked in this craft the first place.</p>
@@ -761,7 +761,7 @@ Making it so versatile that regardless if you’re using it just for show or for
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bracers</div>
 <h3 class="product-card-name">Krayner Archery Arm Protector</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">Krayner archery arm protector is a bit similar to archery bracers used in medieval times. If you've watched movies set during that period especially in times of war or Vikings era, you'll notice that the style is kind of the same.</p>
@@ -843,7 +843,7 @@ Just in case you want an archery bracer that works but with character, Krayney a
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bracers</div>
 <h3 class="product-card-name">KRATARC Archery Arm Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Next in line is the archery bracer made by Kratarc archery. True to their mission of providing security and comfortable products for Archery lovers. They aim to bring great service and deliver a great product to archers.</p>
@@ -921,7 +921,7 @@ If that doesn’t convince you, we think you’re wallet would, making it hard t
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bracers</div>
 <h3 class="product-card-name">Sportsman's Camo Armguard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">Based on National Geographic, camouflage is also called cryptic coloration. It's a defense or tactic that organisms use to blend in with their surroundings. The background matching is perhaps the most common camouflage tactic. This was observed through animals in the wild.</p>
@@ -1023,7 +1023,7 @@ Indeed, a great gift for both experienced and new archers alike.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bracers</div>
 <h3 class="product-card-name">Mossy Oak Strap Armguard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Another archer bracer that's fit for a warrior alike is the Mossy Oak Strap Armguard. For the money, it works. This arm guard does 1 thing very well, and that's protection. It’s semi-comfortable and fits just about anyone.</p>
@@ -1123,7 +1123,7 @@ Truly Mossy Oak Strap Armguard gives good value for your money.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bracers</div>
 <h3 class="product-card-name">Southland Archery Supply Leather Suede Arm Guard</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">Coming in a full circle is another archery bracer from the Southland Archery supply. The difference between the first recommendation and the last is the design. While the first selection is leaning on the practical side, this last suggestion has a more sophisticated look.</p>

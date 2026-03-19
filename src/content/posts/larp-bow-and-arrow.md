@@ -277,7 +277,7 @@ They can be homemade or bought depending on a specific activity.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Products</div>
 <h3 class="product-card-name">WOARCHERY Combat Archery</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">The market is flooded with bows for right-hand use, but WOARCHERY Combat Archery is yours if you're looking for an ambidextrous bow. At 54-inches long, the draw length stretches to 32 inches with the 30-40lb draw weight - a perfect choice for both youths and adults.</p>
@@ -349,7 +349,7 @@ This is a perfect gift for beginners that can be used in both combat games and L
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Products</div>
 <h3 class="product-card-name">TOP ARCHERY Traditional Recurve Bow 53''</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">If you’re looking for a traditional bow, look no further. This is a cool looking rustic antique that can be mounted on any wall for decor. It's carefully handmade, polished, and painted to withstand harsh outdoor weather.</p>
@@ -423,7 +423,7 @@ Some users don’t recommend it for daily usage as it wears down with weight.
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Best Value Products</div>
 <h3 class="product-card-name">Feathered Indian Bow and Arrow Set</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">This one is for archery lovers with a taste of art. This is a beautifully crafted piece that can be hanged on any wall. It comes with brown faux fur that compliments the Native American traditions. It's an archery set that's easy to assemble and dismantle.</p>
@@ -499,7 +499,7 @@ Users are offered a range of draw weights of between 40 to 50lbs.
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Premium Pick Products</div>
 <h3 class="product-card-name">KAINOKAI Traditional Handmade Bow</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">If you love beautifully handcrafted archers with a touch of tradition, then you’ll love KAINOKAI. This archer is beautifully crafted to resemble the old fashioned bows. You can assemble it quickly and easily. It's long but not collapsible, and transportation can be hindered by the fear of breakage.</p>
@@ -567,7 +567,7 @@ This is an ideal gift for an elderly archery lover.
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Budget Pick Products</div>
 <h3 class="product-card-name">Enrack Recurve Bow for Archery</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">This one is for archery lovers who love simply designed bows and arrows. It's 51 inches long with a 40-inch draw length. This strong archer consists of a hardwood bow riser and strong fiberglass limbs that have smooth laminate edges. The lamination over them makes them waterproof and durable.</p>
@@ -635,7 +635,7 @@ The Enrack is easily dismantled for storage and transportation.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Popular Products</div>
 <h3 class="product-card-name">Rootmemory Bow And Arrow Archery</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.7/10</span>
 </div>
 <p class="product-card-desc">If you’ve been withholding that game hunting expedition due to lack of proper gear, we’ve got you covered. Rootmemory archery comes with six carbon arrows that can be used in real-time hunting. It has a 30-inch draw length and holds 30-40 draw weight - an ideal choice for adults.</p>
@@ -705,7 +705,7 @@ Transportation and storage are comfortable as you can dismantle them.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best Design Products</div>
 <h3 class="product-card-name">Adventure Awaits. Handmade Wooden Bow and Arrow Set</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.5/10</span>
 </div>
 <p class="product-card-desc">If you’re looking for a lightweight but sturdy bow and arrow, Adventure Awaits. is your best option. This is a set made from light bamboo. It stands at 57-inches long with a capability to hold a higher draw weight of between 30-60lbs.</p>

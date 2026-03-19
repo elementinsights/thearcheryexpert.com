@@ -361,7 +361,7 @@ To increase accuracy, many different accessories have been developed which helps
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Sights</div>
 <h3 class="product-card-name">TOPOINT Archery CNC Aluminum 7 Pins</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">Topoint Archery CNC Aluminium 7 pin bow sight is one of the top-rated and most preferred 7 pin bow sight which is available on Amazon.com. This bow sight has a special stainless steel tube pin design which gives the archer an added advantage of increased durability and brightness.</p>
@@ -431,7 +431,7 @@ Topoint bow sight is available in many variants and options for archers such as:
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Sights</div>
 <h3 class="product-card-name">IQ Define Pro 7-Pin</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">IQ Define Pro 7 pin is also one of the most reliable and premium option which archers opt for in the modern era of archery.</p>
@@ -501,7 +501,7 @@ It also has an integrated sight light with 5 brightness levels which helps arche
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Sights</div>
 <h3 class="product-card-name">Trophy Ridge React 7 Pro Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Trophy Ridge React 7 Pro Bow Sight is a vertical pin bow sight that's most suitable for users who prefer vertical pins in their sight.</p>
@@ -575,7 +575,7 @@ This advanced technology helps to clear all barriers which boost your accuracy.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Sights</div>
 <h3 class="product-card-name">IQ Bowsights 7-Pin Micro Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">IQ Bowsights 7-pin Micro Bow Sight is one of the best pin bow sights available in the market having an excellent quality so that you can hit perfect shots over longer distances. Although IQ Bowsights 7-pin Micro Bow Sight is a bit costly as compared to other pin bow sight.</p>
@@ -644,7 +644,7 @@ IQ Bowsights 7-pin Micro Bow Sight is mostly suitable for right-handed people wh
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Sights</div>
 <h3 class="product-card-name">TRUGLO Hyper-Strike Ultra-Light Long Range Bow Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Truglo Hyper-Strike Ultra-Light Long Range Bow Sight is designed to allow the users to make long and close-range shots perfectly. This Bow Sight is made up of ultra-lightweight carbon composite and aluminum construction which makes the bow sight highly durable and long-lasting.</p>
@@ -709,7 +709,7 @@ Truglo Hyper-Strike Ultra-Light Long Range Bow Sight has tool-less micro windage
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Sights</div>
 <h3 class="product-card-name">7 Pins Compound Bow Sight. 019”</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">You can go for 7Pins Compound Bow Sight as it's one of the best options for you if you can't spend a large amount of money or you're just starting.</p>
@@ -777,7 +777,7 @@ Also available with an option of detachable Bracket LED Sight Light which helps 
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Sights</div>
 <h3 class="product-card-name">Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">This 7 pin bow sight features 0.019 optical fiber pins with a tool-less micro adjust design for compound bows. It is a great option for archery hunting with bright fiber optic pins.</p>
@@ -852,7 +852,7 @@ Ace Hunter offers many such features that are available in premium bow sights th
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Sights</div>
 <h3 class="product-card-name">5 Pin / 7 Pin Bow Sight Micro-Adjustable Aluminum</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">This micro-adjustable aluminum archery sight features 0.019 fiber optics for compound bows. It works for both right and left handed shooters and delivers reliable accuracy at an affordable price point.</p>
@@ -917,7 +917,7 @@ The 7 pins of this bow sight will help you solve this particular problem.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Sights</div>
 <h3 class="product-card-name">Axcel Armortech HD Sight - 7 Pins .010</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Axcel Armortech HD Sight - 7 pins bow sight are made up of Armor Fiber Technology which provides 100% protection to the fibers. This bow sight has an elevation and windage knob which helps to adjust your bow sight as per your needs and requirements very easily.</p>
@@ -980,7 +980,7 @@ It comes along with a true center vision which supplies a circular sight picture
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Sights</div>
 <h3 class="product-card-name">IQ Define Pro 7-Pin Bow Range Finding Sight</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">This comes with a 3 digit OLED Display with blue yardage and yellow battery indicator, 2 min scan mode. It has an external trigger with adhesive, separate red dot visible laser for calibration New housing has the Retina Lock incorporated into it and features micro-adjustable pins.</p>

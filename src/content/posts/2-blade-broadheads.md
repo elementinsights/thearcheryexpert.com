@@ -361,7 +361,7 @@ A fixed blade and a mechanical blade are included.
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Broadheads</div>
 <h3 class="product-card-name">Carbon Express F-15 Expandable 2 Blade Broadhead</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">This F-15 is built with ingenuity, efficiency, and accuracy in mind. The edges of the broadheads create an incision channel that's two to half times wider and more powerful than standard versions. These models are portable, with performance enhanced by their aerodynamic profile and hundred percent spin monitoring.</p>
@@ -427,7 +427,7 @@ For an accurate killing, the blades are sharp and render the wound accessible.
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Broadheads</div>
 <h3 class="product-card-name">2-Blade  -  Shock Collar and Ferrule Alignment Technology</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">It's one of the most excellent styles of Crossbow Broadheads, that becomes what you really need for your hunting task. Its blades are ultra-sharp, so the target body can be cut too easily.</p>
@@ -500,7 +500,7 @@ Don't waste time, and then accomplish your objectives in the best possible way.
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Broadheads</div>
 <h3 class="product-card-name">Swhacker SWH00207 #207</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">There are many explanations why this broadhead, one of which is the unique blade style, stood out to us. Two different cutting edges have the overall blade style. The wing blades that split the hide and the very first rib sets are regarded as the first set of blades available.</p>
@@ -572,7 +572,7 @@ It ought to be sharpened. But, it's a price worth paying.
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Broadheads</div>
 <h3 class="product-card-name">Rage Bow Hunting Hypodermic</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">There are several characteristics of the Rage Hypodermic broadhead that have managed to have quite an effect. It contains a solid steel ferrule equipped with a hybrid tip that provides the product with aerodynamics. Another impressive aspect of the object is how it doesn't lose impact power.</p>
@@ -648,7 +648,7 @@ In comparison, the retention mechanism is unmatched. The service is also a perfe
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Broadheads</div>
 <h3 class="product-card-name">Rage 2 Blade Broadhead</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">This product, carefully built to have outstanding penetration, is highly efficient and exceptionally robust. It has an advanced technology for shock collars that provides excellent retention of the blade. To offer an effective hit, the wide leading-edge blade enhances traction and induces the animal's imminent death to minimize the pain.</p>
@@ -720,7 +720,7 @@ Overall, however, it's proving to be a worthwhile venture.
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Broadheads</div>
 <h3 class="product-card-name">STINGER 2 Blade Arrow Broadhead</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">With its impeccable style, this marvelous broadhead captured the attention. It has been built from a stainless steel grade knife and is rendered straight out of the box to be razor-sharp. Given its acrylic aircraft-grade aluminum structure, it appears to have an outstanding flight.</p>
@@ -792,7 +792,7 @@ It's, thus, deemed to be an outstanding purchase.
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Broadheads</div>
 <h3 class="product-card-name">Magnus SBC100-2 Stinger Buzzcut 2 Blade Broadhead</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Numerous variations in this product have attracted interest in the product. The concept is unbelievably creative and exceedingly accurate. It's made of stainless steel knife-grade and has razor-sharp durability, making it both highly robust and highly damageable.</p>
@@ -862,7 +862,7 @@ It's, indeed, a perfect investment.
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Broadheads</div>
 <h3 class="product-card-name">B3 Exoskeletal 2 Blade Broadhead</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">Stronger, smoother, and preferable, a patent-pending model created by archers and hunters. Curved blades can cut more easily and penetrate longer. The combination of smooth blades with a friction dowel under the blades removes visible bands. Silent flight with the precision of field trips.</p>
@@ -942,7 +942,7 @@ Two-blade style, + 2 1/8 inches of cutting surface.
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Broadheads</div>
 <h3 class="product-card-name">G5 Montec 2 Blade Broadhead</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">The device is 100 % effective and practical as it quickly slices the target body when it comes into contact with it. The blades of this Broadhead are incredibly sharp and provide you with the full performance of your targets for hunting.</p>
@@ -1014,7 +1014,7 @@ So, with this awesome Broadhead, you'll get the perfect results.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Broadheads</div>
 <h3 class="product-card-name">Bloodrunner 2 Blade Broadheads</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">The strong and durable, carbon steel, minuscule, rear deployed 2 blade features around two inches of splitting diameter, has a low 1.125 flight profile for field point precision and diminishing cutting strength. Producing huge entry and exit loops, major blood trails, and quicker recoveries on impact.</p>

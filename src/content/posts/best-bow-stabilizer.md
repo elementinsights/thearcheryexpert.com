@@ -359,7 +359,7 @@ The fun part of buying the bow stabilizer online is that you'll be able to check
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Stabilizers</div>
 <h3 class="product-card-name">Bee Stinger Sport Hunter Xtreme Stabilizer</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
 <p class="product-card-desc">Starting with the best-seller, the Bee Stinger Hunter Xtreme is a well-engineered stabilizer and is a stunning performer in the world of archery. For a long time now, Bee Stinger has been offering a variety of quality products to archers worldwide.</p>
@@ -430,7 +430,7 @@ The weights can be added to remove as per the adjustability requirements.
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Stabilizers</div>
 <h3 class="product-card-name">Trophy Ridge Hitman Stabilizer</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9733; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
 <p class="product-card-desc">Trophy Ridge has stepped up their game when it comes to quality stabilizers. You'll be nothing but impressed with the overall help this stabilizer gives while you hunt.</p>
@@ -497,7 +497,7 @@ As the hunting bow stabilizers are generally going to be in six, eight, tens, an
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Stabilizers</div>
 <h3 class="product-card-name">SAS Aluminium Bow Stabilizer</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
 <p class="product-card-desc">Target shooters want a bow with an abridged shudder for enhanced precision & this lesser-known SAS bow stabilizer will amaze you with its decent performance, so it becomes an excellent option to choose from.</p>
@@ -572,7 +572,7 @@ Thanks to smooth threads, it can be easily installed and uninstalled at your con
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Stabilizers</div>
 <h3 class="product-card-name">NAP Black Apache Stabilizer 5 Inch Stealth Dampening</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
 <p class="product-card-desc">If you're bored and want to try something new, this might be a great choice. Considering the price, this is a highly efficient mid-price ranged stabilizer. Having a lot of shelf appeal, it looks very techy but delivers unmatched performance.</p>
@@ -649,7 +649,7 @@ It promotes optimal balance for the shooter because it decreases torque on your 
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Stabilizers</div>
 <h3 class="product-card-name">TRUGLO Carbon XS Archery Stabilizer</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
 <p class="product-card-desc">Composites used to construct this stabilizer are high performance based. This stabilizer offers ultimate balance and precise control to your bow enabling you to take the shot with confidence.</p>
@@ -721,7 +721,7 @@ Two-color options are available - black, lost camo scheme with size options of 7
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Stabilizers</div>
 <h3 class="product-card-name">Trophy Ridge Static Stabilizer</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
 <p class="product-card-desc">This is the second trophy stabilizer that has made it to our top 10 list. Its unique design enables air to efficiently pass-through allowing steadier shots in windy conditions. Suppose you're serious about pumping up the performance.</p>
@@ -796,7 +796,7 @@ You'll have three color options, which are: Realtree, Black, and Pink.
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Stabilizers</div>
 <h3 class="product-card-name">Bee Stinger B-Stinger MicroHex Counter Slide Stabilizer Dovetail</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; <span class="star-half">&#9734; </span></span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
 <p class="product-card-desc">Your struggle to get the pin to stay up will end if you just once use this product.</p>
@@ -872,7 +872,7 @@ The compact but highly efficient design allows this stabilizer to fit in all kin
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Stabilizers</div>
 <h3 class="product-card-name">TRUGLO DEADENATOR XS Rubber Molded Stabilizer</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
 <p class="product-card-desc">As bowhunters need smooth, quiet bows to avoid spooking games, this precisely engineered stabilizer does justice to its name 'deadenator'. It has cool rubber dampening, which offers increased surface area and decreasing noise, so your target won't hear you coming.</p>
@@ -939,7 +939,7 @@ It has a weight-forward design that moves the center of gravity forward for bett
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Stabilizers</div>
 <h3 class="product-card-name">Dead Ringer Vector Bow Stabilizer with Quick Disconnect</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
 <p class="product-card-desc">Dead Ringer is equipped with a quick disconnect system that enables one to quickly attach or disconnect it from the bow. This bow stabilizer does all this work as it lowers the center of gravity and increases stability in the bow.</p>
@@ -1008,7 +1008,7 @@ The total weight of this stabilizer is 12.6 ounces.
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Stabilizers</div>
 <h3 class="product-card-name">LimbSaver S-Coil Bow Stabilizer</h3>
 <div class="product-card-rating">
-<span class="stars">&#9733; &#9733; &#9733; &#9733; &#9734; </span>
+<span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
 <p class="product-card-desc">NAVCOM and the rubber help deaden the shots, and when you produce mass weight at the front of the bow, it changes the oscillations when you're aiming.</p>
