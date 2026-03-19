@@ -330,7 +330,7 @@ One of the chicest, unique, and on-fleek decalcomania concepts is archery or the
 <a href="https://www.amazon.com/dp/B00EXCHA2W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41X-5ngEOOL._SL500_.jpg" alt="Slap-Art Bowhunter Arrow Archery Shooting Bow Vinyl Decal Bumper Sticker" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Decal</div>
 <h3 class="product-card-name">Slap-Art Bowhunter Arrow Archery Shooting Bow Vinyl Decal Bumper Sticker</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -399,7 +399,7 @@ You don't have to worry about its longevity as it can last for years. No need to
 <a href="https://www.amazon.com/dp/B073SG4DKY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414A5NUi2UL._SL500_.jpg" alt="Decal Serpent’s Archery Mom Sports Vinyl 6-Inch Decal" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Decal</div>
 <h3 class="product-card-name">Decal Serpent’s Archery Mom Sports Vinyl 6-Inch Decal</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -468,7 +468,7 @@ You're probably in a tight budget but have a highly-ignited fashion sense that m
 <a href="https://www.amazon.com/dp/B00K2QQRGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41YoZEB3u1L._SL500_.jpg" alt="Mathews Archery Logo with Arrow - White Hunting Window Decal Sticker" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Decal</div>
 <h3 class="product-card-name">Mathews Archery Logo with Arrow - White Hunting Window Decal Sticker</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -535,7 +535,7 @@ You can also enjoy a lavish-like life in disguise by just turning your ordinary 
 <a href="https://www.amazon.com/dp/B00MC5I8KK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41SEwdUTpbL._SL500_.jpg" alt="D1062 Silent Entry Deer Hunting Bowhunting Decal for Truck" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Decal</div>
 <h3 class="product-card-name">D1062 Silent Entry Deer Hunting Bowhunting Decal for Truck</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -604,7 +604,7 @@ This isn't your ordinary sticker that sends off encouraging messages and reminde
 <a href="https://www.amazon.com/dp/B0D4QSBRMY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s1KtzG3CL._SL500_.jpg" alt="White Bowtech Logo Vinyl Decal Sticker" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Decal</div>
 <h3 class="product-card-name">White Bowtech Logo Vinyl Decal Sticker</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -672,7 +672,7 @@ The product is beyond worth it because being stylish isn't merely the point of e
 <a href="https://www.amazon.com/dp/B082VNVJ2W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418xqo+yj8L._SL500_.jpg" alt="Duckits LLC’s Arrow Minded Archery Decal Vinyl Sticker" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Most Popular Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Most Popular Decal</div>
 <h3 class="product-card-name">Duckits LLC’s Arrow Minded Archery Decal Vinyl Sticker</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -741,7 +741,7 @@ On the other hand, if you're looking for an intensely classified compound that r
 <a href="https://www.amazon.com/dp/B01M8L0J4N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31bnuX3cKDL._SL500_.jpg" alt="Graphecs’ Archery Vinyl Decal Sticker Hunting Bow And Arrow Woman Warrior" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Decal</div>
 <h3 class="product-card-name">Graphecs’ Archery Vinyl Decal Sticker Hunting Bow And Arrow Woman Warrior</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -812,7 +812,7 @@ Moreover, this is one of the low-cost decals with a top-notch function that will
 <a href="https://www.amazon.com/dp/B076DK18JD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41m4lKzLDyL._SL500_.jpg" alt="3-Pack Addicted To Archery Vinyl Sticker Decal" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Decal</div>
 <h3 class="product-card-name">3-Pack Addicted To Archery Vinyl Sticker Decal</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -879,7 +879,7 @@ The underlying effect of a material depends on the content and if you want to gi
 <a href="https://www.amazon.com/dp/B075Q2JRZ7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51vx1H9ma9L._SL500_.jpg" alt="Arrow Heart - Die Cut Teal Vinyl by Red Clay Designs" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Decals</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Decal</div>
 <h3 class="product-card-name">Arrow Heart - Die Cut Teal Vinyl by Red Clay Designs</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

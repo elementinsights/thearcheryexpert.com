@@ -356,7 +356,7 @@ There are other 3D animal archery targets such as zombies, dinosaurs, and even a
 <a href="https://www.amazon.com/dp/B07MVZ9SHH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51tdw3Xlt9L._SL500_.jpg" alt="Delta McKenzie Strutter Turkey" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Target</div>
 <h3 class="product-card-name">Delta McKenzie Strutter Turkey</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -434,7 +434,7 @@ All this is taken care of by the warranty that covers any manufacturer’s defec
 <a href="https://www.amazon.com/dp/B003K2940W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/312XJNx+7yL._SL500_.jpg" alt="Shooter Buck 3D Deer Archery Target With Replaceable Core" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Target</div>
 <h3 class="product-card-name">Shooter Buck 3D Deer Archery Target With Replaceable Core</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -507,7 +507,7 @@ This animal target can be suitable for both casual and serious hunters.
 <a href="https://www.amazon.com/dp/B0049GYV0G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41VDxCjQOoL._SL500_.jpg" alt="Rinehart Peccary Boar Target IBO Pattern" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Target</div>
 <h3 class="product-card-name">Rinehart Peccary Boar Target IBO Pattern</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -581,7 +581,7 @@ It’s a clear indication that this is one of the best middle-sized animal targe
 <a href="https://www.amazon.com/dp/B000WVRCMQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31nfTs422AL._SL500_.jpg" alt="Delta McKenzie Aim Rite Bear" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Target</div>
 <h3 class="product-card-name">Delta McKenzie Aim Rite Bear</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -659,7 +659,7 @@ It's suitable for practice in your backyard or even in economic competitions for
 <a href="https://www.amazon.com/dp/B003A1P4P2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41irzupa8DL._SL500_.jpg" alt="GlenDel Buck 3D Archery Target With Replaceable Insert Core" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Target</div>
 <h3 class="product-card-name">GlenDel Buck 3D Archery Target With Replaceable Insert Core</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -735,7 +735,7 @@ It's easy to set up as it comes with a 150-inch full rut stand for more stabilit
 <a href="https://www.amazon.com/dp/B00AKO1NG6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414wAzFg4vL._SL500_.jpg" alt="Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Target</div>
 <h3 class="product-card-name">Morrell Bionic Buck Ⅱ 3D Archery Solid Foam Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -811,7 +811,7 @@ The entire midsection with all the kill zones is replaceable after taking too ma
 <a href="https://www.amazon.com/dp/B000LH5W0K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ipvotqPAL._SL500_.jpg" alt="Delta McKenzie Howling Coyote 3D Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Target</div>
 <h3 class="product-card-name">Delta McKenzie Howling Coyote 3D Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -887,7 +887,7 @@ It also comes without any stands and it’s not as stable as it would be with a 
 <a href="https://www.amazon.com/dp/B000LH34EG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51O83qwV2mL._SL500_.jpg" alt="CW-X Delta McKenzie 3D Raccoon Backyard Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Target</div>
 <h3 class="product-card-name">CW-X Delta McKenzie 3D Raccoon Backyard Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -965,7 +965,7 @@ For competitive shooters, it comes with scoring rings that enable you to focus m
 <a href="https://www.amazon.com/dp/B004X2WX5G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Ch4eytSKL._SL500_.jpg" alt="Delta Riverbottom Series Challenger" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Target</div>
 <h3 class="product-card-name">Delta Riverbottom Series Challenger</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1042,7 +1042,7 @@ This animal target can be for both kids and adults for practice as well as both 
 <a href="https://www.amazon.com/dp/B01DMD5SRG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41aJeEoDLoL._SL500_.jpg" alt="Rinehart Woodland Boar 3D Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Target</div>
 <h3 class="product-card-name">Rinehart Woodland Boar 3D Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

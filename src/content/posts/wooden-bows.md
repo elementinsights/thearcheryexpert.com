@@ -360,7 +360,7 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 <a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="Wooden Shop Youth Wooden Bow And Arrows" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bow</div>
 <h3 class="product-card-name">Wooden Shop Youth Wooden Bow And Arrows</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -432,7 +432,7 @@ Since it’s designed for kids, experts should opt for some other more durable b
 <a href="https://www.amazon.com/dp/B00DF4HMTK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31fS3AE7M-L._SL500_.jpg" alt="Longbowmaker Handmade Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bow</div>
 <h3 class="product-card-name">Longbowmaker Handmade Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -510,7 +510,7 @@ It offers you a modern draw length ranging from 28 inches to 33 inches while the
 <a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="Southland Robinhood Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bow</div>
 <h3 class="product-card-name">Southland Robinhood Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -586,7 +586,7 @@ A finger tap, a target face, and two pairs of fiberglass arrows are also a part 
 <a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="TOPARCHERY Handmade Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bow</div>
 <h3 class="product-card-name">TOPARCHERY Handmade Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -664,7 +664,7 @@ Although it’s for beginners, be careful not to let your kids use it without yo
 <a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="AF Archery Laminated Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bow</div>
 <h3 class="product-card-name">AF Archery Laminated Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -744,7 +744,7 @@ This bow is abrasion resistant and its reinforced tips help it in fast flight.
 <a href="https://www.amazon.com/dp/B00IMHWPKQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/311LlKtKLjL._SL500_.jpg" alt="Martin Savannah Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bow</div>
 <h3 class="product-card-name">Martin Savannah Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -828,7 +828,7 @@ This bow blends into nearly any setting due to its discrete and elegant design.
 <a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31nDvOmBagL._SL500_.jpg" alt="SAS Pioneer Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bow</div>
 <h3 class="product-card-name">SAS Pioneer Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -902,7 +902,7 @@ It's a perfect option for compound archers that are into both hunting and archer
 <a href="https://www.amazon.com/dp/B0017TEG8K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21s5r3hJWkL._SL500_.jpg" alt="Bear Archery Montana Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bow</div>
 <h3 class="product-card-name">Bear Archery Montana Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -974,7 +974,7 @@ Both the left and right-hand archers can use this longbow.
 <a href="https://www.amazon.com/dp/B079J2KM1V?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ESJa8TGtL._SL500_.jpg" alt="SinoArt Sparrow Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bow</div>
 <h3 class="product-card-name">SinoArt Sparrow Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1056,7 +1056,7 @@ This bow helps the newbies to learn archery very easily.
 <a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg" alt="SAS Gravity Hunting Traditional Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bow</div>
 <h3 class="product-card-name">SAS Gravity Hunting Traditional Longbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

@@ -326,7 +326,7 @@ The string, as well, might be made of an assortment of materials, the imperative
 <a href="https://www.amazon.com/dp/B00269U5RG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31fyXmDNaJL._SL500_.jpg" alt="Genesis Original Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bow</div>
 <h3 class="product-card-name">Genesis Original Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -399,7 +399,7 @@ It functions with the single-cam innovation. There are no tuning issues, less fo
 <a href="https://www.amazon.com/dp/B006R8SWUO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg" alt="Samick Sage Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bow</div>
 <h3 class="product-card-name">Samick Sage Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -465,7 +465,7 @@ This bow is sturdy and lightweight with solid appendages with metal pockets that
 <a href="https://www.amazon.com/dp/B006JAQRF2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rONYK2RlL._SL500_.jpg" alt="Barnett Outdoors Lil Banshee Jr. Compound Youth Archery Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bow</div>
 <h3 class="product-card-name">Barnett Outdoors Lil Banshee Jr. Compound Youth Archery Set</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -531,7 +531,7 @@ Besides, this bow accompanies a five-year restricted guarantee so you can fix an
 <a href="https://www.amazon.com/dp/B00RGAPMRS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41yug-l6-xL._SL500_.jpg" alt="Diamond Archery Infinite Edge Pro Bow Package" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bow</div>
 <h3 class="product-card-name">Diamond Archery Infinite Edge Pro Bow Package</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -597,7 +597,7 @@ It's a smooth compound bow accessible in a pink burst, dark operations, and over
 <a href="https://www.amazon.com/dp/B077N54RDM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzaZhxx9L._SL500_.jpg" alt="Bear Archery Cruzer G2 Adult Compound Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bow</div>
 <h3 class="product-card-name">Bear Archery Cruzer G2 Adult Compound Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -666,7 +666,7 @@ The Bear Archery Crozer G2 highlights a particular grasp plan that diminishes ha
 <a href="https://www.amazon.com/dp/B078XJM5LQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41dBCEHL2aL._SL500_.jpg" alt="Bear Archery Approach RTH Compound Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bow</div>
 <h3 class="product-card-name">Bear Archery Approach RTH Compound Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -732,7 +732,7 @@ This sort of bow has a mechanical investigation and gives another degree of cont
 <a href="https://www.amazon.com/dp/B003WHP7AG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/316JPtA1B8L._SL500_.jpg" alt="Genesis Mini Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bow</div>
 <h3 class="product-card-name">Genesis Mini Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -797,7 +797,7 @@ This bow is ideal for little children since it has a low draw weight.
 <a href="https://www.amazon.com/dp/B0792LK8KJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41ezP1drw0L._SL500_.jpg" alt="PSE ARCHERY Mini Burner Compound Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bow</div>
 <h3 class="product-card-name">PSE ARCHERY Mini Burner Compound Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -868,7 +868,7 @@ It's sufficiently light to carry for your hunting trips.
 <a href="https://www.amazon.com/dp/B07KC5C9RL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XogoDEfEL._SL500_.jpg" alt="SinoArt Bow and Arrow Set for Teen" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Bow</div>
 <h3 class="product-card-name">SinoArt Bow and Arrow Set for Teen</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

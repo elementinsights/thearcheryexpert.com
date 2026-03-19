@@ -358,7 +358,7 @@ They're a good bow, some high-quality arrows, and the best bow quiver.
 <a href="https://www.amazon.com/dp/B00FGV0GQQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31Yo0KxHstL._SL500_.jpg" alt="Trophy Ridge Lite-1 5 Arrow Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Quiver</div>
 <h3 class="product-card-name">Trophy Ridge Lite-1 5 Arrow Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -432,7 +432,7 @@ It's also very light (true to its name), and it's equally valuable to secure and
 <a href="https://www.amazon.com/dp/B00P7FZN78?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412iDOPUSQL._SL500_.jpg" alt="G4Free High-Grade Matte Velvet Arrow-Back Pot Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Quiver</div>
 <h3 class="product-card-name">G4Free High-Grade Matte Velvet Arrow-Back Pot Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -502,7 +502,7 @@ The additional two pockets included on this bow quiver are also perfect for stor
 <a href="https://www.amazon.com/dp/B00IEPFDLO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzVH1zgEL._SL500_.jpg" alt="Easton Flipside 3-Tube Hip Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Quiver</div>
 <h3 class="product-card-name">Easton Flipside 3-Tube Hip Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -578,7 +578,7 @@ If you want to make regular use of your quiver, you should pick this one before 
 <a href="https://www.amazon.com/dp/B010C4W416?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418UPFm65rL._SL500_.jpg" alt="LimbSaver Silent Quiver for Bow Hunting" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Quiver</div>
 <h3 class="product-card-name">LimbSaver Silent Quiver for Bow Hunting</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -642,7 +642,7 @@ It holds up well, and almost all customers were more than happy with both the pe
 <a href="https://www.amazon.com/dp/B00FXXQ792?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fpJ3We4oL._SL500_.jpg" alt="Allen Youth Archery Compact Back Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Quiver</div>
 <h3 class="product-card-name">Allen Youth Archery Compact Back Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -730,7 +730,7 @@ You'll love the performance.
 <a href="https://www.amazon.com/dp/B011K548Q0?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41S32jKtmHL._SL500_.jpg" alt="G4Free Archery Deluxe Canvas Back Arrow Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Quiver</div>
 <h3 class="product-card-name">G4Free Archery Deluxe Canvas Back Arrow Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -801,7 +801,7 @@ Its optimized design helps prevent your arrows from spilling out while keeping t
 <a href="https://www.amazon.com/dp/B00IEPFD1E?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61ExHwFiu5L._SL500_.jpg" alt="Easton Flipside 2-Tube Hip Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Quiver</div>
 <h3 class="product-card-name">Easton Flipside 2-Tube Hip Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -871,7 +871,7 @@ So, if you need a smaller, lighter, more simple bow quiver while on the go, just
 <a href="https://www.amazon.com/dp/B00IQ5RTTQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/319+3sC9RLL._SL500_.jpg" alt="OMP No Spill Tube Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Quiver</div>
 <h3 class="product-card-name">OMP No Spill Tube Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -942,7 +942,7 @@ For those tired of having to bend over and pick up their arrows while out on the
 <a href="https://www.amazon.com/dp/B004WJ7X6Y?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418eWfoqr9L._SL500_.jpg" alt="Kwikee Kwiver Combo  -  4-Arrow Bow Quiver for Archery and Hunting" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Quiver</div>
 <h3 class="product-card-name">Kwikee Kwiver Combo  -  4-Arrow Bow Quiver for Archery and Hunting</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1010,7 +1010,7 @@ It's also nice to see a bow quiver, which allows the entire quiver to be safely 
 <a href="https://www.amazon.com/dp/B001SH5T8M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31TDcwiGkBL._SL500_.jpg" alt="Kwikee Kwiver Kompound  -  6-arrow Bow Quiver for Archery and Hunting" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Quiver</div>
 <h3 class="product-card-name">Kwikee Kwiver Kompound  -  6-arrow Bow Quiver for Archery and Hunting</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

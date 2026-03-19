@@ -364,7 +364,7 @@ So, here are the ten best archery arm guards and their reviews for 2026.
 <a href="https://www.amazon.com/dp/B07XRJFHGY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/515-IydS9wL._SL500_.jpg" alt="prowithlin Archery Arm Guards 2-Pack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guard</div>
 <h3 class="product-card-name">prowithlin Archery Arm Guards 2-Pack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -436,7 +436,7 @@ Lastly, it comes with green, orange, and pink colors making it attractive for yo
 <a href="https://www.amazon.com/dp/B007FDMFLM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21NH9nF+9yL._SL500_.jpg" alt="Bohning Archery - Slip On Armguard - Compression Snug Fit" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guard</div>
 <h3 class="product-card-name">Bohning Archery - Slip On Armguard - Compression Snug Fit</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -522,7 +522,7 @@ The material used, Aluminum, is also very stretchable and there are no buckles o
 <a href="https://www.amazon.com/dp/B0192Z5CPQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41pmLDH3-9L._SL500_.jpg" alt="TOP ARCHERY 12\" Cow Leather Arm Guard Protector" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guard</div>
 <h3 class="product-card-name">TOP ARCHERY 12\" Cow Leather Arm Guard Protector</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -622,7 +622,7 @@ The unique characteristic of it's that it comes with four adjustable straps, so 
 <a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="SAS 8\" Armguard Archery Bow Range With 3-Strap Buckles" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guard</div>
 <h3 class="product-card-name">SAS 8\" Armguard Archery Bow Range With 3-Strap Buckles</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -684,7 +684,7 @@ It comes with fascinating black and red colors.
 <a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MsIc2FORL._SL500_.jpg" alt="Wizard Youth Archery Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guard</div>
 <h3 class="product-card-name">Wizard Youth Archery Arm Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -750,7 +750,7 @@ The two-strap detaching system makes it suitable for children as they can comfor
 <a href="https://www.amazon.com/dp/B001F0M5UW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31V6QezQAzL._SL500_.jpg" alt="Sportsman's Tarantula Sleeve Wrap Armguard (Camo)" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guard</div>
 <h3 class="product-card-name">Sportsman's Tarantula Sleeve Wrap Armguard (Camo)</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -826,7 +826,7 @@ It has a mossy oak pattern and thus has a killer look.
 <a href="https://www.amazon.com/dp/B088ZGP65X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51s2EBmzVhL._SL500_.jpg" alt="HZMAN Adults Faux Leather Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guard</div>
 <h3 class="product-card-name">HZMAN Adults Faux Leather Arm Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -910,7 +910,7 @@ The package dimensions are 7.87 x 7.87 x 0.59 inches.
 <a href="https://www.amazon.com/dp/B07WNG69HD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z3i8cWQ2L._SL500_.jpg" alt="Yls Archery Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guard</div>
 <h3 class="product-card-name">Yls Archery Arm Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -988,7 +988,7 @@ Two rods can protect from the injury caused by the bow when practicing archery.
 <a href="https://www.amazon.com/dp/B0197H3O68?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vNc9ganeL._SL500_.jpg" alt="Easton Deluxe Oval Armguard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guard</div>
 <h3 class="product-card-name">Easton Deluxe Oval Armguard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1066,7 +1066,7 @@ The dimensions of this product by Easton Archery are 1 x 1 x 1, the same as the 
 <a href="https://www.amazon.com/dp/B0000AVE18?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41lsjdj36gL._SL500_.jpg" alt="Saunders Ventilated Target Armguard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guard</div>
 <h3 class="product-card-name">Saunders Ventilated Target Armguard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

@@ -354,7 +354,7 @@ As you know, everybody should keep in mind several factors while purchasing thes
 <a href="https://www.amazon.com/dp/B00IN6ENWY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61MOFujFPNL._SL500_.jpg" alt="Bushnell Bone Collector 4x Laser Rangefinder" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Rangefinder</div>
 <h3 class="product-card-name">Bushnell Bone Collector 4x Laser Rangefinder</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -432,7 +432,7 @@ Maybe this device doesn't feature many bells and whistles, but I can assure you 
 <a href="https://www.amazon.com/dp/B07NNVFKKL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51eRIrw192L._SL500_.jpg" alt="Nikon Monarch 2000" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Rangefinder</div>
 <h3 class="product-card-name">Nikon Monarch 2000</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -524,7 +524,7 @@ And last but not least, here's how distant it can measure different types of obj
 <a href="https://www.amazon.com/dp/B079HNKGGG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41R2uztdHHL._SL500_.jpg" alt="Vortex Optics Ranger 1800 Laser Rangefinders" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Rangefinder</div>
 <h3 class="product-card-name">Vortex Optics Ranger 1800 Laser Rangefinders</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -606,7 +606,7 @@ This Vortex Ranger Rangefinder is faultlessly suitable for rifle shooting and bo
 <a href="https://www.amazon.com/dp/B07DX1WXCD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41oaZRhrDWS._SL500_.jpg" alt="Sig Sauer Kilo 2200 BDX LASER Rangefinder" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Rangefinder</div>
 <h3 class="product-card-name">Sig Sauer Kilo 2200 BDX LASER Rangefinder</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -686,7 +686,7 @@ So, if you're a pro hunter or shooter, then the Ballistic Data Exchange (BDX) te
 <a href="https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51SMAa0HQrL._SL500_.jpg" alt="Leupold RX-1600i TBR Laser Rangefinder" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Rangefinder</div>
 <h3 class="product-card-name">Leupold RX-1600i TBR Laser Rangefinder</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -766,7 +766,7 @@ Scan Mode gives continuous range updates as you can track the movement or scan a
 <a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="Leica Rangemaster CRF 1600B" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Rangefinder</div>
 <h3 class="product-card-name">Leica Rangemaster CRF 1600B</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -842,7 +842,7 @@ It has an AquaDura coating on the external lens, which makes this unit quite per
 <a href="https://www.amazon.com/dp/B077XM7X6T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Em073BYuL._SL500_.jpg" alt="Simmons Hunting Laser Rangefinder. Volt & Venture Models" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Rangefinder</div>
 <h3 class="product-card-name">Simmons Hunting Laser Rangefinder. Volt & Venture Models</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -914,7 +914,7 @@ So, after all the facts, you can come up to the conclusion that this budget-frie
 <a href="https://www.amazon.com/dp/B07Q7N63P1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51wzCHg-qWL._SL500_.jpg" alt="TecTecTec ProWild S with Angle Compensation - Laser Rangefinder" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Rangefinder</div>
 <h3 class="product-card-name">TecTecTec ProWild S with Angle Compensation - Laser Rangefinder</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -984,7 +984,7 @@ It has a scan mode and speed mode, making it fast and compact, more accurate, an
 <a href="https://www.amazon.com/dp/B06XKN8N61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41IBeCBnH0L._SL500_.jpg" alt="Halo XL450-7 Rangefinder" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Rangefinder</div>
 <h3 class="product-card-name">Halo XL450-7 Rangefinder</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1056,7 +1056,7 @@ So if you're going to find the perfect and wallet-friendly unit for the next bow
 <a href="https://www.amazon.com/dp/B07GKJNCKN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EDp4Zw9xL._SL500_.jpg" alt="WOSPORTS 700/1200 Yards Hunting Laser Rangefinder" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Rangefinders</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Rangefinder</div>
 <h3 class="product-card-name">WOSPORTS 700/1200 Yards Hunting Laser Rangefinder</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

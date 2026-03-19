@@ -356,7 +356,7 @@ The fun part of buying the bow stabilizer online is that you'll be able to check
 <a href="https://www.amazon.com/dp/B01BE8IKAS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31aKwLK25BL._SL500_.jpg" alt="Bee Stinger Sport Hunter Xtreme Stabilizer" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Stabilizer</div>
 <h3 class="product-card-name">Bee Stinger Sport Hunter Xtreme Stabilizer</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -427,7 +427,7 @@ The weights can be added to remove as per the adjustability requirements.
 <a href="https://www.amazon.com/dp/B07JZJ5L35?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fArfHev6L._SL500_.jpg" alt="Trophy Ridge Hitman Stabilizer" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Stabilizer</div>
 <h3 class="product-card-name">Trophy Ridge Hitman Stabilizer</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -494,7 +494,7 @@ As the hunting bow stabilizers are generally going to be in six, eight, tens, an
 <a href="https://www.amazon.com/dp/B01BE8ICBK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31aKwLK25BL._SL500_.jpg" alt="SAS Aluminium Bow Stabilizer" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Stabilizer</div>
 <h3 class="product-card-name">SAS Aluminium Bow Stabilizer</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -569,7 +569,7 @@ Thanks to smooth threads, it can be easily installed and uninstalled at your con
 <a href="https://www.amazon.com/dp/B0052B393C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31fq6GsKM4L._SL500_.jpg" alt="NAP Black Apache Stabilizer 5 Inch Stealth Dampening" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Stabilizer</div>
 <h3 class="product-card-name">NAP Black Apache Stabilizer 5 Inch Stealth Dampening</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -646,7 +646,7 @@ It promotes optimal balance for the shooter because it decreases torque on your 
 <a href="https://www.amazon.com/dp/B019KNNW70?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31enXxQWGuL._SL500_.jpg" alt="TRUGLO Carbon XS Archery Stabilizer" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Stabilizer</div>
 <h3 class="product-card-name">TRUGLO Carbon XS Archery Stabilizer</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -718,7 +718,7 @@ Two-color options are available - black, lost camo scheme with size options of 7
 <a href="https://www.amazon.com/dp/B06XC6NY12?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31-vAurs7QL._SL500_.jpg" alt="Trophy Ridge Static Stabilizer" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Stabilizer</div>
 <h3 class="product-card-name">Trophy Ridge Static Stabilizer</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -793,7 +793,7 @@ You'll have three color options, which are: Realtree, Black, and Pink.
 <a href="https://www.amazon.com/dp/B07DJZ3PH1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/217qkd5e32L._SL500_.jpg" alt="Bee Stinger B-Stinger MicroHex Counter Slide Stabilizer Dovetail" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Stabilizer</div>
 <h3 class="product-card-name">Bee Stinger B-Stinger MicroHex Counter Slide Stabilizer Dovetail</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -869,7 +869,7 @@ The compact but highly efficient design allows this stabilizer to fit in all kin
 <a href="https://www.amazon.com/dp/B007D0GFPE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zhDHytsSL._SL500_.jpg" alt="TRUGLO DEADENATOR XS Rubber Molded Stabilizer" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Stabilizer</div>
 <h3 class="product-card-name">TRUGLO DEADENATOR XS Rubber Molded Stabilizer</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -936,7 +936,7 @@ It has a weight-forward design that moves the center of gravity forward for bett
 <a href="https://www.amazon.com/dp/B0749MM5ML?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41eYB0ll7kL._SL500_.jpg" alt="Dead Ringer Vector Bow Stabilizer with Quick Disconnect" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Stabilizer</div>
 <h3 class="product-card-name">Dead Ringer Vector Bow Stabilizer with Quick Disconnect</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1005,7 +1005,7 @@ The total weight of this stabilizer is 12.6 ounces.
 <a href="https://www.amazon.com/dp/B000GHWQEA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41-78zj4dWL._SL500_.jpg" alt="LimbSaver S-Coil Bow Stabilizer" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Stabilizers</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Stabilizer</div>
 <h3 class="product-card-name">LimbSaver S-Coil Bow Stabilizer</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

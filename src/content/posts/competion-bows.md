@@ -350,7 +350,7 @@ It's easy because the more there's to choose from, the more chances to find some
 <a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31dPEB309tL._SL500_.jpg" alt="Genesis Original Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bow</div>
 <h3 class="product-card-name">Genesis Original Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -418,7 +418,7 @@ With all these features, it's not a surprise that this is the National Archery's
 <a href="https://www.amazon.com/dp/B01BE8I38M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31kNTlt5f6L._SL500_.jpg" alt="Diamond Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bow</div>
 <h3 class="product-card-name">Diamond Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -486,7 +486,7 @@ This is a bow that won't disappoint its archer.
 <a href="https://www.amazon.com/dp/B00BY5UEQU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31dPEB309tL._SL500_.jpg" alt="Genesis Pro Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bow</div>
 <h3 class="product-card-name">Genesis Pro Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -550,7 +550,7 @@ It's perfect for players who want to level up their shooting skills.
 <a href="https://www.amazon.com/dp/B00FATX878?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41nv2llnt3L._SL500_.jpg" alt="Southland Archery Supply Outrage Compound Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bow</div>
 <h3 class="product-card-name">Southland Archery Supply Outrage Compound Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -616,7 +616,7 @@ This compound bow allows up to an arrow speed of 270 feet per second.
 <a href="https://www.amazon.com/dp/B014X4NERY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31E3fJ+gO8L._SL500_.jpg" alt="Southland Archery Supply Explorer Metal Rise Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bow</div>
 <h3 class="product-card-name">Southland Archery Supply Explorer Metal Rise Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -682,7 +682,7 @@ If you're looking for a good quality starter bow, this might just be the one for
 <a href="https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg" alt="Samick Sage Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bow</div>
 <h3 class="product-card-name">Samick Sage Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -750,7 +750,7 @@ If you're seeking a tried and tested bow, this is the one for you.
 <a href="https://www.amazon.com/dp/B076F1K4BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg" alt="SinoArt 68” Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bow</div>
 <h3 class="product-card-name">SinoArt 68” Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -816,7 +816,7 @@ It's guaranteed to be worth your every penny.
 <a href="https://www.amazon.com/dp/B07JM8KKC5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41H5d2m5FSL._SL500_.jpg" alt="SinoArt Metal Riser Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bow</div>
 <h3 class="product-card-name">SinoArt Metal Riser Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -882,7 +882,7 @@ The SinoArt Metal Riser is comfortable to use, light, and balanced. It's also pe
 <a href="https://www.amazon.com/dp/B07WRTH2QP?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41sdnI8UlqL._SL500_.jpg" alt="Gonex Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bow</div>
 <h3 class="product-card-name">Gonex Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -952,7 +952,7 @@ It's a bow worth your money upon purchase and even after purchase.
 <a href="https://www.amazon.com/dp/B077ZBRZ15?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51w3+bVXptL._SL500_.jpg" alt="Southwest Archery Tigershark Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bow</div>
 <h3 class="product-card-name">Southwest Archery Tigershark Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

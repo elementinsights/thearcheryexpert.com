@@ -354,7 +354,7 @@ We want to make it easy for you to choose your next archery target purchase.
 <a href="https://www.amazon.com/dp/B087M6C1DY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51LFL7pFSTL._SL500_.jpg" alt="KAINOKAI Traditional Hand-Made Straw Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Target</div>
 <h3 class="product-card-name">KAINOKAI Traditional Hand-Made Straw Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -456,7 +456,7 @@ To avoid accidental injuries, the archers should make sure that they should choo
 <a href="https://www.amazon.com/dp/B08GWPMHSL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51T0YR5D5mL._SL500_.jpg" alt="SinoArt Traditional Solid Straw Round 3 Layers Hand-Made Archery Target Face" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Target</div>
 <h3 class="product-card-name">SinoArt Traditional Solid Straw Round 3 Layers Hand-Made Archery Target Face</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -550,7 +550,7 @@ Preferably, you should make sure that the place where you're practicing must hav
 <a href="https://www.amazon.com/dp/B07JVFSNG6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51GGFe2ad0L._SL500_.jpg" alt="DOSTYLE Traditional Solid Straw Round Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Target</div>
 <h3 class="product-card-name">DOSTYLE Traditional Solid Straw Round Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -642,7 +642,7 @@ The central target scoring ring is clear in it, and it helps in shooting.
 <a href="https://www.amazon.com/dp/B07WKJXQX7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/519yDymV85L._SL500_.jpg" alt="SS OPER Tree Branch Decoration Archery Round Coiled Straw Target for Christmas" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Target</div>
 <h3 class="product-card-name">SS OPER Tree Branch Decoration Archery Round Coiled Straw Target for Christmas</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -718,7 +718,7 @@ Preferably, you should make sure that the place where you’re practicing must h
 <a href="https://www.amazon.com/dp/B082366J88?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51dvKs0jlbL._SL500_.jpg" alt="TOPARCHERY Traditional Solid Straw Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Target</div>
 <h3 class="product-card-name">TOPARCHERY Traditional Solid Straw Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -796,7 +796,7 @@ Before using, you should remember that before practicing, always opt for the saf
 <a href="https://www.amazon.com/dp/B0892Q1GK7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51THlHwGKbL._SL500_.jpg" alt="TBONTBY Traditional Solid Straw Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Target</div>
 <h3 class="product-card-name">TBONTBY Traditional Solid Straw Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -875,7 +875,7 @@ Bladed hunting arrows shouldn't be used for shooting, as they may reduce the ser
 <a href="https://www.amazon.com/dp/B07WRJNH8H?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51S3If2typL._SL500_.jpg" alt="Ogrmar 3 Layers 20 inch Traditional Solid Straw Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Target</div>
 <h3 class="product-card-name">Ogrmar 3 Layers 20 inch Traditional Solid Straw Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -957,7 +957,7 @@ Debris may appear during use as the foliage is used as a raw material to make it
 <a href="https://www.amazon.com/dp/B001EY9QI8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51vgL3iqXxL._SL500_.jpg" alt="Morrell Youth Field Point Bag Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Target</div>
 <h3 class="product-card-name">Morrell Youth Field Point Bag Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1041,7 +1041,7 @@ Its manufacturers provide a one year warranty.
 <a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Block GenZ XL 20” Youth Archery Arrow Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Target</div>
 <h3 class="product-card-name">Block GenZ XL 20” Youth Archery Arrow Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1127,7 +1127,7 @@ Preferably, you should make sure that the place where you're practicing must hav
 <a href="https://www.amazon.com/dp/B0CQY4HDC7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51WPY43bv3L._SL500_.jpg" alt="Block Vault 4-Sided Archery Target with Polyfusion Technology" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Target</div>
 <h3 class="product-card-name">Block Vault 4-Sided Archery Target with Polyfusion Technology</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

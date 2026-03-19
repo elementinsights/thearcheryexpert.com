@@ -352,7 +352,7 @@ There are many recurve bows available in the market, so choosing the best recurv
 <a href="https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg" alt="Bear Archery Grizzly Recurve Bow Right Hand" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bow</div>
 <h3 class="product-card-name">Bear Archery Grizzly Recurve Bow Right Hand</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -425,7 +425,7 @@ The Super Kodiak is a beautiful bow without many decorations, and it's made from
 <a href="https://www.amazon.com/dp/B014X4NERY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31E3fJ+gO8L._SL500_.jpg" alt="SAS Explorer Metal Riser Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bow</div>
 <h3 class="product-card-name">SAS Explorer Metal Riser Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -498,7 +498,7 @@ It's available in five different colors, including options, so it will be easy f
 <a href="https://www.amazon.com/dp/B076F4Q6LC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41cLzv5sQmL._SL500_.jpg" alt="SinoArt 68 Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bow</div>
 <h3 class="product-card-name">SinoArt 68 Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -569,7 +569,7 @@ The bow limbs tend to twist when it's in use, causing them to break altogether i
 <a href="https://www.amazon.com/dp/B079Z56PCS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51xO+-f9ZuL._SL500_.jpg" alt="D&Q Archery Recurve Bow and Arrow Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bow</div>
 <h3 class="product-card-name">D&Q Archery Recurve Bow and Arrow Set</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -641,7 +641,7 @@ The whole set comes with a takedown recurve bow, 12 pieces arrows, two pieces St
 <a href="https://www.amazon.com/dp/B07GBV95XJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg" alt="KAINOKAI Traditional Handmade Hunting Recurve Archery Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bow</div>
 <h3 class="product-card-name">KAINOKAI Traditional Handmade Hunting Recurve Archery Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -716,7 +716,7 @@ The KAINOKAI recurve bow is filled with a lot of unique features like accuracy a
 <a href="https://www.amazon.com/dp/B007T9EH7W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21ShYZol24L._SL500_.jpg" alt="Samick Sage Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bow</div>
 <h3 class="product-card-name">Samick Sage Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -790,7 +790,7 @@ The gorgeous and durable maple wood base comes with a maximum 29" length and 25-
 <a href="https://www.amazon.com/dp/B01MYUTOQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31UjM-M8baL._SL500_.jpg" alt="Great Plains Recurve Bow Green Mamba" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bow</div>
 <h3 class="product-card-name">Great Plains Recurve Bow Green Mamba</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -862,7 +862,7 @@ The Great Plains Recurve Bows are easily known through their 18-month limited wa
 <a href="https://www.amazon.com/dp/B01BCZV0EQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21C16Y8509L._SL500_.jpg" alt="PSE Archery Razorback Traditional Takedown Recurve Recreational Shooting Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bow</div>
 <h3 class="product-card-name">PSE Archery Razorback Traditional Takedown Recurve Recreational Shooting Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -938,7 +938,7 @@ The Razorback has a one-year limited warranty agreement, which provides you suff
 <a href="https://www.amazon.com/dp/B0017TEFF4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21CvUe0IBHS._SL500_.jpg" alt="Southwest Archery Spyder Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bow</div>
 <h3 class="product-card-name">Southwest Archery Spyder Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1011,7 +1011,7 @@ You can use this bow for hunting deer and bow fishing and also for target practi
 <a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg" alt="Southland Archery Supply SAS Maverick One Piece Traditional Wood Hunting Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bow</div>
 <h3 class="product-card-name">Southland Archery Supply SAS Maverick One Piece Traditional Wood Hunting Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

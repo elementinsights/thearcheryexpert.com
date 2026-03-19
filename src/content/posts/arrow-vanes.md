@@ -356,7 +356,7 @@ The better the quality of the vane, the better the stability and aim will be.
 <a href="https://www.amazon.com/dp/B081YTY2S9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3129h1evT3L._SL500_.jpg" alt="M.SJUMPPER ARCHERY Arrows Vanes (51 Pack)" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Vane</div>
 <h3 class="product-card-name">M.SJUMPPER ARCHERY Arrows Vanes (51 Pack)</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -428,7 +428,7 @@ The shipping is fast, so you would be receiving your vanes in no time at all.
 <a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg" alt="Bohning Blazer Vanes Flannel 36 pk. Red" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Vane</div>
 <h3 class="product-card-name">Bohning Blazer Vanes Flannel 36 pk. Red</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -491,7 +491,7 @@ Sourced and made in the United States, this one comes in a 36-pack.
 <a href="https://www.amazon.com/dp/B07BS2YJKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg" alt="Bohning 1.75-Inch Shield Cut X-Vanes (100-Pack)" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Vane</div>
 <h3 class="product-card-name">Bohning 1.75-Inch Shield Cut X-Vanes (100-Pack)</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -557,7 +557,7 @@ They recover quickly after arrow launch and work best with thinner arrows.
 <a href="https://www.amazon.com/dp/B07TRP35BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41PjZOhSc0L._SL500_.jpg" alt="Bohning Blazer -  Best Arrow Hunting Vanes" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Vane</div>
 <h3 class="product-card-name">Bohning Blazer -  Best Arrow Hunting Vanes</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -643,7 +643,7 @@ According to reviews, these have impressive airtime, look attractive, and ideal 
 <a href="https://www.amazon.com/dp/B00B5Q6FJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21xRobRr6oL._SL500_.jpg" alt="Bohning 2.25-Inch  -  Best Arrow Vanes for Accuracy" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Vane</div>
 <h3 class="product-card-name">Bohning 2.25-Inch  -  Best Arrow Vanes for Accuracy</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -725,7 +725,7 @@ This helps the arrow maintain its speed for longer. Hence it travels faster and 
 <a href="https://www.amazon.com/dp/B00XXJ5RFS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/11THaBtUOZL._SL500_.jpg" alt="Q2i Fusion X-II  -  Best Light Weighted Arrow Vanes" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Vane</div>
 <h3 class="product-card-name">Q2i Fusion X-II  -  Best Light Weighted Arrow Vanes</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -804,7 +804,7 @@ Even though they're listed for X-Bow shafts, they can also be used on other kind
 <a href="https://www.amazon.com/dp/B00VDQLCLQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CdUYth80L._SL500_.jpg" alt="ISPORT 3” Archery Vanes  -  Best Carbon Arrow Vanes" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Vane</div>
 <h3 class="product-card-name">ISPORT 3” Archery Vanes  -  Best Carbon Arrow Vanes</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -883,7 +883,7 @@ The delivery is quite fast, and most customers seem very satisfied with the prod
 <a href="https://www.amazon.com/dp/B071RLRQ3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21z1VYpOLdL._SL500_.jpg" alt="Bohning Blazer Vanes Silver 100 pk." loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Vane</div>
 <h3 class="product-card-name">Bohning Blazer Vanes Silver 100 pk.</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -959,7 +959,7 @@ They're 6” tall.
 <a href="https://www.amazon.com/dp/B003DQXZA0?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/2188LbYA+fL._SL500_.jpg" alt="Bohning Blazer Tiger Archery Vane (100-Pack), Green" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Vane</div>
 <h3 class="product-card-name">Bohning Blazer Tiger Archery Vane (100-Pack), Green</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1045,7 +1045,7 @@ They're durable, don't tear easily, and are promptly delivered.
 <a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg" alt="TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Vanes</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Vane</div>
 <h3 class="product-card-name">TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

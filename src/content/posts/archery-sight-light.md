@@ -358,7 +358,7 @@ For this reason, you should ensure that the device is compatible with your bows.
 <a href="https://www.amazon.com/dp/B000W8J1J6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Light</div>
 <h3 class="product-card-name"></h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -444,7 +444,7 @@ You surely won’t regret choosing this product for the best utilization.
 <a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rceCvj1rL._SL500_.jpg" alt="Trophy Ridge Volt 5 Pin Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Light</div>
 <h3 class="product-card-name">Trophy Ridge Volt 5 Pin Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -520,7 +520,7 @@ The device works very well with outstanding functionality, easy use, and conveni
 <a href="https://www.amazon.com/dp/B0000AVERL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21Urm4W1AwL._SL500_.jpg" alt="TRUGLO TG55 Tru-Lite Sight Light" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Light</div>
 <h3 class="product-card-name">TRUGLO TG55 Tru-Lite Sight Light</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -606,7 +606,7 @@ You surely won’t regret choosing this product for the best utilization.
 <a href="https://www.amazon.com/dp/B00FSCZH08?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21sKNJwE1KL._SL500_.jpg" alt="SAS Compound Bow Fiber Optic LED Sight Light 3/8-32 Thread Universal Fit" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Light</div>
 <h3 class="product-card-name">SAS Compound Bow Fiber Optic LED Sight Light 3/8-32 Thread Universal Fit</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -676,7 +676,7 @@ You surely won’t regret choosing this product for the best utilization.
 <a href="https://www.amazon.com/dp/B07B2LCTJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31spp6IbhiL._SL500_.jpg" alt="TRUGLO AG2314BD Apex Gear Covert, 4 Pin Light .019 Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Light</div>
 <h3 class="product-card-name">TRUGLO AG2314BD Apex Gear Covert, 4 Pin Light .019 Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -750,7 +750,7 @@ You surely won’t regret choosing this product for the best utilization.
 <a href="https://www.amazon.com/dp/B002BIM0CK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/312Vonl3XGL._SL500_.jpg" alt="Trophy Ridge Rheostatlight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Light</div>
 <h3 class="product-card-name">Trophy Ridge Rheostatlight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -828,7 +828,7 @@ Finally, even in low light conditions, this product is specifically designed to 
 <a href="https://www.amazon.com/dp/B07JPCZZHM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="Basic Archery Supplies Fiber Optic LED Sight Light 3/8-32" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Light</div>
 <h3 class="product-card-name">Basic Archery Supplies Fiber Optic LED Sight Light 3/8-32</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -908,7 +908,7 @@ Finally, even in low light conditions, this product is specifically designed to 
 <a href="https://www.amazon.com/dp/B0748FWV3M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="Gazelle-Trading Tactical C8T6 1200 Lumen Archery Compound Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Light</div>
 <h3 class="product-card-name">Gazelle-Trading Tactical C8T6 1200 Lumen Archery Compound Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -990,7 +990,7 @@ The 600 Lumens Flashlight of this product with three filters facilitate shooting
 <a href="https://www.amazon.com/dp/B003C7OE5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31YlnGfC5HL._SL500_.jpg" alt="HHA 2500 Sight Light, Black" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Light</div>
 <h3 class="product-card-name">HHA 2500 Sight Light, Black</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1072,7 +1072,7 @@ Finally, you can grace your HHA sight with the perfect 2500 sight light that's s
 <a href="https://www.amazon.com/dp/B006QP7AJC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41SgQElye0L._SL500_.jpg" alt="IQ Sight Light" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Lights</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Light</div>
 <h3 class="product-card-name">IQ Sight Light</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

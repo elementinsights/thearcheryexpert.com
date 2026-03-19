@@ -332,7 +332,7 @@ Check these archery hip quivers out.
 <a href="https://www.amazon.com/dp/B00IEPFCGU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gP5BCowPL._SL500_.jpg" alt="Easton Flipside 2-Tube Hip Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Best Overall Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Best Overall Quiver</div>
 <h3 class="product-card-name">Easton Flipside 2-Tube Hip Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -418,7 +418,7 @@ Based on the durable built quality, ease of use, Lightweight, and cheap price, t
 <a href="https://www.amazon.com/dp/B00IEPFDLO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RzVH1zgEL._SL500_.jpg" alt="Easton Flipside 3-Tube Hip Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Runner Up Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Runner Up Quiver</div>
 <h3 class="product-card-name">Easton Flipside 3-Tube Hip Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -508,7 +508,7 @@ Based on the durable built quality, ease of use, Lightweight, and cheap price, t
 <a href="https://www.amazon.com/dp/B00IE7PX30?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/317QmJAxeVL._SL500_.jpg" alt="Easton Flipside 4-Tube Hip Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Best Value Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Best Value Quiver</div>
 <h3 class="product-card-name">Easton Flipside 4-Tube Hip Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -594,7 +594,7 @@ Based on the durable built quality, ease of use, lightweight, and cheap price, t
 <a href="https://www.amazon.com/dp/B00IQ5RTTQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/319+3sC9RLL._SL500_.jpg" alt="October Mountain Products No Spill Tube Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Premium Pick Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Premium Pick Quiver</div>
 <h3 class="product-card-name">October Mountain Products No Spill Tube Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -672,7 +672,7 @@ The OMP Quiver can serve you many years without any problem and keep your arrows
 <a href="https://www.amazon.com/dp/B07H3F2P17?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41c0Zju0P5L._SL500_.jpg" alt="Legend - XT420 Field Quiver With Adjustable Nylon Belt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Budget Pick Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Budget Pick Quiver</div>
 <h3 class="product-card-name">Legend - XT420 Field Quiver With Adjustable Nylon Belt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -760,7 +760,7 @@ Legend range Quivers are tested for durability and comfort to ensure archers of 
 <a href="https://www.amazon.com/dp/B00PWYHAUW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412WdChYstL._SL500_.jpg" alt="Southland Archery Supply SAS Leather Tube 17\" Hip Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Most Popular Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Most Popular Quiver</div>
 <h3 class="product-card-name">Southland Archery Supply SAS Leather Tube 17\" Hip Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -838,7 +838,7 @@ You can convert this hip quiver as a recurve/horse bow for target and hunting wi
 <a href="https://www.amazon.com/dp/B07DMMGF6N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41sQeGfkENL._SL500_.jpg" alt="Archery Arrows Quivers Hip Waist Hanged Arrow Bag" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Quiver</div>
 <h3 class="product-card-name">Archery Arrows Quivers Hip Waist Hanged Arrow Bag</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -919,7 +919,7 @@ Based on the build quality, ease of use, lightweight, and cheap price hip arrow 
 <a href="https://www.amazon.com/dp/B077Z8CR65?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MkuSO+0JL._SL500_.jpg" alt="XTACER Tactical Molle Lite Archery Arrow Hip Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Quiver</div>
 <h3 class="product-card-name">XTACER Tactical Molle Lite Archery Arrow Hip Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -996,7 +996,7 @@ Buyer also recommends its buying to anyone due to pretty look, flawless design, 
 <a href="https://www.amazon.com/dp/B06XFTRM61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415ktDL+0iL._SL500_.jpg" alt="AMYIPO Hip Quiver Training Archery Arrow Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Quivers</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Best for Beginners Quiver</div>
 <h3 class="product-card-name">AMYIPO Hip Quiver Training Archery Arrow Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

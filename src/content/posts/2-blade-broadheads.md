@@ -358,7 +358,7 @@ A fixed blade and a mechanical blade are included.
 <a href="https://www.amazon.com/dp/B001SH1M92?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31a2X95sq-L._SL500_.jpg" alt="Carbon Express F-15 Expandable 2 Blade Broadhead" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Broadhead</div>
 <h3 class="product-card-name">Carbon Express F-15 Expandable 2 Blade Broadhead</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -424,7 +424,7 @@ For an accurate killing, the blades are sharp and render the wound accessible.
 <a href="https://www.amazon.com/dp/B00AU6DAHY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gEOoY+gXL._SL500_.jpg" alt="2-Blade  -  Shock Collar and Ferrule Alignment Technology" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Broadhead</div>
 <h3 class="product-card-name">2-Blade  -  Shock Collar and Ferrule Alignment Technology</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -497,7 +497,7 @@ Don't waste time, and then accomplish your objectives in the best possible way.
 <a href="https://www.amazon.com/dp/B00K0LJV6I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411lm4pjkXL._SL500_.jpg" alt="Swhacker SWH00207 #207" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Broadhead</div>
 <h3 class="product-card-name">Swhacker SWH00207 #207</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -569,7 +569,7 @@ It ought to be sharpened. But, it's a price worth paying.
 <a href="https://www.amazon.com/dp/B0197DARSU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EEndVNvxL._SL500_.jpg" alt="Rage Bow Hunting Hypodermic" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Broadhead</div>
 <h3 class="product-card-name">Rage Bow Hunting Hypodermic</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -645,7 +645,7 @@ In comparison, the retention mechanism is unmatched. The service is also a perfe
 <a href="https://www.amazon.com/dp/B00QQNV6LC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/315uPAHXvVL._SL500_.jpg" alt="Rage 2 Blade Broadhead" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Broadhead</div>
 <h3 class="product-card-name">Rage 2 Blade Broadhead</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -717,7 +717,7 @@ Overall, however, it's proving to be a worthwhile venture.
 <a href="https://www.amazon.com/dp/B00BNUTUJI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ATIB+NbyL._SL500_.jpg" alt="STINGER 2 Blade Arrow Broadhead" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Broadhead</div>
 <h3 class="product-card-name">STINGER 2 Blade Arrow Broadhead</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -789,7 +789,7 @@ It's, thus, deemed to be an outstanding purchase.
 <a href="https://www.amazon.com/dp/B001EYIV02?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51KWyN3OYhL._SL500_.jpg" alt="Magnus SBC100-2 Stinger Buzzcut 2 Blade Broadhead" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Broadhead</div>
 <h3 class="product-card-name">Magnus SBC100-2 Stinger Buzzcut 2 Blade Broadhead</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -859,7 +859,7 @@ It's, indeed, a perfect investment.
 <a href="https://www.amazon.com/dp/B07TCCQT5P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31+tIeZNIhL._SL500_.jpg" alt="B3 Exoskeletal 2 Blade Broadhead" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Broadhead</div>
 <h3 class="product-card-name">B3 Exoskeletal 2 Blade Broadhead</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -939,7 +939,7 @@ Two-blade style, + 2 1/8 inches of cutting surface.
 <a href="https://www.amazon.com/dp/B000IENPWS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31LyYgXxgoL._SL500_.jpg" alt="G5 Montec 2 Blade Broadhead" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Broadhead</div>
 <h3 class="product-card-name">G5 Montec 2 Blade Broadhead</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1011,7 +1011,7 @@ So, with this awesome Broadhead, you'll get the perfect results.
 <a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/515j6P7nN6L._SL500_.jpg" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Broadheads</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Broadhead</div>
 <h3 class="product-card-name">Bloodrunner 2 Blade Broadheads</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

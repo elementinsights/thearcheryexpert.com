@@ -362,7 +362,7 @@ You can pick your archery backpacks from various colors of bright and bold color
 <a href="https://www.amazon.com/dp/B07H3F2GQ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RORJ+lzUL._SL500_.jpg" alt="Legend - XT720 Recurve Bow Case | Backpack Style Bag" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Backpack</div>
 <h3 class="product-card-name">Legend - XT720 Recurve Bow Case | Backpack Style Bag</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -439,7 +439,7 @@ Our fast entrance features let you instantly regain your bow and accessories whi
 <a href="https://www.amazon.com/dp/B07N5Q46DD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31wE2SogoaL._SL500_.jpg" alt="Legend Archery ProTour Backpack - Premium Recurve Bow Case" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Backpack</div>
 <h3 class="product-card-name">Legend Archery ProTour Backpack - Premium Recurve Bow Case</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -526,7 +526,7 @@ Our uncommon combination of tough nylon and shock foam padding gives great stren
 <a href="https://www.amazon.com/dp/B00RLTGTIA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31WgKgl9nVL._SL500_.jpg" alt="Easton Club XT Recurve Pack Black" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Backpack</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Black</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -619,7 +619,7 @@ You can use it while hiking or riding a bike or ATV.
 <a href="https://www.amazon.com/dp/B072K136FL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41FQpMxK3VL._SL500_.jpg" alt="SAS Archery Recurve Takedown Bow Backpack With Arrow Tube" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Backpack</div>
 <h3 class="product-card-name">SAS Archery Recurve Takedown Bow Backpack With Arrow Tube</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -703,7 +703,7 @@ Soft inner fully padded backpack with extra removable limb riser bag for max pro
 <a href="https://www.amazon.com/dp/B07P2B369H?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31GbNx6MLfL._SL500_.jpg" alt="Lug Women's Archer Backpack, One Size" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Backpack</div>
 <h3 class="product-card-name">Lug Women's Archer Backpack, One Size</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -781,7 +781,7 @@ It has an extendable telescopic active shell arrow container that can keep up to
 <a href="https://www.amazon.com/dp/B00RLTPST6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414h7XbU6AL._SL500_.jpg" alt="Easton Club XT Recurve Pack Blue" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Backpack</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Blue</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -869,7 +869,7 @@ Construct of Oxford cloth, 4 tubes, durable, and easy to carry.
 <a href="https://www.amazon.com/dp/B00RLUKL6A?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Zb81HMrKL._SL500_.jpg" alt="Easton Club XT Recurve Pack Red" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Backpack</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Red</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -953,7 +953,7 @@ Follow thousands of happy archers match add-to-cart to order today.
 <a href="https://www.amazon.com/dp/B072K4537K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41V9FjNFLTL._SL500_.jpg" alt="XTACER Multi-Function 4-Tubes Back Field Quiver" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Backpack</div>
 <h3 class="product-card-name">XTACER Multi-Function 4-Tubes Back Field Quiver</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1034,7 +1034,7 @@ Large carrying capacity, very cool, and fashionable.
 <a href="https://www.amazon.com/dp/B00RLU0PNE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41QI1ngh1rL._SL500_.jpg" alt="Easton Club XT Recurve Pack Gray" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Backpack</div>
 <h3 class="product-card-name">Easton Club XT Recurve Pack Gray</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1122,7 +1122,7 @@ Large carrying capacity, very cool and fashionable.
 <a href="https://www.amazon.com/dp/B00NLIME52?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/519C3lgS4eL._SL500_.jpg" alt="ALPS OutdoorZ Crossfire Hunting Pack Field Quiver Training Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Backpacks</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Backpack</div>
 <h3 class="product-card-name">ALPS OutdoorZ Crossfire Hunting Pack Field Quiver Training Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

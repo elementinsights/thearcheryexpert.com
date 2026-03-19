@@ -358,7 +358,7 @@ It's regulated to guard against poaching that's illegal in most countries to pro
 <a href="https://www.amazon.com/dp/B01B2E2YOW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51mlFbNJWpL._SL500_.jpg" alt="Badlands Pursuit Hunting Backpack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Pack</div>
 <h3 class="product-card-name">Badlands Pursuit Hunting Backpack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -434,7 +434,7 @@ This Backpack has an unconditional lifetime warranty. Badlands gear is built so 
 <a href="https://www.amazon.com/dp/B082PMBZ2P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41L3BFDY5-L._SL500_.jpg" alt="Great Fit Pursuit Bruiser Deer Hunting Treestand Backpack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Pack</div>
 <h3 class="product-card-name">Great Fit Pursuit Bruiser Deer Hunting Treestand Backpack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -504,7 +504,7 @@ It also features 1212 cubic inches of carrying capacity to enable you to carry a
 <a href="https://www.amazon.com/dp/B07Z5MY1VZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417Hsr3ggML._SL500_.jpg" alt="North Mountain Gear Camo Hunting Backpack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Pack</div>
 <h3 class="product-card-name">North Mountain Gear Camo Hunting Backpack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -578,7 +578,7 @@ This hunting backpack has a quality guarantee and is returnable for a refund if 
 <a href="https://www.amazon.com/dp/B08TTM2QH5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CTIEoZwgL._SL500_.jpg" alt="Slumberjack Pursuit" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Pack</div>
 <h3 class="product-card-name">Slumberjack Pursuit</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -649,7 +649,7 @@ It's light in weight and durable to assure high performance and allows you to fo
 <a href="https://www.amazon.com/dp/B07RC8B8WG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41io1qdLtAL._SL500_.jpg" alt="TENZING TX Pace Day Hunting Pack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Pack</div>
 <h3 class="product-card-name">TENZING TX Pace Day Hunting Pack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -716,7 +716,7 @@ Its color is mossy oak break-up country that camouflages the approach of the hun
 <a href="https://www.amazon.com/dp/B004Y7J434?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51W-OA7WePL._SL500_.jpg" alt="ALPS Outdoorz Big Bear Hunting Day Pack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Pack</div>
 <h3 class="product-card-name">ALPS Outdoorz Big Bear Hunting Day Pack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -790,7 +790,7 @@ It has a lot of storage space with a total storage of 2700 cubic inches.
 <a href="https://www.amazon.com/dp/B0894C4SVX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/515XqNEIr+L._SL500_.jpg" alt="G GATRIAL Hunting Backpack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Pack</div>
 <h3 class="product-card-name">G GATRIAL Hunting Backpack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -866,7 +866,7 @@ It's available in a khaki color shade that camouflages during a hunt expedition.
 <a href="https://www.amazon.com/dp/B07WSJ9L6N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51cX0SR3+-L._SL500_.jpg" alt="Badlands Diablo Dos Hunting Backpack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Pack</div>
 <h3 class="product-card-name">Badlands Diablo Dos Hunting Backpack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -944,7 +944,7 @@ It's available in Approach, Approach FX, and Realtree Edge color patterns unique
 <a href="https://www.amazon.com/dp/B084B17Z26?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21PVu5zPeiL._SL500_.jpg" alt="SOWLAND Hunting Backpacks" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Pack</div>
 <h3 class="product-card-name">SOWLAND Hunting Backpacks</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1019,7 +1019,7 @@ It's available in various color shades, green and khaki, which camouflages the h
 <a href="https://www.amazon.com/dp/B07GGGG4PZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51IP6Kab7yL._SL500_.jpg" alt="INSIGHTS Hunting Backpack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Packs</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Pack</div>
 <h3 class="product-card-name">INSIGHTS Hunting Backpack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

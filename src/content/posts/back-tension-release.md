@@ -412,7 +412,7 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 <a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Release</div>
 <h3 class="product-card-name">Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -487,7 +487,7 @@ It's awesomely light, high quality, and has a beautiful design with great adjust
 <a href="https://www.amazon.com/dp/B07S41P2MZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31KzvVO8fDL._SL500_.jpg" alt="Tru-Fire Sear Hand-Held Archery Compound" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Release</div>
 <h3 class="product-card-name">Tru-Fire Sear Hand-Held Archery Compound</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -561,7 +561,7 @@ Tru-Fire has tested their back tension releases, and they can handle an excessiv
 <a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31daxgCM9ML._SL500_.jpg" alt="Scott Archery Ascent Micro" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Release</div>
 <h3 class="product-card-name">Scott Archery Ascent Micro</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -631,7 +631,7 @@ Extreme flexible used by tons of pros worldwide, if you're thinking about it, ju
 <a href="https://www.amazon.com/dp/B07BB5M6YF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/416GBxQ4SgL._SL500_.jpg" alt="Stanislawski Perfex Resistance" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Release</div>
 <h3 class="product-card-name">Stanislawski Perfex Resistance</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -703,7 +703,7 @@ You won't miss your shot after the proper setup of it, perfect release to learn 
 <a href="https://www.amazon.com/dp/B0097RJOF4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EKk7-QhQL._SL500_.jpg" alt="Scott Pro Adv Back" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Release</div>
 <h3 class="product-card-name">Scott Pro Adv Back</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -778,7 +778,7 @@ It has a click feature, which means it will alert you when the bow is about to f
 <a href="https://www.amazon.com/dp/B004RDPIJE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417-hujlEBL._SL500_.jpg" alt="Scott Archery Longhorn Hunter Release" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Release</div>
 <h3 class="product-card-name">Scott Archery Longhorn Hunter Release</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -851,7 +851,7 @@ Each release puts your fingers in optimal action postures  -  we call this “fi
 <a href="https://www.amazon.com/dp/B007D0HECM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31xMzWNAIOL._SL500_.jpg" alt="Carter Enterprises Inc Carter 2 Moons Release" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Release</div>
 <h3 class="product-card-name">Carter Enterprises Inc Carter 2 Moons Release</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -924,7 +924,7 @@ At first, it's a little much harder to adjust it, but once it's done, you'll enj
 <a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31BlOt7y+sL._SL500_.jpg" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Release</div>
 <h3 class="product-card-name">Tru-Fire Hardcore Buckle Foldback</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -998,7 +998,7 @@ This USA made great quality product to improves your shots. The triggers are fan
 <a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31DqPjqYHuS._SL500_.jpg" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Release</div>
 <h3 class="product-card-name">Tru Ball V-Lock Buckle Strap</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1071,7 +1071,7 @@ It's very easy and safe to install without any worry of losing up screws.
 <a href="https://www.amazon.com/dp/B000KKD3G8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31W6ogxYdcL._SL500_.jpg" alt="Tru-Fire Patriot Archery Compound Bow Release" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Release</div>
 <h3 class="product-card-name">Tru-Fire Patriot Archery Compound Bow Release</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1149,7 +1149,7 @@ It makes your shooting 100% fun, no need to worry about hurting your fingers whi
 <a href="https://www.amazon.com/dp/B07DKVW9MN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ZStncczVL._SL500_.jpg" alt="Spot Hogg Purple WiseGuy Release" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#11 Pick</span> Great Pick Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#11 Pick</span> Great Pick Release</div>
 <h3 class="product-card-name">Spot Hogg Purple WiseGuy Release</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1223,7 +1223,7 @@ The quality and comfort of it are far the best you've seen in any release on the
 <a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310b1Mvu3WL._SL500_.jpg" alt="Cobra Archery Switch Thumb and Back Tension Release" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#12 Pick</span> Solid Choice Releases</div>
+<div class="product-card-rank"><span class="rank-badge">#12 Pick</span> Solid Choice Release</div>
 <h3 class="product-card-name">Cobra Archery Switch Thumb and Back Tension Release</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

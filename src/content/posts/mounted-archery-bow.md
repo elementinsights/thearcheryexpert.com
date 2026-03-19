@@ -354,7 +354,7 @@ Anyway, you might’ve come here because a passion for mounted archery developed
 <a href="https://www.amazon.com/dp/B077QGH19V?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414HtozIt6L._SL500_.jpg" alt="Huntingdoor Archery Traditional Recurve Mongolian Horse Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bow</div>
 <h3 class="product-card-name">Huntingdoor Archery Traditional Recurve Mongolian Horse Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -440,7 +440,7 @@ They're a good value for money, and I assure you that you won’t regret buying 
 <a href="https://www.amazon.com/dp/B0799JRB2G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/416gGMM35zL._SL500_.jpg" alt="AF Turkish Short Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bow</div>
 <h3 class="product-card-name">AF Turkish Short Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -528,7 +528,7 @@ Nevertheless, it's a great bow to own if you value the equipment's durability an
 <a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="AF Handmade Traditional Crimean Tatar Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bow</div>
 <h3 class="product-card-name">AF Handmade Traditional Crimean Tatar Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -614,7 +614,7 @@ I believe that the AF Handmade Traditional Crimean Tatar Recurve Bow is the best
 <a href="https://www.amazon.com/dp/B07JWF2S9M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3127ROApiyL._SL500_.jpg" alt="Southland Archery Traditional Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bow</div>
 <h3 class="product-card-name">Southland Archery Traditional Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -704,7 +704,7 @@ Aside from the horse bow, it also includes brass bushing, quiver, sight, stabili
 <a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg" alt="Premium Korean Traditional Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bow</div>
 <h3 class="product-card-name">Premium Korean Traditional Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -788,7 +788,7 @@ If the best country in archery competition likes it, then it means that this bow
 <a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CfFH-Xs3L._SL500_.jpg" alt="PSE Archery Pro Max Traditional Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bow</div>
 <h3 class="product-card-name">PSE Archery Pro Max Traditional Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -868,7 +868,7 @@ In addition to the bow, you'll also get extras such as a recurve stringer, quive
 <a href="https://www.amazon.com/dp/B079Z4V8ZN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51xO+-f9ZuL._SL500_.jpg" alt="D&Q Takedown Recurve Bow and Arrow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bow</div>
 <h3 class="product-card-name">D&Q Takedown Recurve Bow and Arrow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -959,7 +959,7 @@ The good thing is that the package also includes other essential items in improv
 <a href="https://www.amazon.com/dp/B01LY8GVDJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41WKYKOtQDL._SL500_.jpg" alt="Spyder XL Takedown Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bow</div>
 <h3 class="product-card-name">Spyder XL Takedown Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1035,7 +1035,7 @@ So I believe that it's worth every penny if eventually, you purchase them.
 <a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg" alt="AF Turkish Style Handmade Traditional Laminated Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bow</div>
 <h3 class="product-card-name">AF Turkish Style Handmade Traditional Laminated Recurve Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1117,7 +1117,7 @@ I believe that the AF Turkish Style Handmade Laminated Traditional Recurve Bow i
 <a href="https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg" alt="Bear Archery Grizzly Recurve Right Hand" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bow</div>
 <h3 class="product-card-name">Bear Archery Grizzly Recurve Right Hand</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

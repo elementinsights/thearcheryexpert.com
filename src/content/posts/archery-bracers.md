@@ -362,7 +362,7 @@ As you search for your target archery brace, as Effie Trinke says in Hunger game
 <a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Southland Archery Supply Armguard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bracer</div>
 <h3 class="product-card-name">Southland Archery Supply Armguard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -438,7 +438,7 @@ This one size fits all gear can assure you that you can always strike with confi
 <a href="https://www.amazon.com/dp/B07PTS2Z9M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uW5BV+jaL._SL500_.jpg" alt="Goabroa Archery Arm Guards" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Bracer</div>
 <h3 class="product-card-name">Goabroa Archery Arm Guards</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -514,7 +514,7 @@ So, it's no wonder why it’s part of archery’s cream of the crop.
 <a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MsIc2FORL._SL500_.jpg" alt="Allen Company Mesh Archery Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bracer</div>
 <h3 class="product-card-name">Allen Company Mesh Archery Arm Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -586,7 +586,7 @@ Given that versatility, for sure kids will love it.
 <a href="https://www.amazon.com/dp/B081HVRCL2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fPAl+-NPL._SL500_.jpg" alt="KESHES Archery Armguard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bracer</div>
 <h3 class="product-card-name">KESHES Archery Armguard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -668,7 +668,7 @@ And that sounds like the company you’re looking for.
 <a href="https://www.amazon.com/dp/B00GTJUXGW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MVZHOKEeL._SL500_.jpg" alt="Huntingdoor Arm Guards" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bracer</div>
 <h3 class="product-card-name">Huntingdoor Arm Guards</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -758,7 +758,7 @@ Making it so versatile that regardless if you’re using it just for show or for
 <a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Krayner Archery Arm Protector" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bracer</div>
 <h3 class="product-card-name">Krayner Archery Arm Protector</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -840,7 +840,7 @@ Just in case you want an archery bracer that works but with character, Krayney a
 <a href="https://www.amazon.com/dp/B07K27PFMD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31S5IEMpNbL._SL500_.jpg" alt="KRATARC Archery Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bracer</div>
 <h3 class="product-card-name">KRATARC Archery Arm Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -918,7 +918,7 @@ If that doesn’t convince you, we think you’re wallet would, making it hard t
 <a href="https://www.amazon.com/dp/B001F0M5UW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31V6QezQAzL._SL500_.jpg" alt="Sportsman's Camo Armguard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Bracer</div>
 <h3 class="product-card-name">Sportsman's Camo Armguard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1020,7 +1020,7 @@ Indeed, a great gift for both experienced and new archers alike.
 <a href="https://www.amazon.com/dp/B004VQ5VDA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41OmkOHRuyL._SL500_.jpg" alt="Mossy Oak Strap Armguard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bracer</div>
 <h3 class="product-card-name">Mossy Oak Strap Armguard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1120,7 +1120,7 @@ Truly Mossy Oak Strap Armguard gives good value for your money.
 <a href="https://www.amazon.com/dp/B01MSN4KUO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41RelydEjQL._SL500_.jpg" alt="Southland Archery Supply Leather Suede Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bracers</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bracer</div>
 <h3 class="product-card-name">Southland Archery Supply Leather Suede Arm Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

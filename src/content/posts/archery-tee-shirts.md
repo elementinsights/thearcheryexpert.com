@@ -358,7 +358,7 @@ Many of these tee shirts are light in weight, making people opt for them during 
 <a href="https://www.amazon.com/dp/B0784STKRT?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41oHF48ubcL._SL500_.jpg" alt="Vintage Hoyt Archery Brawling Bucks T-shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Shirt</div>
 <h3 class="product-card-name">Vintage Hoyt Archery Brawling Bucks T-shirt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -436,7 +436,7 @@ As long as it fits you perfectly, you can enjoy the rest of the day comfortably 
 <a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="We Are US Archery - National Team Supporter T-Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Shirt</div>
 <h3 class="product-card-name">We Are US Archery - National Team Supporter T-Shirt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -503,7 +503,7 @@ The US flag is featured prominently on the shirt - a great way to show your patr
 <a href="https://www.amazon.com/dp/B01EI81BES?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="A & E Designs Rambo Shirt Archery T-shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Shirt</div>
 <h3 class="product-card-name">A & E Designs Rambo Shirt Archery T-shirt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -583,7 +583,7 @@ Don’t hesitate to get one.
 <a href="https://www.amazon.com/dp/B07JL8THR2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41okCevWDlL._SL500_.jpg" alt="Smokem’ Whitetail Soldier Deer Hunting T-shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Shirt</div>
 <h3 class="product-card-name">Smokem’ Whitetail Soldier Deer Hunting T-shirt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -660,7 +660,7 @@ You can wear this t-shirt with jeans, sweatpants, khakis, or shorts, just whiche
 <a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Idakoos I Love Archery Men's T-shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Shirt</div>
 <h3 class="product-card-name">Idakoos I Love Archery Men's T-shirt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -736,7 +736,7 @@ You can now proceed with ordering this tee shirt for someone or even yourself as
 <a href="https://www.amazon.com/dp/B00E6RKTI6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51p9OwhuN7L._SL500_.jpg" alt="King’s Camo Ladies Hunter Series Long Sleeve Camo Tee" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Shirt</div>
 <h3 class="product-card-name">King’s Camo Ladies Hunter Series Long Sleeve Camo Tee</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -819,7 +819,7 @@ It should be noted that you’ll be better off if you know the correct size for 
 <a href="https://www.amazon.com/dp/B00CR1UFBO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51WCNHAFGCL._SL500_.jpg" alt="King’s Camo Cotton Short Sleeve Hunting Tee" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Shirt</div>
 <h3 class="product-card-name">King’s Camo Cotton Short Sleeve Hunting Tee</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -895,7 +895,7 @@ You can pair up this tee shirt with some hunting pants, faded jeans, or just any
 <a href="https://www.amazon.com/dp/B07XV5K8K7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qkDo66ixL._SL500_.jpg" alt="Teeburon Archery Only For the Brave Women Tee" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Shirt</div>
 <h3 class="product-card-name">Teeburon Archery Only For the Brave Women Tee</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -976,7 +976,7 @@ You’ll also have added flavor to the look by adding headgear.
 <a href="https://www.amazon.com/dp/B00BEV4OGA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41i0kRkyfQL._SL500_.jpg" alt="Buxsbaum Girlie T-shirt Archery Logo" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Shirt</div>
 <h3 class="product-card-name">Buxsbaum Girlie T-shirt Archery Logo</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1057,7 +1057,7 @@ You can give this to your Mom, sister, favorite cousin, best friend, or aunt. Th
 <a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51EeXQVlWKL._SL500_.jpg" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Shirts</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Shirt</div>
 <h3 class="product-card-name">Bear Archery Retro Kodiak Tee Shirt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

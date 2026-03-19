@@ -358,7 +358,7 @@ To increase accuracy, many different accessories have been developed which helps
 <a href="https://www.amazon.com/dp/B07R9SY4M4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zX70BgP2L._SL500_.jpg" alt="TOPOINT Archery CNC Aluminum 7 Pins" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Sight</div>
 <h3 class="product-card-name">TOPOINT Archery CNC Aluminum 7 Pins</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -428,7 +428,7 @@ Topoint bow sight is available in many variants and options for archers such as:
 <a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg" alt="IQ Define Pro 7-Pin" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Sight</div>
 <h3 class="product-card-name">IQ Define Pro 7-Pin</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -498,7 +498,7 @@ It also has an integrated sight light with 5 brightness levels which helps arche
 <a href="https://www.amazon.com/dp/B0197D9WHC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51w34x+SzLL._SL500_.jpg" alt="Trophy Ridge React 7 Pro Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Sight</div>
 <h3 class="product-card-name">Trophy Ridge React 7 Pro Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -572,7 +572,7 @@ This advanced technology helps to clear all barriers which boost your accuracy.
 <a href="https://www.amazon.com/dp/B00CQ8CL60?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41k2zbNoFML._SL500_.jpg" alt="IQ Bowsights 7-Pin Micro Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Sight</div>
 <h3 class="product-card-name">IQ Bowsights 7-Pin Micro Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -641,7 +641,7 @@ IQ Bowsights 7-pin Micro Bow Sight is mostly suitable for right-handed people wh
 <a href="https://www.amazon.com/dp/B078J9Q77F?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41-PXAkuMTL._SL500_.jpg" alt="TRUGLO Hyper-Strike Ultra-Light Long Range Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Sight</div>
 <h3 class="product-card-name">TRUGLO Hyper-Strike Ultra-Light Long Range Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -706,7 +706,7 @@ Truglo Hyper-Strike Ultra-Light Long Range Bow Sight has tool-less micro windage
 <a href="https://www.amazon.com/dp/B07V2Y4SNX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg" alt="7 Pins Compound Bow Sight. 019”" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Sight</div>
 <h3 class="product-card-name">7 Pins Compound Bow Sight. 019”</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -774,7 +774,7 @@ Also available with an option of detachable Bracket LED Sight Light which helps 
 <a href="https://www.amazon.com/dp/B07R8PJ7BG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41j7XY25x1L._SL500_.jpg" alt="Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Sight</div>
 <h3 class="product-card-name">Archery 7 Pin Bow Sight 0.019 Optical Fiber Micro Adjust</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -849,7 +849,7 @@ Ace Hunter offers many such features that are available in premium bow sights th
 <a href="https://www.amazon.com/dp/B01M6W425T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51rykyUNaoL._SL500_.jpg" alt="5 Pin / 7 Pin Bow Sight Micro-Adjustable Aluminum" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Sight</div>
 <h3 class="product-card-name">5 Pin / 7 Pin Bow Sight Micro-Adjustable Aluminum</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -914,7 +914,7 @@ The 7 pins of this bow sight will help you solve this particular problem.
 <a href="https://www.amazon.com/dp/B003DR0S5Y?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41FZ-c9Ia5L._SL500_.jpg" alt="Axcel Armortech HD Sight - 7 Pins .010" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Sight</div>
 <h3 class="product-card-name">Axcel Armortech HD Sight - 7 Pins .010</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -977,7 +977,7 @@ It comes along with a true center vision which supplies a circular sight picture
 <a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg" alt="IQ Define Pro 7-Pin Bow Range Finding Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Sights</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Sight</div>
 <h3 class="product-card-name">IQ Define Pro 7-Pin Bow Range Finding Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

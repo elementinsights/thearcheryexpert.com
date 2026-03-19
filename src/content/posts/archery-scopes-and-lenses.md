@@ -358,7 +358,7 @@ These accessories are very beneficial for archers so do read these reviews on ar
 <a href="https://www.amazon.com/dp/B00ONCITYA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41rceCvj1rL._SL500_.jpg" alt="Trophy Ridge Volt 5 Pin Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Lens</div>
 <h3 class="product-card-name">Trophy Ridge Volt 5 Pin Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -438,7 +438,7 @@ It comes with black color and has dimensions of 9 x 4 x 9 inches.
 <a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41I7l4fjyJL._SL500_.jpg" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Lens</div>
 <h3 class="product-card-name">CBE Engage Hybrid Bow Sight 3 Pin RH .010</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -509,7 +509,7 @@ It weighs 14.4 ounces and has dimensions of 10 x 4.2 x 3 inches.
 <a href="https://www.amazon.com/dp/B07CLQDTTZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41kMnWU4GtL._SL500_.jpg" alt="Bow sight Define Range Finding 5 Pin" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Lens</div>
 <h3 class="product-card-name">Bow sight Define Range Finding 5 Pin</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -585,7 +585,7 @@ This bow sight runs by a CR2 battery and has a dual mounting system, therefore, 
 <a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31Vo-rF5QWL._SL500_.jpg" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Lens</div>
 <h3 class="product-card-name">AccuTouch Carbon Pro Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -665,7 +665,7 @@ The Axcel Company has designed it with a composite carbon technology which makes
 <a href="https://www.amazon.com/dp/B07JPCZZHM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41AuZ9y8vEL._SL500_.jpg" alt="Range-Rover Pro LED Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Lens</div>
 <h3 class="product-card-name">Range-Rover Pro LED Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -751,7 +751,7 @@ The 1-dot style has dimensions of 10 x 10.2 x 4 inches and the 2-dot style has d
 <a href="https://www.amazon.com/dp/B0DQKR5G16?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51IIO6Bqf7L._SL500_.jpg" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Lens</div>
 <h3 class="product-card-name">Oracle Rangefinder Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -825,7 +825,7 @@ This scope weighs 17 ounces and is powered by a CR123 battery.
 <a href="https://www.amazon.com/dp/B00OJM8732?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/514oaF5HqmL._SL500_.jpg" alt="React Pro Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Lens</div>
 <h3 class="product-card-name">React Pro Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -900,7 +900,7 @@ The product comes with black color and its dimensions are 5 x 8 x 0.75 inches.
 <a href="https://www.amazon.com/dp/B00G6M5MBI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41mmsP7iuPL._SL500_.jpg" alt="TOPOINT ARCHERY 3 Pin Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Lens</div>
 <h3 class="product-card-name">TOPOINT ARCHERY 3 Pin Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -972,7 +972,7 @@ The sight can be adjusted for both left and right-handed users.
 <a href="https://www.amazon.com/dp/B07N7G14L3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41tsQ8IWi+L._SL500_.jpg" alt="Define Pro 7-Pin Bow Range Finding Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Lens</div>
 <h3 class="product-card-name">Define Pro 7-Pin Bow Range Finding Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1056,7 +1056,7 @@ Yardage displayed is always horizontal distance and it also has a built-in angle
 <a href="https://www.amazon.com/dp/B07R7SHGJ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41PZG9fFkFL._SL500_.jpg" alt="RDS-22 Micro Red Dot Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Lenses</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Lens</div>
 <h3 class="product-card-name">RDS-22 Micro Red Dot Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

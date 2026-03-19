@@ -354,7 +354,7 @@ We can select from much different protective equipment while considering their a
 <a href="https://www.amazon.com/dp/B00BWV6ARS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41vgvDJ+U-L._SL500_.jpg" alt="Easton Diamond Chest Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guard</div>
 <h3 class="product-card-name">Easton Diamond Chest Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -426,7 +426,7 @@ There's an advantage for athletes from the same team as several athletes can sha
 <a href="https://www.amazon.com/dp/B00BWV6ASC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51kg3pQDTIL._SL500_.jpg" alt="Hunting Archery Adjustable Chest Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guard</div>
 <h3 class="product-card-name">Hunting Archery Adjustable Chest Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -503,7 +503,7 @@ Hunters highly use the item as they undertake their everyday life routine and ar
 <a href="https://www.amazon.com/dp/B07Z6S54RR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ySJHFb93L._SL500_.jpg" alt="Starlight Collective Archery Chest Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guard</div>
 <h3 class="product-card-name">Starlight Collective Archery Chest Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -586,7 +586,7 @@ The straps are fitted with a snap closure that enables the user to work appropri
 <a href="https://www.amazon.com/dp/B09SPHKVTX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51kiq9laeDL._SL500_.jpg" alt="KOWinner 1-Piece Archery Chest Protector Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guard</div>
 <h3 class="product-card-name">KOWinner 1-Piece Archery Chest Protector Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -661,7 +661,7 @@ Its material is primarily made of black, which is preferred for major activities
 <a href="https://www.amazon.com/dp/B071L1SMWQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XgWqHtXAL._SL500_.jpg" alt="Cartel Chest guard 101 White" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guard</div>
 <h3 class="product-card-name">Cartel Chest guard 101 White</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -742,7 +742,7 @@ The item is designed for right-hand use only.
 <a href="https://www.amazon.com/dp/B08HMP5GVL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41WEhp0J19L._SL500_.jpg" alt="Adjustable Ergonomically Designed Shooting Chest Protector" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guard</div>
 <h3 class="product-card-name">Adjustable Ergonomically Designed Shooting Chest Protector</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -819,7 +819,7 @@ Easy to clean as it's mainly made of a black material that doesn't readily absor
 <a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="TOPARCHERY Archery Hand Guard protector Shooting Glove For Left Hand" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guard</div>
 <h3 class="product-card-name">TOPARCHERY Archery Hand Guard protector Shooting Glove For Left Hand</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -896,7 +896,7 @@ This guard is light and doesn't burden the user, making it possible to be used a
 <a href="https://www.amazon.com/dp/B07Z76Z2FY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41SKbjy-aML._SL500_.jpg" alt="Striker Bows Brown Three Finger Archery Glove Genuine Handmade Leather" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guard</div>
 <h3 class="product-card-name">Striker Bows Brown Three Finger Archery Glove Genuine Handmade Leather</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -972,7 +972,7 @@ The fingertips are reinforced for maximum protection and strength.
 <a href="https://www.amazon.com/dp/B00WHA7B9O?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41MijygXPML._SL500_.jpg" alt="Wizard Youth Archery Arm Guard For Target Shooting" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guard</div>
 <h3 class="product-card-name">Wizard Youth Archery Arm Guard For Target Shooting</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1059,7 +1059,7 @@ This item is dated back to 2014 and has always been ranked as one of the guards 
 <a href="https://www.amazon.com/dp/B07K49WQKL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41QFrsSLwSL._SL500_.jpg" alt="HRCHCG Archery Gloves Bow Finger/Hand Guard (Pack of 3)" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guard</div>
 <h3 class="product-card-name">HRCHCG Archery Gloves Bow Finger/Hand Guard (Pack of 3)</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

@@ -368,7 +368,7 @@ Here's a list of the 10 best archery bag targets that we've gathered for you to 
 <a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Field Logic Hurricane Archery Bag Target H25" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Target</div>
 <h3 class="product-card-name">Field Logic Hurricane Archery Bag Target H25</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -447,7 +447,7 @@ It can't withstand prolonged sun or rain exposure, so you should better keep it 
 <a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Morrell Yellow Jacket Crossbow Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Target</div>
 <h3 class="product-card-name">Morrell Yellow Jacket Crossbow Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -530,7 +530,7 @@ If the cover of your target wears out then you can get it replaced to provide a 
 <a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Morrell Yellow Jacket Supreme 3" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Target</div>
 <h3 class="product-card-name">Morrell Yellow Jacket Supreme 3</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -609,7 +609,7 @@ If you're an experienced archer using high-speed crossbows and want to practice 
 <a href="https://www.amazon.com/dp/B00AI9IXJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qYkXC9VsL._SL500_.jpg" alt="Morrell Yellow Jacket Stinger Field" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Target</div>
 <h3 class="product-card-name">Morrell Yellow Jacket Stinger Field</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -686,7 +686,7 @@ This target is best used for indoor practice sessions by beginners or skilled sp
 <a href="https://www.amazon.com/dp/B00CJJ76HU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51dPF4wLXML._SL500_.jpg" alt="Morrell Supreme Range Field Point Bag Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Target</div>
 <h3 class="product-card-name">Morrell Supreme Range Field Point Bag Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -765,7 +765,7 @@ It’s built for field points only and using them would increase its life. Unlik
 <a href="https://www.amazon.com/dp/B01BUDMSMI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JTDWO+itL._SL500_.jpg" alt="Delta McKenzie Speedbag 20/20 Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Target</div>
 <h3 class="product-card-name">Delta McKenzie Speedbag 20/20 Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -850,7 +850,7 @@ This bag target is for indoor practice, so bring it inside with you after practi
 <a href="https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Kvuf6wnSL._SL500_.jpg" alt="Morrell Keep Hammering Outdoor Range Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Target</div>
 <h3 class="product-card-name">Morrell Keep Hammering Outdoor Range Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -931,7 +931,7 @@ The cover of the target provides a unique set of various dots to target and shoo
 <a href="https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51spJKSjQuL._SL500_.jpg" alt="Field Logic Hurricane H21 Crossbow Archery Bag Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Target</div>
 <h3 class="product-card-name">Field Logic Hurricane H21 Crossbow Archery Bag Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1012,7 +1012,7 @@ Use it for field points only and it will stay with you for years.
 <a href="https://www.amazon.com/dp/B07NBWWFM7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/5122CTxLoZL._SL500_.jpg" alt="Bulldog Targets Doghouse Field Point Archery Target Plus" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Target</div>
 <h3 class="product-card-name">Bulldog Targets Doghouse Field Point Archery Target Plus</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1097,7 +1097,7 @@ Shooters who don’t like to move their targets around and beginners who are sta
 <a href="https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41ZTKs587uL._SL500_.jpg" alt="DELTA 70630 Speed Bag Crossbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Targets</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Target</div>
 <h3 class="product-card-name">DELTA 70630 Speed Bag Crossbow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

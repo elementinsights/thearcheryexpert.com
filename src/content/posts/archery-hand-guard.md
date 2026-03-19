@@ -360,7 +360,7 @@ They all come in different sizes, textures, and colors which are durable, comfor
 <a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="TOPARCHERY Archery Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guard</div>
 <h3 class="product-card-name">TOPARCHERY Archery Hand Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -438,7 +438,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="XTACER Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guard</div>
 <h3 class="product-card-name">XTACER Hand Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -510,7 +510,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B07HG6VMQ9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41l4ltkbbCL._SL500_.jpg" alt="JKER TECH Archery Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Guard</div>
 <h3 class="product-card-name">JKER TECH Archery Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -590,7 +590,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B019SMVPC2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31mPuflTNIL._SL500_.jpg" alt="HUNTINGDOOR Archery Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guard</div>
 <h3 class="product-card-name">HUNTINGDOOR Archery Hand Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -664,7 +664,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B07NXQJY5C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41wcE2LSzzL._SL500_.jpg" alt="NACHVORN Two-finger Archery Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Guard</div>
 <h3 class="product-card-name">NACHVORN Two-finger Archery Hand Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -736,7 +736,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41xsNWsb48L._SL500_.jpg" alt="KESHES Archery Glove" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guard</div>
 <h3 class="product-card-name">KESHES Archery Glove</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -810,7 +810,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31vkCPRPEyL._SL500_.jpg" alt="HWZ Cowhide Archery Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guard</div>
 <h3 class="product-card-name">HWZ Cowhide Archery Hand Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -880,7 +880,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B07254CS8D?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41-juFaIRTL._SL500_.jpg" alt="TOPARCHERY Two-finger Protective Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Guard</div>
 <h3 class="product-card-name">TOPARCHERY Two-finger Protective Hand Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -950,7 +950,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B019YVTS1C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41C6a6rMP+L._SL500_.jpg" alt="HUNTINGDOOR Archery Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Guard</div>
 <h3 class="product-card-name">HUNTINGDOOR Archery Hand Guard</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1018,7 +1018,7 @@ Pros & Benefits:
 <a href="https://www.amazon.com/dp/B013XF5Q0M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qdHuwxqyL._SL500_.jpg" alt="ARCHERYMAX Three-finger Archery Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guards</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Guard</div>
 <h3 class="product-card-name">ARCHERYMAX Three-finger Archery Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

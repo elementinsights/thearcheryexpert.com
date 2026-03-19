@@ -356,7 +356,7 @@ Archery target pins range between different sizes of 0.5-6 inches. They're of ma
 <a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z6lNXDfeL._SL500_.jpg" alt="SAS ARCHERY TARGET FACE PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Pin</div>
 <h3 class="product-card-name">SAS ARCHERY TARGET FACE PINS</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -426,7 +426,7 @@ This set contains four archery target pins having a reasonable value, making it 
 <a href="https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31eBwH+UYZL._SL500_.jpg" alt="SAUNDERS CSI 4-INCH ARCHERY TARGET PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Pin</div>
 <h3 class="product-card-name">SAUNDERS CSI 4-INCH ARCHERY TARGET PINS</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -500,7 +500,7 @@ Being one of the top sellers, the Saunders Archery Company offers you good quali
 <a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="BCP ARCHERY TARGET FACE PINS (PACK OF 10)" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Pin</div>
 <h3 class="product-card-name">BCP ARCHERY TARGET FACE PINS (PACK OF 10)</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -570,7 +570,7 @@ These pins are a perfect example of “you get what you pay for.”
 <a href="https://www.amazon.com/dp/B00CGPIXEC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31upxk-SikL._SL500_.jpg" alt="BOBS ARCHERY TARGET FACE PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Pin</div>
 <h3 class="product-card-name">BOBS ARCHERY TARGET FACE PINS</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -642,7 +642,7 @@ They're good to use indoors and outdoors. Frankly speaking, these target pins ar
 <a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg" alt="BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Pin</div>
 <h3 class="product-card-name">BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -719,7 +719,7 @@ They have a firm grip that securely holds everything, and the length of these pi
 <a href="https://www.amazon.com/dp/B00CGOW0UG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ftq5RgWIL._SL500_.jpg" alt="BOBS ARCHERY 3D TARGET BALLS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Pin</div>
 <h3 class="product-card-name">BOBS ARCHERY 3D TARGET BALLS</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -796,7 +796,7 @@ These ball pins surely remove any responsibilities on your part. All you've to d
 <a href="https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41NaqBWJO-L._SL500_.jpg" alt="E510E Plastic Archery Paper Target Face Pins (25 PCS)" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Pin</div>
 <h3 class="product-card-name">E510E Plastic Archery Paper Target Face Pins (25 PCS)</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -864,7 +864,7 @@ These pins also come with a complimentary non-slip surface grip design that make
 <a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg" alt="RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Pin</div>
 <h3 class="product-card-name">RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -935,7 +935,7 @@ Summing it up, the Rusoji archery pins are a must-buy if you're looking for some
 <a href="https://www.amazon.com/dp/B01MQJAREE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3107-r+X53L._SL500_.jpg" alt="COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Pin</div>
 <h3 class="product-card-name">COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1002,7 +1002,7 @@ These pins are good and simple enough for 9 years old to attach and remove paper
 <a href="https://www.amazon.com/dp/B00CGPDB94?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gMTpVpAHL._SL500_.jpg" alt="BOBS ARCHERY BALLS FITA TARGET FACE PINS" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Pins</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Pin</div>
 <h3 class="product-card-name">BOBS ARCHERY BALLS FITA TARGET FACE PINS</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

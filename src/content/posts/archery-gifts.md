@@ -358,7 +358,7 @@ But there are so many things in archery that we love and can make a great gift f
 <a href="https://www.amazon.com/dp/B07K7YNF7Z?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EUToX2QDL._SL500_.jpg" alt="Arrow Rest - Trophy Ridge Sync Drop Away Right Hand Arrow Rest" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Gift</div>
 <h3 class="product-card-name">Arrow Rest - Trophy Ridge Sync Drop Away Right Hand Arrow Rest</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -442,7 +442,7 @@ This is the perfect gift for a young archer who wants to practice archery at hom
 <a href="https://www.amazon.com/dp/B06XCZXPF5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DvJtIHi+L._SL500_.jpg" alt="Release - Scott Archery Talon Bow Release Buckle Strap" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Gift</div>
 <h3 class="product-card-name">Release - Scott Archery Talon Bow Release Buckle Strap</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -524,7 +524,7 @@ it can immediately be bought off the link as it's also one of the more affordabl
 <a href="https://www.amazon.com/dp/B075QMZ2VL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zjribFjiL._SL500_.jpg" alt="Custom Arrow Strings - KESHES Dacron Bow String Replacement" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Gift</div>
 <h3 class="product-card-name">Custom Arrow Strings - KESHES Dacron Bow String Replacement</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -610,7 +610,7 @@ This makes it an overall perfect gift for your loved ones.
 <a href="https://www.amazon.com/dp/B007TOHDQY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41HGi2o8EZL._SL500_.jpg" alt="Plano Protector Pillar Locked Protective Bow Case" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Gift</div>
 <h3 class="product-card-name">Plano Protector Pillar Locked Protective Bow Case</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -686,7 +686,7 @@ Overall, this bow case will make a perfect gift for your loved ones, as this isn
 <a href="https://www.amazon.com/dp/B00OPA6DXO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41jwpiMqLIL._SL500_.jpg" alt="Sights - Trophy Ridge Joker Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Gift</div>
 <h3 class="product-card-name">Sights - Trophy Ridge Joker Bow Sight</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -770,7 +770,7 @@ All in all, this is a wonderful gift for your archer to practice, improve the sk
 <a href="https://www.amazon.com/dp/B008J6T4RC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41roO-JCn2L._SL500_.jpg" alt="Archery Bow Stand - HME Products Hard Surface Practice Hanger" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Gift</div>
 <h3 class="product-card-name">Archery Bow Stand - HME Products Hard Surface Practice Hanger</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -852,7 +852,7 @@ Overall, this is a perfect gift for your archer, providing him/her much-needed a
 <a href="https://www.amazon.com/dp/B000ZB9474?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51O7cfy1HHL._SL500_.jpg" alt="Archery Target - Morrell Yellow Jacket Supreme Archery Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Gift</div>
 <h3 class="product-card-name">Archery Target - Morrell Yellow Jacket Supreme Archery Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -932,7 +932,7 @@ Overall, this is a perfect archery gift for your beginner marksman, allowing him
 <a href="https://www.amazon.com/dp/B07YWT623G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310oVO3JhgL._SL500_.jpg" alt="Quiver - G4Free Archery Back Arrow Quiver Canvas" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Gift</div>
 <h3 class="product-card-name">Quiver - G4Free Archery Back Arrow Quiver Canvas</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1010,7 +1010,7 @@ All in all, this durable and comfortable quiver is the best gift for your archer
 <a href="https://www.amazon.com/dp/B07ZRG6TKB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/511gVMVNcoL._SL500_.jpg" alt="Camouflage Cloth - LOOGU Hunting Ghillie Suit" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Gift</div>
 <h3 class="product-card-name">Camouflage Cloth - LOOGU Hunting Ghillie Suit</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1088,7 +1088,7 @@ This makes it just a perfect archery gift for your archer.
 <a href="https://www.amazon.com/dp/B0837NGKM3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JNXt-P5UL._SL500_.jpg" alt="Arrow For The Bow - Linkboy Archery Carbon Arrows" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Gifts</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Gift</div>
 <h3 class="product-card-name">Arrow For The Bow - Linkboy Archery Carbon Arrows</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

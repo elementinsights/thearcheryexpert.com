@@ -358,7 +358,7 @@ Truly, without gloves, there's no other best way to protect your fingers and ner
 <a href="https://www.amazon.com/dp/B013XF5LAW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qdHuwxqyL._SL500_.jpg" alt="Archery Max Handmade Brown Leather 3 Finger Archery Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Glove</div>
 <h3 class="product-card-name">Archery Max Handmade Brown Leather 3 Finger Archery Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -427,7 +427,7 @@ Some people think that this item is designed only for left-handed people.
 <a href="https://www.amazon.com/dp/B08FMLL2RN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31sAB7e7MOL._SL500_.jpg" alt="Coolrunner Archery Glove 3 Finger Leather Archery Protective Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Glove</div>
 <h3 class="product-card-name">Coolrunner Archery Glove 3 Finger Leather Archery Protective Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -489,7 +489,7 @@ Also, Coolrunner Archery Glove’s texture is good and will last for long time u
 <a href="https://www.amazon.com/dp/B07YQ4V1KT?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/410JzEq8+HL._SL500_.jpg" alt="Bear Archery Leather 3 Finger Traditional Archery Glove" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Glove</div>
 <h3 class="product-card-name">Bear Archery Leather 3 Finger Traditional Archery Glove</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -557,7 +557,7 @@ These types of the bow have an 80lb pull with great accuracy and completely perf
 <a href="https://www.amazon.com/dp/B0C64D1VQ2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg" alt="Krayney Adult and Youth Leather Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Glove</div>
 <h3 class="product-card-name">Krayney Adult and Youth Leather Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -629,7 +629,7 @@ It's best to choose for longtime users.
 <a href="https://www.amazon.com/dp/B000P9WFF4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31DRjf3It0L._SL500_.jpg" alt="Damascus Doeskin Shooting Glove" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Glove</div>
 <h3 class="product-card-name">Damascus Doeskin Shooting Glove</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -693,7 +693,7 @@ The Damascus 3 finger archery glove is more different from other archery gloves 
 <a href="https://www.amazon.com/dp/B073W9HCHQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/5160UzO+dbL._SL500_.jpg" alt="Toparchery Leather 2 Straps Arm Guard & 3 Finger Protective Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Glove</div>
 <h3 class="product-card-name">Toparchery Leather 2 Straps Arm Guard & 3 Finger Protective Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -757,7 +757,7 @@ With the belt in the wrist, adjustable this item could be suitable for most peop
 <a href="https://www.amazon.com/dp/B0097RGAWO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/410a51-3saL._SL500_.jpg" alt="Mountain Man Leather Shooting Archery Glove" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Glove</div>
 <h3 class="product-card-name">Mountain Man Leather Shooting Archery Glove</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -823,7 +823,7 @@ This leather is very soft and very nice bow gloves real leather with a good fit 
 <a href="https://www.amazon.com/dp/B003DQXRGC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31DRjf3It0L._SL500_.jpg" alt="YJYWZH 1pc Archery Cowhide Finger Guard Protector Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Glove</div>
 <h3 class="product-card-name">YJYWZH 1pc Archery Cowhide Finger Guard Protector Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -890,7 +890,7 @@ Also, the archer can adjust according to her or his measurement and it can take 
 <a href="https://www.amazon.com/dp/B07P627W23?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CXeTM4kiL._SL500_.jpg" alt="EAmber Archery Shooting Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Glove</div>
 <h3 class="product-card-name">EAmber Archery Shooting Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -970,7 +970,7 @@ Due to breathing, it's good in the hot weather too.
 <a href="https://www.amazon.com/dp/B000P9YDMW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41BS1hF4UoL._SL500_.jpg" alt="Neet Suede Leather Archery Glove" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Gloves</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Glove</div>
 <h3 class="product-card-name">Neet Suede Leather Archery Glove</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
