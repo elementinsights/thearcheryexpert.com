@@ -151,7 +151,7 @@ products:
     rank: 6
     badge: "Most Popular"
     rating: 8.8
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg"
     description: "This Kiddie Bow and Arrow Archery Set come with a target attached to a stable stand."
     highlights:
       - "Quality Build"
@@ -165,12 +165,12 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B071W1NSBV?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20"
   - name: "Marky Sparky Faux Bow Pro"
     rank: 7
     badge: "Best Design"
     rating: 8.6
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/31+eu4aDdbL._SL500_.jpg"
     description: "This product comes with oversized arrows and is ultra-lightweight providing safety, without compromising distance power and fun."
     highlights:
       - "Quality Build"
@@ -184,12 +184,12 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B074QZ8GK9?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20"
   - name: "DOSTYLE Bow and Arrow Set"
     rank: 8
     badge: "Most Durable"
     rating: 8.4
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41YDGUAj31L._SL500_.jpg"
     description: "This product is lightweight and made from durable fiberglass material for easy take of kids."
     highlights:
       - "Quality Build"
@@ -203,12 +203,12 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B074614D22?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20"
   - name: "Click N' Play Bow & Arrow Archery Set"
     rank: 9
     badge: "Best for Beginners"
     rating: 8.2
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/5151gpoMYML._SL500_.jpg"
     description: "Click N' Play Light Up Bow & Arrow Archery Set is another market-leading brand, introducing three arrows with suction cups bow sets for beginners, kids, and adults."
     highlights:
       - "Quality Build"
@@ -222,7 +222,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B0813WW9H4?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20"
   - name: "Genesis Mini Kit"
     rank: 10
     badge: "Honorable Mention"
@@ -311,31 +311,31 @@ We've included models that are ideal for kids just beginning the game and option
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B071W1NSBV?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Kiddie Play Bow and Arrow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Kiddie Play Bow and Arrow" loading="lazy" /></a></td>
 <td class="table-product-name">Kiddie Play Bow and Arrow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
-<td><a href="https://www.amazon.com/dp/B071W1NSBV?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B074QZ8GK9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Marky Sparky Faux Bow Pro" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Marky Sparky Faux Bow Pro" loading="lazy" /></a></td>
 <td class="table-product-name">Marky Sparky Faux Bow Pro</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
-<td><a href="https://www.amazon.com/dp/B074QZ8GK9?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B074614D22?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="DOSTYLE Bow and Arrow Set" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="DOSTYLE Bow and Arrow Set" loading="lazy" /></a></td>
 <td class="table-product-name">DOSTYLE Bow and Arrow Set</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
-<td><a href="https://www.amazon.com/dp/B074614D22?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0813WW9H4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Click N' Play Bow & Arrow Archery Set" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Click N' Play Bow & Arrow Archery Set" loading="lazy" /></a></td>
 <td class="table-product-name">Click N' Play Bow & Arrow Archery Set</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
-<td><a href="https://www.amazon.com/dp/B0813WW9H4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
@@ -754,7 +754,7 @@ This kit contains a bow, quiver, three arrows with rubber tips.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B071W1NSBV?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Kiddie Play Bow and Arrow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Kiddie Play Bow and Arrow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Sets</div>
@@ -770,7 +770,7 @@ This kit contains a bow, quiver, three arrows with rubber tips.
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B071W1NSBV?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B00I54X2HG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -830,7 +830,7 @@ This kit contains a bow, three arrows with strong suction cups, Target with a du
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B074QZ8GK9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Marky Sparky Faux Bow Pro" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Marky Sparky Faux Bow Pro" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Sets</div>
@@ -846,7 +846,7 @@ This kit contains a bow, three arrows with strong suction cups, Target with a du
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B074QZ8GK9?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B0G3TGZ7S1?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -910,7 +910,7 @@ This kit contains Bow, Quiver Clip, 3 Arrows, Bowstring,
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B074614D22?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="DOSTYLE Bow and Arrow Set" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="DOSTYLE Bow and Arrow Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Sets</div>
@@ -926,7 +926,7 @@ This kit contains Bow, Quiver Clip, 3 Arrows, Bowstring,
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B074614D22?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B08ZJD5L5G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -982,7 +982,7 @@ This kit contains Bow, 4 Fiberglass Arrows, 5 x Archery Papers(40cmx40cm), Finge
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B0813WW9H4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Click N' Play Bow & Arrow Archery Set" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31rIIksRwEL._SL500_.jpg" alt="Click N' Play Bow & Arrow Archery Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Sets</div>
@@ -998,7 +998,7 @@ This kit contains Bow, 4 Fiberglass Arrows, 5 x Archery Papers(40cmx40cm), Finge
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B0813WW9H4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B089Y5Q54W?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

@@ -56,7 +56,7 @@ products:
     rank: 1
     badge: "Best Overall"
     rating: 9.7
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg"
     description: "The first jacket I have on this listing is the legendary whitetail jacket."
     highlights:
       - "Quality Build"
@@ -75,7 +75,7 @@ products:
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "https://m.media-amazon.com/images/I/614zAueAgwL._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg"
     description: "When it comes to finding an archery jacket that will not only hold you warm in the coldest weather however allow you to move around comfortably while hunting, you want to have something like the SITKA Men's Jetstream Jacket."
     highlights:
       - "Quality Build"
@@ -89,12 +89,12 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B01MQ0RPJ6?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20"
   - name: "Gamehide Deerhunter Parka"
     rank: 3
     badge: "Best Value"
     rating: 9.3
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg"
     description: "Gamehide Parka is a classic, hip-length Realtree camo winter wear."
     highlights:
       - "Quality Build"
@@ -113,7 +113,7 @@ products:
     rank: 4
     badge: "Premium Pick"
     rating: 9.1
-    image: "https://m.media-amazon.com/images/I/51ZGwD5U8pL._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/51akDSsHV4L._SL500_.jpg"
     description: "If you're in the market for a specifically comfy jacket that never hinders your moves while you're focused on your prey, possibly this Carhartt alternative is a suitable one for you."
     highlights:
       - "Quality Build"
@@ -127,12 +127,12 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B00C6705DW?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20"
   - name: "Wildfowler Outfitter Hunting Insulated Parka"
     rank: 5
     badge: "Budget Pick"
     rating: 8.9
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg"
     description: "Wildfowlers insulated Parka is one of the most famous hunting jackets on amazon with over a hundred positive reviews raving about this hunting jacket and that for a good reason."
     highlights:
       - "Quality Build"
@@ -151,7 +151,7 @@ products:
     rank: 6
     badge: "Most Popular"
     rating: 8.8
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg"
     description: "If you are seeking a warm and cozy looking jacket, then you must check this one out."
     highlights:
       - "Quality Build"
@@ -170,7 +170,7 @@ products:
     rank: 7
     badge: "Best Design"
     rating: 8.6
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg"
     description: "Recent consumers observed this product to be an incredible investment."
     highlights:
       - "Quality Build"
@@ -189,7 +189,7 @@ products:
     rank: 8
     badge: "Most Durable"
     rating: 8.4
-    image: "https://m.media-amazon.com/images/I/41e9rIZkwYL._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/51SX-XjxI0L._SL500_.jpg"
     description: "Rotho Special Ops jacket is a superb tactical outdoor casual wear."
     highlights:
       - "Quality Build"
@@ -203,12 +203,12 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B004Z1VUEU?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20"
   - name: "Browning Upland Jacket"
     rank: 9
     badge: "Best for Beginners"
     rating: 8.2
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg"
     description: "Brownings upland jacket is a unique looking jacket that gives it all you need."
     highlights:
       - "Quality Build"
@@ -227,7 +227,7 @@ products:
     rank: 10
     badge: "Honorable Mention"
     rating: 8.0
-    image: "https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/41b1+yzWDHL._SL500_.jpg"
     description: "The name ScentLok is acknowledged for manufacturing innovative hunting suits, and this one is no exception."
     highlights:
       - "Quality Build"
@@ -241,7 +241,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20"
 ---
 
 Are you interested in buying superb quality archery jackets for this hunting season?
@@ -280,73 +280,73 @@ Now, let's get started.
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Legendary Whitetails Men's Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Legendary Whitetails Men's Jacket" loading="lazy" /></a></td>
 <td class="table-product-name">Legendary Whitetails Men's Jacket</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MQ0RPJ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Stika Men Jetstream Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Stika Men Jetstream Jacket" loading="lazy" /></a></td>
 <td class="table-product-name">Stika Men Jetstream Jacket</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
-<td><a href="https://www.amazon.com/dp/B01MQ0RPJ6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Gamehide Deerhunter Parka" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Gamehide Deerhunter Parka" loading="lazy" /></a></td>
 <td class="table-product-name">Gamehide Deerhunter Parka</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00C6705DW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Carhartt Men's Quilted Flannel" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Carhartt Men's Quilted Flannel" loading="lazy" /></a></td>
 <td class="table-product-name">Carhartt Men's Quilted Flannel</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
-<td><a href="https://www.amazon.com/dp/B00C6705DW?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Wildfowler Outfitter Hunting Insulated Parka" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Wildfowler Outfitter Hunting Insulated Parka" loading="lazy" /></a></td>
 <td class="table-product-name">Wildfowler Outfitter Hunting Insulated P</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="ArcticShield Men's Classic Elite Parka" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="ArcticShield Men's Classic Elite Parka" loading="lazy" /></a></td>
 <td class="table-product-name">ArcticShield Men's Classic Elite Parka</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="YUKON Gear Men's Waylay Softshell Hunting Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="YUKON Gear Men's Waylay Softshell Hunting Jacket" loading="lazy" /></a></td>
 <td class="table-product-name">YUKON Gear Men's Waylay Softshell Huntin</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004Z1VUEU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41e9rIZkwYL._SL500_.jpg" alt="Rothco Special Ops" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41e9rIZkwYL._SL500_.jpg" alt="Rothco Special Ops" loading="lazy" /></a></td>
 <td class="table-product-name">Rothco Special Ops</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
-<td><a href="https://www.amazon.com/dp/B004Z1VUEU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Browning Upland Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Browning Upland Jacket" loading="lazy" /></a></td>
 <td class="table-product-name">Browning Upland Jacket</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg" alt="ScentLok Taktix Hunting Jacket" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg" alt="ScentLok Taktix Hunting Jacket" loading="lazy" /></a></td>
 <td class="table-product-name">ScentLok Taktix Hunting Jacket</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
-<td><a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 </tbody>
 </table>
@@ -357,7 +357,7 @@ Now, let's get started.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Legendary Whitetails Men's Jacket" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Legendary Whitetails Men's Jacket" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Jackets</div>
@@ -443,7 +443,7 @@ Bringing a trophy home is superb and all, but taking a trophy home with style is
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01MQ0RPJ6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Stika Men Jetstream Jacket" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Stika Men Jetstream Jacket" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Jackets</div>
@@ -459,7 +459,7 @@ Bringing a trophy home is superb and all, but taking a trophy home with style is
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B01MQ0RPJ6?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B07J1H99C6?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -523,7 +523,7 @@ Also, the jacket has a hood for an added degree of protection - available sizes 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Gamehide Deerhunter Parka" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Gamehide Deerhunter Parka" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Jackets</div>
@@ -610,7 +610,7 @@ This searching jacket is very crucial when you got to survival bow hunting.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00C6705DW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Carhartt Men's Quilted Flannel" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Carhartt Men's Quilted Flannel" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Jackets</div>
@@ -626,7 +626,7 @@ This searching jacket is very crucial when you got to survival bow hunting.
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B00C6705DW?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B00KVNCWPM?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -695,7 +695,7 @@ Carhartt camo jacket comes in different sizes ranging from Medium to 2XL.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Wildfowler Outfitter Hunting Insulated Parka" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Wildfowler Outfitter Hunting Insulated Parka" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Jackets</div>
@@ -772,7 +772,7 @@ The sole hassle with this jacket is its noisy pockets, because of the Velcro str
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="ArcticShield Men's Classic Elite Parka" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="ArcticShield Men's Classic Elite Parka" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Jackets</div>
@@ -850,7 +850,7 @@ A layer of incredible fleece inside the jacket, its spot on, and as many users h
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="YUKON Gear Men's Waylay Softshell Hunting Jacket" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="YUKON Gear Men's Waylay Softshell Hunting Jacket" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Jackets</div>
@@ -932,7 +932,7 @@ Therefore, you won't regret investing in this product.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B004Z1VUEU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41e9rIZkwYL._SL500_.jpg" alt="Rothco Special Ops" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41e9rIZkwYL._SL500_.jpg" alt="Rothco Special Ops" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Jackets</div>
@@ -948,7 +948,7 @@ Therefore, you won't regret investing in this product.
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B004Z1VUEU?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B007M6E7UE?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -1022,7 +1022,7 @@ This one features multiple layers that help make sure you hold as lots of body h
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Browning Upland Jacket" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qQ2jr6LbL._SL500_.jpg" alt="Browning Upland Jacket" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Jackets</div>
@@ -1102,7 +1102,7 @@ When having pockets for both your lunch, birds, and ammo, I don't see why you wo
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg" alt="ScentLok Taktix Hunting Jacket" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61Jaxir207L._SL500_.jpg" alt="ScentLok Taktix Hunting Jacket" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Jackets</div>
@@ -1118,7 +1118,7 @@ When having pockets for both your lunch, birds, and ammo, I don't see why you wo
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B079G4MBKR?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B004YM6810?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

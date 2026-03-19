@@ -88,7 +88,7 @@ products:
     rank: 5
     badge: "Best Value"
     rating: 9.3
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg"
     description: "This one is for archery lovers with a taste of art."
     highlights:
       - "Quality Build"
@@ -102,7 +102,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B001EQ0U36?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20"
   - name: "KAINOKAI Traditional Handmade Bow"
     rank: 6
     badge: "Premium Pick"
@@ -217,7 +217,7 @@ They can be homemade or bought depending on a specific activity.
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="WOARCHERY Combat Archery" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="WOARCHERY Combat Archery" loading="lazy" /></a></td>
 <td class="table-product-name">WOARCHERY Combat Archery</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -231,10 +231,10 @@ They can be homemade or bought depending on a specific activity.
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B001EQ0U36?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Feathered Indian Bow and Arrow Set" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="Feathered Indian Bow and Arrow Set" loading="lazy" /></a></td>
 <td class="table-product-name">Feathered Indian Bow and Arrow Set</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
-<td><a href="https://www.amazon.com/dp/B001EQ0U36?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
@@ -273,7 +273,7 @@ They can be homemade or bought depending on a specific activity.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="WOARCHERY Combat Archery" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="WOARCHERY Combat Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Products</div>
@@ -419,7 +419,7 @@ Some users don’t recommend it for daily usage as it wears down with weight.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B001EQ0U36?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Feathered Indian Bow and Arrow Set" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="Feathered Indian Bow and Arrow Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Best Value Products</div>
@@ -435,7 +435,7 @@ Some users don’t recommend it for daily usage as it wears down with weight.
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B001EQ0U36?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

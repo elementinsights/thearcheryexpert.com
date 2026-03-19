@@ -287,7 +287,7 @@ Without that, it would be really hard for one to identify what sort of event is 
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZL55C-xVL._SL500_.jpg" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a></td>
 <td class="table-product-name">King’s Camo KC1 Poly Long Sleeve Tee Shi</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -437,7 +437,7 @@ With a good amount of pockets, it can also help carry things.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51BquQT1ToL._SL500_.jpg" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Products</div>

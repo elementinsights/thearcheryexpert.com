@@ -172,7 +172,7 @@ function updateFrontmatter(content, updates) {
       for (let i = 1; i < blocks.length; i++) {
         if (blocks[i].includes(asin)) {
           const oldImage = blocks[i].match(/image:\s*"(.+?)"/);
-          if (oldImage && oldImage[1].includes('media-amazon.com')) {
+          if (oldImage && (oldImage[1].includes('media-amazon.com') || oldImage[1].includes('no-image'))) {
             blocks[i] = blocks[i].replace(
               `image: "${oldImage[1]}"`,
               `image: "${newImage}"`,
@@ -270,7 +270,7 @@ async function main() {
 
       const update = { asin: p.asin, newImage: null };
 
-      if (data.image && data.image !== p.currentImage && p.currentImage?.includes('media-amazon.com')) {
+      if (data.image && data.image !== p.currentImage && (p.currentImage?.includes('media-amazon.com') || p.currentImage?.includes('no-image'))) {
         update.newImage = data.image;
         console.log(`  ${file}: ${p.name} image updated`);
         updates.push(update);

@@ -343,7 +343,7 @@ A fixed blade and a mechanical blade are included.
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31a2X95sq-L._SL500_.jpg" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a></td>
 <td class="table-product-name">Bloodrunner 2 Blade Broadheads</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -1010,7 +1010,7 @@ So, with this awesome Broadhead, you'll get the perfect results.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B007D0HT72?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gEOoY+gXL._SL500_.jpg" alt="Bloodrunner 2 Blade Broadheads" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Broadheads</div>

@@ -14,7 +14,7 @@ quickAnswer:
   title: "The best option is the Southwest Archery Shooter Stool"
   text: "Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings. You’ll have full confidence in its heavy-duty foldable chair that can hold an archer as heavy as 300 pounds. This detachable chair can be swapped left or right, depending on the need of the shooter."
   ctaText: "Check Price →"
-  ctaUrl: "https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20"
+  ctaUrl: "https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20"
 toc:
   - label: "Quick Comparison Chart"
     href: "#quick-comparison-chart"
@@ -56,7 +56,7 @@ products:
     rank: 1
     badge: "Best Overall"
     rating: 9.7
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg"
     description: "Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings."
     highlights:
       - "Quality Build"
@@ -70,7 +70,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20"
   - name: "Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool"
     rank: 2
     badge: "Runner Up"
@@ -282,10 +282,10 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Southwest Archery Shooter Stool" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="Southwest Archery Shooter Stool" loading="lazy" /></a></td>
 <td class="table-product-name">Southwest Archery Shooter Stool</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
-<td><a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
@@ -359,7 +359,7 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Southwest Archery Shooter Stool" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="Southwest Archery Shooter Stool" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Chairs</div>
@@ -375,7 +375,7 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

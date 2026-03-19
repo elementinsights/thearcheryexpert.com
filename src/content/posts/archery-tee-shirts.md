@@ -75,7 +75,7 @@ products:
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg"
     description: "This tee shirt is available in all fit types: men, women, and youth."
     highlights:
       - "Quality Build"
@@ -132,7 +132,7 @@ products:
     rank: 5
     badge: "Budget Pick"
     rating: 8.9
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg"
     description: "Ladies, are you looking for something good you can give to that special man in your life?"
     highlights:
       - "Quality Build"
@@ -146,7 +146,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B08HKPF6JX?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20"
   - name: "King’s Camo Ladies Hunter Series Long Sleeve Camo Tee"
     rank: 6
     badge: "Most Popular"
@@ -227,7 +227,7 @@ products:
     rank: 10
     badge: "Honorable Mention"
     rating: 8.0
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51EeXQVlWKL._SL500_.jpg"
     description: "It’s an outdoor, wildlife, and hunting tee shirt for men created by Bear Archery Gear Company."
     highlights:
       - "Quality Build"
@@ -241,7 +241,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B07QD2FDP1?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20"
 ---
 
 Tee shirts have become everyday preferred wear for most people today.
@@ -287,7 +287,7 @@ Many of these tee shirts are light in weight, making people opt for them during 
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="We Are US Archery - National Team Supporter T-Shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="We Are US Archery - National Team Supporter T-Shirt" loading="lazy" /></a></td>
 <td class="table-product-name">We Are US Archery - National Team Suppor</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -308,10 +308,10 @@ Many of these tee shirts are light in weight, making people opt for them during 
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B08HKPF6JX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Idakoos I Love Archery Men's T-shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Idakoos I Love Archery Men's T-shirt" loading="lazy" /></a></td>
 <td class="table-product-name">Idakoos I Love Archery Men's T-shirt</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
-<td><a href="https://www.amazon.com/dp/B08HKPF6JX?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
@@ -343,10 +343,10 @@ Many of these tee shirts are light in weight, making people opt for them during 
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07QD2FDP1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a></td>
 <td class="table-product-name">Bear Archery Retro Kodiak Tee Shirt</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
-<td><a href="https://www.amazon.com/dp/B07QD2FDP1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 </tbody>
 </table>
@@ -435,7 +435,7 @@ As long as it fits you perfectly, you can enjoy the rest of the day comfortably 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="We Are US Archery - National Team Supporter T-Shirt" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07YF6MQF6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="We Are US Archery - National Team Supporter T-Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Shirts</div>
@@ -659,7 +659,7 @@ You can wear this t-shirt with jeans, sweatpants, khakis, or shorts, just whiche
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B08HKPF6JX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Idakoos I Love Archery Men's T-shirt" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Idakoos I Love Archery Men's T-shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Shirts</div>
@@ -675,7 +675,7 @@ You can wear this t-shirt with jeans, sweatpants, khakis, or shorts, just whiche
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B08HKPF6JX?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B01EI81D1E?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -1054,7 +1054,7 @@ You can give this to your Mom, sister, favorite cousin, best friend, or aunt; th
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07QD2FDP1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41KbsDXWU3L._SL500_.jpg" alt="Bear Archery Retro Kodiak Tee Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Shirts</div>
@@ -1070,7 +1070,7 @@ You can give this to your Mom, sister, favorite cousin, best friend, or aunt; th
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B07QD2FDP1?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

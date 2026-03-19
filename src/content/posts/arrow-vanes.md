@@ -227,7 +227,7 @@ products:
     rank: 10
     badge: "Honorable Mention"
     rating: 8.0
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg"
     description: "These vanes are great for archery bow hunting and recreational hunting."
     highlights:
       - "Quality Build"
@@ -241,7 +241,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B084X66CWT?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20"
 ---
 
 Remember that scene in old war movies, where the protagonist releases an arrow into the air and watches it soar effortlessly across the battlefield to meet the intended target?
@@ -341,10 +341,10 @@ The better the quality of the vane, the better the stability and aim will be.
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B084X66CWT?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg" alt="TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100" loading="lazy" /></a></td>
 <td class="table-product-name">TAC Vanes 2.25 Matrix Shield Cut Vanes, </td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
-<td><a href="https://www.amazon.com/dp/B084X66CWT?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 </tbody>
 </table>
@@ -1044,7 +1044,7 @@ They're durable, don't tear easily, and are promptly delivered.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B084X66CWT?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg" alt="TAC Vanes 2.25 Matrix Shield Cut Vanes, Pack of 100" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Vanes</div>
@@ -1060,7 +1060,7 @@ They're durable, don't tear easily, and are promptly delivered.
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B084X66CWT?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B081YWF1Q4?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

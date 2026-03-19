@@ -75,7 +75,7 @@ products:
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg"
     description: "This is apt for archers looking out for protective hunting gear used for a traditional Longbow."
     highlights:
       - "Quality Build"
@@ -89,7 +89,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B01MY04WR6?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20"
   - name: "JKER TECH Archery Gloves"
     rank: 3
     badge: "Best Value"
@@ -282,17 +282,17 @@ They all come in different sizes, textures, and colors which are durable, comfor
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="TOPARCHERY Archery Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="TOPARCHERY Archery Hand Guard" loading="lazy" /></a></td>
 <td class="table-product-name">TOPARCHERY Archery Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MY04WR6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="XTACER Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="XTACER Hand Guard" loading="lazy" /></a></td>
 <td class="table-product-name">XTACER Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
-<td><a href="https://www.amazon.com/dp/B01MY04WR6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
@@ -317,14 +317,14 @@ They all come in different sizes, textures, and colors which are durable, comfor
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="KESHES Archery Glove" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="KESHES Archery Glove" loading="lazy" /></a></td>
 <td class="table-product-name">KESHES Archery Glove</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="HWZ Cowhide Archery Hand Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="HWZ Cowhide Archery Hand Guard" loading="lazy" /></a></td>
 <td class="table-product-name">HWZ Cowhide Archery Hand Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -359,7 +359,7 @@ They all come in different sizes, textures, and colors which are durable, comfor
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="TOPARCHERY Archery Hand Guard" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="TOPARCHERY Archery Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Guards</div>
@@ -437,7 +437,7 @@ Pros & Benefits:
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01MY04WR6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="XTACER Hand Guard" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="XTACER Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guards</div>
@@ -453,7 +453,7 @@ Pros & Benefits:
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B01MY04WR6?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -735,7 +735,7 @@ Pros & Benefits:
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="KESHES Archery Glove" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07RWDTVPB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="KESHES Archery Glove" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Guards</div>
@@ -809,7 +809,7 @@ Pros & Benefits:
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="HWZ Cowhide Archery Hand Guard" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B083QXCKQH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41gb0RyE5hL._SL500_.jpg" alt="HWZ Cowhide Archery Hand Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Guards</div>

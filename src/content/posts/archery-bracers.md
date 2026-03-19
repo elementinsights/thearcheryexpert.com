@@ -151,7 +151,7 @@ products:
     rank: 6
     badge: "Most Popular"
     rating: 8.8
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg"
     description: "Krayner archery arm protector is a bit similar to archery bracers used in medieval times."
     highlights:
       - "Quality Build"
@@ -165,7 +165,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B0723F2SRY?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20"
   - name: "KRATARC Archery Arm Guard"
     rank: 7
     badge: "Best Design"
@@ -298,7 +298,7 @@ As you search for your target archery brace, as Effie Trinke says in Hunger game
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Allen Company Mesh Archery Arm Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Allen Company Mesh Archery Arm Guard" loading="lazy" /></a></td>
 <td class="table-product-name">Allen Company Mesh Archery Arm Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -319,10 +319,10 @@ As you search for your target archery brace, as Effie Trinke says in Hunger game
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0723F2SRY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Krayner Archery Arm Protector" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Krayner Archery Arm Protector" loading="lazy" /></a></td>
 <td class="table-product-name">Krayner Archery Arm Protector</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
-<td><a href="https://www.amazon.com/dp/B0723F2SRY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
@@ -513,7 +513,7 @@ So, it's no wonder why it’s part of archery’s cream of the crop.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Allen Company Mesh Archery Arm Guard" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00FXXPVZS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Allen Company Mesh Archery Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bracers</div>
@@ -757,7 +757,7 @@ Making it so versatile that regardless if you’re using it just for show or for
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B0723F2SRY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Krayner Archery Arm Protector" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418KWwv79VL._SL500_.jpg" alt="Krayner Archery Arm Protector" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bracers</div>
@@ -773,7 +773,7 @@ Making it so versatile that regardless if you’re using it just for show or for
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B0723F2SRY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B01MYNVA8J?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

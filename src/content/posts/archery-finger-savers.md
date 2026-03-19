@@ -113,7 +113,7 @@ products:
     rank: 4
     badge: "Premium Pick"
     rating: 9.1
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/412l41XjGPS._SL500_.jpg"
     description: "The XTACER finger protector arm guard is also a 2 in 1 product."
     highlights:
       - "Quality Build"
@@ -127,7 +127,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B01M7UFGXX?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20"
   - name: "Votono Archery Finger Guard"
     rank: 5
     badge: "Budget Pick"
@@ -301,10 +301,10 @@ It's because you surely don’t want to end up being a left-hander and purchase 
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01M7UFGXX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="XTACER Finger Protector Arm Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412l41XjGPS._SL500_.jpg" alt="XTACER Finger Protector Arm Guard" loading="lazy" /></a></td>
 <td class="table-product-name">XTACER Finger Protector Arm Guard</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
-<td><a href="https://www.amazon.com/dp/B01M7UFGXX?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
@@ -596,7 +596,7 @@ If you're not interested in using a glove please browse the list for other sweat
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01M7UFGXX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="XTACER Finger Protector Arm Guard" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412l41XjGPS._SL500_.jpg" alt="XTACER Finger Protector Arm Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Savers</div>
@@ -612,7 +612,7 @@ If you're not interested in using a glove please browse the list for other sweat
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B01M7UFGXX?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B07GZX1NCF?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

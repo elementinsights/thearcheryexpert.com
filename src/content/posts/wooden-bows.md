@@ -94,7 +94,7 @@ products:
     rank: 3
     badge: "Best Value"
     rating: 9.3
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "Are you an adult looking for a conventional longbow that can be used for both hunting and recreational purposes?"
     highlights:
       - "Quality Build"
@@ -113,7 +113,7 @@ products:
     rank: 4
     badge: "Premium Pick"
     rating: 9.1
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "With 35 pounds draw weight, this traditional hunting longbow is suitable for those who are new at hunting and are looking for a lightweight bow."
     highlights:
       - "Quality Build"
@@ -132,7 +132,7 @@ products:
     rank: 5
     badge: "Budget Pick"
     rating: 8.9
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg"
     description: "If you’re a right-hand shooter, searching for a longbow that has stability and durability then this is the best choice."
     highlights:
       - "Quality Build"
@@ -146,7 +146,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B07G9D67DH?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20"
   - name: "Martin Savannah Longbow"
     rank: 6
     badge: "Most Popular"
@@ -227,7 +227,7 @@ products:
     rank: 10
     badge: "Honorable Mention"
     rating: 8.0
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg"
     description: "If hunting and archery are your passion this high in demand SAS Gravity longbow is what you need to boost your experience."
     highlights:
       - "Quality Build"
@@ -241,7 +241,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B07JWJ2NSS?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20"
 ---
 
 Have you just started archery and are looking for comfortable wooden bows?
@@ -282,7 +282,7 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Wooden Shop Youth Wooden Bow And Arrows" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="Wooden Shop Youth Wooden Bow And Arrows" loading="lazy" /></a></td>
 <td class="table-product-name">Wooden Shop Youth Wooden Bow And Arrows</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -296,24 +296,24 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Southland Robinhood Longbow" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="Southland Robinhood Longbow" loading="lazy" /></a></td>
 <td class="table-product-name">Southland Robinhood Longbow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="TOPARCHERY Handmade Longbow" loading="lazy" /></a></td>
+<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="TOPARCHERY Handmade Longbow" loading="lazy" /></a></td>
 <td class="table-product-name">TOPARCHERY Handmade Longbow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07G9D67DH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AF Archery Laminated Longbow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="AF Archery Laminated Longbow" loading="lazy" /></a></td>
 <td class="table-product-name">AF Archery Laminated Longbow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
-<td><a href="https://www.amazon.com/dp/B07G9D67DH?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
@@ -324,7 +324,7 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="SAS Pioneer Longbow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="SAS Pioneer Longbow" loading="lazy" /></a></td>
 <td class="table-product-name">SAS Pioneer Longbow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -345,10 +345,10 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07JWJ2NSS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="SAS Gravity Hunting Traditional Longbow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="SAS Gravity Hunting Traditional Longbow" loading="lazy" /></a></td>
 <td class="table-product-name">SAS Gravity Hunting Traditional Longbow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
-<td><a href="https://www.amazon.com/dp/B07JWJ2NSS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 </tbody>
 </table>
@@ -359,7 +359,7 @@ This article, with the top 10 wooden bows reviews, will surely help you pick the
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Wooden Shop Youth Wooden Bow And Arrows" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="Wooden Shop Youth Wooden Bow And Arrows" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Bows</div>
@@ -509,7 +509,7 @@ It offers you a modern draw length ranging from 28 inches to 33 inches while the
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Southland Robinhood Longbow" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="Southland Robinhood Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
@@ -585,7 +585,7 @@ A finger tap, a target face, and two pairs of fiberglass arrows are also a part 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="TOPARCHERY Handmade Longbow" loading="lazy" /></a>
+<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="TOPARCHERY Handmade Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Bows</div>
@@ -663,7 +663,7 @@ Although it’s for beginners, be careful not to let your kids use it without yo
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07G9D67DH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AF Archery Laminated Longbow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="AF Archery Laminated Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
@@ -679,7 +679,7 @@ Although it’s for beginners, be careful not to let your kids use it without yo
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B07G9D67DH?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B007IX22EY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -827,7 +827,7 @@ This bow blends into nearly any setting due to its discrete and elegant design.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="SAS Pioneer Longbow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01B5CJGR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="SAS Pioneer Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Bows</div>
@@ -1055,7 +1055,7 @@ This bow helps the newbies to learn archery very easily.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07JWJ2NSS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="SAS Gravity Hunting Traditional Longbow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31lyt2yT-eL._SL500_.jpg" alt="SAS Gravity Hunting Traditional Longbow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Bows</div>
@@ -1071,7 +1071,7 @@ This bow helps the newbies to learn archery very easily.
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B07JWJ2NSS?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B0C64FVHKZ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

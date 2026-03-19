@@ -94,7 +94,7 @@ products:
     rank: 3
     badge: "Best Value"
     rating: 9.3
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg"
     description: "Another bow of AF Archery that I’ll be talking about is the AF Archery Horse Bow."
     highlights:
       - "Quality Build"
@@ -108,7 +108,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B01H4OKNMO?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20"
   - name: "Southland Archery Traditional Recurve Bow"
     rank: 4
     badge: "Premium Pick"
@@ -132,7 +132,7 @@ products:
     rank: 5
     badge: "Budget Pick"
     rating: 8.9
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg"
     description: "Korea is currently the top-performing country in regards to archery, in general."
     highlights:
       - "Quality Build"
@@ -146,7 +146,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B08JTPLVCY?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20"
   - name: "PSE Archery Pro Max Traditional Recurve Bow"
     rank: 6
     badge: "Most Popular"
@@ -208,7 +208,7 @@ products:
     rank: 9
     badge: "Best for Beginners"
     rating: 8.2
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg"
     description: "We'll take another look at a Turkish handcrafted bow and the third archery item in this list for this section."
     highlights:
       - "Quality Build"
@@ -222,7 +222,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B01F5FFBZI?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20"
   - name: "Bear Archery Grizzly Recurve Right Hand"
     rank: 10
     badge: "Honorable Mention"
@@ -290,10 +290,10 @@ Anyway, you might’ve come here because a passion for mounted archery developed
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01H4OKNMO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AF Handmade Traditional Crimean Tatar Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="AF Handmade Traditional Crimean Tatar Recurve Bow" loading="lazy" /></a></td>
 <td class="table-product-name">AF Handmade Traditional Crimean Tatar Re</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
-<td><a href="https://www.amazon.com/dp/B01H4OKNMO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
@@ -304,14 +304,14 @@ Anyway, you might’ve come here because a passion for mounted archery developed
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B08JTPLVCY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Premium Korean Traditional Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="Premium Korean Traditional Bow" loading="lazy" /></a></td>
 <td class="table-product-name">Premium Korean Traditional Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
-<td><a href="https://www.amazon.com/dp/B08JTPLVCY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="PSE Archery Pro Max Traditional Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="PSE Archery Pro Max Traditional Recurve Bow" loading="lazy" /></a></td>
 <td class="table-product-name">PSE Archery Pro Max Traditional Recurve </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -332,10 +332,10 @@ Anyway, you might’ve come here because a passion for mounted archery developed
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01F5FFBZI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AF Turkish Style Handmade Traditional Laminated Recurve Bow" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="AF Turkish Style Handmade Traditional Laminated Recurve Bow" loading="lazy" /></a></td>
 <td class="table-product-name">AF Turkish Style Handmade Traditional La</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
-<td><a href="https://www.amazon.com/dp/B01F5FFBZI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
@@ -527,7 +527,7 @@ Nevertheless, it's a great bow to own if you value the equipment's durability an
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01H4OKNMO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AF Handmade Traditional Crimean Tatar Recurve Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="AF Handmade Traditional Crimean Tatar Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bows</div>
@@ -543,7 +543,7 @@ Nevertheless, it's a great bow to own if you value the equipment's durability an
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B01H4OKNMO?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -703,7 +703,7 @@ Aside from the horse bow, it also includes brass bushing, quiver, sight, stabili
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B08JTPLVCY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Premium Korean Traditional Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="Premium Korean Traditional Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bows</div>
@@ -719,7 +719,7 @@ Aside from the horse bow, it also includes brass bushing, quiver, sight, stabili
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B08JTPLVCY?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -787,7 +787,7 @@ If the best country in archery competition likes it, then it means that this bow
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="PSE Archery Pro Max Traditional Recurve Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="PSE Archery Pro Max Traditional Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Bows</div>
@@ -1034,7 +1034,7 @@ So I believe that it's worth every penny if eventually, you purchase them.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01F5FFBZI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AF Turkish Style Handmade Traditional Laminated Recurve Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="AF Turkish Style Handmade Traditional Laminated Recurve Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bows</div>
@@ -1050,7 +1050,7 @@ So I believe that it's worth every penny if eventually, you purchase them.
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B01F5FFBZI?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

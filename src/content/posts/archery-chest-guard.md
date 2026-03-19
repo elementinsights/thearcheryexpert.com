@@ -75,7 +75,7 @@ products:
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51kg3pQDTIL._SL500_.jpg"
     description: "Similar to the Easton Diamond Chest Guard, this item is very lightweight, merely weighing less than a kilogram."
     highlights:
       - "Quality Build"
@@ -89,7 +89,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B07KS458ZX?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B00BWV6ASC?tag=thearcheryexpert-20"
   - name: "Starlight Collective Archery Chest Guard"
     rank: 3
     badge: "Best Value"
@@ -113,7 +113,7 @@ products:
     rank: 4
     badge: "Premium Pick"
     rating: 9.1
-    image: "/images/posts/no-image.webp"
+    image: "https://m.media-amazon.com/images/I/51kiq9laeDL._SL500_.jpg"
     description: "This item covers both the left side of the chest and also the right side of the chest."
     highlights:
       - "Quality Build"
@@ -127,7 +127,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B078W2YJWH?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B09SPHKVTX?tag=thearcheryexpert-20"
   - name: "Cartel Chest guard 101 White"
     rank: 5
     badge: "Budget Pick"
@@ -283,10 +283,10 @@ We can select from much different protective equipment while considering their a
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07KS458ZX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Hunting Archery Adjustable Chest Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00BWV6ASC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51kg3pQDTIL._SL500_.jpg" alt="Hunting Archery Adjustable Chest Guard" loading="lazy" /></a></td>
 <td class="table-product-name">Hunting Archery Adjustable Chest Guard</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
-<td><a href="https://www.amazon.com/dp/B07KS458ZX?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B00BWV6ASC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
@@ -297,10 +297,10 @@ We can select from much different protective equipment while considering their a
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B078W2YJWH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="KOWinner 1-Piece Archery Chest Protector Guard" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B09SPHKVTX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51kg3pQDTIL._SL500_.jpg" alt="KOWinner 1-Piece Archery Chest Protector Guard" loading="lazy" /></a></td>
 <td class="table-product-name">KOWinner 1-Piece Archery Chest Protector</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
-<td><a href="https://www.amazon.com/dp/B078W2YJWH?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B09SPHKVTX?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
@@ -425,7 +425,7 @@ There's an advantage for athletes from the same team as several athletes can sha
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07KS458ZX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Hunting Archery Adjustable Chest Guard" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00BWV6ASC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51kg3pQDTIL._SL500_.jpg" alt="Hunting Archery Adjustable Chest Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Guards</div>
@@ -441,7 +441,7 @@ There's an advantage for athletes from the same team as several athletes can sha
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B07KS458ZX?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B00BWV6ASC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -585,7 +585,7 @@ The straps are fitted with a snap closure that enables the user to work appropri
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B078W2YJWH?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="KOWinner 1-Piece Archery Chest Protector Guard" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B09SPHKVTX?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51kg3pQDTIL._SL500_.jpg" alt="KOWinner 1-Piece Archery Chest Protector Guard" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Guards</div>
@@ -601,7 +601,7 @@ The straps are fitted with a snap closure that enables the user to work appropri
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B078W2YJWH?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B09SPHKVTX?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>

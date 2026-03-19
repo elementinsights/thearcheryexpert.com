@@ -22,16 +22,16 @@ toc:
     href: "#1-xaegis-shooting-glasses-with-case-best-overall"
   - label: "2. Smith & Wesson Major Full Frame Shooting Glasses — Runner Up"
     href: "#2-smith-wesson-major-full-frame-shooting-glasses-runner-up"
-  - label: "3. BLUPOND Sports Sunglasses for Men/Women — Best Value"
-    href: "#3-blupond-sports-sunglasses-for-menwomen-best-value"
+  - label: "3. Allen Company Shooting Safety Glasses — Best Value"
+    href: "#3-allen-company-shooting-safety-glasses-best-value"
   - label: "4. Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass — Premium Pick"
     href: "#4-radians-rock-x-treme-rk6-11-anti-fog-clear-shooting-glass-premium-pick"
   - label: "5. Bertoni Shooting Glasses with 4 Interchangeable Lenses — Budget Pick"
     href: "#5-bertoni-shooting-glasses-with-4-interchangeable-lenses-budget-pick"
   - label: "6. Coyote1 Adjustable Shooting Safety Glasses — Most Popular"
     href: "#6-coyote1-adjustable-shooting-safety-glasses-most-popular"
-  - label: "8. SolidWork 3x Professional Shooting Glasses — Best Design"
-    href: "#8-solidwork-3x-professional-shooting-glasses-best-design"
+  - label: "8. Evolution Matrix Archery Shooting Glasses — Best Design"
+    href: "#8-evolution-matrix-archery-shooting-glasses-best-design"
   - label: "9. iLumen8 Yellow Night Vision Driving Glasses — Most Durable"
     href: "#9-ilumen8-yellow-night-vision-driving-glasses-most-durable"
   - label: "10. Howard Leight by Honeywell Genesis Sharp-Shooter Glasses — Best for Beginners"
@@ -88,12 +88,12 @@ products:
       - "May not suit all preferences"
       - "Size options may vary"
     ctaUrl: "https://www.amazon.com/dp/B07R2FMKMM?tag=thearcheryexpert-20"
-  - name: "BLUPOND Sports Sunglasses for Men/Women"
+  - name: "Allen Company Shooting Safety Glasses"
     rank: 3
     badge: "Best Value"
     rating: 9.3
-    image: "/images/posts/no-image.webp"
-    description: "The Blupond glasses come with anti-glare and tinted lenses, perfect for sunny conditions while also perfectly suitable for night application."
+    image: "https://m.media-amazon.com/images/I/31v--JkrJhL._SL500_.jpg"
+    description: "Allen Company Safety Glasses feature ballistic eye protection with ANSI Z87.1 impact resistance. They work with prescription glasses and come in a convenient 4-pack."
     highlights:
       - "Quality Build"
       - "Great Value"
@@ -106,7 +106,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B085DSMMH1?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B09VWC8BW8?tag=thearcheryexpert-20"
   - name: "Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass"
     rank: 4
     badge: "Premium Pick"
@@ -164,12 +164,12 @@ products:
       - "May not suit all preferences"
       - "Size options may vary"
     ctaUrl: "https://www.amazon.com/dp/B082YHM2KV?tag=thearcheryexpert-20"
-  - name: "SolidWork 3x Professional Shooting Glasses"
+  - name: "Evolution Matrix Archery Shooting Glasses"
     rank: 8
     badge: "Best Design"
     rating: 8.5
-    image: "/images/posts/no-image.webp"
-    description: "As you are aware, accidents occur on a day-to-day basis during shooting exercises, but SolidWork 3x glasses have integrated side protection entirely shielding your eyes from both small and huge flying objects, which are likely to cause possible harm "
+    image: "https://m.media-amazon.com/images/I/31NPksq1ZLL._SL500_.jpg"
+    description: "The Evolution Matrix glasses are purpose-built for archery, clay pigeon, and target shooting. They feature multiple interchangeable lenses for different light conditions and shatterproof polycarbonate construction."
     highlights:
       - "Quality Build"
       - "Great Value"
@@ -182,7 +182,7 @@ products:
     cons:
       - "May not suit all preferences"
       - "Size options may vary"
-    ctaUrl: "https://www.amazon.com/dp/B07YLVNT3P?tag=thearcheryexpert-20"
+    ctaUrl: "https://www.amazon.com/dp/B071W98D9C?tag=thearcheryexpert-20"
   - name: "iLumen8 Yellow Night Vision Driving Glasses"
     rank: 9
     badge: "Most Durable"
@@ -255,28 +255,28 @@ No matter your vision level, the glasses will boost your experience.
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="XAegis Shooting Glasses with Case" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="XAegis Shooting Glasses with Case" loading="lazy" /></a></td>
 <td class="table-product-name">XAegis Shooting Glasses with Case</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07R2FMKMM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Smith & Wesson Major Full Frame Shooting Glasses" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07R2FMKMM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Smith & Wesson Major Full Frame Shooting Glasses" loading="lazy" /></a></td>
 <td class="table-product-name">Smith & Wesson Major Full Frame Shooting</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07R2FMKMM?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B085DSMMH1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="BLUPOND Sports Sunglasses for Men/Women" loading="lazy" /></a></td>
-<td class="table-product-name">BLUPOND Sports Sunglasses for Men/Women</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B09VWC8BW8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Allen Company Shooting Safety Glasses" loading="lazy" /></a></td>
+<td class="table-product-name">Allen Company Shooting Safety Glasses</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
-<td><a href="https://www.amazon.com/dp/B085DSMMH1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B09VWC8BW8?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0095I6GC4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0095I6GC4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass" loading="lazy" /></a></td>
 <td class="table-product-name">Radians Rock X-Treme RK6-11 Anti-Fog Cle</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B0095I6GC4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -297,14 +297,14 @@ No matter your vision level, the glasses will boost your experience.
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07YLVNT3P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="SolidWork 3x Professional Shooting Glasses" loading="lazy" /></a></td>
-<td class="table-product-name">SolidWork 3x Professional Shooting Glass</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B071W98D9C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Evolution Matrix Archery Shooting Glasses" loading="lazy" /></a></td>
+<td class="table-product-name">Evolution Matrix Archery Shooting Glasse</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.5</span></td>
-<td><a href="https://www.amazon.com/dp/B07YLVNT3P?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B071W98D9C?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06Y12NL7N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="iLumen8 Yellow Night Vision Driving Glasses" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06Y12NL7N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="iLumen8 Yellow Night Vision Driving Glasses" loading="lazy" /></a></td>
 <td class="table-product-name">iLumen8 Yellow Night Vision Driving Glas</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.3</span></td>
 <td><a href="https://www.amazon.com/dp/B06Y12NL7N?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -325,7 +325,7 @@ No matter your vision level, the glasses will boost your experience.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="XAegis Shooting Glasses with Case" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07SMXN8PR?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="XAegis Shooting Glasses with Case" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Glasses</div>
@@ -397,7 +397,7 @@ However, if you don’t love the glasses, you’re guaranteed a full refund, sho
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07R2FMKMM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Smith & Wesson Major Full Frame Shooting Glasses" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07R2FMKMM?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Smith & Wesson Major Full Frame Shooting Glasses" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Glasses</div>
@@ -460,28 +460,28 @@ Regarding dependability, the glasses provide all-around visibility for your full
 
 The Smith & Wesson glasses include a 1-year warranty  -  a guarantee for your money.
 
-## 3. BLUPOND Sports Sunglasses for Men/Women &mdash; Best Value
+## 3. Allen Company Shooting Safety Glasses &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B085DSMMH1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="BLUPOND Sports Sunglasses for Men/Women" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B09VWC8BW8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Allen Company Shooting Safety Glasses" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Glasses</div>
-<h3 class="product-card-name">BLUPOND Sports Sunglasses for Men/Women</h3>
+<h3 class="product-card-name">Allen Company Shooting Safety Glasses</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">The Blupond glasses come with anti-glare and tinted lenses, perfect for sunny conditions while also perfectly suitable for night application. They accurately neutralize harmful light for an exciting coverage and present reduced deformation of target; therefore, these glasses provide for total clarity focus and maximum safety for your eyes.</p>
+<p class="product-card-desc">Allen Company Safety Glasses feature ballistic eye protection with ANSI Z87.1 impact resistance. They work over prescription glasses and come in a convenient 4-pack, making them a great value for archers who want reliable eye protection.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Quality Build</span>
 <span class="highlight-tag">Great Value</span>
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B085DSMMH1?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B09VWC8BW8?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -535,7 +535,7 @@ All these features are for your added convenience and to keep you fully charged 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B0095I6GC4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B0095I6GC4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Radians Rock X-Treme RK6-11 Anti-Fog Clear Shooting Glass" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Glasses</div>
@@ -748,28 +748,28 @@ That’s not all; you'll enjoy a one year warranty covering all parts apart from
 
 This product is fully multi-purpose as you can use it for a variety of tasks from shooting, sport, military training, woodworking, landscaping, and much more so long as you want to keep your eyes protected.
 
-## 8. SolidWork 3x Professional Shooting Glasses &mdash; Best Design
+## 8. Evolution Matrix Archery Shooting Glasses &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07YLVNT3P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="SolidWork 3x Professional Shooting Glasses" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B071W98D9C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="Evolution Matrix Archery Shooting Glasses" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Best Design Glasses</div>
-<h3 class="product-card-name">SolidWork 3x Professional Shooting Glasses</h3>
+<h3 class="product-card-name">Evolution Matrix Archery Shooting Glasses</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.5/10</span>
 </div>
-<p class="product-card-desc">As you're aware, accidents occur on a day-to-day basis during shooting exercises, but SolidWork 3x glasses have integrated side protection entirely shielding your eyes from both small and huge flying objects, which are likely to cause possible harm to your eyes.</p>
+<p class="product-card-desc">The Evolution Matrix glasses are purpose-built for archery, clay pigeon, and target shooting. They feature multiple interchangeable lenses for different light conditions and shatterproof polycarbonate construction with UV400 protection.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Quality Build</span>
 <span class="highlight-tag">Great Value</span>
 <span class="highlight-tag">Archery Tested</span>
 <span class="highlight-tag">Top Rated</span>
 </div>
-<a href="https://www.amazon.com/dp/B07YLVNT3P?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B071W98D9C?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -800,13 +800,13 @@ Cons
 </div>
 </div>
 
-As you're aware, accidents occur on a day-to-day basis during shooting exercises, but SolidWork 3x glasses have integrated side protection entirely shielding your eyes from both small and huge flying objects, which are likely to cause possible harm to your eyes.
+The Evolution Matrix glasses are designed specifically for archery, clay pigeon, air rifle, and target shooting. They come with multiple interchangeable lenses so you can adapt to different light conditions on the range.
 
-With these glasses, you're fully assured of your eyes' safety.
+The shatterproof polycarbonate construction provides excellent impact protection while UV400 coating shields your eyes from harmful rays.
 
-You wouldn't want to lose your sight either, anyway.
+These glasses are a favorite among competitive archers who need reliable eye protection across varying conditions.
 
-The lenses are multi-colored with the clear side enabling perfect visibility that makes them the ideal product for your expert shooting experience.
+The included hard zippered storage case keeps your lenses organized and protected when not in use.
 
 The glasses' special lenses have an inner side completely anti-fog as they have a special coating that protects your eyes from harmful UV rays.
 
@@ -827,7 +827,7 @@ They come with a one year warranty where you get a full refund of your money sho
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B06Y12NL7N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="iLumen8 Yellow Night Vision Driving Glasses" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B06Y12NL7N?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uq9l4mkUL._SL500_.jpg" alt="iLumen8 Yellow Night Vision Driving Glasses" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Most Durable Glasses</div>
