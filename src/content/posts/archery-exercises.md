@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-15
 updatedDate: 2026-01-06
 author: "Matt Vance"
-image: "/images/posts/archery-exercises.jpg"
+image: "/images/posts/archery-exercises.webp"
 imageAlt: "10 Easy Archery Exercises To Help Improve Your Skills"
 readTime: "17 min read"
 quickAnswer:

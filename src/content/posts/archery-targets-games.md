@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-17
 updatedDate: 2026-03-14
 author: "Matt Vance"
-image: "/images/posts/archery-targets-games.jpg"
+image: "/images/posts/archery-targets-games.webp"
 imageAlt: "10 Archery Target Games To Help Improve Your Accuracy"
 readTime: "15 min read"
 quickAnswer:

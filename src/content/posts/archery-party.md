@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-04-19
 updatedDate: 2026-02-03
 author: "Matt Vance"
-image: "/images/posts/archery-party.jpg"
+image: "/images/posts/archery-party.webp"
 imageAlt: "10 Best Archery Party Ideas For Any Occassion"
 readTime: "14 min read"
 quickAnswer:

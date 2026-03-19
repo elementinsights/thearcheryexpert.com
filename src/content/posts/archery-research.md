@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-17
 updatedDate: 2026-02-18
 author: "Matt Vance"
-image: "/images/posts/archery-research.jpg"
+image: "/images/posts/archery-research.webp"
 imageAlt: "10 Well-Written Archery Research Papers"
 readTime: "14 min read"
 quickAnswer:

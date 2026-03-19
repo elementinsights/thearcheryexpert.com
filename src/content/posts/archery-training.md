@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-17
 updatedDate: 2026-01-24
 author: "Matt Vance"
-image: "/images/posts/archery-training.jpg"
+image: "/images/posts/archery-training.webp"
 imageAlt: "Archery Training: The Definitive Guide On How To Shoot Better"
 readTime: "14 min read"
 quickAnswer:

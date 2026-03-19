@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-01-12
 author: "Matt Vance"
-image: "/images/posts/competion-bows.jpg"
+image: "/images/posts/competion-bows.webp"
 imageAlt: "10 Best Competion Bows & Their Reviews For 2026"
 readTime: "8 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-03-16
 updatedDate: 2026-03-07
 author: "Matt Vance"
-image: "/images/posts/archery-rental.jpg"
+image: "/images/posts/archery-rental.webp"
 imageAlt: "Archery Equipment Rental: What You Need To Know First"
 readTime: "15 min read"
 quickAnswer:

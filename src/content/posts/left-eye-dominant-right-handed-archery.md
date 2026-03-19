@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-03-19
 updatedDate: 2026-01-15
 author: "Matt Vance"
-image: "/images/posts/left-eye-dominant-right-handed-archery.jpg"
+image: "/images/posts/left-eye-dominant-right-handed-archery.webp"
 imageAlt: "How Left Eye Dominant Right Handed Archery Works"
 readTime: "15 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-03-19
 updatedDate: 2026-01-08
 author: "Matt Vance"
-image: "/images/posts/foot-archery.jpg"
+image: "/images/posts/foot-archery.webp"
 imageAlt: "What Is Foot Archery & How Does It Work?"
 readTime: "15 min read"
 quickAnswer:

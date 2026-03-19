@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-15
 updatedDate: 2026-01-23
 author: "Matt Vance"
-image: "/images/posts/archery-hunting-tip.jpg"
+image: "/images/posts/archery-hunting-tip.webp"
 imageAlt: "10 Best Archery Hunting Tips To Shoot More Accurately"
 readTime: "14 min read"
 quickAnswer:

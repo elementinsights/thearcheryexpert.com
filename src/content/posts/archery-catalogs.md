@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-10-20
 updatedDate: 2026-01-04
 author: "Matt Vance"
-image: "/images/posts/archery-catalogs.jpg"
+image: "/images/posts/archery-catalogs.webp"
 imageAlt: "10 Most Useful Archery Catalogs For Archery Shopping"
 readTime: "15 min read"
 quickAnswer:

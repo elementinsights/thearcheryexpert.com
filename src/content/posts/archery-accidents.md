@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-07-11
 updatedDate: 2026-03-10
 author: "Matt Vance"
-image: "/images/posts/archery-accidents.jpg"
+image: "/images/posts/archery-accidents.webp"
 imageAlt: "10 Most Common Archery Accidents & How To Avoid Them"
 readTime: "15 min read"
 quickAnswer:

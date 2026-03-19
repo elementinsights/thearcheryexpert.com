@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-03-17
 updatedDate: 2026-02-03
 author: "Matt Vance"
-image: "/images/posts/archery-scoring.jpg"
+image: "/images/posts/archery-scoring.webp"
 imageAlt: "Archery Scoring Guide For Both Indoor & Outdoor Shooting"
 readTime: "15 min read"
 quickAnswer:

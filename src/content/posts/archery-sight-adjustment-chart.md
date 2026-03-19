@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-04-19
 updatedDate: 2026-01-22
 author: "Matt Vance"
-image: "/images/posts/archery-sight-adjustment-chart.jpg"
+image: "/images/posts/archery-sight-adjustment-chart.webp"
 imageAlt: "How To Use An Archery Sight Adjustment Chart For Better Accuracy"
 readTime: "15 min read"
 quickAnswer:

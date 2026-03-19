@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-03-04
 author: "Matt Vance"
-image: "/images/posts/back-tension-release.jpg"
+image: "/images/posts/back-tension-release.webp"
 imageAlt: "10 Best Back Tension Releases Reviewed"
 readTime: "15 min read"
 quickAnswer:
@@ -269,7 +269,7 @@ products:
     rank: 12
     badge: "Solid Choice"
     rating: 8.0
-    image: "/images/posts/no-image.jpg"
+    image: "/images/posts/no-image.webp"
     description: "Designed for the winter and target archery thumb release and back tension release is self-closing & easy loading D-Loop."
     highlights:
       - "Quality Build"
@@ -320,7 +320,7 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum" loading="lazy" /></a></td>
 <td class="table-product-name">Tru-Fire Edge 4 Finger Hand Held Bow Rel</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -334,7 +334,7 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Scott Archery Ascent Micro" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Scott Archery Ascent Micro" loading="lazy" /></a></td>
 <td class="table-product-name">Scott Archery Ascent Micro</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.4</span></td>
 <td><a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -369,14 +369,14 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a></td>
 <td class="table-product-name">Tru-Fire Hardcore Buckle Foldback</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a></td>
 <td class="table-product-name">Tru Ball V-Lock Buckle Strap</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.5</span></td>
 <td><a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -397,7 +397,7 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 </tr>
 <tr>
 <td class="table-rank">12</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07MTM6MFJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Cobra Archery Switch Thumb and Back Tension Release" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07MTM6MFJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Cobra Archery Switch Thumb and Back Tension Release" loading="lazy" /></a></td>
 <td class="table-product-name">Cobra Archery Switch Thumb and Back Tens</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B07MTM6MFJ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -411,7 +411,7 @@ Back tension releases help you improve timing, quick target acquisition, and imp
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B004W5SGPK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Tru-Fire Edge 4 Finger Hand Held Bow Releases Aluminum" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Releases</div>
@@ -560,7 +560,7 @@ Tru-Fire has tested their back tension releases, and they can handle an excessiv
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Scott Archery Ascent Micro" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B079F5VTY7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Scott Archery Ascent Micro" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Releases</div>
@@ -923,7 +923,7 @@ At first, it's a little much harder to adjust it, but once it's done, you'll enj
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00806CFDQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Tru-Fire Hardcore Buckle Foldback" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Releases</div>
@@ -997,7 +997,7 @@ This USA made great quality product to improves your shots; the triggers are fan
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B003DQTR9I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Tru Ball V-Lock Buckle Strap" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Releases</div>
@@ -1222,7 +1222,7 @@ The quality and comfort of it are far the best you've seen in any release on the
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07MTM6MFJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Cobra Archery Switch Thumb and Back Tension Release" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07MTM6MFJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Cobra Archery Switch Thumb and Back Tension Release" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#12 Pick</span> Solid Choice Releases</div>

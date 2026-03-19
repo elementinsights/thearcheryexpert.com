@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-03-17
 updatedDate: 2026-01-27
 author: "Matt Vance"
-image: "/images/posts/archery-terms.jpg"
+image: "/images/posts/archery-terms.webp"
 imageAlt: "89 Archery Terms Everyone Should Know | Archer's Glossary"
 readTime: "15 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-17
 updatedDate: 2026-01-28
 author: "Matt Vance"
-image: "/images/posts/archery-safety.jpg"
+image: "/images/posts/archery-safety.webp"
 imageAlt: "10 Most Important Archery Safety Tips Before You Shoot"
 readTime: "16 min read"
 quickAnswer:

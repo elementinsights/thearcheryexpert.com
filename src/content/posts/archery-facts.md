@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-15
 updatedDate: 2026-02-20
 author: "Matt Vance"
-image: "/images/posts/archery-facts.jpg"
+image: "/images/posts/archery-facts.webp"
 imageAlt: "10 Strange Archery Facts That You Probably Didn't Know"
 readTime: "13 min read"
 quickAnswer:

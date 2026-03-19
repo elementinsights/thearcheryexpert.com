@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-15
 updatedDate: 2026-03-18
 author: "Matt Vance"
-image: "/images/posts/archery-coaching.jpg"
+image: "/images/posts/archery-coaching.webp"
 imageAlt: "Archery Coaching: How To Become A Certified Instructor"
 readTime: "15 min read"
 quickAnswer:

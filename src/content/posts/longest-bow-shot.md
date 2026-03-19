@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-04-19
 updatedDate: 2026-01-23
 author: "Matt Vance"
-image: "/images/posts/longest-bow-shot.jpg"
+image: "/images/posts/longest-bow-shot.webp"
 imageAlt: "What Is the Longest Bow Shot? And Other Archery Records"
 readTime: "15 min read"
 quickAnswer:

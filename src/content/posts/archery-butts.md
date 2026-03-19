@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-07-09
 updatedDate: 2026-02-04
 author: "Matt Vance"
-image: "/images/posts/archery-butts.jpg"
+image: "/images/posts/archery-butts.webp"
 imageAlt: "What Are Archery Butts & How Were They Used?"
 readTime: "15 min read"
 quickAnswer:

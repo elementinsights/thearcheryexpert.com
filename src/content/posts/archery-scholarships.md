@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-17
 updatedDate: 2026-03-18
 author: "Matt Vance"
-image: "/images/posts/archery-scholarships.jpg"
+image: "/images/posts/archery-scholarships.webp"
 imageAlt: "10 Best Archery Scholarships To Pay Your Way Through School"
 readTime: "16 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-17
 updatedDate: 2026-02-16
 author: "Matt Vance"
-image: "/images/posts/archery-stance.jpg"
+image: "/images/posts/archery-stance.webp"
 imageAlt: "How To Have The Perfect Archery Stance & Posture (10 Steps)"
 readTime: "14 min read"
 quickAnswer:

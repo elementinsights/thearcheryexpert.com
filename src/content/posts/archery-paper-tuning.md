@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-16
 updatedDate: 2026-02-07
 author: "Matt Vance"
-image: "/images/posts/archery-paper-tuning.jpg"
+image: "/images/posts/archery-paper-tuning.webp"
 imageAlt: "Archery Paper Tuning | 10-Step Guide To Paper Tune A Bow"
 readTime: "11 min read"
 quickAnswer:

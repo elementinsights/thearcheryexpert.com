@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-08-08
 updatedDate: 2026-02-27
 author: "Matt Vance"
-image: "/images/posts/archery-form.jpg"
+image: "/images/posts/archery-form.webp"
 imageAlt: "10 Step Guide To Shooting With Proper Archery Form"
 readTime: "15 min read"
 quickAnswer:

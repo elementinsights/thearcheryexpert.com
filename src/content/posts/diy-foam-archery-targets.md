@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-19
 updatedDate: 2026-01-07
 author: "Matt Vance"
-image: "/images/posts/diy-foam-archery-targets.jpg"
+image: "/images/posts/diy-foam-archery-targets.webp"
 imageAlt: "How To Make Your Own DIY Foam Archery Targets | 10 Steps"
 readTime: "15 min read"
 quickAnswer:

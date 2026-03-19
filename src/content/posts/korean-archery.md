@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-03-19
 updatedDate: 2026-02-09
 author: "Matt Vance"
-image: "/images/posts/korean-archery.jpg"
+image: "/images/posts/korean-archery.webp"
 imageAlt: "What Is Korean Archery And How Is It Different?"
 readTime: "14 min read"
 quickAnswer:

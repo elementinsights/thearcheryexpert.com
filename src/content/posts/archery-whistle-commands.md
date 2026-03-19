@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-04-19
 updatedDate: 2026-02-02
 author: "Matt Vance"
-image: "/images/posts/archery-whistle-commands.jpg"
+image: "/images/posts/archery-whistle-commands.webp"
 imageAlt: "5 Archery Whistle Commands Every Archer Should Know"
 readTime: "14 min read"
 quickAnswer:

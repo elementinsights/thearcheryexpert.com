@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-19
 updatedDate: 2026-03-04
 author: "Matt Vance"
-image: "/images/posts/famous-archers.jpg"
+image: "/images/posts/famous-archers.webp"
 imageAlt: "10 Most Famous Archers Throughout History"
 readTime: "15 min read"
 quickAnswer:

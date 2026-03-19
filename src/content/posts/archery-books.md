@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-07-07
 updatedDate: 2026-03-01
 author: "Matt Vance"
-image: "/images/posts/archery-books.jpg"
+image: "/images/posts/archery-books.webp"
 imageAlt: "10 Best Archery Books For Any Level Archer In 2026"
 readTime: "14 min read"
 quickAnswer:

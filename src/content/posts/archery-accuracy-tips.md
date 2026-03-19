@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-07-12
 updatedDate: 2026-03-09
 author: "Matt Vance"
-image: "/images/posts/archery-accuracy-tips.jpg"
+image: "/images/posts/archery-accuracy-tips.webp"
 imageAlt: "10 Archery Accuracy Tips To Improve Your Shot Exponentially"
 readTime: "15 min read"
 quickAnswer:

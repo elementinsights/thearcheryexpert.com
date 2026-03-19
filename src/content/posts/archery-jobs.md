@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-16
 updatedDate: 2026-02-01
 author: "Matt Vance"
-image: "/images/posts/archery-jobs.jpg"
+image: "/images/posts/archery-jobs.webp"
 imageAlt: "10 Best Archery Jobs And How To Get Them (Updated 2026)"
 readTime: "14 min read"
 quickAnswer:

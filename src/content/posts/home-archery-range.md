@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-19
 updatedDate: 2026-03-18
 author: "Matt Vance"
-image: "/images/posts/home-archery-range.jpg"
+image: "/images/posts/home-archery-range.webp"
 imageAlt: "How To Make Your Own Home Archery Range Done Right"
 readTime: "11 min read"
 quickAnswer:

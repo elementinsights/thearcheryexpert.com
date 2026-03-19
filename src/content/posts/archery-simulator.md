@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-04-19
 updatedDate: 2026-02-25
 author: "Matt Vance"
-image: "/images/posts/archery-simulator.jpg"
+image: "/images/posts/archery-simulator.webp"
 imageAlt: "Archery Simulator: Can It Really Improve Your Shooting Skills?"
 readTime: "14 min read"
 quickAnswer:

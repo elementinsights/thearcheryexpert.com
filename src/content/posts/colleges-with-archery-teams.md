@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-03-18
 updatedDate: 2026-03-10
 author: "Matt Vance"
-image: "/images/posts/colleges-with-archery-teams.jpg"
+image: "/images/posts/colleges-with-archery-teams.webp"
 imageAlt: "Top 10 College Archery Teams That Are Killing It"
 readTime: "17 min read"
 quickAnswer:

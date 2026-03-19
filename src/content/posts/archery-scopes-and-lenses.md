@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-08-16
 updatedDate: 2026-01-02
 author: "Matt Vance"
-image: "/images/posts/archery-scopes-and-lenses.jpg"
+image: "/images/posts/archery-scopes-and-lenses.webp"
 imageAlt: "10 Best Archery Scopes And Lenses Reviewed For 2026"
 readTime: "15 min read"
 quickAnswer:
@@ -132,7 +132,7 @@ products:
     rank: 5
     badge: "Budget Pick"
     rating: 8.9
-    image: "/images/posts/no-image.jpg"
+    image: "/images/posts/no-image.webp"
     description: "This 2-dot style Range-Rover Pro sight is produced by TRUGLO Company which beliefs in supporting the hunting community by providing advanced and innovative archery accessories."
     highlights:
       - "Quality Build"
@@ -151,7 +151,7 @@ products:
     rank: 6
     badge: "Most Popular"
     rating: 8.8
-    image: "/images/posts/no-image.jpg"
+    image: "/images/posts/no-image.webp"
     description: "This bow sight is manufactured by Burris Optics that is famous and is a trusted supplier for binoculars, scopes, and reticles for all hunting and shooting needs."
     highlights:
       - "Quality Build"
@@ -287,7 +287,7 @@ These accessories are very beneficial for archers so do read these reviews on ar
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a></td>
 <td class="table-product-name">CBE Engage Hybrid Bow Sight 3 Pin RH .01</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -301,21 +301,21 @@ These accessories are very beneficial for archers so do read these reviews on ar
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a></td>
 <td class="table-product-name">AccuTouch Carbon Pro Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B078KKC1WZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Range-Rover Pro LED Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B078KKC1WZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Range-Rover Pro LED Bow Sight" loading="lazy" /></a></td>
 <td class="table-product-name">Range-Rover Pro LED Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B078KKC1WZ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07J5M6VP1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07J5M6VP1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a></td>
 <td class="table-product-name">Oracle Rangefinder Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B07J5M6VP1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -437,7 +437,7 @@ It comes with black color and has dimensions of 9 x 4 x 9 inches.
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07Q4GFZXY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="CBE Engage Hybrid Bow Sight 3 Pin RH .010" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Lenses</div>
@@ -584,7 +584,7 @@ This bow sight runs by a CR2 battery and has a dual mounting system, therefore, 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00WZUPSVO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="AccuTouch Carbon Pro Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Lenses</div>
@@ -664,7 +664,7 @@ The Axcel Company has designed it with a composite carbon technology which makes
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B078KKC1WZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Range-Rover Pro LED Bow Sight" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B078KKC1WZ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Range-Rover Pro LED Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Lenses</div>
@@ -750,7 +750,7 @@ The 1-dot style has dimensions of 10 x 10.2 x 4 inches and the 2-dot style has d
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07J5M6VP1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07J5M6VP1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Oracle Rangefinder Bow Sight" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Lenses</div>

@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-03-19
 updatedDate: 2026-02-02
 author: "Matt Vance"
-image: "/images/posts/getting-into-archery.jpg"
+image: "/images/posts/getting-into-archery.webp"
 imageAlt: "How To Get Into Archery Professionally & For Beginners"
 readTime: "16 min read"
 quickAnswer:

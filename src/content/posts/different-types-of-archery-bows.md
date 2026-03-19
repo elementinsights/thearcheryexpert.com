@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-18
 updatedDate: 2026-01-01
 author: "Matt Vance"
-image: "/images/posts/different-types-of-archery-bows.jpg"
+image: "/images/posts/different-types-of-archery-bows.webp"
 imageAlt: "4 Different Types Of Archery Bows Every Pro Should Know"
 readTime: "14 min read"
 quickAnswer:

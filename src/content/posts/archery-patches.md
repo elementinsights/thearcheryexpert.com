@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-16
 updatedDate: 2026-02-23
 author: "Matt Vance"
-image: "/images/posts/archery-patches.jpg"
+image: "/images/posts/archery-patches.webp"
 imageAlt: "10 Coolest Archery Patches & Stickers That Look Great"
 readTime: "15 min read"
 quickAnswer:

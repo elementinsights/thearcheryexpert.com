@@ -335,7 +335,7 @@ postType: "roundup"
 publishDate: {pub}
 updatedDate: {random_updated_date()}
 author: "Matt Vance"
-image: "/images/posts/{slug}.jpg"
+image: "/images/posts/{slug}.webp"
 imageAlt: "{escape_yaml(title)}"
 readTime: "{estimate_read_time(wc)}"
 quickAnswer:
@@ -673,7 +673,7 @@ postType: "listicle"
 publishDate: {pub}
 updatedDate: {random_updated_date()}
 author: "Matt Vance"
-image: "/images/posts/{slug}.jpg"
+image: "/images/posts/{slug}.webp"
 imageAlt: "{escape_yaml(title)}"
 readTime: "{estimate_read_time(wc)}"
 quickAnswer:
@@ -797,7 +797,7 @@ postType: "how-to"
 publishDate: {pub}
 updatedDate: {random_updated_date()}
 author: "Matt Vance"
-image: "/images/posts/{slug}.jpg"
+image: "/images/posts/{slug}.webp"
 imageAlt: "{escape_yaml(title)}"
 readTime: "{estimate_read_time(wc)}"
 quickAnswer:
@@ -880,7 +880,7 @@ postType: "guide"
 publishDate: {pub}
 updatedDate: {random_updated_date()}
 author: "Matt Vance"
-image: "/images/posts/{slug}.jpg"
+image: "/images/posts/{slug}.webp"
 imageAlt: "{escape_yaml(title)}"
 readTime: "{estimate_read_time(wc)}"
 quickAnswer:
@@ -976,7 +976,7 @@ postType: "review"
 publishDate: {pub}
 updatedDate: {random_updated_date()}
 author: "Matt Vance"
-image: "/images/posts/{slug}.jpg"
+image: "/images/posts/{slug}.webp"
 imageAlt: "{escape_yaml(title)}"
 readTime: "{estimate_read_time(wc)}"
 verdict: "The {escape_yaml(product_name)} is a solid choice for archers looking for quality and versatility."

@@ -6,7 +6,7 @@ postType: "buyers-guide"
 publishDate: 2026-08-07
 updatedDate: 2026-02-22
 author: "Matt Vance"
-image: "/images/posts/archery-for-women.jpg"
+image: "/images/posts/archery-for-women.webp"
 imageAlt: "Archery For Women: Complete Equipment Buying Guide"
 readTime: "15 min read"
 quickAnswer:

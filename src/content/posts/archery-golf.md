@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-08-09
 updatedDate: 2026-02-19
 author: "Matt Vance"
-image: "/images/posts/archery-golf.jpg"
+image: "/images/posts/archery-golf.webp"
 imageAlt: "What Is Archery Golf And How Do You Play?"
 readTime: "15 min read"
 quickAnswer:

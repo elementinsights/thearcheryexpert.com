@@ -6,7 +6,7 @@ postType: "how-to"
 publishDate: 2026-07-24
 updatedDate: 2026-02-08
 author: "Matt Vance"
-image: "/images/posts/archery-for-beginners.jpg"
+image: "/images/posts/archery-for-beginners.webp"
 imageAlt: "Archery For Beginners: How To Get Started (10 Simple Steps)"
 readTime: "15 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-07-31
 updatedDate: 2026-01-25
 author: "Matt Vance"
-image: "/images/posts/archery-for-children.jpg"
+image: "/images/posts/archery-for-children.webp"
 imageAlt: "Archery For Children: 10 Important Reasons To Start Young"
 readTime: "15 min read"
 quickAnswer:

@@ -4,7 +4,7 @@ export const siteConfig = {
   // ============================================================
   name: "The Archery Expert",
   nameHighlight: "Expert",        // Part that gets accent color in logo
-  logo: "/images/logo.png",       // Image logo (set to "" for text logo)
+  logo: "/images/logo.webp",       // Image logo (set to "" for text logo)
   tagline: "Archery Information, Tips and Product Reviews",
   domain: "thearcheryexpert.com",
   url: "https://www.thearcheryexpert.com",
@@ -23,11 +23,11 @@ export const siteConfig = {
   //  NAVIGATION CATEGORIES
   // ============================================================
   categories: [
-    { name: "Accessories", slug: "accessories", image: "/images/category/accessories.jpg" },
-    { name: "Arrows", slug: "arrows", image: "/images/category/arrows.jpg" },
-    { name: "Bows", slug: "bows", image: "/images/category/bows.jpg" },
-    { name: "Knowledge", slug: "knowledge", image: "/images/category/knowledge.jpg" },
-    { name: "Targets", slug: "targets", image: "/images/category/targets.jpg" },
+    { name: "Accessories", slug: "accessories", image: "/images/category/accessories.webp" },
+    { name: "Arrows", slug: "arrows", image: "/images/category/arrows.webp" },
+    { name: "Bows", slug: "bows", image: "/images/category/bows.webp" },
+    { name: "Knowledge", slug: "knowledge", image: "/images/category/knowledge.webp" },
+    { name: "Targets", slug: "targets", image: "/images/category/targets.webp" },
   ],
 
   // ============================================================
@@ -86,7 +86,7 @@ export const siteConfig = {
   // ============================================================
   //  HERO IMAGE (homepage background)
   // ============================================================
-  heroImage: "/images/hero.jpg",
+  heroImage: "/images/hero.webp",
 };
 
 export type SiteConfig = typeof siteConfig;

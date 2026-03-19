@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-08-14
 updatedDate: 2026-02-13
 author: "Matt Vance"
-image: "/images/posts/archery-manufacturers.jpg"
+image: "/images/posts/archery-manufacturers.webp"
 imageAlt: "10 Best Archery Manufacturers (Bows, Arrows & Equipment)"
 readTime: "15 min read"
 quickAnswer:

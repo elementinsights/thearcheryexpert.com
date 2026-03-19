@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-17
 updatedDate: 2026-01-29
 author: "Matt Vance"
-image: "/images/posts/archery-trick-shots.jpg"
+image: "/images/posts/archery-trick-shots.webp"
 imageAlt: "10 Amazing Archery Trick Shots Anyone Can Do With Practice"
 readTime: "14 min read"
 quickAnswer:

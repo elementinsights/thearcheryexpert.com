@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-03-02
 author: "Matt Vance"
-image: "/images/posts/archery-chair.jpg"
+image: "/images/posts/archery-chair.webp"
 imageAlt: "10 Best Archery Chairs & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:
@@ -56,7 +56,7 @@ products:
     rank: 1
     badge: "Best Overall"
     rating: 9.7
-    image: "/images/posts/no-image.jpg"
+    image: "/images/posts/no-image.webp"
     description: "Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings."
     highlights:
       - "Quality Build"
@@ -282,7 +282,7 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Southwest Archery Shooter Stool" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Southwest Archery Shooter Stool" loading="lazy" /></a></td>
 <td class="table-product-name">Southwest Archery Shooter Stool</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -359,7 +359,7 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.jpg" alt="Southwest Archery Shooter Stool" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07PVL3D3T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="/images/posts/no-image.webp" alt="Southwest Archery Shooter Stool" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Chairs</div>

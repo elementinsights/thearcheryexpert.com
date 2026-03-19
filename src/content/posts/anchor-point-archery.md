@@ -6,7 +6,7 @@ postType: "guide"
 publishDate: 2026-07-03
 updatedDate: 2026-03-08
 author: "Matt Vance"
-image: "/images/posts/anchor-point-archery.jpg"
+image: "/images/posts/anchor-point-archery.webp"
 imageAlt: "What Is Anchor Point In Archery And How Do You Find It?"
 readTime: "15 min read"
 quickAnswer:

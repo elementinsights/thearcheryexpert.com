@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-17
 updatedDate: 2026-03-14
 author: "Matt Vance"
-image: "/images/posts/archery-trophy.jpg"
+image: "/images/posts/archery-trophy.webp"
 imageAlt: "10 Most Common Archery Trophies & Awards You Can Win"
 readTime: "15 min read"
 quickAnswer:

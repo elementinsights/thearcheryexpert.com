@@ -6,7 +6,7 @@ postType: "listicle"
 publishDate: 2026-03-18
 updatedDate: 2026-01-14
 author: "Matt Vance"
-image: "/images/posts/benefits-of-archery.jpg"
+image: "/images/posts/benefits-of-archery.webp"
 imageAlt: "10 Most Common Health Benefits Of Archery"
 readTime: "15 min read"
 quickAnswer:
