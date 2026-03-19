@@ -274,7 +274,7 @@ They can be homemade or bought depending on a specific activity.
 <a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41wujN4mxeL._SL500_.jpg" alt="WOARCHERY Combat Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Product</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Larp Bow And Arrow</div>
 <h3 class="product-card-name">WOARCHERY Combat Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -346,7 +346,7 @@ This is a perfect gift for beginners that can be used in both combat games and L
 <a href="https://www.amazon.com/dp/B0722K6DY3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41+7yjlflFL._SL500_.jpg" alt="TOP ARCHERY Traditional Recurve Bow 53''" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Product</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Larp Bow And Arrow</div>
 <h3 class="product-card-name">TOP ARCHERY Traditional Recurve Bow 53''</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -420,7 +420,7 @@ Some users don’t recommend it for daily usage as it wears down with weight.
 <a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="Feathered Indian Bow and Arrow Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Best Value Product</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Best Value Larp Bow And Arrow</div>
 <h3 class="product-card-name">Feathered Indian Bow and Arrow Set</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -496,7 +496,7 @@ Users are offered a range of draw weights of between 40 to 50lbs.
 <a href="https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg" alt="KAINOKAI Traditional Handmade Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Premium Pick Product</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Premium Pick Larp Bow And Arrow</div>
 <h3 class="product-card-name">KAINOKAI Traditional Handmade Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -564,7 +564,7 @@ This is an ideal gift for an elderly archery lover.
 <a href="https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg" alt="Enrack Recurve Bow for Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Budget Pick Product</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Budget Pick Larp Bow And Arrow</div>
 <h3 class="product-card-name">Enrack Recurve Bow for Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -632,7 +632,7 @@ The Enrack is easily dismantled for storage and transportation.
 <a href="https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg" alt="Rootmemory Bow And Arrow Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Popular Product</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Popular Larp Bow And Arrow</div>
 <h3 class="product-card-name">Rootmemory Bow And Arrow Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -702,7 +702,7 @@ Transportation and storage are comfortable as you can dismantle them.
 <a href="https://www.amazon.com/dp/B07CCZ2CX6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg" alt="Adventure Awaits. Handmade Wooden Bow and Arrow Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best Design Product</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best Design Larp Bow And Arrow</div>
 <h3 class="product-card-name">Adventure Awaits. Handmade Wooden Bow and Arrow Set</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>

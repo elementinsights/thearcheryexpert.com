@@ -358,7 +358,7 @@ Without that, it would be really hard for one to identify what sort of event is 
 <a href="https://www.amazon.com/dp/B008PDTFMI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZL55C-xVL._SL500_.jpg" alt="King’s Camo Hunter Series Pants" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Product</div>
+<div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Archey Apparel</div>
 <h3 class="product-card-name">King’s Camo Hunter Series Pants</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -438,7 +438,7 @@ With a good amount of pockets, it can also help carry things.
 <a href="https://www.amazon.com/dp/B01MF9RTWD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51tpfKDi9tL._SL500_.jpg" alt="King’s Camo KC1 Poly Long Sleeve Tee Shirt" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Product</div>
+<div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Archey Apparel</div>
 <h3 class="product-card-name">King’s Camo KC1 Poly Long Sleeve Tee Shirt</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
@@ -514,7 +514,7 @@ It’s a perfect choice for a long sleeve base layer shirt that will keep you dr
 <a href="https://www.amazon.com/dp/B07FFC8221?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51BquQT1ToL._SL500_.jpg" alt="Hot Shot’s Youth Boy Camo Defender Gloves" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Product</div>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Archey Apparel</div>
 <h3 class="product-card-name">Hot Shot’s Youth Boy Camo Defender Gloves</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -590,7 +590,7 @@ The camo pattern helps to bring both elements which are realistic to match your 
 <a href="https://www.amazon.com/dp/B01CD8TFOS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51wBDnDQIwL._SL500_.jpg" alt="Kryptek Vellus Camo Jacket" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Product</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Archey Apparel</div>
 <h3 class="product-card-name">Kryptek Vellus Camo Jacket</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -676,7 +676,7 @@ With scent control, it's one of the best apparel you would find in the market.
 <a href="https://www.amazon.com/dp/B00IYWZP3I?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412D52c7T2L._SL500_.jpg" alt="Hunter Safety System X-1 Bowhunter Treestand Safety Harness" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Product</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Archey Apparel</div>
 <h3 class="product-card-name">Hunter Safety System X-1 Bowhunter Treestand Safety Harness</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -758,7 +758,7 @@ The best thing about it's that the company provides 5 whooping years of warranty
 <a href="https://www.amazon.com/dp/B07TTN6XDF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51WFn52UC9L._SL500_.jpg" alt="Bijia Hunting Rangefinder  -  6X 650 Yards Multifunctional Laser Rangefinder for Hunting" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Product</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Archey Apparel</div>
 <h3 class="product-card-name">Bijia Hunting Rangefinder  -  6X 650 Yards Multifunctional Laser Rangefinder for Hunting</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -844,7 +844,7 @@ The manufacturing company also provides a 1-year warranty so that you don’t ha
 <a href="https://www.amazon.com/dp/B011MCBLJ8?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51ZJ-f9m6KL._SL500_.jpg" alt="ScentLok’s Men’s Full Season Headcover" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Product</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Archey Apparel</div>
 <h3 class="product-card-name">ScentLok’s Men’s Full Season Headcover</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
@@ -936,7 +936,7 @@ It has hundreds of reviews and has been provided 4+ stars in quality.
 <a href="https://www.amazon.com/dp/B07MMSZP8P?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qEk3B-SeL._SL500_.jpg" alt="T.O.M Horizons Binoculars Harness Case Pack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Product</div>
+<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Archey Apparel</div>
 <h3 class="product-card-name">T.O.M Horizons Binoculars Harness Case Pack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1025,7 +1025,7 @@ Who offers a deal like that in the present world? - Please check it out.
 <a href="https://www.amazon.com/dp/B005HRP86C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51a+XnoNyhL._SL500_.jpg" alt="ALPS Outdoor Z Dark Timber Hunting Day Backpack" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Product</div>
+<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Archey Apparel</div>
 <h3 class="product-card-name">ALPS Outdoor Z Dark Timber Hunting Day Backpack</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
@@ -1103,7 +1103,7 @@ A 1-year warranty is also provided on the product with amazing discounts.
 <a href="https://www.amazon.com/dp/B074CC5B76?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61tSbzJZD8L._SL500_.jpg" alt="New View Hunting Jacket Silent Water Resistant Hunting Clothes" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Product</div>
+<div class="product-card-rank"><span class="rank-badge">#10 Pick</span> Honorable Mention Archey Apparel</div>
 <h3 class="product-card-name">New View Hunting Jacket Silent Water Resistant Hunting Clothes</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
