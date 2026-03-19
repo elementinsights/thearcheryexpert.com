@@ -56,6 +56,7 @@ faq:
     answer: "Archery is excellent for mental health because it requires intense focus that helps you disconnect from daily stress. The repetitive nature of drawing, aiming, and releasing promotes a meditative state, and your body releases endorphins during the physical activity that naturally boost your mood."
   - question: "Can older adults benefit from archery?"
     answer: "Archery is one of the most accessible sports for older adults because it's low-impact and doesn't put excessive stress on joints. It helps maintain hand-eye coordination, upper body strength, and balance, which are all important for healthy aging. Many archers continue competing well into their later years."
+finalThoughts: "Archery delivers a unique combination of physical and mental health benefits that few other sports can match. It strengthens your body, sharpens your focus, teaches patience, and gives you a social outlet all at the same time.\n\nWhether you're looking for a new fitness routine or a way to decompress after a long week, picking up a bow is one of the best decisions you can make for your overall well-being."
 ---
 
 Are you looking for ways to improve your well being both mentally and physically?
@@ -467,10 +468,3 @@ Apart from that, you can also socialize when practicing archery.
 You and other archers can share your experiences and passion in archery as you guys share the same interest.
 
 Through social interactions in archery, you'll meet more friends and improve your social skills.
-
-## Final Thoughts
-
-Archery delivers a unique combination of physical and mental health benefits that few other sports can match. It strengthens your body, sharpens your focus, teaches patience, and gives you a social outlet all at the same time.
-
-Whether you're looking for a new fitness routine or a way to decompress after a long week, picking up a bow is one of the best decisions you can make for your overall well-being.
-

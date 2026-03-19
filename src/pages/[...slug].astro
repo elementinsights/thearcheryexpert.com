@@ -323,6 +323,14 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
     {post.data.faq && post.data.faq.length > 0 && (
       <FAQ items={post.data.faq} />
     )}
+    {post.data.finalThoughts && (
+      <div class="final-thoughts">
+        <h2 id="final-thoughts">Final Thoughts</h2>
+        {post.data.finalThoughts.split('\\n').filter(p => p.trim()).map(p => (
+          <p>{p}</p>
+        ))}
+      </div>
+    )}
   </div>
 
   <!-- SHARE BAR -->
@@ -340,21 +348,6 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
 {post.data.postType === 'roundup' && post.data.products && post.data.products.length > 0 && (
   <StickyProductBar />
 )}
-
-<script>
-  // Move FAQ section above "Final Thoughts" heading if present
-  const faq = document.querySelector('.faq-section');
-  if (faq) {
-    const headings = document.querySelectorAll('.article-content h2');
-    for (const h2 of headings) {
-      const text = h2.textContent?.trim().toLowerCase() || '';
-      if (text.includes('final thoughts') || text.includes('final verdict') || text.includes('conclusion') || text.includes('summary') || text.includes('final recommendations') || text.includes('bottom line')) {
-        h2.parentNode?.insertBefore(faq, h2);
-        break;
-      }
-    }
-  }
-</script>
 
 
 <style>

@@ -59,6 +59,7 @@ faq:
     answer: "English kings needed a large supply of skilled archers for their armies. Starting in 1252, laws required men between 15 and 60 to own bows and practice regularly. Designated archery butts were built outside villages to reduce injuries from stray arrows during this compulsory training."
   - question: "Are archery butts still used in modern archery?"
     answer: "The term isn't commonly used in modern archery, but the concept evolved into today's target ranges. Modern archery uses foam, straw, and layered targets mounted on stands instead of earthen mounds. Competition setups follow World Archery Federation standards with precise distance and target size requirements."
+finalThoughts: "Archery butts played a crucial role in transforming archery from a survival skill into an organized sport with structured training methods. Understanding their history gives you a deeper appreciation for how modern target ranges, scoring systems, and competition formats came to be.\n\nWhile the earthen mounds and mandatory practice laws are long gone, the core principle behind archery butts remains the same: consistent practice on defined targets is the only path to mastery."
 ---
 
 Be sure to read through this article if you require more information on archery butts and their use.
@@ -388,9 +389,3 @@ Many people prefer drawing the bow before aiming, but the most accurate procedur
 Utilize back muscles as you aim as this reduces the tension in the arms to create an accurate shot.
 
 The T-draw is another aiming technique that generates clarity of the object.
-
-## Final Thoughts
-
-Archery butts played a crucial role in transforming archery from a survival skill into an organized sport with structured training methods. Understanding their history gives you a deeper appreciation for how modern target ranges, scoring systems, and competition formats came to be.
-
-While the earthen mounds and mandatory practice laws are long gone, the core principle behind archery butts remains the same: consistent practice on defined targets is the only path to mastery.

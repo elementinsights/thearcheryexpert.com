@@ -45,6 +45,7 @@ faq:
     answer: "Your feet should be roughly shoulder-width apart or slightly wider. Too wide of a stance creates excess tension in your legs, while too narrow of a stance reduces stability. Find a comfortable width that lets you stay balanced without straining."
   - question: "How do I keep my bow shoulder from rising when I draw?"
     answer: "Consciously push your bow shoulder down before and during the draw. Engaging your back muscles and keeping your chest relaxed will help prevent the shoulder from creeping up. Practicing in front of a mirror can help you spot and correct this common mistake."
+finalThoughts: "Your stance and posture form the foundation of every shot you take. Getting your foot position, core engagement, and shoulder alignment right will improve your accuracy more than any piece of gear ever could.\n\nPractice these 10 steps consistently, and you'll build the muscle memory needed for repeatable, accurate shots every time you step up to the line."
 ---
 
 <div class="how-to-meta">
@@ -266,10 +267,3 @@ If you're doing good and face problems again, practice from the beginning until 
 In archery, your focus is the most important thing to keep in mind. Get all steps correctly, and start focusing on your targets.
 
 That's how you can be led towards perfection in archery.
-
-## Final Thoughts
-
-Your stance and posture form the foundation of every shot you take. Getting your foot position, core engagement, and shoulder alignment right will improve your accuracy more than any piece of gear ever could.
-
-Practice these 10 steps consistently, and you'll build the muscle memory needed for repeatable, accurate shots every time you step up to the line.
-

@@ -56,6 +56,7 @@ faq:
     answer: "Books provide a depth and structure that short videos often can't match. You can study diagrams at your own pace, revisit specific chapters during practice, and many of the best archery books are written by Olympic-level coaches whose expertise goes far deeper than most online content."
   - question: "Is Zen in the Art of Archery actually about archery technique?"
     answer: "It's more about the mental and philosophical side of archery than nuts-and-bolts shooting technique. The book explores how discipline, focus, and the mind-body connection apply to archery through the lens of Japanese Kyudo practice. It's a short read at 64 pages and pairs well with a more technical manual."
+finalThoughts: "A well-chosen archery book can accelerate your learning faster than months of trial and error on the range. Start with a beginner-friendly guide if you're new, add a drill book once you've got the basics down, and consider a philosophy title like Zen in the Art of Archery to sharpen your mental game.\n\nThe best archers never stop learning, and these books give you a library of expert knowledge to draw from at any stage."
 ---
 
 Here's a list of ten best archery books that will keep you glued to the book all the time while transforming you into a better and more experienced archer.
@@ -413,10 +414,3 @@ These detailed descriptions of the various books mentioned above give you an ins
 - Suitable for both coaches and archers
 
 - Can be used by level 3 or 4 testing instructors
-
-## Final Thoughts
-
-A well-chosen archery book can accelerate your learning faster than months of trial and error on the range. Start with a beginner-friendly guide if you're new, add a drill book once you've got the basics down, and consider a philosophy title like Zen in the Art of Archery to sharpen your mental game.
-
-The best archers never stop learning, and these books give you a library of expert knowledge to draw from at any stage.
-

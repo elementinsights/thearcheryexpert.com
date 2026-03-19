@@ -47,6 +47,7 @@ faq:
     answer: "Indoor archery uses shorter distances (typically 18 to 25 meters) and smaller target faces with 5 scoring zones (6 through 10). Outdoor archery uses longer distances (up to 90 meters) with larger targets that can have either 5 or 10 scoring zones depending on the round type."
   - question: "What does 'end' mean in archery scoring?"
     answer: "An end is a set of arrows shot before scoring and retrieving them. In outdoor archery, an end is usually 3 to 6 arrows. For indoor shooting under WA rules, you'll shoot 3 arrows per end over 20 ends. Your total score is the sum of all your ends combined."
+finalThoughts: "Understanding archery scoring is essential before you step onto the range or enter a competition. Once you know the difference between 5-zone and 10-zone targets, learn how ends work, and get comfortable reading a scoring sheet, the rules become second nature.\n\nThe best way to internalize it all is to keep practicing and tracking your scores consistently."
 ---
 
 In today's article, we'll be talking about archery scoring.
@@ -432,9 +433,3 @@ A world-famous sports tournament, known as The Olympics, used live pigeons as ta
 Robin Hood isn't just a movie. It's also a terminology in archery that's used when one archer splits another archer's arrow during a competition or tournament.
 
 This is our last fact for this article, and we think it's pretty cool: you're often required to have your name carved onto the arrows you'll be shooting at your competition or tournament.
-
-## Final Thoughts
-
-Understanding archery scoring is essential before you step onto the range or enter a competition. Once you know the difference between 5-zone and 10-zone targets, learn how ends work, and get comfortable reading a scoring sheet, the rules become second nature.
-
-The best way to internalize it all is to keep practicing and tracking your scores consistently.

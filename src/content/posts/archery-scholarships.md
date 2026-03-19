@@ -54,6 +54,7 @@ faq:
     answer: "Most archery scholarship programs require a minimum GPA between 2.0 and 3.0 on a 4.0 scale. The Easton-NFAA program requires a 2.0 for high school applicants and 2.5 for current college students, while the TFAA Youth Scholarship requires a 3.0 or higher."
   - question: "Do I need to be on a college archery team to get an archery scholarship?"
     answer: "Not always. Some programs like the Easton-NFAA scholarship don't require you to be on a college team, though you must compete in archery during the academic year. Others like the Texas A&M scholarships do require active team participation and attendance at practices."
+finalThoughts: "Archery scholarships can make a real difference in covering tuition, books, and other college expenses. Start your search early, apply to every program you qualify for, and keep your grades up alongside your archery training.\n\nThe combination of academic dedication and competitive shooting experience will open doors that many students don't even know exist."
 ---
 
 Are you an academic wizard who has a notable talent with bows but lacks funds for schooling?
@@ -482,10 +483,3 @@ Contact the archery coach or sponsor for more information.
 Because athletic scholarship also requires good academic performance, you may qualify for the Academic Excellence Scholarship that amounts to $725 per semester, and other higher academic grants with higher support costs.
 
 So do your best in both archery and academics.
-
-## Final Thoughts
-
-Archery scholarships can make a real difference in covering tuition, books, and other college expenses. Start your search early, apply to every program you qualify for, and keep your grades up alongside your archery training.
-
-The combination of academic dedication and competitive shooting experience will open doors that many students don't even know exist.
-

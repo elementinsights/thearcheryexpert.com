@@ -45,6 +45,7 @@ faq:
     answer: "Your anchor point is a spot on your face where your draw hand rests every time you reach full draw. Most archers use the corner of the mouth, the chin, or the side of the face. The key is picking one spot and returning to it consistently with every shot."
   - question: "What's the most common form mistake beginners make?"
     answer: "Gripping the bow too tightly is probably the most widespread beginner mistake. A death grip causes the bow to torque on release and sends your arrows off target. Keep your bow hand relaxed and let the bow rest naturally against your palm."
+finalThoughts: "Developing proper archery form takes time and repetition, but it's the single most important factor in becoming a consistent shooter. Focus on mastering each step individually before trying to put them all together, and don't rush through the basics.\n\nA solid foundation in stance, grip, and release will serve you well whether you're shooting targets at the range or heading out into the field."
 ---
 
 <div class="how-to-meta">
@@ -400,9 +401,3 @@ While doing all of this, the bow arm should hold the bow in place.
 This might seem like a tedious process, but it only takes as much time as it takes for the arrow to hit the target.
 
 Once the arrow has pierced the target, you can lower both your arms and the bow as well.
-
-## Final Thoughts
-
-Developing proper archery form takes time and repetition, but it's the single most important factor in becoming a consistent shooter. Focus on mastering each step individually before trying to put them all together, and don't rush through the basics.
-
-A solid foundation in stance, grip, and release will serve you well whether you're shooting targets at the range or heading out into the field.

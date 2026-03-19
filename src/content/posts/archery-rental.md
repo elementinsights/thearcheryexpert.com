@@ -41,6 +41,7 @@ faq:
     answer: "Yes, most archery ranges welcome beginners and provide rental equipment along with basic instruction. It's one of the best ways to try the sport before committing to purchasing your own gear. Some ranges require a brief safety orientation before you can start shooting."
   - question: "What should I look for in an archery rental facility?"
     answer: "Look for a clean, well-maintained range with knowledgeable staff who can help you choose the right equipment for your size and experience level. Good facilities will also have a variety of bow types and draw weights available so you can find what feels most comfortable."
+finalThoughts: "Renting archery equipment is the smartest way to explore the sport without a major financial commitment upfront. It lets you try different bow types, discover your preferences, and build confidence before you invest in your own gear.\n\nWhether you're a curious beginner or just visiting a range for the first time, rental equipment gives you everything you need to have a great time on the shooting line."
 ---
 
 People who are passionate about sports make every possible effort to add perfection to their performance.
@@ -492,9 +493,3 @@ Each person has to pay $30 for lane rent, equipment rent, and an hourly rate for
 You won't be allowed to share equipment, or bargain for half an hour discounts.
 
 If you've your equipment, then it will cost you around $12 for each hour.
-
-## Final Thoughts
-
-Renting archery equipment is the smartest way to explore the sport without a major financial commitment upfront. It lets you try different bow types, discover your preferences, and build confidence before you invest in your own gear.
-
-Whether you're a curious beginner or just visiting a range for the first time, rental equipment gives you everything you need to have a great time on the shooting line.

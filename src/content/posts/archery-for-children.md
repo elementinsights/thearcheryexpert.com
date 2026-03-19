@@ -45,6 +45,7 @@ faq:
     answer: "Archery is one of the safest sports for children according to the National Safety Council. It involves no physical contact with other players, and youth equipment is designed with lower draw weights and blunted tips to minimize any risk of injury."
   - question: "How much does a children's archery setup cost?"
     answer: "A beginner-level youth bow and arrow set starts at around $30 to $50. As your child's skills develop, you can upgrade to a more advanced setup for $150 to $170, which is still affordable compared to many team sports."
+finalThoughts: "Introducing your child to archery early gives them a head start on physical fitness, mental focus, and self-discipline that carries into every other area of their life. It's a sport with no age, gender, or fitness barriers, and the low startup cost makes it accessible to nearly every family.\n\nGive your child the chance to experience archery and watch them build confidence with every arrow they release."
 ---
 
 Archery for children is a must, especially in this day and age where kids tend to stick to the couch and play hours of video games, or are glued to their smartphones.
@@ -348,9 +349,3 @@ This means that there's no stopping your kid from going on to represent their co
 It may sound like a fantasy to you right now.
 
 A lot of famed professional archers started in their early years and went on to make it big.
-
-## Final Thoughts
-
-Introducing your child to archery early gives them a head start on physical fitness, mental focus, and self-discipline that carries into every other area of their life. It's a sport with no age, gender, or fitness barriers, and the low startup cost makes it accessible to nearly every family.
-
-Give your child the chance to experience archery and watch them build confidence with every arrow they release.

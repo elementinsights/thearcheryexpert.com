@@ -45,6 +45,7 @@ faq:
     answer: "A perfect tear looks like a clean bullet hole with three small cuts from the fletchings surrounding it. If you see tails extending in any direction from the hole, it means your arrow isn't flying straight and your bow needs further adjustment."
   - question: "Can paper tuning fix all arrow flight problems?"
     answer: "Paper tuning is a great diagnostic tool, but it can't fix everything. Issues like an incorrect arrow spine, a worn bowstring, or poor shooting form need to be addressed separately. Think of paper tuning as one step in the overall bow setup process, not a cure-all."
+finalThoughts: "Paper tuning your bow is one of the most effective ways to diagnose and correct arrow flight issues before they become problems on the range or in the field. It doesn't require expensive equipment, and the process gets easier every time you do it.\n\nMake paper tuning a regular part of your bow maintenance routine, and you'll shoot with more confidence knowing your setup is dialed in."
 ---
 
 <div class="how-to-meta">
@@ -350,9 +351,3 @@ They think that the string is an elastic band and will come back to hit them.
 This is a dangerous habit as this often causes the shooter to torque their body and this makes it more likely to get hit by the string.
 
 This inherent fear of the string causes a lot of problems when they're trying to shoot an arrow
-
-## Final Thoughts
-
-Paper tuning your bow is one of the most effective ways to diagnose and correct arrow flight issues before they become problems on the range or in the field. It doesn't require expensive equipment, and the process gets easier every time you do it.
-
-Make paper tuning a regular part of your bow maintenance routine, and you'll shoot with more confidence knowing your setup is dialed in.

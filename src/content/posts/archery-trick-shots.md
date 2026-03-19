@@ -56,6 +56,7 @@ faq:
     answer: "It's possible but extremely rare outside of controlled conditions. Splitting one arrow with another requires near-perfect accuracy and usually happens by chance rather than intention. Most archers who've done it were shooting at very close range with carbon or aluminum arrows."
   - question: "Are archery trick shots safe to practice at home?"
     answer: "Some are safe with proper precautions, like popping balloons or shooting at a pinata in a controlled backyard setup with a solid backstop. However, shots involving fire, water, or moving vehicles should only be attempted in professional settings with proper safety measures in place."
+finalThoughts: "Trick shots are a fun way to push your archery skills beyond standard target practice. They test your timing, precision, and creativity in ways that regular shooting doesn't.\n\nStart with the easier ones like balloon popping, work your way up as your confidence grows, and always prioritize safety no matter how simple the trick seems."
 ---
 
 Is archery your hobby, or you like it as a game?
@@ -283,10 +284,3 @@ What happens is when you shoot at pinata stuff, they burst water balls, color ba
 You can put this recreational activity together for your family and just for kids' fun.
 
 While practicing this trick shot, make sure that you can clean the area around the pinata before anyone passes through and cause some damage.
-
-## Final Thoughts
-
-Trick shots are a fun way to push your archery skills beyond standard target practice. They test your timing, precision, and creativity in ways that regular shooting doesn't.
-
-Start with the easier ones like balloon popping, work your way up as your confidence grows, and always prioritize safety no matter how simple the trick seems.
-

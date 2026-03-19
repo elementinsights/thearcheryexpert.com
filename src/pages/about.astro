@@ -114,7 +114,12 @@ const breadcrumbSchema = {
           <div class={`cover-card cover-card--${color} animate-on-scroll`}>
             <div class="cover-card-icon" set:html={icons[i % icons.length]} />
             <h3>{cat.name}</h3>
-            <p>In-depth reviews, comparisons, and buying guides covering everything you need to know about {cat.name.toLowerCase()}. We test every product ourselves so you can buy with confidence.</p>
+            <p>{cat.name === 'Accessories' ? 'From arm guards and release aids to quivers and bow cases, we review the gear that completes your archery setup and keeps you shooting comfortably.' :
+               cat.name === 'Arrows' ? 'Carbon shafts, broadheads, vanes, and nocks. We test arrow components for flight consistency, penetration, and durability across different bow types.' :
+               cat.name === 'Bows' ? 'Compound, recurve, longbow, and youth setups. We evaluate draw cycles, accuracy, build quality, and value to help you find the right bow.' :
+               cat.name === 'Knowledge' ? 'Shooting form guides, safety rules, scoring systems, training programs, and archery history. The information side of the sport, all in one place.' :
+               cat.name === 'Targets' ? 'Bag targets, 3D animal targets, foam blocks, and straw rounds. We test stopping power, arrow removal ease, and how long each target lasts.' :
+               `Detailed coverage of ${cat.name.toLowerCase()} with honest reviews based on real-world testing.`}</p>
           </div>
         );
       })}

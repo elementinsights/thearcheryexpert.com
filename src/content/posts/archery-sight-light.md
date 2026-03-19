@@ -250,6 +250,7 @@ products:
       - "Only works with IQ sight systems, not universal"
       - "Limited brightness compared to higher-output competitors"
     ctaUrl: "https://www.amazon.com/dp/B006QP7AJC?tag=thearcheryexpert-20"
+finalThoughts: "An archery sight light is a small and affordable upgrade that can make a significant difference during low-light hunting and shooting sessions. Whether you're hunting in the early morning or shooting into the evening, having illuminated pins means you won't have to cut your time short.\n\nPick a model that fits your sight housing and offers adjustable brightness for the most versatility."
 ---
 
 The archery sight light attached to the bows improves the aim and the alignment of the entire shooting system.
@@ -1149,9 +1150,3 @@ Three Energizer 392 replaceable batteries operate the sight light, and you can r
 The sight lights greatly enhance your aim, especially in low-light conditions, that's why this particular model works best.
 
 Finally, the unique feature of this sight light is that it easily fits with different sights, making it a favorite of many.
-
-## Final Thoughts
-
-An archery sight light is a small and affordable upgrade that can make a significant difference during low-light hunting and shooting sessions. Whether you're hunting in the early morning or shooting into the evening, having illuminated pins means you won't have to cut your time short.
-
-Pick a model that fits your sight housing and offers adjustable brightness for the most versatility.

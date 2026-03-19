@@ -56,6 +56,7 @@ faq:
     answer: "Yes, you should always wear at least an arm guard and finger protection regardless of where you're shooting. You also need a proper backstop behind your target to prevent arrows from traveling beyond your intended shooting area."
   - question: "How do I make sure my archery range area is safe?"
     answer: "Make sure you have a solid backstop behind your targets, clear sight lines with no obstructions, and enough distance from public areas. Never shoot when people or animals could wander into your shooting lane, and always check the weather conditions before heading out."
+finalThoughts: "Archery is statistically one of the safest sports in the world, but that record only holds when archers take safety seriously. Check your equipment before every session, wear proper protective gear, and never skip the basics of range safety.\n\nA few minutes of preparation and awareness will keep you shooting safely for a lifetime."
 ---
 
 "Nothing clears a troubled mind better than shooting a bow. " - this notable quote from the bowhunter master Fred Bear implicates a broad perspective of what archery is and what it feels like doing.
@@ -369,9 +370,3 @@ We've tackled common archery injuries that require immediate treatment because s
 Severity is what we don't wish to overlap with anyone's health which is why it's more than just an obligation to keep a first aid kit for it saves life and time becomes a golden priority in every inevitable accident.
 
 Thus, this will prevent anyone who is slightly injured from being in a critical condition - making things in-tact and under control.
-
-## Final Thoughts
-
-Archery is statistically one of the safest sports in the world, but that record only holds when archers take safety seriously. Check your equipment before every session, wear proper protective gear, and never skip the basics of range safety.
-
-A few minutes of preparation and awareness will keep you shooting safely for a lifetime.

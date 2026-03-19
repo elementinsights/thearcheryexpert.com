@@ -228,6 +228,7 @@ products:
       - "Ventilation gaps can let in fine dust or debris"
       - "Single lens option with no interchangeable system"
     ctaUrl: "https://www.amazon.com/dp/B0000AVVO2?tag=thearcheryexpert-20"
+finalThoughts: "A solid pair of archery shooting glasses protects your eyes from string breaks, arrow fragments, and UV damage without getting in the way of your aim. Look for polycarbonate lenses with anti-fog coating, and consider a set with interchangeable lenses so you're covered in any lighting condition.\n\nThey're one of the most affordable pieces of safety gear you can buy, and they'll serve you well on the range for years."
 ---
 
 Enjoy your shooting experience on a whole new level.
@@ -994,9 +995,3 @@ Should you wish to have a treasured collection, it's worth acquiring more than j
 The archer's glasses can also be a great gift for your loved ones.
 
 The more exciting part is that the glasses come with a warranty. You may return them if you feel they don't deserve your penny - talk of value for your money.
-
-## Final Thoughts
-
-A solid pair of archery shooting glasses protects your eyes from string breaks, arrow fragments, and UV damage without getting in the way of your aim. Look for polycarbonate lenses with anti-fog coating, and consider a set with interchangeable lenses so you're covered in any lighting condition.
-
-They're one of the most affordable pieces of safety gear you can buy, and they'll serve you well on the range for years.

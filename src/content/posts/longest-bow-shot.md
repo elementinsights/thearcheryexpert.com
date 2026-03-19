@@ -99,6 +99,7 @@ faq:
     answer: "Flight archery measures the maximum distance an arrow can travel without needing to hit a specific target. Target archery records require hitting a target at a set distance with precision. Harry Drake holds the flight record at 2,047 yards using a foot bow, while Matt Stutzman holds the farthest accurate target hit."
   - question: "Which country holds the most archery world records?"
     answer: "South Korea holds the majority of outdoor scoring records in recurve archery, with athletes like Kim Woo-jin and Kang Chae-young regularly setting new marks. The USA also features prominently through athletes like Brady Ellison, who holds multiple World Cup titles and the men's 72-arrow outdoor recurve record."
+finalThoughts: "The records on this list show just how far human skill and dedication can push the sport of archery. From Matt Stutzman's incredible 930-foot accurate shot to Harry Drake's nearly mile-long flight distance, these achievements represent thousands of hours of focused practice.\n\nWhether you're a casual archer or a competitive one, these records set an inspiring benchmark for what's possible with a bow in hand."
 ---
 
 The longest bow shot is among one of the many archery records that have been set.
@@ -406,9 +407,3 @@ He beat Kim Woo-jin's record of 700, set at the 2016 Olympic Games.
 In outdoor target archery, the 72-arrow round is a preliminary round used to ascertain seeding for the head-to-head match play rounds.
 
 Each arrow  -  shot from a distance of 70 m  -  can earn a maximum of 10 points for hitting the 12.2-cm-diameter inner ring on the target, offering a total possible score of 720.
-
-## Final Thoughts
-
-The records on this list show just how far human skill and dedication can push the sport of archery. From Matt Stutzman's incredible 930-foot accurate shot to Harry Drake's nearly mile-long flight distance, these achievements represent thousands of hours of focused practice.
-
-Whether you're a casual archer or a competitive one, these records set an inspiring benchmark for what's possible with a bow in hand.

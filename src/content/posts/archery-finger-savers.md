@@ -240,6 +240,7 @@ products:
       - "Left hand only design, so right-hand bow holders need another option"
       - "Split leather isn't as soft as full grain right out of the box"
     ctaUrl: "https://www.amazon.com/dp/B01A9RKYGI?tag=thearcheryexpert-20"
+finalThoughts: "Protecting your fingers while shooting is one of the most important things you can do as an archer. The right finger saver or tab will let you focus on your form and accuracy instead of worrying about blisters and soreness.\n\nTake your time choosing the option that fits your shooting style, and don't hesitate to try a few different products before settling on your favorite."
 ---
 
 We've listed the 10 best archery finger savers available below to help you protect your finger away from the bowstring abrasion or hurts.
@@ -1115,9 +1116,3 @@ Ideally, it's most suitable for professionals as it protects the hand very well,
 Nonetheless, this isn't an option for right-handers.
 
 You'll have to consider one of the other available products on this list if you're using your right hand.
-
-## Final Thoughts
-
-Protecting your fingers while shooting is one of the most important things you can do as an archer. The right finger saver or tab will let you focus on your form and accuracy instead of worrying about blisters and soreness.
-
-Take your time choosing the option that fits your shooting style, and don't hesitate to try a few different products before settling on your favorite.

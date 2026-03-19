@@ -45,6 +45,7 @@ faq:
     answer: "Repetitive drawing without proper form and rest can lead to conditions like tendinitis, rotator cuff strain, and shoulder impingement syndrome over time. These issues are preventable with regular exercise, gradual progression in draw weight, and taking breaks during long practice sessions."
   - question: "How can beginners avoid getting finger blisters from archery?"
     answer: "Wearing a quality archery glove or finger tab from your very first session is the best prevention. Your fingers need time to build up tougher skin, and jumping into heavy practice without protection can cause painful blisters that take weeks to heal."
+finalThoughts: "Most archery injuries are entirely preventable with proper form, appropriate protective gear, and smart training habits. Start with a lower draw weight, take regular breaks, and don't push through pain when your body tells you to stop.\n\nInvesting in good technique and safety equipment from the beginning will keep you shooting comfortably for years to come."
 ---
 
 <div class="how-to-meta">
@@ -518,9 +519,3 @@ A word of advice, take pain relievers with caution.
 You shouldn't take it if you've other pre-existing conditions such as heart problems.
 
 Likewise, taking too many pain relievers can hurt your kidney and liver.
-
-## Final Thoughts
-
-Most archery injuries are entirely preventable with proper form, appropriate protective gear, and smart training habits. Start with a lower draw weight, take regular breaks, and don't push through pain when your body tells you to stop.
-
-Investing in good technique and safety equipment from the beginning will keep you shooting comfortably for years to come.

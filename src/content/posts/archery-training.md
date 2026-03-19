@@ -45,6 +45,7 @@ faq:
     answer: "Your form and technique have a far bigger impact on accuracy than the bow itself. An experienced archer can shoot accurately with a basic setup, while poor form will cause misses even with an expensive bow. Focus on your stance, anchor point, and release before upgrading your equipment."
   - question: "Why do my arrows keep hitting left or right of the target?"
     answer: "Arrows consistently hitting left or right usually indicate a grip issue or improper sight alignment. If you're gripping the bow too tightly, it can torque the riser and push your arrows off center. Try relaxing your bow hand and letting the bow sit naturally in your palm."
+finalThoughts: "Becoming a better archer comes down to deliberate, consistent practice with the right fundamentals. Focus on one step at a time, whether it's perfecting your anchor point, relaxing your grip, or dialing in your draw length.\n\nSmall improvements in each area compound into a noticeably better shot over time, and the results are worth the patience."
 ---
 
 <div class="how-to-meta">
@@ -326,10 +327,3 @@ You can buy a cheap one, and it may give you extraordinary results in your shoot
 Try and stick to one brand and size of your choice to ensure that you get consistent results.
 
 It will also be much easier to improve your shooting while using a particular variety of arrows.
-
-## Final Thoughts
-
-Becoming a better archer comes down to deliberate, consistent practice with the right fundamentals. Focus on one step at a time, whether it's perfecting your anchor point, relaxing your grip, or dialing in your draw length.
-
-Small improvements in each area compound into a noticeably better shot over time, and the results are worth the patience.
-

@@ -56,6 +56,7 @@ faq:
     answer: "Yes, there are awards specifically for coaches. The Doc Counsilman Science Award recognizes coaches who use scientific methods in their training approach. It's a great way to acknowledge the people behind the scenes who help archers develop their skills."
   - question: "What are archery trophies typically made of?"
     answer: "Archery trophies are commonly made from cast resin, acrylic, wood, or silver-plated metal. Resin trophies tend to be the most durable and resistant to breakage. Many trophies feature an archer figure or a target design and include a base with space for custom engraving."
+finalThoughts: "Archery trophies and awards serve as lasting reminders of the hard work you put into the sport. Whether it's a full-sized championship trophy or a small star pin, each award represents real progress in your archery journey.\n\nIf you're organizing an event or looking for a way to recognize top talent, choosing the right award style makes the recognition that much more meaningful."
 ---
 
 You love recognition for work well done, right?
@@ -363,10 +364,3 @@ The trophies have gold plates at the bottom of each, where there's a customized 
 The trophy's design is such that it has a broad base that supports the award's upper weight, hence reducing the chances of falling and breakage.
 
 It has a unique luxurious design that will change your trophy space and give it that elegant feel.
-
-## Final Thoughts
-
-Archery trophies and awards serve as lasting reminders of the hard work you put into the sport. Whether it's a full-sized championship trophy or a small star pin, each award represents real progress in your archery journey.
-
-If you're organizing an event or looking for a way to recognize top talent, choosing the right award style makes the recognition that much more meaningful.
-

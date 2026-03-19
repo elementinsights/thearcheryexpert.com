@@ -240,6 +240,7 @@ products:
       - "Men’s sizing only with no youth or women’s versions"
       - "Retro style may feel dated to some buyers"
     ctaUrl: "https://www.amazon.com/dp/B07GVP9JJL?tag=thearcheryexpert-20"
+finalThoughts: "A good archery tee shirt lets you represent the sport you love while staying comfortable on and off the range. Just make sure to check the sizing chart before ordering and follow the care instructions to keep the design looking sharp.\n\nWhether you're buying one for yourself or as a gift, any of the shirts on this list is a solid pick."
 ---
 
 Tee shirts have become everyday preferred wear for most people today.
@@ -1226,9 +1227,3 @@ Buy a t-shirt that's long-lasting depending on the type of fabric used and print
 - Comfort
 
 - Durability
-
-## Final Thoughts
-
-A good archery tee shirt lets you represent the sport you love while staying comfortable on and off the range. Just make sure to check the sizing chart before ordering and follow the care instructions to keep the design looking sharp.
-
-Whether you're buying one for yourself or as a gift, any of the shirts on this list is a solid pick.

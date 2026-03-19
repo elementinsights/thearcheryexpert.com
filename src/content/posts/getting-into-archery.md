@@ -49,6 +49,7 @@ faq:
     answer: "While you can learn the basics on your own with video tutorials, taking a few lessons from a certified instructor is highly recommended. An instructor will catch form issues early that could lead to bad habits or even injury. Most local archery clubs offer affordable beginner classes."
   - question: "How often should I practice archery as a beginner?"
     answer: "Two to three sessions per week of 30 to 60 minutes each is a great starting point. Consistent, shorter sessions are more effective than occasional long ones because they build muscle memory without causing fatigue. As your strength and endurance improve, you can extend your practice time."
+finalThoughts: "Getting into archery doesn't require a huge investment or years of athletic training. Start with the right equipment for your size and goals, find a safe place to practice, and put in consistent range time.\n\nWhether you're shooting for fun, fitness, or a future in competitive archery, the most important step is simply getting started."
 ---
 
 <div class="how-to-meta">
@@ -308,10 +309,3 @@ Don't expect sponsors to find you until you've won many tournaments and begun to
 Most professional archers [still have to work outside](https://www.bow-international.com/features/turning-pro/) of the sport to support their passion, and if you want to do this for a living, be prepared to not just shoot well and win a lot but also to market yourself and your equipment to catch the eye of potential sponsors.
 
 Besides lucrative sponsorship deals, other ways to make money as an archer include coaching, making your brand of archery products, and media/marketing platforms.
-
-## Final Thoughts
-
-Getting into archery doesn't require a huge investment or years of athletic training. Start with the right equipment for your size and goals, find a safe place to practice, and put in consistent range time.
-
-Whether you're shooting for fun, fitness, or a future in competitive archery, the most important step is simply getting started.
-

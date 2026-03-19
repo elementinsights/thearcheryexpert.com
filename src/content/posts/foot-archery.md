@@ -43,6 +43,7 @@ faq:
     answer: "No, foot archery isn't recognized as an official sport by any governing body. It's primarily performed as a spectacle in circus acts and variety shows, like Cirque du Soleil and talent competitions. There are no organized tournaments or leagues for it."
   - question: "What kind of bow should I use for foot archery?"
     answer: "You'll want a lightweight recurve bow since your legs and toes can't generate the same drawing power as your arms. Practice bows designed for youth archers work well because they're light and forgiving. Avoid using sharp-tipped arrows until you've built enough skill to control your shots safely."
+finalThoughts: "Foot archery is one of the most physically demanding and visually impressive forms of archery you'll find. It combines contortion, balance, and lower body strength in ways that standard archery never touches.\n\nIf you're serious about trying it, start with flexibility training and lightweight practice bows, and always prioritize safety by never aiming at people or animals."
 ---
 
 Foot archery is an unusual form of archery.
@@ -406,9 +407,3 @@ You can begin using professional sets as you develop your skillset.
 But a lightweight bow, like a recurve bow, for example, is still highly recommended for foot archery.
 
 Lastly, although they're essentially a beginners' archery set, never attempt to aim them at a person because it could still injure them in some other way.
-
-## Final Thoughts
-
-Foot archery is one of the most physically demanding and visually impressive forms of archery you'll find. It combines contortion, balance, and lower body strength in ways that standard archery never touches.
-
-If you're serious about trying it, start with flexibility training and lightweight practice bows, and always prioritize safety by never aiming at people or animals.

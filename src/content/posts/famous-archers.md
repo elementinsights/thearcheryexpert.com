@@ -56,6 +56,7 @@ faq:
     answer: "Kim Soo Nyung of South Korea holds six Olympic medals in archery, making her the most decorated Olympic archer in history. She won gold, silver, and bronze across three separate Olympic Games spanning from 1988 to 2000."
   - question: "Was Howard Hill really considered the greatest archer of his time?"
     answer: "Yes, Howard Hill won 196 consecutive archery field competitions over two decades and was regularly introduced as the World's Greatest Archer. He also set a world record flight shot in 1928 and was the first person to use a longbow to take down an African elephant."
+finalThoughts: "These ten archers represent the very best of what the sport has produced over centuries. From Im Dong Hyun proving that legal blindness can't stop a world-class competitor to Horace Ford writing the book that helped modernize archery technique, each person on this list pushed the boundaries of what was thought possible.\n\nTheir stories are a reminder that dedication and relentless practice remain the foundation of greatness in archery."
 ---
 
 Archery is one of the oldest art forms of a battle that's still practiced and competed today.
@@ -401,10 +402,3 @@ He documented the shooting style and technique into a scientific pastime, wherea
 - Leamington 1849-59, 1867, Ford won the Grand National Archery Meeting.
 
 - Weymouth 1863, 1868, Ford won the Grand Western Archery Meeting.
-
-## Final Thoughts
-
-These ten archers represent the very best of what the sport has produced over centuries. From Im Dong Hyun proving that legal blindness can't stop a world-class competitor to Horace Ford writing the book that helped modernize archery technique, each person on this list pushed the boundaries of what was thought possible.
-
-Their stories are a reminder that dedication and relentless practice remain the foundation of greatness in archery.
-

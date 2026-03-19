@@ -45,6 +45,7 @@ faq:
     answer: "It depends on how frequently you shoot and your draw weight. Most archers get a few months of regular use before the center foam wears through. The beauty of this design is that you can reshuffle worn pieces to the edges and slot fresh foam into the center."
   - question: "Will a DIY foam target stop arrows from a compound bow?"
     answer: "Yes, as long as the foam is tightly compressed. If arrows are passing through, you just need to tighten the nuts on the threaded rods to add more compression. Adding cardboard layers between the foam mats can also help stop higher-powered arrows."
+finalThoughts: "Building your own foam archery target is one of the most budget-friendly ways to practice at home without spending $100 or more on a store-bought option. The materials are easy to find, the assembly takes about an hour, and the design lets you swap out worn foam sections in minutes.\n\nOnce you've built one, you'll have a reusable target that keeps up with your training for months."
 ---
 
 <div class="how-to-meta">
@@ -328,10 +329,3 @@ You're set to go for another round of target practice in the comfort of your hom
 - The center wears out from multiple arrow hits
 
 - It's time to reshuffle the foam to maintain a solid base for the center once the arrows reach the backside of the target box.
-
-## Final Thoughts
-
-Building your own foam archery target is one of the most budget-friendly ways to practice at home without spending $100 or more on a store-bought option. The materials are easy to find, the assembly takes about an hour, and the design lets you swap out worn foam sections in minutes.
-
-Once you've built one, you'll have a reusable target that keeps up with your training for months.
-

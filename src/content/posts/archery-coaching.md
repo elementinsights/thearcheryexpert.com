@@ -51,6 +51,7 @@ faq:
     answer: "Level 1 and Level 2 certifications typically cost between $30 and $50 each. Level 3 certification jumps to around $250 due to the expanded coursework. Level 4 costs less than $500 but requires travel for the week-long course. Level 5 is self-directed with no formal course fee."
   - question: "Can you make a living as an archery instructor?"
     answer: "It's possible but challenging as a sole income source. Many archery instructors work at summer camps, recreation departments, or pro shops as part-time or seasonal roles. Higher-level coaches who work with competitive athletes at national and international levels have better earning potential, but reaching that level takes years of certification and experience."
+finalThoughts: "Becoming a certified archery instructor is a rewarding path that starts with Level 1 basics and can take you all the way to coaching international competitors at Level 5. The certification process is straightforward if you stay committed, meet the age and experience requirements, and invest the time in each level's coursework.\n\nWhether you want to teach kids at summer camp or develop elite athletes, the demand for qualified archery coaches continues to grow as the sport gains popularity."
 ---
 
 Archery is the skill or art of shooting arrows with a bow.
@@ -392,9 +393,3 @@ Maintain your position after shooting.
 - Set your finger position: Make sure your index finger is above the arrow and two fingers below the arrow
 
 - Aim and release: Use your dominant eye to aim by looking down the arrow and aligning it with it
-
-## Final Thoughts
-
-Becoming a certified archery instructor is a rewarding path that starts with Level 1 basics and can take you all the way to coaching international competitors at Level 5. The certification process is straightforward if you stay committed, meet the age and experience requirements, and invest the time in each level's coursework.
-
-Whether you want to teach kids at summer camp or develop elite athletes, the demand for qualified archery coaches continues to grow as the sport gains popularity.

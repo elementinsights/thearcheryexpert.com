@@ -43,6 +43,7 @@ faq:
     answer: "Yes, and most experienced archers do exactly that. You'll typically have a primary anchor like your hand under the jaw, plus secondary reference points like the bowstring touching your nose tip or a kisser button at the corner of your lips."
   - question: "How long does it take to develop a consistent anchor point?"
     answer: "Most archers need at least 5 to 10 dedicated practice sessions before an anchor point starts feeling natural. It won't happen overnight, but once your muscle memory kicks in, you'll anchor at the same spot without even thinking about it."
+finalThoughts: "Your anchor point is the foundation of consistent shooting, so don't rush the process of finding the right one. Experiment with corner-of-mouth and under-the-jaw positions, add secondary reference points like string-to-nose contact, and commit to practicing one anchor setup at a time until it becomes second nature.\n\nOnce it clicks, you'll notice a dramatic improvement in both accuracy and shot-to-shot consistency."
 ---
 
 This article will help you get complete knowledge about anchor point archery.
@@ -406,9 +407,3 @@ If you can't, then you may find yourself drawing inconsistently because you only
 Also, if you can't consistently draw at the same spot, maybe that anchor point isn't a good fit for your shooting style.
 
 Moving your head between shots may also result in inconsistency.
-
-## Final Thoughts
-
-Your anchor point is the foundation of consistent shooting, so don't rush the process of finding the right one. Experiment with corner-of-mouth and under-the-jaw positions, add secondary reference points like string-to-nose contact, and commit to practicing one anchor setup at a time until it becomes second nature.
-
-Once it clicks, you'll notice a dramatic improvement in both accuracy and shot-to-shot consistency.

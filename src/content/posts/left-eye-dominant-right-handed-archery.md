@@ -39,6 +39,7 @@ faq:
     answer: "If you're new to archery, switching to a left-handed bow is often the easiest fix for cross-dominance. Your muscles haven't formed habits yet, so learning with the non-dominant hand feels less awkward than you'd expect. Many archers who make this switch report better accuracy within a few weeks."
   - question: "Can I just close my left eye while shooting right-handed?"
     answer: "You can, but closing your dominant eye reduces your field of vision and depth perception. This makes it harder to judge distances accurately, which is a problem for bowhunting and field archery. A better option is to use a partial eye blocker on your glasses that dims the dominant eye without fully closing it."
+finalThoughts: "Cross-dominance affects roughly a third of right-handed people, so you're far from alone in dealing with this issue. The good news is that whether you choose to switch hands, block your dominant eye, or use a partial occluder, there's a workable solution for every archer.\n\nTest the options, give yourself time to adjust, and let consistent practice do the rest."
 ---
 
 You don't have to be a rocket scientist to understand that excellent hand-eye coordination is necessary for accurate shooting in archery.
@@ -246,9 +247,3 @@ This means you'll end up missing the target by a few inches, which is roughly ho
 Another option is to partially reduce the visual input to the dominant eye while still allowing it some vision to support the non-dominant eye.
 
 This is done by wearing glasses for shooting, which you should wear anyway, and applying a sticker to the dominant eye side to partially obscure the vision on that side, which gives you the full visual field without allowing the dominant eye to take over.
-
-## Final Thoughts
-
-Cross-dominance affects roughly a third of right-handed people, so you're far from alone in dealing with this issue. The good news is that whether you choose to switch hands, block your dominant eye, or use a partial occluder, there's a workable solution for every archer.
-
-Test the options, give yourself time to adjust, and let consistent practice do the rest.

@@ -45,6 +45,7 @@ faq:
     answer: "Wearing a properly fitted arm guard is the easiest fix. Beyond that, check your bow grip to make sure you're not holding too tightly, and keep your elbow rotated slightly outward. Poor posture and fatigue also increase the chances of getting slapped."
   - question: "Is archery actually a safe sport compared to others?"
     answer: "Statistically, archery is one of the safest sports you can participate in. Most injuries come from preventable causes like faulty equipment, improper form, or skipping basic safety checks. As long as you follow range rules and inspect your gear before shooting, the risk is very low."
+finalThoughts: "Most archery accidents are completely preventable with the right knowledge and a few simple habits. Always inspect your equipment before shooting, wear proper safety gear like arm guards and shooting glasses, and never skip your warm-up routine.\n\nIf you build these safety checks into every session from the start, you'll enjoy archery for years without any serious injuries getting in the way."
 ---
 
 <div class="how-to-meta">
@@ -420,10 +421,3 @@ Well, now you've got a better idea of such potential accidents and how to avoid 
 - Maintain proper posture and techniques when you make a shot
 
 - Take rests in between your archery sessions and avoid it during fatigue
-
-## Final Thoughts
-
-Most archery accidents are completely preventable with the right knowledge and a few simple habits. Always inspect your equipment before shooting, wear proper safety gear like arm guards and shooting glasses, and never skip your warm-up routine.
-
-If you build these safety checks into every session from the start, you'll enjoy archery for years without any serious injuries getting in the way.
-

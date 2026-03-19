@@ -81,6 +81,7 @@ faq:
     answer: "A recurve bow has curved limbs that store energy as you draw, while a compound bow uses a system of cables and pulleys (cams) that provide a mechanical advantage. Compound bows let you hold more draw weight with less effort at full draw, making them popular for hunting."
   - question: "What does 'back tension' mean in archery?"
     answer: "Back tension refers to actively engaging your back muscles to hold the bow at full draw and execute a clean release. Instead of relying on your arm and hand to release the string, you use your shoulder blades to create the motion. It's considered one of the most important techniques for consistent accuracy."
+finalThoughts: "Knowing the proper archery terminology makes it much easier to follow instructions, communicate with other archers, and understand equipment specifications. Bookmark this glossary and refer back to it whenever you come across an unfamiliar term.\n\nThe more comfortable you are with the language, the faster you'll progress in the sport."
 ---
 
 The philosopher Confucius once said, "In archery, we've something just like the way of the superior man, when the archer misses the center of the target, he turns round and seeks for the cause of his defeat in himself."
@@ -402,9 +403,3 @@ The United States of America Archery Association is the USA's national archery r
 Today we know it as the USA Archery, the headquarters of USAAA is in Colorado Springs, Colorado.
 
 WA stands for the World Archery which is an Olympic approved committee or governing body for the archery related issue.
-
-## Final Thoughts
-
-Knowing the proper archery terminology makes it much easier to follow instructions, communicate with other archers, and understand equipment specifications. Bookmark this glossary and refer back to it whenever you come across an unfamiliar term.
-
-The more comfortable you are with the language, the faster you'll progress in the sport.

@@ -56,6 +56,7 @@ faq:
     answer: "Yes, it's been proven on Mythbusters that splitting an arrow is possible. However, the first arrow needs to be hollow or made from wood or bamboo for the second arrow to pass through cleanly."
   - question: "Which country has won the most Olympic gold medals in archery?"
     answer: "South Korea holds the record with an impressive 23 gold medals. Despite Bhutan declaring archery as its national sport in 1971, it hasn't won any Olympic medals in the event."
+finalThoughts: "Archery's rich history stretches back thousands of years, and these strange facts only scratch the surface of what makes the sport so fascinating. From British monarchs banning other sports to promote bow practice to Jennifer Lawrence training with an Olympic gold medalist, archery continues to captivate people around the world.\n\nWhether you're drawn to its competitive side or simply love the history behind it, there's always something new to learn about this ancient and enduring craft."
 ---
 
 We'll be discussing the top archery facts in this article.
@@ -347,9 +348,3 @@ Big baggy clothing could get caught up in the bow, so a tight-fitting jacket is 
 Golf gear can be the best clothing to wear to do archery in the rain thanks to its tight-fitting nature.
 
 Just imagine - you're in a storm. You're holding a bow constructed of aluminum and wood, which may not be the best material to have on hand.
-
-## Final Thoughts
-
-Archery's rich history stretches back thousands of years, and these strange facts only scratch the surface of what makes the sport so fascinating. From British monarchs banning other sports to promote bow practice to Jennifer Lawrence training with an Olympic gold medalist, archery continues to captivate people around the world.
-
-Whether you're drawn to its competitive side or simply love the history behind it, there's always something new to learn about this ancient and enduring craft.

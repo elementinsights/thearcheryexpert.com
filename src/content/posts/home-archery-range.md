@@ -41,6 +41,7 @@ faq:
     answer: "For beginners, a 20 to 30 yard range works well and fits in most backyards. Competitive archers may want 50 yards or more. You'll also need buffer space behind and around your target for safety, plus a backstop that's wider and taller than the target itself."
   - question: "Can I set up an archery range indoors or in my basement?"
     answer: "Yes, an indoor range is a great option if you lack outdoor space or want to practice year-round. You'll need at least 10 to 15 yards of clear length, good lighting, proper ventilation, and a reliable backstop. A basement range is also more private and avoids issues with local outdoor restrictions."
+finalThoughts: "A home archery range gives you the freedom to practice on your own schedule without driving to a club or paying range fees. The key is doing your homework on local laws, investing in a proper backstop, and designing a layout that keeps everyone safe.\n\nWhether you're shooting in the backyard or your basement, a well-planned range will pay for itself in improved skills and convenience."
 ---
 
 There's no dissent that archery is a fun sport, even though it brings along its complications and hazards.
@@ -232,9 +233,3 @@ A bow stand holds your bow so that it's away from all the dirt and dust on the g
 It'sIt's like buying a case for your iPhone. It seems ridiculous, but you know you need it.
 
 Bow stands can phenomenally increase the bow's lifespan and protect its bow's string from getting mishandled.
-
-## Final Thoughts
-
-A home archery range gives you the freedom to practice on your own schedule without driving to a club or paying range fees. The key is doing your homework on local laws, investing in a proper backstop, and designing a layout that keeps everyone safe.
-
-Whether you're shooting in the backyard or your basement, a well-planned range will pay for itself in improved skills and convenience.

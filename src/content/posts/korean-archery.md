@@ -51,6 +51,7 @@ faq:
     answer: "Korean national team athletes are believed to shoot a minimum of 100,000 arrows per year during training. This intense volume of practice, combined with mental training and video analysis, is a major reason they consistently outperform archers from other countries at the Olympic level."
   - question: "Can anyone in Korea join a professional archery team?"
     answer: "No, the selection process in Korea is extremely competitive and starts in middle school. Athletes must survive months of trials and maintain consistent performance to earn a spot on a professional or national team. The general public doesn't have access to professional archery clubs, which are reserved strictly for tournament-level competitors."
+finalThoughts: "Korean archery stands apart because of the country's deep cultural connection to the bow and its systematic, government-backed approach to training elite athletes. From school-level programs to the grueling national team selection process, everything is designed to produce the most consistent and mentally tough archers in the world.\n\nIt's a model that other nations are studying closely as they try to close the competitive gap."
 ---
 
 Archery is an art or a competitive sport that involves the use of a bow to shoot arrows.
@@ -382,9 +383,3 @@ Archery is still one of the most entertaining sports in Korea.
 The training of the participants is so fierce and tough.
 
 It takes more than ten hours to train for being an elite performer.
-
-## Final Thoughts
-
-Korean archery stands apart because of the country's deep cultural connection to the bow and its systematic, government-backed approach to training elite athletes. From school-level programs to the grueling national team selection process, everything is designed to produce the most consistent and mentally tough archers in the world.
-
-It's a model that other nations are studying closely as they try to close the competitive gap.

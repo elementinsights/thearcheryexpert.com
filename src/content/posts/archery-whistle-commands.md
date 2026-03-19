@@ -39,6 +39,7 @@ faq:
     answer: "Four or five rapid whistle blasts signal an emergency stop. You need to immediately stop shooting, lower your bow, and return your arrow to the quiver. This command is used when a dangerous situation is detected on the range, and you should wait for further instructions."
   - question: "Do all archery ranges use the same whistle commands?"
     answer: "Most organized ranges and competitions follow the same standard whistle system, but there can be slight variations depending on the governing body or club. It's always a good idea to review the specific range rules before your first session at a new facility."
+finalThoughts: "Knowing whistle commands is one of the most basic but critical parts of archery range safety. These five signals keep everyone on the same page and prevent accidents during practice and competition.\n\nMake sure you've memorized them before your first session, and always follow them without hesitation when you hear them on the range."
 ---
 
 Well, do you know about archery whistle commands?
@@ -368,9 +369,3 @@ More strength and healthy
 - You can also play by disabling people due to so special kits. Archery is played by anyone, enjoy the games or sports.
 
 - You can say, archery played by anyone or open for all archery. This unique archery is played world-wide and enjoys the most.
-
-## Final Thoughts
-
-Knowing whistle commands is one of the most basic but critical parts of archery range safety. These five signals keep everyone on the same page and prevent accidents during practice and competition.
-
-Make sure you've memorized them before your first session, and always follow them without hesitation when you hear them on the range.

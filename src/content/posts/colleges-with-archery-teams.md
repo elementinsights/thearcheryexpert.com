@@ -47,6 +47,7 @@ faq:
     answer: "It depends on the school. Some programs welcome walk-ons and beginners, while more competitive teams may require prior tournament experience. Reaching out to the team's coach is the best way to find out what skill level they're looking for."
   - question: "What archery disciplines do college teams compete in?"
     answer: "Most college archery programs compete in compound, recurve, bowhunter, and basic bow disciplines. The USCA organizes indoor and outdoor national championships, and the Mid-South Conference hosts additional regional competitions throughout the year."
+finalThoughts: "Collegiate archery is growing fast across the US, and these ten programs show what's possible with strong coaching and dedicated athletes. Whether you're a high school archer looking for scholarship opportunities or just curious about the competitive scene, these teams prove that college archery is a serious and rewarding pursuit.\n\nCheck with the USCA for a full list of member schools if none of these are in your area."
 ---
 
 The US Collegiate Archery Association (USCA) is the National Governing Body for Collegiate Archery of the United States.
@@ -368,9 +369,3 @@ Two Dine College members formed a team, including Lorenzo-Martinez Chad and Vece
 Lorenzo-Martinez Chad won a personal silver medal in the Recurve Men's competition.
 
 Sandoval Brennon of Dine College also got an individual silver medal in the Compound Women's competition.
-
-## Final Thoughts
-
-Collegiate archery is growing fast across the US, and these ten programs show what's possible with strong coaching and dedicated athletes. Whether you're a high school archer looking for scholarship opportunities or just curious about the competitive scene, these teams prove that college archery is a serious and rewarding pursuit.
-
-Check with the USCA for a full list of member schools if none of these are in your area.

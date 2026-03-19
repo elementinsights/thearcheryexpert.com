@@ -56,6 +56,7 @@ faq:
     answer: "The primary muscles are the deltoids, trapezius, rhomboids, and latissimus dorsi in the shoulders and back. These handle the drawing motion and hold at full draw. The core muscles provide stability, while the forearm muscles control grip and release."
   - question: "How does vision training improve archery accuracy?"
     answer: "Vision training improves eye-hand coordination, depth perception, and focus under pressure. Research shows that archers with better visual acuity and contrast sensitivity tend to score higher. Sports vision exercises can help you develop these skills over time."
+finalThoughts: "Reading published research on archery gives you a deeper understanding of the science behind every shot you take. From grip strength and muscle training to biomechanics and visual skills, these studies offer practical knowledge that can directly improve your performance.\n\nCombine what you learn from research with consistent range practice, and you'll develop both the physical and mental tools to reach your full potential as an archer."
 ---
 
 Archery isn't only a sport, practice, or skill, but it also has historical roots in hunting and combat training.
@@ -357,9 +358,3 @@ Vision is the most dominant sense - sensory receptors and visual skills contribu
 Eye motility, speed of recognition time, ability to see dim illumination, dynamic visual acuity, peripheral awareness, spatial location, depth perception, and eye-hand/foot coordination are factors to consider in Archery.
 
 Specialized sports vision focuses on screening the athlete's response as well as correcting the visual defects to help perform better.
-
-## Final Thoughts
-
-Reading published research on archery gives you a deeper understanding of the science behind every shot you take. From grip strength and muscle training to biomechanics and visual skills, these studies offer practical knowledge that can directly improve your performance.
-
-Combine what you learn from research with consistent range practice, and you'll develop both the physical and mental tools to reach your full potential as an archer.

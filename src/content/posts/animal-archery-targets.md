@@ -252,6 +252,7 @@ products:
       - "Pricier than comparable Delta McKenzie targets"
       - "Replacement cores add ongoing cost over time"
     ctaUrl: "https://www.amazon.com/dp/B01DMD5SRG?tag=thearcheryexpert-20"
+finalThoughts: "A lifelike 3D animal target is one of the best investments you can make for hunting preparation because it trains you to pick the right aiming point on a realistic shape rather than a flat bullseye. Look for high-density foam construction and replaceable vital zone cores to get the most life out of your purchase.\n\nWhether you're practicing for whitetail season or 3D archery tournaments, these targets will sharpen your shot placement more than any standard block or bag target can."
 ---
 
 This article contains the best 10 life-sized animal archery targets that will help you improve your aim.
@@ -1163,9 +1164,3 @@ Most 3D archery targets have replaceable midsections that you can easily replace
 They're suitable for use with field points or you may lose a broadhead inside the foam core.
 
 All types of targets differ from a quality level which determines the best arrowhead to use for practice.
-
-## Final Thoughts
-
-A lifelike 3D animal target is one of the best investments you can make for hunting preparation because it trains you to pick the right aiming point on a realistic shape rather than a flat bullseye. Look for high-density foam construction and replaceable vital zone cores to get the most life out of your purchase.
-
-Whether you're practicing for whitetail season or 3D archery tournaments, these targets will sharpen your shot placement more than any standard block or bag target can.

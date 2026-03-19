@@ -45,6 +45,7 @@ faq:
     answer: "Shooting a draw weight that's too heavy for you will hurt your accuracy because you'll struggle to hold steady at full draw. It's better to drop a few pounds and maintain clean form than to muscle through a heavier weight with shaky aim."
   - question: "How often should you practice to see real accuracy improvement?"
     answer: "Shooting 3 to 4 times per week for 30 to 60 minutes is enough for most archers to see noticeable improvement within a few weeks. Quality practice matters more than volume, so focus on form rather than just launching arrows at the target."
+finalThoughts: "Improving your accuracy isn't about mastering everything at once. Pick one element of your shot cycle, whether it's grip, breathing, or follow-through, and drill it until it feels automatic before moving to the next.\n\nOver time, these individual improvements stack up and your groups will tighten dramatically without you even realizing how much better you've gotten."
 ---
 
 This article discusses the best archery accuracy tips to help you improve your archery.
@@ -362,9 +363,3 @@ A record, such as a notebook will be a good option.
 Document your training, your breathing, your state of mind, your body condition, and everything that might affect your shooting cycle.
 
 This will help you evaluate and find that comfortable form, stance, techniques, and styles that may be efficient to eventually improve your accuracy.
-
-## Final Thoughts
-
-Improving your accuracy isn't about mastering everything at once. Pick one element of your shot cycle, whether it's grip, breathing, or follow-through, and drill it until it feels automatic before moving to the next.
-
-Over time, these individual improvements stack up and your groups will tighten dramatically without you even realizing how much better you've gotten.

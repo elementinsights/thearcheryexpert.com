@@ -46,6 +46,9 @@ const posts = defineCollection({
       label: z.string(),
     })).optional(),
 
+    // Final Thoughts (rendered after FAQ, no JS needed)
+    finalThoughts: z.string().optional(),
+
     // Checklist (for how-to sidebar)
     checklist: z.array(z.object({
       heading: z.string(),

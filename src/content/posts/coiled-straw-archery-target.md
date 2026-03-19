@@ -250,6 +250,7 @@ products:
       - "Heavier and bulkier than flat straw targets for storage"
       - "Higher price compared to basic single-face straw options"
     ctaUrl: "https://www.amazon.com/dp/B0CQY4HDC7?tag=thearcheryexpert-20"
+finalThoughts: "Coiled straw targets are a solid, eco-friendly choice for backyard archery practice. They allow for easy arrow removal and hold up well when paired with the right draw weight and field point arrows.\n\nKeep yours dry and rotate the face regularly, and you'll get plenty of use out of whichever model you choose from this list."
 ---
 
 Straw archery targets are considered sturdy and durable archery targets.
@@ -1228,9 +1229,3 @@ Make sure that the place where you're practicing must have a solid backstop that
 You must also consider your local laws regarding archery target practice as many countries considered it a weapon, so the same rules are applied to it as if you're using a gun and sometimes may need a license for its practice.
 
 We recommend you purchase some extra hunting arrows for practice before the hunting season.
-
-## Final Thoughts
-
-Coiled straw targets are a solid, eco-friendly choice for backyard archery practice. They allow for easy arrow removal and hold up well when paired with the right draw weight and field point arrows.
-
-Keep yours dry and rotate the face regularly, and you'll get plenty of use out of whichever model you choose from this list.

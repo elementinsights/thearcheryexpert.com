@@ -250,6 +250,7 @@ products:
       - "One-piece construction means you can't break it down for easy transport"
       - "Right-hand only, so left-hand mounted archers need to look elsewhere"
     ctaUrl: "https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20"
+finalThoughts: "Mounted archery combines horsemanship and archery into one of the most thrilling traditional disciplines you can experience. The bows on this list are built compact and fast-drawing, which is exactly what you need when shooting from a moving horse.\n\nChoose the style that resonates with you, whether it's a Mongolian horse bow or a Korean traditional recurve, and find a local mounted archery club to start training safely."
 ---
 
 Today, we'll take a look at the best mounted archery bows & their reviews to help you determine your best pick.
@@ -1214,9 +1215,3 @@ They're among the best in the market, and it would be just a matter of personal 
 Looks like we covered a lot of ground with this article.
 
 Thank you for your time, and I hope to see you in the next articles.
-
-## Final Thoughts
-
-Mounted archery combines horsemanship and archery into one of the most thrilling traditional disciplines you can experience. The bows on this list are built compact and fast-drawing, which is exactly what you need when shooting from a moving horse.
-
-Choose the style that resonates with you, whether it's a Mongolian horse bow or a Korean traditional recurve, and find a local mounted archery club to start training safely.

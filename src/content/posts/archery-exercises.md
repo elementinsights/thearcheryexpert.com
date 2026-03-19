@@ -54,6 +54,7 @@ faq:
     answer: "Exercises like blank bale shooting and bow catch drills take the focus off hitting a specific spot and redirect your attention to technique and release. By removing the pressure of aiming, you retrain your brain to execute a clean shot process without the anxiety that causes punching the trigger or freezing on target."
   - question: "Can you do archery exercises at home without a range?"
     answer: "Several of these drills can be practiced at home with a safe backstop. Blind shooting and blank bale work at very short distances, and you can practice your draw cycle, anchor points, and release form without even shooting an arrow. Just make sure you never dry fire your bow during practice."
+finalThoughts: "The best archery exercise program mixes form-focused drills like blind shooting and blank bale with skill-sharpening challenges like distance shooting and angle drills. Work on one exercise at a time until you're comfortable, then rotate through different drills to keep your practice sessions fresh and productive.\n\nConsistent, purposeful practice using these exercises will improve your accuracy and confidence far faster than simply launching arrows at the same target from the same distance every session."
 ---
 
 Archery is a unique sport as it involves both physical skill and mental focus to execute the shot needed as you aim.
@@ -424,10 +425,3 @@ You'll also need to work on aiming at the anchor point to achieve more accuracy 
 You'll learn to do sharp focus and block distractions that can easily get you off your aim.
 
 You'll be self-aware of what needs to be corrected during a competition and can adjust the changes right there.
-
-## Final Thoughts
-
-The best archery exercise program mixes form-focused drills like blind shooting and blank bale with skill-sharpening challenges like distance shooting and angle drills. Work on one exercise at a time until you're comfortable, then rotate through different drills to keep your practice sessions fresh and productive.
-
-Consistent, purposeful practice using these exercises will improve your accuracy and confidence far faster than simply launching arrows at the same target from the same distance every session.
-

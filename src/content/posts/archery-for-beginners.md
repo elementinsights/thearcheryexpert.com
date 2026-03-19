@@ -45,6 +45,7 @@ faq:
     answer: "Children can start learning archery as young as 6 to 8 years old with proper supervision and youth-sized equipment. There's no upper age limit either, and many people pick up the sport in their 40s, 50s, and beyond."
   - question: "How often should a beginner practice archery?"
     answer: "Two to three sessions per week is a great starting point for beginners. Each session should last about 30 to 60 minutes to build muscle memory without overworking your body and risking injury."
+finalThoughts: "Getting started with archery doesn't have to be complicated or overwhelming. Find a reputable club, invest in beginner-friendly equipment, and commit to consistent practice with a coach who can correct your form early on.\n\nThe combination of patience, proper technique, and regular training will have you hitting targets with confidence sooner than you think."
 ---
 
 <div class="how-to-meta">
@@ -340,9 +341,3 @@ A right attitude, discipline, focused mind.
 Learning from mistakes and an urge to achieve more is what it takes to create an amazing shooter.
 
 That can be you at any time soon, so take up the aim now.
-
-## Final Thoughts
-
-Getting started with archery doesn't have to be complicated or overwhelming. Find a reputable club, invest in beginner-friendly equipment, and commit to consistent practice with a coach who can correct your form early on.
-
-The combination of patience, proper technique, and regular training will have you hitting targets with confidence sooner than you think.

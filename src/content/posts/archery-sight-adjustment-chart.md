@@ -39,6 +39,7 @@ faq:
     answer: "Multi-pin sights are generally better for hunting because they let you quickly aim at different distances without stopping to adjust. A single pin sight gives you a cleaner view but takes more time to dial in, which can cost you a shot on a moving animal."
   - question: "How far apart should I set my pins on a multi-pin sight?"
     answer: "Most archers set their pins at 10-yard intervals, starting at 20 yards for the top pin. A common setup is 20, 30, 40, 50, and 60 yards. You'll want to sight in each pin individually, starting with the closest distance and working your way back."
+finalThoughts: "Taking the time to properly sight in your bow using an adjustment chart will save you a lot of frustration on the range and in the field. Start close, work your way back, and make small adjustments at each distance until your arrows group tightly.\n\nOnce your pins are dialed in and your second and third axes are set, you'll notice a real improvement in your consistency."
 ---
 
 How do you know that you're acing your archery game?
@@ -288,9 +289,3 @@ Adjust the sight. You do so either in or out as long as it records an upward or 
 When it records the level in any of these positions or even more, then you can go ahead and shoot.
 
 As you shoot to try to make the shots either downhill or uphill, and in case any of your arrows move off from the target, you may need to fine-tune your sight on the bow.
-
-## Final Thoughts
-
-Taking the time to properly sight in your bow using an adjustment chart will save you a lot of frustration on the range and in the field. Start close, work your way back, and make small adjustments at each distance until your arrows group tightly.
-
-Once your pins are dialed in and your second and third axes are set, you'll notice a real improvement in your consistency.

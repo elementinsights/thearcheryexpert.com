@@ -42,6 +42,7 @@ faq:
     answer: "A compound bow uses a pulley and cam system that you draw by hand and hold at full draw before releasing. A crossbow has a horizontal bow mounted on a stock with a trigger mechanism, similar to a rifle. Crossbows are easier to aim but heavier and slower to reload."
   - question: "Can I use a longbow for hunting?"
     answer: "Yes, longbows have been used for hunting for centuries and remain popular among traditional archery enthusiasts. They require more practice to shoot accurately compared to compound bows, but many hunters enjoy the added challenge and the quiet, instinctive shooting style they demand."
+finalThoughts: "Each of these four bow types serves a different purpose and shooting style. Recurves and longbows appeal to traditional archers who value simplicity, while compound bows and crossbows offer mechanical advantages for hunters and target shooters looking for power and precision.\n\nUnderstanding what makes each type unique will help you pick the one that matches your goals and skill level."
 ---
 
 The bow invention was one of the significant achievements in the past.
@@ -415,10 +416,3 @@ Their quiet firing and competitive shooting and hunting make them widely used al
 - They're a little bit noisier as compared to compound bows
 
 - They're relatively larger compared to compound bows
-
-## Final Thoughts
-
-Each of these four bow types serves a different purpose and shooting style. Recurves and longbows appeal to traditional archers who value simplicity, while compound bows and crossbows offer mechanical advantages for hunters and target shooters looking for power and precision.
-
-Understanding what makes each type unique will help you pick the one that matches your goals and skill level.
-

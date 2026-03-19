@@ -250,6 +250,7 @@ products:
       - "Suede wears faster than cowhide under heavy use"
       - "Elastic back can stretch out after extended sessions"
     ctaUrl: "https://www.amazon.com/dp/B000P9YDMW?tag=thearcheryexpert-20"
+finalThoughts: "A good pair of archery gloves protects your fingers from blisters and string burns while giving you the sensitivity you need for a clean release. Leather three-finger gloves remain the gold standard for recurve and traditional archers, and there are plenty of options at every price point.\n\nDon't overlook this essential piece of gear, because healthy fingers mean longer practice sessions and better shooting overall."
 ---
 
 Archery gloves are essential protection for the drawing hand and the archer's hand.
@@ -1173,9 +1174,3 @@ This isn't because I don't like those, but in my opinion, you'll find the gloves
 Remember, in the end, if you should use tabs or gloves it's completely your choice and it's not my choice.
 
 This always has to be based on your preference, liking, benefits, etc.
-
-## Final Thoughts
-
-A good pair of archery gloves protects your fingers from blisters and string burns while giving you the sensitivity you need for a clean release. Leather three-finger gloves remain the gold standard for recurve and traditional archers, and there are plenty of options at every price point.
-
-Don't overlook this essential piece of gear, because healthy fingers mean longer practice sessions and better shooting overall.
