@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-03-08
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41o5qhlDwGL._SL500_.jpg"
+image: "/images/posts/arrow-vanes.webp"
 imageAlt: "10 Best Arrow Vanes & Their Reviews For 2026"
 readTime: "12 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-02-03
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/31gMTpVpAHL._SL500_.jpg"
+image: "/images/posts/archery-target-pins.webp"
 imageAlt: "10 Best Archery Target Pins & Their Reviews For 2026"
 readTime: "14 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-02-28
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg"
+image: "/images/posts/mounted-archery-bow.webp"
 imageAlt: "10 Best Mounted Archery Bows & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

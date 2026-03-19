@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-07-14
 updatedDate: 2026-03-05
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/519C3lgS4eL._SL500_.jpg"
+image: "/images/posts/archery-backpack.webp"
 imageAlt: "10 Best Archery Backpacks & Their Reviews For 2026"
 readTime: "14 min read"
 quickAnswer:

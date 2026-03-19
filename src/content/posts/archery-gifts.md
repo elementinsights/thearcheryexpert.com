@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-08-01
 updatedDate: 2026-01-27
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/51JNXt-P5UL._SL500_.jpg"
+image: "/images/posts/archery-gifts.webp"
 imageAlt: "10 Best Archery Gifts & Their Reviews In 2026"
 readTime: "16 min read"
 quickAnswer:

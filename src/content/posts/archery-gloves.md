@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-10-14
 updatedDate: 2026-01-24
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41BS1hF4UoL._SL500_.jpg"
+image: "/images/posts/archery-gloves.webp"
 imageAlt: "10 Best Archery Gloves & Their Reviews In 2026"
 readTime: "13 min read"
 quickAnswer:

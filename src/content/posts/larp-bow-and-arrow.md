@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-01-04
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg"
+image: "/images/posts/larp-bow-and-arrow.webp"
 imageAlt: "10 Best Larp Bow And Arrow Products Reviewed For 2026"
 readTime: "10 min read"
 quickAnswer:

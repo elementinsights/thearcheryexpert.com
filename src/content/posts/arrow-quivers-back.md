@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-01-24
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/31TDcwiGkBL._SL500_.jpg"
+image: "/images/posts/arrow-quivers-back.webp"
 imageAlt: "10 Best Back Arrow Quivers & Their Reviews For 2026"
 readTime: "14 min read"
 quickAnswer:

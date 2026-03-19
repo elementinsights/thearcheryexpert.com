@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-18
 updatedDate: 2026-01-31
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/21-YBp3qFGL._SL500_.jpg"
+image: "/images/posts/bow-hanger-for-tree-stand.webp"
 imageAlt: "10 Best Bow Hangers For Tree Stands Reviewed For 2026"
 readTime: "15 min read"
 quickAnswer:

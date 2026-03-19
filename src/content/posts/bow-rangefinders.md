@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-18
 updatedDate: 2026-03-06
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41EDp4Zw9xL._SL500_.jpg"
+image: "/images/posts/bow-rangefinders.webp"
 imageAlt: "10 Best Bow Rangefinders & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

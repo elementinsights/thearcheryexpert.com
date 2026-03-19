@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-07-10
 updatedDate: 2026-01-07
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41FZ-c9Ia5L._SL500_.jpg"
+image: "/images/posts/7-pin-bow-sight.webp"
 imageAlt: "10 Best 7 Pin Bow Sights & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

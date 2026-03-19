@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-08-13
 updatedDate: 2026-03-11
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41b1+yzWDHL._SL500_.jpg"
+image: "/images/posts/archery-jackets.webp"
 imageAlt: "10 Best Archery Jackets & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

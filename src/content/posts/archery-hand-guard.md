@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-15
 updatedDate: 2026-01-20
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41qdHuwxqyL._SL500_.jpg"
+image: "/images/posts/archery-hand-guard.webp"
 imageAlt: "10 Best Archery Hand Guards & Their Reviews In 2026"
 readTime: "14 min read"
 quickAnswer:

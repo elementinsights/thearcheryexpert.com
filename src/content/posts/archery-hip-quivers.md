@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-08-10
 updatedDate: 2026-03-13
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/415ktDL+0iL._SL500_.jpg"
+image: "/images/posts/archery-hip-quivers.webp"
 imageAlt: "10 Best Archery Hip Quivers & Their Reviews In 2026"
 readTime: "14 min read"
 quickAnswer:

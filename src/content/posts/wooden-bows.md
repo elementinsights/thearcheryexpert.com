@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-07-16
 updatedDate: 2026-03-06
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41bXEc+YntL._SL500_.jpg"
+image: "/images/posts/wooden-bows.webp"
 imageAlt: "10 Best Wooden Bows & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

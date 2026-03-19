@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-18
 updatedDate: 2026-01-08
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41-78zj4dWL._SL500_.jpg"
+image: "/images/posts/best-bow-stabilizer.webp"
 imageAlt: "10 Best Bow Stabilizers & Their Reviews For 2026"
 readTime: "13 min read"
 quickAnswer:

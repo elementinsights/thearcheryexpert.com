@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-10-16
 updatedDate: 2026-01-08
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/515j6P7nN6L._SL500_.jpg"
+image: "/images/posts/2-blade-broadheads.webp"
 imageAlt: "10 Best 2 Blade Broadheads & Their Reviews For 2026"
 readTime: "13 min read"
 quickAnswer:

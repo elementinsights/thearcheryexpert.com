@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-10-12
 updatedDate: 2026-02-12
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41SgQElye0L._SL500_.jpg"
+image: "/images/posts/archery-sight-light.webp"
 imageAlt: "10 Best Archery Sight Lights For Your Bow [2026 Reviews]"
 readTime: "15 min read"
 quickAnswer:

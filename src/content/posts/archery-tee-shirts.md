@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-01-09
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/51EeXQVlWKL._SL500_.jpg"
+image: "/images/posts/archery-tee-shirts.webp"
 imageAlt: "10 Best Archery Tee Shirts & Their Reviews For 2026"
 readTime: "13 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-18
 updatedDate: 2026-03-18
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/51IP6Kab7yL._SL500_.jpg"
+image: "/images/posts/bow-hunting-packs.webp"
 imageAlt: "10 Best Bow Hunting Packs & Their Reviews For 2026"
 readTime: "12 min read"
 quickAnswer:

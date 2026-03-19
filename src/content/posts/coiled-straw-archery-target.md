@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-18
 updatedDate: 2026-01-16
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/51WPY43bv3L._SL500_.jpg"
+image: "/images/posts/coiled-straw-archery-target.webp"
 imageAlt: "10 Best Coiled Straw Archery Targets Reviewed For 2026"
 readTime: "13 min read"
 quickAnswer:

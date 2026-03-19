@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-19
 updatedDate: 2026-03-04
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/31YbB0EgkXL._SL500_.jpg"
+image: "/images/posts/archers-glasses.webp"
 imageAlt: "10 Best Archers Glasses & Their Reviews For 2026"
 readTime: "14 min read"
 quickAnswer:

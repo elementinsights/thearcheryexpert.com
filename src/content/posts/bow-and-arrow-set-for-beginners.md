@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-18
 updatedDate: 2026-03-17
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/315v+BCSB3L._SL500_.jpg"
+image: "/images/posts/bow-and-arrow-set-for-beginners.webp"
 imageAlt: "10 Best Bow And Arrow Sets For Beginners & Their Reviews"
 readTime: "12 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-15
 updatedDate: 2026-01-02
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41QFrsSLwSL._SL500_.jpg"
+image: "/images/posts/archery-chest-guard.webp"
 imageAlt: "10 Best Archery Chest Guards & Their Reviews For 2026"
 readTime: "13 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-17
 updatedDate: 2026-03-04
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/31ZStncczVL._SL500_.jpg"
+image: "/images/posts/back-tension-release.webp"
 imageAlt: "10 Best Back Tension Releases Reviewed"
 readTime: "15 min read"
 quickAnswer:

@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-03-16
 updatedDate: 2026-03-04
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/5192tBOVg7L._SL500_.jpg"
+image: "/images/posts/archery-score-keeper.webp"
 imageAlt: "10 Best Archery Score Keepers & Their Reviews For 2026"
 readTime: "12 min read"
 quickAnswer:

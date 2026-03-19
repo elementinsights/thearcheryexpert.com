@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-07-06
 updatedDate: 2026-02-17
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41ZTKs587uL._SL500_.jpg"
+image: "/images/posts/archery-bag-targets.webp"
 imageAlt: "10 Best Archery Bag Targets & Their Reviews For 2026"
 readTime: "16 min read"
 quickAnswer:

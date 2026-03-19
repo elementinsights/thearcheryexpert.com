@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-07-13
 updatedDate: 2026-02-14
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41lsjdj36gL._SL500_.jpg"
+image: "/images/posts/archery-arm-guard.webp"
 imageAlt: "10 Best Archery Arm Guards & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

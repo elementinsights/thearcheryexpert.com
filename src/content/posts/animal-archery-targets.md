@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-08-06
 updatedDate: 2026-01-27
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41aJeEoDLoL._SL500_.jpg"
+image: "/images/posts/animal-archery-targets.webp"
 imageAlt: "10 Best Animal Archery Targets & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

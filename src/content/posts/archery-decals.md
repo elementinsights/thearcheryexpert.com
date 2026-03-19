@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-10-24
 updatedDate: 2026-02-26
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/51vx1H9ma9L._SL500_.jpg"
+image: "/images/posts/archery-decals.webp"
 imageAlt: "10 Best Archery Decals & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:

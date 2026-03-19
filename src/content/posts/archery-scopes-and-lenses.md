@@ -6,7 +6,7 @@ postType: "roundup"
 publishDate: 2026-08-16
 updatedDate: 2026-01-02
 author: "Matt Vance"
-image: "https://m.media-amazon.com/images/I/41PZG9fFkFL._SL500_.jpg"
+image: "/images/posts/archery-scopes-and-lenses.webp"
 imageAlt: "10 Best Archery Scopes And Lenses Reviewed For 2026"
 readTime: "15 min read"
 quickAnswer:
