@@ -1,6 +1,6 @@
 ---
 title: "10 Best Archery Scholarships To Pay Your Way Through School"
-description: "10 Best Archery Scholarships To Pay Your Way Through School. A comprehensive guide covering everything you need to know."
+description: "Discover the top archery scholarships available for student archers, from the Easton-NFAA program offering up to $20,000 to university-specific grants. Learn the requirements and how to apply."
 category: "Knowledge"
 postType: "listicle"
 publishDate: 2026-03-17
@@ -48,12 +48,12 @@ quickFacts:
   - value: "#5"
     label: "Texas Field Archery Association (TFAA) Youth Scholarship"
 faq:
-  - question: "What is the most important item on this list?"
-    answer: "While all items are valuable, the first item is generally considered the most important for most archers."
-  - question: "Do I need to know all of these?"
-    answer: "Not necessarily. Focus on the items most relevant to your skill level and archery goals."
-  - question: "Where can I learn more?"
-    answer: "Check out our other guides on The Archery Expert for comprehensive information on equipment, technique, and getting started."
+  - question: "Can I apply for multiple archery scholarships at the same time?"
+    answer: "Yes, you can and should apply for as many archery scholarships as you qualify for. If more than one program accepts you, choose the one that benefits you the most or check if they allow stacking multiple grants."
+  - question: "What GPA do I need for most archery scholarships?"
+    answer: "Most archery scholarship programs require a minimum GPA between 2.0 and 3.0 on a 4.0 scale. The Easton-NFAA program requires a 2.0 for high school applicants and 2.5 for current college students, while the TFAA Youth Scholarship requires a 3.0 or higher."
+  - question: "Do I need to be on a college archery team to get an archery scholarship?"
+    answer: "Not always. Some programs like the Easton-NFAA scholarship don't require you to be on a college team, though you must compete in archery during the academic year. Others like the Texas A&M scholarships do require active team participation and attendance at practices."
 ---
 
 Are you an academic wizard who has a notable talent with bows but lacks funds for schooling?
@@ -485,77 +485,12 @@ So do your best in both archery and academics.
 
 ## Final Thoughts
 
-The Wisconsin Bowhunters Association® (WBH), in partnership with the University of Wisconsin-Stevens Point, set up a scholarship program called the Lyell Cowley Memorial Scholarship.
+Archery scholarships can make a real difference in covering tuition, books, and other college expenses. Start your search early, apply to every program you qualify for, and keep your grades up alongside your archery training. The combination of academic dedication and competitive shooting experience will open doors that many students don’t even know exist.
 
-It gives a $500.00 grant to students enrolled in the Natural Resources Program.
 
-With limited funding and slots, WBH also supports Wisconsin’s National Archery in the Schools Program (NASP).
 
-The fund might not be enough, but the partner university has $250,000 annual scholarship funding for the College of Natural Resources alone, which you can explore.
 
-Also, WBH has over 75 years of experience and accomplishment.
 
-You can meet mentors and find other opportunities.
 
-The Wisconsin Bowhunting Heritage Foundation has the purpose of:
 
-1) Promoting the heritage of bowhunting, archery, and associated activities.
-
-2) Recording of history about bowhunting and archery and maintaining a showroom.
-
-They have a museum located in Clintonville, Wisconsin, that displays historical bowhunting and archery items.
-
-3) Give educational opportunities and build facilities for the sole purpose of bowhunting and archery.
-
-The scholarship is in tribute to late Association officer and director Lyell Cowley, who is passionate about archery and bowhunting, to ensure the education he believed in will continue.
-
-For more information about scholarship requirements and application procedures, please go to WBH and University of Wisconsin-Stevens Point  -  College of Natural Resources websites.
-
-In addition to the 10 choices, I gave you, check out the following scholarship programs.
-
-They’re publishing less information on the web so you might have better chances by inquiring personally.
-
-The university offers the renewable Athletic Performance Grant for students who excel in sports like archery. The grant varies.
-
-The Hunting Bow Scholarship is giving out 500USD nonrenewable grants to deserving first-year high school students.
-
-See the College Monk for application information.
-
-C. Ruffed Grouse Society - John Michael Dew Memorial Scholarship.
-
-For junior or senior students of the Department of Wildlife Ecology in College of Agricultural and Life Sciences (CALS).
-
-Hal & Jean Glassen Memorial Foundation donated $500,000 funds to the USA Shooting, for five years of youth support.
-
-It’s April 2026 news but not much info has been given.
-
-SAAM awards scholarships yearly to archers both in state and out of state.
-
-The funds come from donations, and proceeds from the Indoor Nationals Tournament.
-
-The scholarship program has helped more than two dozen students over ten years.
-
-The Nevada Bow Hunters Association, an affiliate for the National Field Archery Association, offers a scholarship for students who have good grades, and are actively participating in archery.
-
-In memory of Emma Hojnacki, BCAC awards $500 scholarships to archers seeking post-secondary education in the US.
-
-- Brazos County Archery Club (BCAC) - Emma Hojnacki Memorial Scholarship.
-
-The words “never give up” is more important, so it doesn’t matter if you got the scholarship you wanted or not.
-
-Don’t be complacent if you’ve got lucky, so always exert your best on studies and archery.
-
-Rewards come to people who do their best.
-
-Prestigious universities and institutions will reel you in once they see your potential.
-
-Often, schools automatically give scholarships to outstanding students who are financially handicapped.
-
-You’ll never run out of options even if you never excel at both.
-
-Other sports you practice may give you a better chance.
-
-Working while studying isn't a bad option you can take.
-
-Earning money for your studies will give you a lot of experience before stepping into the commercial world.
 

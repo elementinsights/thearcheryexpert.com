@@ -1,6 +1,6 @@
 ---
 title: "How Left Eye Dominant Right Handed Archery Works"
-description: "Everything you need to know about how left eye dominant right handed archery works. A comprehensive guide for archers of all levels."
+description: "Struggling with cross-dominance in archery? Learn how left eye dominant, right handed archery works and the best strategies to improve your accuracy."
 category: "Knowledge"
 postType: "guide"
 publishDate: 2026-03-19
@@ -33,12 +33,12 @@ toc:
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
-  - question: "Is this suitable for beginners?"
-    answer: "Yes, this guide is written for archers of all skill levels."
-  - question: "How can I learn more about archery?"
-    answer: "Check out our other guides on The Archery Expert for more information."
-  - question: "Do I need professional instruction?"
-    answer: "While coaching is beneficial, many aspects can be learned through study and practice."
+  - question: "How do I test which eye is dominant?"
+    answer: "The easiest method is the thumb test. Focus both eyes on a distant object, then hold your thumb over it. Close each eye one at a time. The eye that keeps your thumb aligned with the object is your dominant eye. You can also try the Miles test by forming a small hole with your hands and focusing through it."
+  - question: "Should I switch to a left-handed bow if I'm left eye dominant?"
+    answer: "If you're new to archery, switching to a left-handed bow is often the easiest fix for cross-dominance. Your muscles haven't formed habits yet, so learning with the non-dominant hand feels less awkward than you'd expect. Many archers who make this switch report better accuracy within a few weeks."
+  - question: "Can I just close my left eye while shooting right-handed?"
+    answer: "You can, but closing your dominant eye reduces your field of vision and depth perception. This makes it harder to judge distances accurately, which is a problem for bowhunting and field archery. A better option is to use a partial eye blocker on your glasses that dims the dominant eye without fully closing it."
 ---
 
 You don’t have to be a rocket scientist to understand that excellent hand-eye coordination is necessary for accurate shooting in archery.
@@ -107,13 +107,13 @@ Other parts of our body can also prefer either the left or right side, includin
 
 There are several ways to determine how strongly right or left side dominant you're.
 
-Stand with your feet together and have someone gently nudge you from behind so that you've to put one foot forward to catch your balance; whichever foot goes forward is your dominant foot.
+Stand with your feet together and have someone gently nudge you from behind so that you've to put one foot forward to catch your balance. Whichever foot goes forward is your dominant foot.
 
 If someone whispers to you from a few feet away, notice which ear you turn toward them to hear better, or if you answer the phone, which ear you put it up to, this is your dominant ear.
 
 When you tilt your ear toward your shoulder, make a note of which shoulder you tilt your ear toward first, this is your dominant shoulder.
 
-Cross your arms and notice which arm is on top, or pretend you must scratch the middle of your back and observe which arm is your go-to; this is your dominant arm.
+Cross your arms and notice which arm is on top, or pretend you must scratch the middle of your back and observe which arm is your go-to. This is your dominant arm.
 
 The more tests that indicate a right-sided preference, the stronger the dominance on the right side, but if some of the tests show left-sided preference, the dominance isn't as strong.
 
@@ -165,7 +165,7 @@ Suppose you’re concerned that the sighting test isn’t accurately identifying
 
 In that case, you can have testing done by an optometrist or ophthalmologist using specialized equipment.
 
-You might suspect mixed ocular dominance if you’re not getting obvious results with the sighting tests; in other words, neither eye seems to have the target in focus using your hands, fingers, a hole, or your thumb.
+You might suspect mixed ocular dominance if you’re not getting obvious results with the sighting tests. In other words, neither eye seems to have the target in focus using your hands, fingers, a hole, or your thumb.
 
 While handedness and eye dominance tend to match, with most of the population being both right hand and eye dominant, about 35% of people who are right-hand dominant will be left-eye dominant, so hand dominance alone can’t tell you which eye is dominant.
 
@@ -249,14 +249,4 @@ This is done by wearing glasses for shooting, which you should wear anyway, and 
 
 ## Final Thoughts
 
-If you’ve completed the above tests and determined that you’re right-handed and left-eye dominant, you've some choices to make regarding how you’re going to shoot a bow and arrow.
-
-If you’re new to archery, the easiest option might be to learn with a left-handed bow right from the beginning, especially if the tests above showed you to be not as strongly right-sided.
-
-The downside to this is that it might be more difficult to find a left-handed bow as most archers are right-handed, and if you’re strongly right-side dominant, you could find this switch a little more difficult.
-
-Suppose you’ve been doing archery for a while and already have a right-handed bow.
-
-In that case, one option is to block the dominant right eye entirely, but this could decrease depth perception and accuracy and definitely reduces your field of vision.
-
-Whatever you decide to try, the takeaway here's that cross-dominance isn't insurmountable, and practice is still the key to improving marksmanship in archery.
+Cross-dominance affects roughly a third of right-handed people, so you’re far from alone in dealing with this issue. The good news is that whether you choose to switch hands, block your dominant eye, or use a partial occluder, there’s a workable solution for every archer. Test the options, give yourself time to adjust, and let consistent practice do the rest.

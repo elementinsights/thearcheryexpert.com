@@ -1,6 +1,6 @@
 ---
 title: "How To Make Your Own DIY Foam Archery Targets | 10 Steps"
-description: "A step-by-step guide on how to make your own diy foam archery targets | 10 steps. Follow these steps to improve your archery skills."
+description: "Build your own DIY foam archery target in 10 simple steps using affordable puzzle mats and basic hardware. This guide walks you through materials, assembly, and testing."
 category: "Targets"
 postType: "how-to"
 publishDate: 2026-03-19
@@ -39,12 +39,12 @@ toc:
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
-  - question: "How long does it take to learn this?"
-    answer: "With regular practice, most archers see improvement within a few weeks. Mastering the technique takes consistent effort."
-  - question: "Do I need special equipment?"
-    answer: "Basic archery equipment is usually sufficient. As you progress, you may want specialized gear."
-  - question: "Can beginners follow this guide?"
-    answer: "Yes. This guide is accessible for archers of all skill levels."
+  - question: "How much does it cost to build a DIY foam archery target?"
+    answer: "You can build one for around $30 to $60 depending on where you source the foam puzzle mats. Buying second-hand mats on Craigslist or at garage sales keeps costs low. The hardware like threaded rods, nuts, and washers adds another $10 to $15."
+  - question: "How often do I need to replace the foam in my homemade target?"
+    answer: "It depends on how frequently you shoot and your draw weight. Most archers get a few months of regular use before the center foam wears through. The beauty of this design is that you can reshuffle worn pieces to the edges and slot fresh foam into the center."
+  - question: "Will a DIY foam target stop arrows from a compound bow?"
+    answer: "Yes, as long as the foam is tightly compressed. If arrows are passing through, you just need to tighten the nuts on the threaded rods to add more compression. Adding cardboard layers between the foam mats can also help stop higher-powered arrows."
 ---
 
 <div class="how-to-meta">
@@ -331,17 +331,5 @@ You’re set to go for another round of target practice in the comfort of your h
 
 ## Final Thoughts
 
-Of the many kinds of archery target devices, the foam target box is quite economical as it can be reused many times.
-
-You can buy from the store and pay a big amount, or you can opt to make it yourself.
-
-With the easy steps above, you’ll easily make your own foam archery target box with a quick trip to the hardware and supply store.
-
-Then a little time and patience in the drilling and assembly of the base and the box in your very own backyard or personal space.
-
-The puzzle foam used for the archery target is available in any sports or toy store as well as sold as a second-hand item if sourced on Craigslist.
-
-The design target foam box is shuffled to the center part of the target wears out from many uses.
-
-With an easy turn of the nut from the top base, you move the top and bottom pieces towards the center for a solid target.
+Building your own foam archery target is one of the most budget-friendly ways to practice at home without spending $100 or more on a store-bought option. The materials are easy to find, the assembly takes about an hour, and the design lets you swap out worn foam sections in minutes. Once you’ve built one, you’ll have a reusable target that keeps up with your training for months.
 

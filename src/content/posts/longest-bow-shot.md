@@ -1,6 +1,6 @@
 ---
 title: "What Is the Longest Bow Shot? And Other Archery Records"
-description: "Everything you need to know about what is the longest bow shot? and other archery records. A comprehensive guide for archers of all levels."
+description: "Discover the longest bow shot ever recorded and dozens of other archery world records, from flight shooting distances to Olympic scoring marks and marathon endurance feats."
 category: "Bows"
 postType: "guide"
 publishDate: 2026-04-19
@@ -93,12 +93,12 @@ toc:
   - label: "Final Thoughts"
     href: "#final-thoughts"
 faq:
-  - question: "Is this suitable for beginners?"
-    answer: "Yes, this guide is written for archers of all skill levels."
-  - question: "How can I learn more about archery?"
-    answer: "Check out our other guides on The Archery Expert for more information."
-  - question: "Do I need professional instruction?"
-    answer: "While coaching is beneficial, many aspects can be learned through study and practice."
+  - question: "What is the longest accurate bow shot ever recorded?"
+    answer: "Matt Stutzman hit a target at 930 feet (283.4 meters) on December 9, 2015, making it the farthest accurate shot under World Archery conditions. What makes this even more remarkable is that Stutzman is a member of the U.S. Paralympic Archery Team and shoots without arms."
+  - question: "What is the difference between flight archery and target archery records?"
+    answer: "Flight archery measures the maximum distance an arrow can travel without needing to hit a specific target. Target archery records require hitting a target at a set distance with precision. Harry Drake holds the flight record at 2,047 yards using a foot bow, while Matt Stutzman holds the farthest accurate target hit."
+  - question: "Which country holds the most archery world records?"
+    answer: "South Korea holds the majority of outdoor scoring records in recurve archery, with athletes like Kim Woo-jin and Kang Chae-young regularly setting new marks. The USA also features prominently through athletes like Brady Ellison, who holds multiple World Cup titles and the men's 72-arrow outdoor recurve record."
 ---
 
 The longest bow shot is among one of the many archery records that have been set.
@@ -383,7 +383,7 @@ Sara López (Colombia) achieved the most points scored in 50-meter 36-arrow outd
 
 It was recorded at the XX Juegos Nacionales “Carlos Lleras Restrepo” on 10 November 2015 in Ibagué, Colombia.
 
-All World Archery 36-arrow records must be set as part of a full 1440 round, which comprises 144 arrows shot over four distances: 30 m, 50 m, 70 m and 90 m for men; and 30 m, 50 m, 60 m and 70 m for women.
+All World Archery 36-arrow records must be set as part of a full 1440 round, which comprises 144 arrows shot over four distances: 30 m, 50 m, 70 m and 90 m for men. And 30 m, 50 m, 60 m and 70 m for women.
 
 ## Most Points Scored in 50-meter Outdoor Recurve (male)
 
@@ -409,14 +409,4 @@ Each arrow  -  shot from a distance of 70 m  -  can earn a maximum of 10 points 
 
 ## Final Thoughts
 
-While archery is almost exclusive to performers, hunters, hobbyists, and athletes because of the sheer required amount of skill needed to be good in this art form.
-
-One might say that archery is an intellectual pursuit as much as it's a physical one.
-
-The longest bow shots and the other archery records listed here are a testament to the countless hours spent by archers in honing their skills.
-
-Did you find the records listed here inspiring or, in the very least interesting?
-
-Do you think you've what it takes to be a record-setting archer?
-
-Feel free to let's know in the comments below.
+The records on this list show just how far human skill and dedication can push the sport of archery. From Matt Stutzman's incredible 930-foot accurate shot to Harry Drake's nearly mile-long flight distance, these achievements represent thousands of hours of focused practice. Whether you're a casual archer or a competitive one, these records set an inspiring benchmark for what's possible with a bow in hand.
