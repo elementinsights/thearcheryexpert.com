@@ -9,7 +9,7 @@ const pageSchema = {
   "@type": "WebPage",
   "name": `Start Here - ${siteConfig.name}`,
   "description": `New to ${siteConfig.name}? Start here for the best guides, reviews, and resources to find the right products.`,
-  "url": `${siteConfig.url}/start-here`,
+  "url": `${siteConfig.url}/start-here/`,
   "isPartOf": { "@type": "WebSite", "name": siteConfig.name, "url": siteConfig.url }
 };
 
@@ -18,7 +18,7 @@ const breadcrumbSchema = {
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": siteConfig.url },
-    { "@type": "ListItem", "position": 2, "name": "Start Here", "item": `${siteConfig.url}/start-here` }
+    { "@type": "ListItem", "position": 2, "name": "Start Here", "item": `${siteConfig.url}/start-here/` }
   ]
 };
 
@@ -155,7 +155,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
       <div class="animate-on-scroll">
         <span class="sh-guide-group-label sh-guide-group-label--learn">Learn</span>
         <div class="sh-guide-list">
-          <a href="/about" class="sh-guide-item">
+          <a href="/about/" class="sh-guide-item">
             <div class="sh-guide-item-title">About {siteConfig.name}</div>
             <div class="sh-guide-item-desc">How we evaluate archery gear and the story behind The Archery Expert.</div>
           </a>
@@ -165,7 +165,7 @@ const popularLinks = siteConfig.footerPopularLinks || [];
               <div class="sh-guide-item-desc">A complete guide to choosing the right {cat.name.toLowerCase()} for your shooting style.</div>
             </a>
           ))}
-          <a href="/contact" class="sh-guide-item">
+          <a href="/contact/" class="sh-guide-item">
             <div class="sh-guide-item-title">Contact Us</div>
             <div class="sh-guide-item-desc">Have a question or feedback? We'd love to hear from you.</div>
           </a>

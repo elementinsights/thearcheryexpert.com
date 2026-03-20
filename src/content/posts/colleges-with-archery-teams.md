@@ -12,7 +12,7 @@ readTime: "17 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Top 10 College Archery Teams That Are Killing It"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Union College tops the list as one of the strongest collegiate archery programs in the US, with active recruitment and scholarship opportunities. Several schools on this list, including Mount Marty and the University of the Cumberlands, also offer archery scholarships."
 toc:
   - label: "Top 10 College Archery Teams That Are Killing It"
     href: "#top-10-college-archery-teams-that-are-killing-it"
@@ -56,7 +56,7 @@ It's the premier organization that manages university and college archery in the
 
 They've developed the resources and infrastructure to support and grow collegiate archery programs across the US.
 
-The USCA's aim establishes college archery as a part of the campus experience in most colleges and universities.
+The USCA's aim establishes college archery as a part of the campus experience in most colleges and universities. Many of these programs offer financial aid, so be sure to explore the best [archery scholarships](/archery-scholarships/) available to student archers.
 
 The USCA holds competitions across the country in four primary regions: North, South, East, and West. .
 
@@ -64,7 +64,7 @@ The USCA also promotes many archery disciplines that include Olympic Recurve, Co
 
 ## Top 10 College Archery Teams That Are Killing It
 
-Without further ado, let's talk about the top ten college archery teams that are absolutely killing it with their performance.
+Here are the top ten college archery teams that are absolutely killing it with their performance. Behind every great team is a qualified coach, and our guide on [archery coaching](/archery-coaching/) explains the certification levels that these instructors hold.
 
 ## 1. [Union College](http://www.gounionbulldogs.com/sport/0/32)
 

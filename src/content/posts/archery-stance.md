@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "How To Have The Perfect Archery Stance & Posture (10 Steps)"
-  text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
+  text: "Start with the square stance -- feet shoulder-width apart, body perpendicular to the target -- then work through foot position, core engagement, shoulder alignment, and weight distribution. Your stance is the foundation that affects every shot you take."
 toc:
   - label: "Step 1: Proper Foot Position"
     href: "#step-1-proper-foot-position"
@@ -56,7 +56,7 @@ finalThoughts: "Your stance and posture form the foundation of every shot you ta
 
 If you think archery is a simple matter of firing arrows from a bow- that's it, well, think again. To succeed in archery or be a better archer, you need to learn how to carry bows, your archery positioning, etc.
 
-It helps to watch out for different things while practicing archery, like choosing bows and other accessories, but the most important thing to focus on is your stance and body posture while shooting.
+It helps to watch out for different things while practicing archery, like choosing bows and other accessories, but the most important thing to focus on is your stance and body posture while shooting. Stance is just one piece of the puzzle, so be sure to also read our full [guide to proper archery form](/archery-form/).
 
 As with archery, the correct technique is the key to your continuous improvement. Learning the proper stance and positions would help you achieve many great things in archery.
 
@@ -136,7 +136,7 @@ From those stages, you should feel as if your center of mass is low down, and en
 
 For immersing the core, slightly pull your stomach in and focus on making the area just below your belly button tense. The sensation is similar to preparing to be punched in the stomach.
 
-This stage can be physically heavy, but it strongly helps your archery and maintains the core engagement through the whole shot.
+This stage can be physically heavy, but it strongly helps your archery and maintains the core engagement through the whole shot. Strengthening your core with targeted [archery exercises](/archery-exercises/) will make holding this position much easier over time.
 
 For the best archery result, the recurve archer should understand the difference between correct posture and incorrect one.
 
@@ -200,7 +200,7 @@ The shoulders should create a bone on the bone connection in your bow arms shoul
 
 This is the most important step for maintaining a proper archery stance and posture and the step where most of the archers fail.
 
-If your shoulder is raising, moving back, or going down, then there's a high chance of losing your accuracy while shooting the arrow, and it can put more stress on the different parts of the body and cause injuries.
+If your shoulder is raising, moving back, or going down, then there's a high chance of losing your accuracy while shooting the arrow, and it can put more stress on the different parts of the body and cause [common archery injuries](/archery-injuries/).
 
 You should be released and calmed down to get the maximum result in accuracy and shot perfections.
 

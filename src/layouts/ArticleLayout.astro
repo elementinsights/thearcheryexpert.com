@@ -61,7 +61,10 @@ const { title, description, image, activeNav, schema } = Astro.props;
 
   calc();
   window.addEventListener('load', calc);
-  window.addEventListener('resize', calc);
+  let resizeTicking = false;
+  window.addEventListener('resize', () => {
+    if (!resizeTicking) { resizeTicking = true; requestAnimationFrame(() => { calc(); resizeTicking = false; }); }
+  });
 })();
 </script>
 

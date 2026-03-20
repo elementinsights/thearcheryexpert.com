@@ -1,5 +1,5 @@
 ---
-title: "10 Best Larp Bow And Arrow Products Reviewed For 2026"
+title: "7 Best Larp Bow And Arrow Products Reviewed For 2026"
 description: "We reviewed the best LARP bow and arrow sets for 2026. Find safe, durable bows for live action role playing, combat archery, and backyard fun."
 category: "Knowledge"
 postType: "roundup"
@@ -7,7 +7,7 @@ publishDate: 2026-03-19
 updatedDate: 2026-01-04
 author: "Matt Vance"
 image: "/images/posts/larp-bow-and-arrow.webp"
-imageAlt: "10 Best Larp Bow And Arrow Products Reviewed For 2026"
+imageAlt: "7 Best Larp Bow And Arrow Products Reviewed For 2026"
 readTime: "10 min read"
 quickAnswer:
   label: "Quick Answer"
@@ -22,16 +22,16 @@ toc:
     href: "#1-woarchery-combat-archery--best-overall"
   - label: "2. TOP ARCHERY Traditional Recurve Bow 53'' — Runner Up"
     href: "#2-top-archery-traditional-recurve-bow-53--runner-up"
-  - label: "5. Feathered Indian Bow and Arrow Set — Best Value"
-    href: "#5-feathered-indian-bow-and-arrow-set--best-value"
-  - label: "6. KAINOKAI Traditional Handmade Bow — Premium Pick"
-    href: "#6-kainokai-traditional-handmade-bow--premium-pick"
-  - label: "7. Enrack Recurve Bow for Archery — Budget Pick"
-    href: "#7-enrack-recurve-bow-for-archery--budget-pick"
-  - label: "8. Rootmemory Bow And Arrow Archery — Most Popular"
-    href: "#8-rootmemory-bow-and-arrow-archery--most-popular"
-  - label: "9. Adventure Awaits! Handmade Wooden Bow and Arrow Set — Best Design"
-    href: "#9-adventure-awaits-handmade-wooden-bow-and-arrow-set--best-design"
+  - label: "3. WOARCHERY Round Foam Tip LARP Arrows (Pack of 6) — Best Value"
+    href: "#3-woarchery-round-foam-tip-larp-arrows-pack-of-6--best-value"
+  - label: "4. KAINOKAI Traditional Handmade Bow — Premium Pick"
+    href: "#4-kainokai-traditional-handmade-bow--premium-pick"
+  - label: "5. Enrack Recurve Bow for Archery — Budget Pick"
+    href: "#5-enrack-recurve-bow-for-archery--budget-pick"
+  - label: "6. Rootmemory Bow And Arrow Archery — Most Popular"
+    href: "#6-rootmemory-bow-and-arrow-archery--most-popular"
+  - label: "7. Adventure Awaits! Handmade Wooden Bow and Arrow Set — Best Design"
+    href: "#7-adventure-awaits-handmade-wooden-bow-and-arrow-set--best-design"
   - label: "FAQ"
     href: "#faq"
   - label: "Final Thoughts"
@@ -64,12 +64,12 @@ products:
       - "No mounting points for sights or accessories"
       - "30-40 lb draw weight may be too strong for young children"
     ctaUrl: "https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20"
-  - name: "TOP ARCHERY Traditional Recurve Bow 53’’"
+  - name: "TOP ARCHERY Traditional Recurve Bow 53''"
     rank: 2
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/41+7yjlflFL._SL500_.jpg"
-    description: "If you’re looking for a traditional bow, look no further."
+    description: "This traditional bow is one of the best options available."
     highlights:
       - "Handmade Build"
       - "Leather Laminate"
@@ -81,35 +81,35 @@ products:
       - "53-inch length with a 28-inch draw provides solid traditional feel"
       - "Doubles as a rustic wall-mounted decoration piece"
     cons:
-      - "Arrows aren’t included and must be purchased separately"
+      - "Arrows aren't included and must be purchased separately"
       - "Some users report it wears down with daily heavy use"
     ctaUrl: "https://www.amazon.com/dp/B0722K6DY3?tag=thearcheryexpert-20"
-  - name: "Feathered Indian Bow and Arrow Set"
-    rank: 5
+  - name: "WOARCHERY Round Foam Tip LARP Arrows (Pack of 6)"
+    rank: 3
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg"
-    description: "This one is for archery lovers with a taste of art."
+    description: "These foam-tipped LARP arrows from WOARCHERY are designed for safe combat archery and live action role playing."
     highlights:
-      - "Native Art Style"
-      - "Faux Fur Wrap"
-      - "Ambidextrous"
-      - "40-50 lb Draw"
+      - "Foam Safety Tips"
+      - "Pack of 6"
+      - "34 Inch Length"
+      - "Combat Ready"
     pros:
-      - "Beautifully crafted with brown faux fur and Native American-inspired design"
-      - "Designed for both left and right-hand users"
-      - "Elastic bow provides a generous draw length without snapping"
-      - "Available in draw weights from 40 to 50 lbs"
+      - "Round foam tips absorb impact for safe combat archery gameplay"
+      - "Pack of 6 gives you enough arrows for a full LARP session"
+      - "34-inch length works with most LARP and recreational bows"
+      - "Lightweight fiberglass shafts are durable enough for repeated use"
     cons:
-      - "Only one arrow included, so you'll need to buy more separately"
-      - "More of a decorative piece than a dedicated LARP combat bow"
+      - "Foam tips wear down over time and may need replacing"
+      - "Not designed for target shooting or hunting use"
     ctaUrl: "https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20"
   - name: "KAINOKAI Traditional Handmade Bow"
-    rank: 6
+    rank: 4
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg"
-    description: "If you love beautifully handcrafted archers with a touch of tradition, then you’ll love KAINOKAI."
+    description: "If you love beautifully handcrafted archers with a touch of tradition, then you'll love KAINOKAI."
     highlights:
       - "Native Art Style"
       - "Faux Fur Wrap"
@@ -125,7 +125,7 @@ products:
       - "More of a decorative piece than a dedicated LARP combat bow"
     ctaUrl: "https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20"
   - name: "Enrack Recurve Bow for Archery"
-    rank: 7
+    rank: 5
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg"
@@ -145,11 +145,11 @@ products:
       - "Longer length can be unwieldy in tight indoor LARP spaces"
     ctaUrl: "https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20"
   - name: "Rootmemory Bow And Arrow Archery"
-    rank: 8
+    rank: 6
     badge: "Most Popular"
     rating: 8.7
     image: "https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg"
-    description: "If you’ve been withholding that game hunting expedition due to lack of proper gear, we’ve got you covered."
+    description: "If you've been withholding that game hunting expedition due to lack of proper gear, we've got you covered."
     highlights:
       - "Hardwood Riser"
       - "Waterproof Limbs"
@@ -165,11 +165,11 @@ products:
       - "30-inch draw length may be short for taller adult archers"
     ctaUrl: "https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20"
   - name: "Adventure Awaits! Handmade Wooden Bow and Arrow Set"
-    rank: 9
+    rank: 7
     badge: "Best Design"
     rating: 8.5
     image: "https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg"
-    description: "If you’re looking for a lightweight but sturdy bow and arrow, Adventure Awaits! is your best option."
+    description: "If you're looking for a lightweight but sturdy bow and arrow, Adventure Awaits! is your best option."
     highlights:
       - "6 Carbon Arrows"
       - "Hardwood Build"
@@ -199,7 +199,7 @@ It may be best to try LARP indoors while the lockdown restrictions are in place.
 
 Bow and arrows can be used in sporting events, shooting practice, field competition, hunting, and fishing.
 
-They can be homemade or bought depending on a specific activity.
+They can be homemade or bought depending on a specific activity. If LARP sparks your interest in real archery, check out our [archery for beginners](/archery-for-beginners/) guide and the [best bow and arrow sets for beginners](/bow-and-arrow-set-for-beginners/).
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -223,49 +223,49 @@ They can be homemade or bought depending on a specific activity.
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41wujN4mxeL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41wujN4mxeL._SL500_.jpg" alt="WOARCHERY Combat Archery" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">WOARCHERY Combat Archery</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B06XWR7Z2X?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0722K6DY3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41+7yjlflFL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0722K6DY3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41+7yjlflFL._SL500_.jpg" alt="TOP ARCHERY Traditional Recurve Bow 53''" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">TOP ARCHERY Traditional Recurve Bow 53''</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B0722K6DY3?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
-<td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">Feathered Indian Bow and Arrow Set</td>
+<td class="table-rank">3</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="WOARCHERY Round Foam Tip LARP Arrows (Pack of 6)" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">WOARCHERY Round Foam Tip LARP Arrows (Pack of 6)</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
-<td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-rank">4</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg" alt="KAINOKAI Traditional Handmade Bow" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">KAINOKAI Traditional Handmade Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
-<td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-rank">5</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg" alt="Enrack Recurve Bow for Archery" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Enrack Recurve Bow for Archery</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
-<td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-rank">6</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg" alt="Rootmemory Bow And Arrow Archery" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Rootmemory Bow And Arrow Archery</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
-<td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07CCZ2CX6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-rank">7</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07CCZ2CX6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg" alt="Adventure Awaits. Handmade Wooden Bow an" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Adventure Awaits. Handmade Wooden Bow an</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07CCZ2CX6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -360,7 +360,7 @@ This is a perfect gift for beginners that can be used in both combat games and L
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">If you're looking for a traditional bow, look no further. This is a cool looking rustic antique that can be mounted on any wall for decor. It's carefully handmade, polished, and painted to withstand harsh outdoor weather.</p>
+<p class="product-card-desc">This traditional bow is one of the best options available. It's a cool looking rustic antique that can be mounted on any wall for decor.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Handmade Build</span>
 <span class="highlight-tag">Leather Laminate</span>
@@ -400,9 +400,9 @@ Cons
 </div>
 </div>
 
-If you're looking for a traditional bow, look no further.
+This traditional bow is one of the best options available.
 
-This is a cool looking rustic antique that can be mounted on any wall for decor.
+It's a cool looking rustic antique that can be mounted on any wall for decor.
 
 It's carefully handmade, polished, and painted to withstand harsh outdoor weather.
 
@@ -420,26 +420,26 @@ It comes with a strong black quiver. However, you'll need to buy a set of arrows
 
 Some users don't recommend it for daily usage as it wears down with weight.
 
-## 5. Feathered Indian Bow and Arrow Set &mdash; Best Value
+## 3. WOARCHERY Round Foam Tip LARP Arrows (Pack of 6) &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="Feathered Indian Bow and Arrow Set" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/418YRfjx+VL._SL500_.jpg" alt="WOARCHERY Round Foam Tip LARP Arrows (Pack of 6)" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Best Value Larp Bow And Arrow</div>
-<h3 class="product-card-name">Feathered Indian Bow and Arrow Set</h3>
+<div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Larp Bow And Arrow</div>
+<h3 class="product-card-name">WOARCHERY Round Foam Tip LARP Arrows (Pack of 6)</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">This one is for archery lovers with a taste of art. This is a beautifully crafted piece that can be hanged on any wall. It comes with brown faux fur that compliments the Native American traditions. It's an archery set that's easy to assemble and dismantle.</p>
+<p class="product-card-desc">These foam-tipped LARP arrows from WOARCHERY are designed for safe combat archery and live action role playing. Each arrow measures 34 inches and features a round foam tip that absorbs impact on contact.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Native Art Style</span>
-<span class="highlight-tag">Faux Fur Wrap</span>
-<span class="highlight-tag">Ambidextrous</span>
-<span class="highlight-tag">40-50 lb Draw</span>
+<span class="highlight-tag">Foam Safety Tips</span>
+<span class="highlight-tag">Pack of 6</span>
+<span class="highlight-tag">34 Inch Length</span>
+<span class="highlight-tag">Combat Ready</span>
 </div>
 <a href="https://www.amazon.com/dp/B01LQ29MMC?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -454,11 +454,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Sleek fur design</li>
-<li>45 inches long</li>
-<li>Ambidextrous riser</li>
-<li>18-inch draw length</li>
-<li>Free sight pin included</li>
+<li>Round foam tips absorb impact for safe combat archery</li>
+<li>Pack of 6 gives you enough for a full session</li>
+<li>34-inch length works with most LARP bows</li>
+<li>Fiberglass shafts are lightweight and durable</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -467,36 +466,24 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Only one arrow included, so you'll need to buy more separately</li>
-<li>More of a decorative piece than a dedicated LARP combat bow</li>
+<li>Foam tips wear down over time and may need replacing</li>
+<li>Not designed for target shooting or hunting use</li>
 </ul>
 </div>
 </div>
 </div>
 
-This one is for archery lovers with a taste of art.
+These WOARCHERY foam-tipped LARP arrows are built specifically for safe combat archery and live action role playing. Each arrow is 34 inches long with a round foam tip that cushions impact, so you can shoot at opponents without causing injury.
 
-This is a beautifully crafted piece that can be hanged on any wall.
+The pack includes 6 arrows, which is enough to keep you in the game without running out mid-session. The fiberglass shafts are lightweight and durable enough to handle repeated use during LARP battles.
 
-It comes with brown faux fur that compliments the Native American traditions.
+The foam tips compress on contact, making these arrows suitable for close-range combat games.
 
-It's an archery set that's easy to assemble and dismantle.
+They work best with bows under 30 to 35 pounds of draw weight.
 
-It makes storage and carrying easy.
+If you're setting up for LARP archery or combat tag events, this pack is one of the most affordable ways to stock up on safe ammunition.
 
-The package includes a bow and a matching arrow.
-
-You can buy additional arrows and quivers separately.
-
-It's designed for both left and right-hand users.
-
-The elasticity of the bow gives a larger draw length without breaking.
-
-Feathered Indian Bow and Arrow Set come in brown and white colors.
-
-Users are offered a range of draw weights of between 40 to 50lbs.
-
-## 6. KAINOKAI Traditional Handmade Bow &mdash; Premium Pick
+## 4. KAINOKAI Traditional Handmade Bow &mdash; Premium Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -504,13 +491,13 @@ Users are offered a range of draw weights of between 40 to 50lbs.
 <a href="https://www.amazon.com/dp/B07GBT4L66?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z-cBfysRL._SL500_.jpg" alt="KAINOKAI Traditional Handmade Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Premium Pick Larp Bow And Arrow</div>
+<div class="product-card-rank"><span class="rank-badge">#4 Pick</span> Premium Pick Larp Bow And Arrow</div>
 <h3 class="product-card-name">KAINOKAI Traditional Handmade Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">If you love beautifully handcrafted archers with a touch of tradition, then you'll love KAINOKAI. This archer is beautifully crafted to resemble the old fashioned bows. You can assemble it quickly and easily. It's long but not collapsible, and transportation can be hindered by the fear of breakage.</p>
+<p class="product-card-desc">If you love beautifully handcrafted archers with a touch of tradition, then you'll love KAINOKAI. This archer is beautifully crafted to resemble the old fashioned bows.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Locust Wood Handle</span>
 <span class="highlight-tag">Handcrafted Build</span>
@@ -564,7 +551,7 @@ The package includes one arm guard, bowstring bow, targets, and three wooden arr
 
 This is an ideal gift for an elderly archery lover.
 
-## 7. Enrack Recurve Bow for Archery &mdash; Budget Pick
+## 5. Enrack Recurve Bow for Archery &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -572,13 +559,13 @@ This is an ideal gift for an elderly archery lover.
 <a href="https://www.amazon.com/dp/B088WSQV8K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31OBjIlwY5L._SL500_.jpg" alt="Enrack Recurve Bow for Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Budget Pick Larp Bow And Arrow</div>
+<div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Larp Bow And Arrow</div>
 <h3 class="product-card-name">Enrack Recurve Bow for Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
-<p class="product-card-desc">This one is for archery lovers who love simply designed bows and arrows. It's 51 inches long with a 40-inch draw length. This strong archer consists of a hardwood bow riser and strong fiberglass limbs that have smooth laminate edges. The lamination over them makes them waterproof and durable.</p>
+<p class="product-card-desc">This one is for archery lovers who love simply designed bows and arrows. It's 51 inches long with a 40-inch draw length.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Hardwood Riser</span>
 <span class="highlight-tag">Waterproof Limbs</span>
@@ -632,7 +619,7 @@ The package includes four gaskets, a riser, two limbs, one arm guard, screws, a 
 
 The Enrack is easily dismantled for storage and transportation.
 
-## 8. Rootmemory Bow And Arrow Archery &mdash; Most Popular
+## 6. Rootmemory Bow And Arrow Archery &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -640,13 +627,13 @@ The Enrack is easily dismantled for storage and transportation.
 <a href="https://www.amazon.com/dp/B07X21QZKK?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41s9qIrAZsL._SL500_.jpg" alt="Rootmemory Bow And Arrow Archery" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Popular Larp Bow And Arrow</div>
+<div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Larp Bow And Arrow</div>
 <h3 class="product-card-name">Rootmemory Bow And Arrow Archery</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.7/10</span>
 </div>
-<p class="product-card-desc">If you've been withholding that game hunting expedition due to lack of proper gear, we've got you covered. Rootmemory archery comes with six carbon arrows that can be used in real-time hunting. It has a 30-inch draw length and holds 30-40 draw weight - an ideal choice for adults.</p>
+<p class="product-card-desc">If you've been withholding that game hunting expedition due to lack of proper gear, we've got you covered. Rootmemory archery comes with six carbon arrows that can be used in real-time hunting.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">6 Carbon Arrows</span>
 <span class="highlight-tag">Hardwood Build</span>
@@ -702,7 +689,7 @@ The package comes with a couple of free target faces.
 
 Transportation and storage are comfortable as you can dismantle them.
 
-## 9. Adventure Awaits. Handmade Wooden Bow and Arrow Set &mdash; Best Design
+## 7. Adventure Awaits. Handmade Wooden Bow and Arrow Set &mdash; Best Design
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
@@ -710,13 +697,13 @@ Transportation and storage are comfortable as you can dismantle them.
 <a href="https://www.amazon.com/dp/B07CCZ2CX6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51twtqbHI0L._SL500_.jpg" alt="Adventure Awaits. Handmade Wooden Bow and Arrow Set" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
-<div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best Design Larp Bow And Arrow</div>
+<div class="product-card-rank"><span class="rank-badge">#7 Pick</span> Best Design Larp Bow And Arrow</div>
 <h3 class="product-card-name">Adventure Awaits. Handmade Wooden Bow and Arrow Set</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.5/10</span>
 </div>
-<p class="product-card-desc">If you're looking for a lightweight but sturdy bow and arrow, Adventure Awaits. is your best option. This is a set made from light bamboo. It stands at 57-inches long with a capability to hold a higher draw weight of between 30-60lbs.</p>
+<p class="product-card-desc">If you're looking for a lightweight but sturdy bow and arrow, Adventure Awaits. is your best option. This is a set made from light bamboo.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Bamboo Build</span>
 <span class="highlight-tag">57 Inch Length</span>

@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery Improves Hand-Eye Coordination"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "Improved hand-eye coordination is the top benefit, but archery also builds upper body strength, burns roughly 140 calories per 30 minutes, and promotes mental focus and stress relief. It's one of the few sports that strengthens both body and mind simultaneously."
 toc:
   - label: "1. Archery Improves Hand-Eye Coordination"
     href: "#1-archery-improves-hand-eye-coordination"
@@ -73,7 +73,7 @@ Back then, the purpose of archery mainly revolves around hunting and warfare.
 
 Nowadays, archery has become a kind of sport and has become more and more popular.
 
-Now you might be wondering: why should I choose archery over other kinds of sports?
+Now you might be wondering: why should I choose archery over other kinds of sports? If you're convinced after reading these benefits, our guide on [archery for beginners](/archery-for-beginners/) will help you get started.
 
 Stick around with me, and I'm going to talk about the ten of the most common health benefits of archery.
 
@@ -155,7 +155,7 @@ This process is [called muscular hypertrophy](https://www.healthline.com/health/
 
 By practicing archery, you'll be able to put your muscles to work effectively.
 
-For those who want a stronger body, you might want to give archery a try.
+For those who want a stronger body, you might want to give archery a try. Check out our recommended [archery exercises](/archery-exercises/) to build the specific muscles you'll use on the range.
 
 ## 3. Archery Improves Heart Health
 

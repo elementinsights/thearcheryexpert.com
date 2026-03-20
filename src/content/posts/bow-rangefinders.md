@@ -28,8 +28,8 @@ toc:
     href: "#4-sig-sauer-kilo-2200-bdx-laser-rangefinder--premium-pick"
   - label: "5. Leupold RX-1600i TBR Laser Rangefinder — Budget Pick"
     href: "#5-leupold-rx-1600i-tbr-laser-rangefinder--budget-pick"
-  - label: "6. Leica Rangemaster CRF 1600B — Most Popular"
-    href: "#6-leica-rangemaster-crf-1600b--most-popular"
+  - label: "6. REVASRI Hunting Laser Rangefinder 1000 Yards — Most Popular"
+    href: "#6-revasri-hunting-laser-rangefinder-1000-yards--most-popular"
   - label: "7. Simmons Hunting Laser Rangefinder; Volt & Venture Models — Best Design"
     href: "#7-simmons-hunting-laser-rangefinder-volt--venture-models--best-design"
   - label: "8. TecTecTec ProWild S with Angle Compensation - Laser Rangefin — Most Durable"
@@ -150,26 +150,26 @@ products:
       - "Menu navigation takes some time to learn"
       - "Heavier than simpler rangefinder models in this price range"
     ctaUrl: "https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20"
-  - name: "Leica Rangemaster CRF 1600B"
+  - name: "REVASRI Hunting Laser Rangefinder 1000 Yards"
     rank: 6
     badge: "Most Popular"
     rating: 8.8
-    image: "https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg"
-    description: "This rangefinder is one of the best units with several advanced features, so it can be more complicated to use if you want to get the best output from it."
+    image: "https://m.media-amazon.com/images/I/51o6aOkhkFL._SL500_.jpg"
+    description: "A rechargeable 1000-yard hunting rangefinder with target acquisition technology that delivers fast, accurate distance readings in the field."
     highlights:
-      - "Leica Glass"
-      - "7x Magnification"
-      - "ABC Ballistics"
-      - "Premium Optics"
+      - "1000 Yard Range"
+      - "USB Rechargeable"
+      - "Target Acquisition"
+      - "Compact Design"
     pros:
-      - "Leica's world-class glass delivers outstanding optical clarity"
-      - "7x magnification makes target identification easy at long distances"
-      - "Advanced Ballistic Compensation (ABC) calculates holdover points"
-      - "Slim, lightweight body slips easily into a jacket pocket"
+      - "Ranges targets accurately out to 1,000 yards for both bow and rifle hunting"
+      - "USB rechargeable battery eliminates the hassle of replacing CR2 cells"
+      - "Fast target acquisition locks onto game quickly in dense terrain"
+      - "Compact and lightweight enough to carry on a lanyard or in a pocket"
     cons:
-      - "One of the most expensive rangefinders on this list"
-      - "Advanced features have a steeper learning curve for new users"
-    ctaUrl: "https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20"
+      - "Accuracy can decrease slightly at the very edge of its 1,000-yard max range"
+      - "Display brightness could be better in very low light conditions"
+    ctaUrl: "https://www.amazon.com/dp/B0B1D5VZDD?tag=thearcheryexpert-20"
   - name: "Simmons Hunting Laser Rangefinder; Volt & Venture Models"
     rank: 7
     badge: "Best Design"
@@ -259,7 +259,7 @@ In this century, we, the people of the earth, feel the urge to be close to natur
 
 In hunting, particularly in bow hunting, the most important thing is how accurately you can measure your target distance. In that case, modern technology made this whole adventure easier and more fun to do.
 
-Today we'll talk about the bow hunting rangefinder, which is the most important thing to purchase before hunting.
+Today we'll talk about the bow hunting rangefinder, which is the most important thing to purchase before hunting. Pair your rangefinder with a quality [7 pin bow sight](/7-pin-bow-sight/) and a reliable [bow stabilizer](/best-bow-stabilizer/) for the most accurate setup possible.
 
 As you know, everybody should keep in mind several factors while purchasing these gadgets, like the measurement distance range, modes, battery life, features, durability, price, and additional things that require a ton of research.
 
@@ -285,70 +285,70 @@ As you know, everybody should keep in mind several factors while purchasing thes
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00IN6ENWY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61MOFujFPNL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00IN6ENWY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/61MOFujFPNL._SL500_.jpg" alt="Bushnell Bone Collector 4x Laser Rangefi" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Bushnell Bone Collector 4x Laser Rangefi</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00IN6ENWY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07NNVFKKL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51eRIrw192L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07NNVFKKL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51eRIrw192L._SL500_.jpg" alt="Nikon Monarch 2000" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Nikon Monarch 2000</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07NNVFKKL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079HNKGGG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41R2uztdHHL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079HNKGGG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41R2uztdHHL._SL500_.jpg" alt="Vortex Optics Ranger 1800 Laser Rangefin" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Vortex Optics Ranger 1800 Laser Rangefin</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B079HNKGGG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07DX1WXCD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41oaZRhrDWS._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07DX1WXCD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41oaZRhrDWS._SL500_.jpg" alt="Sig Sauer Kilo 2200 BDX LASER Rangefinde" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Sig Sauer Kilo 2200 BDX LASER Rangefinde</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07DX1WXCD?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51SMAa0HQrL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51SMAa0HQrL._SL500_.jpg" alt="Leupold RX-1600i TBR Laser Rangefinder" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Leupold RX-1600i TBR Laser Rangefinder</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B079G4HZ7L?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">Leica Rangemaster CRF 1600B</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0B1D5VZDD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51o6aOkhkFL._SL500_.jpg" alt="REVASRI Hunting Laser Rangefinder 1000 Ya" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">REVASRI Hunting Laser Rangefinder 1000 Ya</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
-<td><a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B0B1D5VZDD?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B077XM7X6T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Em073BYuL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B077XM7X6T?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Em073BYuL._SL500_.jpg" alt="Simmons Hunting Laser Rangefinder. Volt" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Simmons Hunting Laser Rangefinder. Volt </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B077XM7X6T?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07Q7N63P1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51wzCHg-qWL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07Q7N63P1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51wzCHg-qWL._SL500_.jpg" alt="TecTecTec ProWild S with Angle Compensat" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">TecTecTec ProWild S with Angle Compensat</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07Q7N63P1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XKN8N61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41IBeCBnH0L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XKN8N61?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41IBeCBnH0L._SL500_.jpg" alt="Halo XL450-7 Rangefinder" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Halo XL450-7 Rangefinder</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B06XKN8N61?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07GKJNCKN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EDp4Zw9xL._SL500_.jpg" alt="WOSPORTS 700/1200 Yards Hunting Laser Rangefinder" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07GKJNCKN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EDp4Zw9xL._SL500_.jpg" alt="WOSPORTS 700/1200 Yards Hunting Laser Rangefinder" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">WOSPORTS 700/1200 Yards Hunting Laser Ra</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B07GKJNCKN?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -769,28 +769,28 @@ This unit uses LOS (line of sight distance) technology, which accurately measure
 
 Scan Mode gives continuous range updates as you can track the movement or scan an area easily.
 
-## 6. Leica Rangemaster CRF 1600B &mdash; Most Popular
+## 6. REVASRI Hunting Laser Rangefinder 1000 Yards &mdash; Most Popular
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/412XElA1-fL._SL500_.jpg" alt="Leica Rangemaster CRF 1600B" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B0B1D5VZDD?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51o6aOkhkFL._SL500_.jpg" alt="REVASRI Hunting Laser Rangefinder 1000 Yards" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#6 Pick</span> Most Popular Rangefinder</div>
-<h3 class="product-card-name">Leica Rangemaster CRF 1600B</h3>
+<h3 class="product-card-name">REVASRI Hunting Laser Rangefinder 1000 Yards</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
-<p class="product-card-desc">This rangefinder is one of the best units with several advanced features, so it can be more complicated to use if you want to get the best output from it.</p>
+<p class="product-card-desc">A rechargeable 1000-yard hunting rangefinder with target acquisition technology that delivers fast, accurate distance readings in the field.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Leica Glass</span>
-<span class="highlight-tag">7x Magnification</span>
-<span class="highlight-tag">ABC Ballistics</span>
-<span class="highlight-tag">Premium Optics</span>
+<span class="highlight-tag">1000 Yard Range</span>
+<span class="highlight-tag">USB Rechargeable</span>
+<span class="highlight-tag">Target Acquisition</span>
+<span class="highlight-tag">Compact Design</span>
 </div>
-<a href="https://www.amazon.com/dp/B01BFX70HG?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B0B1D5VZDD?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -803,11 +803,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Range up to 1600 yards</li>
-<li>Very rugged and durable</li>
-<li>Fully multi-coated</li>
-<li>Fantastic light-gathering capability</li>
-<li>7x magnification and wide FOV</li>
+<li>1,000-yard range covers both bow and rifle hunting distances</li>
+<li>USB rechargeable battery saves money on replacements</li>
+<li>Fast target acquisition locks onto game in dense terrain</li>
+<li>Compact and lightweight for easy pocket or lanyard carry</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -816,34 +815,20 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>One of the most expensive rangefinders on this list</li>
-<li>Advanced features have a steeper learning curve for new users</li>
+<li>Accuracy can decrease slightly at the very edge of its max range</li>
+<li>Display brightness could be better in very low light conditions</li>
 </ul>
 </div>
 </div>
 </div>
 
-This rangefinder is one of the best units with several advanced features, so it can be more complicated to use if you want to get the best output from it.
+The REVASRI Hunting Laser Rangefinder delivers accurate distance readings out to 1,000 yards, which is more than enough for bowhunting and most rifle hunting scenarios. Its target acquisition technology locks onto game quickly, even when you're ranging through brush or in dense timber.
 
-But there's also a one-button operation for simple range measurement. When needed to get more precise data and do some advanced operation, you can use the secondary button.
+One of the standout features is the USB rechargeable battery. You won't have to keep buying CR2 cells, and a single charge lasts through multiple hunting trips before it needs topping off.
 
-There's a matter with this device when it comes to accuracy. The unit's accuracy is better while reading distances closer to 1000 yards, and you may find difficulties while reading upper distances.
+The unit is compact enough to slip into a jacket pocket or hang from a lanyard around your neck. It doesn't weigh you down on long hikes to your stand, which makes it a practical everyday carry for hunters.
 
-A feature called rubber cupping is retractable, compensating for use with a corrective lens or the naked eye.
-
-Also, users can use the diopter compensation control to adjust the image sharpness for their eyesight.
-
-The Leica rangefinder could send detailed and bright images of targets even when you're viewing it from a long distance.
-
-You may be thinking about how it manages that.
-
-Well, it's because it features a 6.6-degree angle of view.
-
-Another great feature you're going to observe in this product is the intelligent ballistic program, which brings easier calculation and detection of the ballistic curve to get the important data you want.
-
-Finally, this amazing product's body is made of durable carbon-reinforced plastic.
-
-It has an AquaDura coating on the external lens, which makes this unit quite perfect for your rough use.
+The optics are clear enough for positive target identification at moderate distances. It's not going to match premium-tier glass, but for the price point it delivers solid performance that most hunters will be happy with.
 
 ## 7. Simmons Hunting Laser Rangefinder. Volt & Venture Models &mdash; Best Design
 
@@ -1001,7 +986,7 @@ It has a scan mode and speed mode, making it fast and compact, more accurate, an
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">The halo XL450-7 Qs integrates AI technology for slope to target distance assessment. The monocular rangefinder gives predetermined ballistic holdover information. The scan ranging and AI technology ensure the accurate firearm and now by unearthing ranges or holdover figures without time-consuming and intensive manual calculations.</p>
+<p class="product-card-desc">The halo XL450-7 Qs integrates AI technology for slope to target distance assessment. The monocular rangefinder gives predetermined ballistic holdover information.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">AI Technology</span>
 <span class="highlight-tag">450 Yard Range</span>
@@ -1073,7 +1058,7 @@ So if you're going to find the perfect and wallet-friendly unit for the next bow
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
-<p class="product-card-desc">This one is also another budget-friendly affordable rangefinder with lots of extraordinary features at this price rate. It's easy to read out, and its 6x magnification made it the best option for anybody. Its optical focus ring is also easy to use, and the scan mode is awesome.</p>
+<p class="product-card-desc">This one is also another budget-friendly affordable rangefinder with lots of extraordinary features at this price rate. It's easy to read out, and its 6x magnification made it the best option for anybody.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Flag Lock</span>
 <span class="highlight-tag">Speed Mode</span>

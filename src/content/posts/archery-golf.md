@@ -12,20 +12,20 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "What Is Archery Golf And How Do You Play?"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Archery golf combines bows and arrows with golf-style scoring, where you try to hit targets in as few shots as possible. All you need is a basic bow, arrows, and an armguard to get started, and you can even set up a course in your backyard."
 toc:
   - label: "Purchasing Golf Archery Equipment"
     href: "#purchasing-golf-archery-equipment"
   - label: "Equipment You Need In Archery Golf"
-    href: "#purchasing-golf-archery-equipment"
+    href: "#equipment-you-need-in-archery-golf"
   - label: "Choosing The Right Bow"
     href: "#choosing-the-right-bow"
   - label: "Choosing The Right Arrow"
-    href: "#choosing-the-right-bow"
+    href: "#choosing-the-right-arrow"
   - label: "Rules For Playing Archery Golf"
     href: "#rules-for-playing-archery-golf"
   - label: "Scoring In Archery Golf"
-    href: "#purchasing-golf-archery-equipment"
+    href: "#scoring-in-archery-golf"
   - label: "A Case Where There Is A Tie Score"
     href: "#a-case-where-there-is-a-tie-score"
   - label: "Playing The Game"
@@ -64,7 +64,7 @@ Unlike the golf ball game where you use holes, in archery golf, you use arcs, an
 
 One great thing with this game is that it's both an indoor and outdoor activity at least you've something you can enjoy at the comfort of your home during the winter season.
 
-In this article, we consider various things you need to know about archery golf including how to play it, the rules of the game, and the hacks to winning this game, the safety measures, and the equipment you need to play the game.
+Below, we cover everything you need to know about archery golf including how to play it, the rules of the game, winning strategies, safety measures, and the equipment you need.
 
 ## Purchasing Golf Archery Equipment
 
@@ -86,7 +86,7 @@ However, you can use the equipment that the golf course club will give you befor
 
 Here are some of the [tools that you need](https://www.archerygolfwi.com/equipment.html) while playing archery golf:
 
-Bows and arrows are the primary tools for playing archery golf and you don't want to go wrong in the one that you select.
+Bows and arrows are the primary tools for playing archery golf and you don't want to go wrong in the one that you select. If you're unfamiliar with the options, our guide to [different types of archery bows](/different-types-of-archery-bows/) can help you decide.
 
 - A bow - it typically consists of a shank with a sting joining its ends
 
@@ -192,7 +192,7 @@ A group will have 5 minutes to look for the arrow, and you've to remove the flag
 
 The scoring technique in this game is straightforward and as stated earlier, you determine the points by looking at the number of shots you take to reach the target.
 
-The highest score one can get in this game for smacking the target is ten while you'll get 1 point as your least score.
+The highest score one can get in this game for smacking the target is ten while you'll get 1 point as your least score. For a deeper dive into how points work across different archery formats, see our [archery scoring guide](/archery-scoring/).
 
 Where your arrow doesn't hit the target, you won't get any score.
 

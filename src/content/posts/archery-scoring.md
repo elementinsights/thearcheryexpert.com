@@ -12,14 +12,14 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery Scoring Guide For Both Indoor & Outdoor Shooting"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "In a standard 10-zone target, the bullseye (X-ring) scores 10 points, while a 5-zone target awards 9 for gold. Indoor archery uses shorter distances with 5 scoring zones, and outdoor archery uses up to 10 zones at distances reaching 90 meters."
 toc:
   - label: "Archery Scoring Guide For Both Indoor And Outdoor Shooting"
     href: "#archery-scoring-guide-for-both-indoor-and-outdoor-shooting"
   - label: "Outdoor Shooting Guide"
-    href: "#archery-scoring-guide-for-both-indoor-and-outdoor-shooting"
+    href: "#outdoor-shooting-guide"
   - label: "Outdoor Archery"
-    href: "#archery-scoring-guide-for-both-indoor-and-outdoor-shooting"
+    href: "#outdoor-archery"
   - label: "Tips & Tricks for Beginners"
     href: "#tips--tricks-for-beginners"
   - label: "Types Of Archery Rounds And Their Uses"
@@ -27,11 +27,11 @@ toc:
   - label: "The Scoring Sheet"
     href: "#the-scoring-sheet"
   - label: "WA rules For Archery"
-    href: "#archery-scoring-guide-for-both-indoor-and-outdoor-shooting"
+    href: "#wa-rules-for-archery"
   - label: "GNAS Rules For Archery"
-    href: "#archery-scoring-guide-for-both-indoor-and-outdoor-shooting"
+    href: "#gnas-rules-for-archery"
   - label: "Indoor Shooting Guide"
-    href: "#archery-scoring-guide-for-both-indoor-and-outdoor-shooting"
+    href: "#indoor-shooting-guide"
   - label: "Types Of Bow Sights And Their Cool Techs & Specs"
     href: "#types-of-bow-sights-and-their-cool-techs--specs"
   - label: "Additional Archery Facts"
@@ -58,11 +58,11 @@ And mind you, archery is no child's play.
 
 This sport puts man's cognitive skills and abilities into full swing. Balancing and judging the elements of distance, time, and speed is a task that only a few can achieve.
 
-For those of you who aspire to become a future archer, hang on because we've got some useful information for you in store.
+For those of you who aspire to become a future archer, hang on because we've got some useful information for you in store. You might also want to brush up on common [archery terms](/archery-terms/) before diving into the scoring details.
 
 Every sport has some rules, and the same goes for archery.
 
-It's generic know-how of playing this sport.
+It's generic know-how of playing this sport. Grabbing a dedicated [archery score keeper](/archery-score-keeper/) will help you track your progress from session to session.
 
 Even though it might seem complicated, we'll try and simplify this for you as much as possible, and you can think of it as a user-friendly guide.
 

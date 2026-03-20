@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery For Children: 10 Important Reasons To Start Young"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Archery builds physical fitness, mental focus, and self-discipline in children, and it's one of the safest youth sports according to the National Safety Council. Kids can start as young as 6-8 with a youth bow set costing as little as $30-$50."
 toc:
   - label: "1. Physical Development"
     href: "#1-physical-development"
@@ -60,7 +60,7 @@ Archery is the skill of using a bow to shoot arrows at a defined target.
 
 Earlier, it was used for hunting and combat, but now it's recognized as an Olympic-level sport.
 
-Kids who are exposed to this craft simply love it and continue to practice it as they reach adulthood.
+Kids who are exposed to this craft simply love it and continue to practice it as they reach adulthood. If you want a full walkthrough on starting the sport, read our [archery for beginners](/archery-for-beginners/) guide.
 
 It's a year-round activity which can also be enjoyed with friends.
 
@@ -122,7 +122,7 @@ For instance, they develop wonderful focus and receive a high amount of motivati
 
 Moreover, this transitions into more positive lifestyle developments such as better sleep, sharp mind and memory, reduced levels of stress or anxiety, and better problem-solving skills.
 
-These positive effects brought about by archery aren't short-term.
+These positive effects brought about by archery aren't short-term. In fact, the [health benefits of archery](/benefits-of-archery/) extend well into adulthood for those who start young.
 
 Children who are into archery are known to mature into confident and motivated adults.
 
@@ -200,7 +200,7 @@ If you wish that your child should learn archery from a young age, it's the best
 
 One of the best things about archery is that it can be scaled up or down, depending on the age, gender, or physical fitness of a person.
 
-For children who are aged 4 to 8, there are small archery kits that they can start with.
+For children who are aged 4 to 8, there are small archery kits that they can start with. We reviewed the [best bow and arrow sets for beginners](/bow-and-arrow-set-for-beginners/) that include great youth options.
 
 These kits are made out of materials that are safe for kids to use and, under an instructor, they can easily begin their archery journey.
 
@@ -242,7 +242,7 @@ To mix things up, you can take your child with their bow and arrow to the woods 
 
 Then, you can find a nice little spot between the trees and paint a target on one of the tree barks.
 
-Within minutes, you've set up a nice little archery range for your child.
+Within minutes, you've set up a nice little archery range for your child. Our guide on [how to build a home archery range](/home-archery-range/) walks you through the full setup process.
 
 If your child is taking professional archery lessons, they'll be practicing and learning in a safe and professional environment with high-quality equipment, so you don't have to worry about anything at all.
 

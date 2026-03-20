@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "10 Step Guide To Shooting With Proper Archery Form"
-  text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
+  text: "Proper archery form starts with your stance and grip, moves through nocking, drawing, and finding your anchor point, then finishes with aiming, release, and follow-through. Mastering each step individually is the fastest path to consistent accuracy."
 toc:
   - label: "Step 1: Stance"
     href: "#step-1-stance"
@@ -72,7 +72,7 @@ Children who are exposed to archery at a young age develop stunning reflexes and
 
 It's highly important to maintain the proper form which includes a few factors that you need to take care of.
 
-Archery also has a proper set of techniques that you need to apply to develop a form that you can repeat again and again.
+Archery also has a proper set of techniques that you need to apply to develop a form that you can repeat again and again. Mastering your [archery stance](/archery-stance/) is the first building block of consistent form.
 
 ## Step 1: Stance
 
@@ -138,7 +138,7 @@ If you're left-handed and your dominant eye is the left one, you can surely buy 
 
 However, if you're right-handed and have a left dominant eye, chances are that you'll be more comfortable with a left-handed bow, and vice versa.
 
-Such people are called cross-dominant, and if you're one of them, you can get a hold of any one type of bow and train your mind to use it.
+Such people are called cross-dominant, and if you're one of them, you can get a hold of any one type of bow and train your mind to use it. We cover this topic thoroughly in our guide on [left eye dominant right handed archery](/left-eye-dominant-right-handed-archery/).
 
 ## Step 3: Bow Grip
 
@@ -290,7 +290,7 @@ You must've noticed that they always pull their bowstring to a certain point, ev
 
 You must've also laughed when their bowstring is pushing against the skin of their mouth or cheek which makes for a funny sight.
 
-All archers, whether beginners or professionals have an anchor point,
+All archers, whether beginners or professionals have an [anchor point](/anchor-point-archery/),
 
 This refers to the point to which they pull their bowstring every single time.
 

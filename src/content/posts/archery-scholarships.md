@@ -1,5 +1,5 @@
 ---
-title: "10 Best Archery Scholarships To Pay Your Way Through School"
+title: "9 Best Archery Scholarships To Pay Your Way Through School"
 description: "Discover the top archery scholarships available for student archers, from the Easton-NFAA program offering up to $20,000 to university-specific grants. Learn the requirements and how to apply."
 category: "Knowledge"
 postType: "listicle"
@@ -7,12 +7,12 @@ publishDate: 2026-03-17
 updatedDate: 2026-03-18
 author: "Matt Vance"
 image: "/images/posts/archery-scholarships.webp"
-imageAlt: "10 Best Archery Scholarships To Pay Your Way Through School"
+imageAlt: "9 Best Archery Scholarships To Pay Your Way Through School"
 readTime: "16 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Easton-NFAA Scholarship Program"
-  text: "This is the first item on our comprehensive list. Read on to discover all 9 items."
+  text: "The Easton-NFAA Scholarship Program is the top pick, offering up to $20,000 for student archers who compete during the academic year. You'll also find university-specific grants from schools like Texas A&M and the University of Illinois."
 toc:
   - label: "1. Easton-NFAA Scholarship Program"
     href: "#1-easton-nfaa-scholarship-program"
@@ -28,10 +28,10 @@ toc:
     href: "#6-prince-william-sound-college-pwsc--archery-sportsmanship-scholarship"
   - label: "7. MSAA Scholarship Program"
     href: "#7-msaa-scholarship-program"
-  - label: "9. Shootingtime.com Archery Scholarship"
-    href: "#9-shootingtimecom-archery-scholarship"
-  - label: "10. ITAWAMBA COMMUNITY COLLEGE Scholarship"
-    href: "#10-itawamba-community-college-scholarship"
+  - label: "8. Shootingtime.com Archery Scholarship"
+    href: "#8-shootingtimecom-archery-scholarship"
+  - label: "9. ITAWAMBA COMMUNITY COLLEGE Scholarship"
+    href: "#9-itawamba-community-college-scholarship"
   - label: "FAQ"
     href: "#faq"
   - label: "Final Thoughts"
@@ -61,7 +61,7 @@ Are you an academic wizard who has a notable talent with bows but lacks funds fo
 
 Study hard and practice harder because your two special abilities will make way for your studies.
 
-Many universities, associations, foundations, and even private companies are giving support to an exceptional person like you.
+Many universities, associations, foundations, and even private companies are giving support to an exceptional person like you. Check out our list of the top [colleges with archery teams](/colleges-with-archery-teams/) to see which schools have strong programs.
 
 Make time to scout for a good scholarship and apply promptly.
 
@@ -71,7 +71,7 @@ Much better if they will allow multiple grants.
 
 I've listed the ten best archery scholarships to pay your way through school.
 
-So, polish your skills more, secure the necessary documents, and shoot your way to a good future.
+So, polish your skills more, secure the necessary documents, and shoot your way to a good future. Working with a certified instructor through an [archery coaching](/archery-coaching/) program can give your application a competitive edge.
 
 ## 1. Easton-NFAA Scholarship Program
 
@@ -424,10 +424,10 @@ A good score in the Scholastic Aptitude Test (SAT) or the American College Testi
 
 Include the results as part of the application.
 
-## 9. Shootingtime.com Archery Scholarship
+## 8. Shootingtime.com Archery Scholarship
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
+  <span class="stat-number">#8</span>
   <span class="stat-text">Shootingtime.com Archery Scholarship</span>
 </div>
 
@@ -461,10 +461,10 @@ Mention your course and include an up-to-date copy of your school year's officia
 
 Bear in mind that you must compete in archery during the entire academic year if you're lucky.
 
-## 10. ITAWAMBA COMMUNITY COLLEGE Scholarship
+## 9. ITAWAMBA COMMUNITY COLLEGE Scholarship
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
+  <span class="stat-number">#9</span>
   <span class="stat-text">ITAWAMBA COMMUNITY COLLEGE Scholarship</span>
 </div>
 

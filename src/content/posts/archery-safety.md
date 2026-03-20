@@ -12,7 +12,7 @@ readTime: "16 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Check Your Equipment"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "Always check your equipment before every session -- inspect your bow for cracks, test your string for wear, and verify your arrows aren't damaged. This list covers gear checks, posture, range safety, protective gear, and first aid preparedness."
 toc:
   - label: "1. Check Your Equipment"
     href: "#1-check-your-equipment"
@@ -69,11 +69,11 @@ One crucial stage involved in physical activities would be their safety protocol
 
 Although considered as statistically among the safest sports by the World Archery organization, archery is no exception to inevitable danger like any other sports out there - extreme or not.
 
-Inflicting pain from hand-cuts, swollen shoulders, and arms due to long muscle contraction hours subjected to training or the actual competition are the commonly reported injuries of archers.
+Inflicting pain from hand-cuts, swollen shoulders, and arms due to long muscle contraction hours subjected to training or the actual competition are the commonly reported injuries of archers. You can learn more about these in our article on the [most common archery injuries](/archery-injuries/) and how to avoid them.
 
 If left unattended, it can cause and result in a more serious physical injury that will permanently damage your limbs.
 
-So, without further ado, let's talk about our list of the 10 most important archery safety tips before you shoot.
+Here are the 10 most important archery safety tips before you shoot.
 
 ## 1. Check Your Equipment
 
@@ -152,7 +152,7 @@ In fulfilling your demanding daily schedule, you need to be strong physically, f
 
 Better safe than sorry as what sport iconic say during the peak seasons of training and competition.
 
-In the interval of these events, aspiring archers might have practiced shooting mistakes, and right posture application is one of those to blame for.
+In the interval of these events, aspiring archers might have practiced shooting mistakes, and right posture application is one of those to blame for. Our guides on [proper archery stance](/archery-stance/) and [archery form](/archery-form/) can help you develop safe, repeatable posture from day one.
 
 [Archery techniques compromise posture](https://rangerexpert.com/archery-bow-types-and-terminologies/) for the latter varies on the type of equipment you're using, but regardless of that though, you must comply with the general standard posture and body alignment habits to avoid mild to severe injuries.
 

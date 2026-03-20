@@ -12,12 +12,12 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery Equipment Rental: What You Need To Know First"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Renting archery equipment typically costs about $10 per session on top of the range fee, and most packages include a bow, quiver, armguard, and arrows. It's the smartest way to try the sport before committing to buying your own gear."
 toc:
   - label: "Archery Equipment Rental: What You Need To Know First"
     href: "#archery-equipment-rental-what-you-need-to-know-first"
   - label: "Archery Equipment"
-    href: "#archery-equipment-rental-what-you-need-to-know-first"
+    href: "#archery-equipment"
   - label: "Different Types Of Archery"
     href: "#different-types-of-archery"
   - label: "Equipment Rentals"
@@ -27,7 +27,7 @@ toc:
   - label: "Benefits To Retailers"
     href: "#benefits-to-retailers"
   - label: "Rules Of Archery Headquarters"
-    href: "#different-types-of-archery"
+    href: "#rules-of-archery-headquarters"
   - label: "Rates & Equipment"
     href: "#rates--equipment"
   - label: "FAQ"
@@ -50,7 +50,7 @@ However, the athlete can't excel in any sport if they're not using high-quality 
 
 Purchasing high-end equipment, though, may put a huge burden on the limited finances of some people.
 
-Renting is a rational decision that will help the person get started with their sports passion.
+Renting is a rational decision that will help the person get started with their sports passion. If you're brand new to the sport, our [archery for beginners](/archery-for-beginners/) guide covers everything you need to know before your first session.
 
 Similar to many famous sports, Archery isn't complete without a huge range of accessories and essential tools.
 
@@ -76,7 +76,7 @@ Sometimes, it may physically hurt you.
 
 The bracer is right next to the bow, holding the arm, and fits well near the elbow.
 
-The bow shot is of three types. Compound, recurve, and longbow.
+The bow shot is of three types. Compound, recurve, and longbow. You can learn more about each in our guide to [different types of archery bows](/different-types-of-archery-bows/).
 
 All of them are used according to the level of experience in the Archery.
 

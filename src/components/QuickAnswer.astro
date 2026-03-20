@@ -14,7 +14,7 @@ const { label = 'Quick Answer', title, text, ctaText, ctaUrl } = Astro.props;
   <p class="quick-answer-title">{title}</p>
   <p>{text}</p>
   {ctaText && ctaUrl && (
-    <a href={ctaUrl} class="quick-answer-cta" {...(ctaUrl.startsWith('#') ? {} : { target: '_blank', rel: 'noopener noreferrer nofollow' })}>
+    <a href={ctaUrl} class="quick-answer-cta" {...(ctaUrl.startsWith('#') ? {} : { target: '_blank', rel: 'noopener noreferrer nofollow sponsored' })}>
       {ctaText.replace(/\s*→\s*$/, '')}
       <svg class="quick-answer-arrow" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
     </a>

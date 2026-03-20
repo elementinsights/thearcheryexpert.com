@@ -11,44 +11,44 @@ imageAlt: "10 Coolest Archery Patches & Stickers That Look Great"
 readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
-  title: "1."
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  title: "Archery Bow 2 Inch Iron on Patch"
+  text: "This beautifully embroidered iron-on patch features a bright yellow bow and arrow on a black background with a cherry red border. It's easy to apply with heat or sewing for a permanent fix."
 toc:
-  - label: "1. 1."
-    href: "#1-1"
-  - label: "2. 2."
-    href: "#2-2"
-  - label: "3. 3."
-    href: "#3-3"
-  - label: "4. 4."
-    href: "#4-4"
-  - label: "5. 5."
-    href: "#5-5"
-  - label: "6. 6."
-    href: "#6-6"
-  - label: "7. 7."
-    href: "#7-7"
-  - label: "8. 8."
-    href: "#8-8"
-  - label: "9. 9."
-    href: "#9-9"
-  - label: "10. 10."
-    href: "#10-10"
+  - label: "1. Archery Bow 2 Inch Iron on Patch"
+    href: "#1-archery-bow-2-inch-iron-on-patch"
+  - label: "2. Tactical Bowhunter Patch"
+    href: "#2-tactical-bowhunter-patch"
+  - label: "3. Antrix Antlers Wildlife Hunting Patch"
+    href: "#3-antrix-antlers-wildlife-hunting-patch"
+  - label: "4. Archery Apple & Arrow Embroidered Patch"
+    href: "#4-archery-apple--arrow-embroidered-patch"
+  - label: "5. Miniature Cute Archery Target Patch"
+    href: "#5-miniature-cute-archery-target-patch"
+  - label: "6. Girl Archer Die Cut Vinyl Window Decal"
+    href: "#6-girl-archer-die-cut-vinyl-window-decal"
+  - label: "7. Deer Buck Antlers Skull Hunting Sticker"
+    href: "#7-deer-buck-antlers-skull-hunting-sticker"
+  - label: "8. Hunt Like A Girl Sticker"
+    href: "#8-hunt-like-a-girl-sticker"
+  - label: "9. Born To Hunt Decal"
+    href: "#9-born-to-hunt-decal"
+  - label: "10. Slap-Art Archery Silhouette Decal"
+    href: "#10-slap-art-archery-silhouette-decal"
   - label: "FAQ"
     href: "#faq"
   - label: "Final Thoughts"
     href: "#final-thoughts"
 quickFacts:
   - value: "#1"
-    label: "1."
+    label: "Archery Bow 2 Inch Iron on Patch"
   - value: "#2"
-    label: "2."
+    label: "Tactical Bowhunter Patch"
   - value: "#3"
-    label: "3."
+    label: "Antrix Antlers Wildlife Hunting Patch"
   - value: "#4"
-    label: "4."
+    label: "Archery Apple & Arrow Embroidered Patch"
   - value: "#5"
-    label: "5."
+    label: "Miniature Cute Archery Target Patch"
 faq:
   - question: "How do I apply an iron-on archery patch to my gear?"
     answer: "Preheat your iron to the cotton setting without steam, position the patch with the embroidery facing up, cover it with a thin cloth, and press firmly for about 30 seconds using a circular motion. Let it cool for a minute before handling, and iron the backside for extra hold."
@@ -65,19 +65,19 @@ Passionate archers are beginning to tap the opportunity to add cool and designer
 
 You can easily fix these amazing and colorful patches to your desired location.
 
-Gone are those days when you had a boring gear or case and weren't able to flaunt the cool archery accessories.
+Gone are those days when you had a boring gear or case and weren't able to flaunt the cool archery accessories. If you prefer adhesive stickers over fabric patches, check out our roundup of the best [archery decals](/archery-decals/) too.
 
 Now, you can add these supercool archery patches & stickers to your cases, gears, backpacks, hats, and garments.
 
-You can use different stylish and colorful patches based on your mood and occasion.
+You can use different stylish and colorful patches based on your mood and occasion. Pair them with [archery tee shirts](/archery-tee-shirts/) for the ultimate archer look.
 
 Once you own these patches and stickers recommended in this article, you're going to fall in love with the super cool feeling.
 
-## 1. 1.
+## 1. Archery Bow 2 Inch Iron on Patch
 
 <div class="stat-highlight">
   <span class="stat-number">#1</span>
-  <span class="stat-text">1.</span>
+  <span class="stat-text">Archery Bow 2 Inch Iron on Patch</span>
 </div>
 
 This beautiful embroidered patch is for those who are looking to refresh the look of their garment or case.
@@ -110,11 +110,11 @@ The beauty of this patch is that you can also sew this patch onto your garment i
 
 - Quality embroidery work
 
-## 2. 2.
+## 2. Tactical Bowhunter Patch
 
 <div class="stat-highlight">
   <span class="stat-number">#2</span>
-  <span class="stat-text">2.</span>
+  <span class="stat-text">Tactical Bowhunter Patch</span>
 </div>
 
 This Bowhunter patch is strategically designed for hats and gears.
@@ -153,11 +153,11 @@ All of the designer tactical patches are made in the USA.
 
 - Velcro hooks for tactical gears and hats
 
-## 3. 3.
+## 3. Antrix Antlers Wildlife Hunting Patch
 
 <div class="stat-highlight">
   <span class="stat-number">#3</span>
-  <span class="stat-text">3.</span>
+  <span class="stat-text">Antrix Antlers Wildlife Hunting Patch</span>
 </div>
 
 Antrix Antlers Hunting Patch is tough, comfortable, durable, easy to wash and remove.
@@ -196,11 +196,11 @@ It's rectangular and compact and you can apply this patch easily on smaller surf
 
 - 100% refund in case of dissatisfaction
 
-## 4. 4.
+## 4. Archery Apple & Arrow Embroidered Patch
 
 <div class="stat-highlight">
   <span class="stat-number">#4</span>
-  <span class="stat-text">4.</span>
+  <span class="stat-text">Archery Apple & Arrow Embroidered Patch</span>
 </div>
 
 The size and design of this patch are so unique that one will instantly fall in love with this patch.
@@ -237,11 +237,11 @@ The patch can be returned to the seller in case you aren't satisfied.
 
 - Vibrant colors
 
-## 5. 5.
+## 5. Miniature Cute Archery Target Patch
 
 <div class="stat-highlight">
   <span class="stat-number">#5</span>
-  <span class="stat-text">5.</span>
+  <span class="stat-text">Miniature Cute Archery Target Patch</span>
 </div>
 
 If you're an archery lover, this patch is one of the cutest patches you'll find online.
@@ -282,11 +282,11 @@ This patch can be returned in case you aren't satisfied with the quality or you'
 
 - Comes with special glue for fixing
 
-## 6. 6.
+## 6. Girl Archer Die Cut Vinyl Window Decal
 
 <div class="stat-highlight">
   <span class="stat-number">#6</span>
-  <span class="stat-text">6.</span>
+  <span class="stat-text">Girl Archer Die Cut Vinyl Window Decal</span>
 </div>
 
 Tired of seeing typical male archery decals?
@@ -321,11 +321,11 @@ Red Clay Designs ensure quick shipping and delivery once you've placed orders fo
 
 - Minimalist white design
 
-## 7. 7.
+## 7. Deer Buck Antlers Skull Hunting Sticker
 
 <div class="stat-highlight">
   <span class="stat-number">#7</span>
-  <span class="stat-text">7.</span>
+  <span class="stat-text">Deer Buck Antlers Skull Hunting Sticker</span>
 </div>
 
 If you're looking for a super cool and sharp deer antler sticker, this one fits very well.
@@ -360,11 +360,11 @@ So, applying this vinyl decal is a simple and hassle-free process.
 
 - Premium quality
 
-## 8. 8.
+## 8. Hunt Like A Girl Sticker
 
 <div class="stat-highlight">
   <span class="stat-number">#8</span>
-  <span class="stat-text">8.</span>
+  <span class="stat-text">Hunt Like A Girl Sticker</span>
 </div>
 
 Looking for a special hunting text sticker?
@@ -403,11 +403,11 @@ In case you're looking for a sticker that stands out, you can definitely go for 
 
 - Easy application
 
-## 9. 9.
+## 9. Born To Hunt Decal
 
 <div class="stat-highlight">
   <span class="stat-number">#9</span>
-  <span class="stat-text">9.</span>
+  <span class="stat-text">Born To Hunt Decal</span>
 </div>
 
 This sticker has a cool black text - Born to Hunt, Forced to Work, and a deer beside it, and wordings are of a unique font compared to the other decals in this list.
@@ -444,11 +444,11 @@ This decal can be returned to the seller in case you're not satisfied with the q
 
 - Can be applied on multiple surfaces
 
-## 10. 10.
+## 10. Slap-Art Archery Silhouette Decal
 
 <div class="stat-highlight">
   <span class="stat-number">#10</span>
-  <span class="stat-text">10.</span>
+  <span class="stat-text">Slap-Art Archery Silhouette Decal</span>
 </div>
 
 This is one of the coolest archery stickers in which a passionate archer shoots the arrow.

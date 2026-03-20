@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the Huntingdoor Archery Traditional Recurve Mongolian Horse Bow"
-  text: "The Mongolians have the fiercest army in the ancient world. They’re swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians’ secrets in battle is their horsemen, particularly the horse bow infantry."
+  text: "The Mongolians have the fiercest army in the ancient world. They're swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians' secrets in battle is their horsemen, particularly the horse bow infantry."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B077QGH19V?tag=thearcheryexpert-20"
 toc:
@@ -22,20 +22,20 @@ toc:
     href: "#1-huntingdoor-archery-traditional-recurve-mongolian-horse-bow--best-overall"
   - label: "2. AF Turkish Short Bow — Runner Up"
     href: "#2-af-turkish-short-bow--runner-up"
-  - label: "3. AF Handmade Traditional Crimean Tatar Recurve Bow — Best Value"
-    href: "#3-af-handmade-traditional-crimean-tatar-recurve-bow--best-value"
+  - label: "3. Deerseeker 54 inch Traditional Hunting Longbow — Best Value"
+    href: "#3-deerseeker-54-inch-traditional-hunting-longbow--best-value"
   - label: "4. Southland Archery Traditional Recurve Bow — Premium Pick"
     href: "#4-southland-archery-traditional-recurve-bow--premium-pick"
-  - label: "5. Premium Korean Traditional Bow — Budget Pick"
-    href: "#5-premium-korean-traditional-bow--budget-pick"
+  - label: "5. SAS Maverick One Piece Traditional Wood Hunting Bow — Budget Pick"
+    href: "#5-sas-maverick-one-piece-traditional-wood-hunting-bow--budget-pick"
   - label: "6. PSE Archery Pro Max Traditional Recurve Bow — Most Popular"
     href: "#6-pse-archery-pro-max-traditional-recurve-bow--most-popular"
   - label: "7. D&Q Takedown Recurve Bow and Arrow — Best Design"
     href: "#7-dq-takedown-recurve-bow-and-arrow--best-design"
   - label: "8. Spyder XL Takedown Recurve Bow — Most Durable"
     href: "#8-spyder-xl-takedown-recurve-bow--most-durable"
-  - label: "9. AF Turkish Style Handmade Traditional Laminated Recurve Bow — Best for Beginners"
-    href: "#9-af-turkish-style-handmade-traditional-laminated-recurve-bow--best-for-beginners"
+  - label: "9. PSE Stinger MAX RTS Pro Compound Bow Package — Best for Beginners"
+    href: "#9-pse-stinger-max-rts-pro-compound-bow-package--best-for-beginners"
   - label: "10. Bear Archery Grizzly Recurve Right Hand — Honorable Mention"
     href: "#10-bear-archery-grizzly-recurve-right-hand--honorable-mention"
   - label: "FAQ"
@@ -90,25 +90,25 @@ products:
       - "Shorter draw length may feel restrictive for taller archers"
       - "Needs a thumb ring for proper traditional Turkish shooting technique"
     ctaUrl: "https://www.amazon.com/dp/B0799JRB2G?tag=thearcheryexpert-20"
-  - name: "AF Handmade Traditional Crimean Tatar Recurve Bow"
+  - name: "Deerseeker 54 inch Traditional Hunting Longbow with Bamboo Core"
     rank: 3
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg"
-    description: "Another bow of AF Archery that I’ll be talking about is the AF Archery Horse Bow."
+    description: "The Deerseeker 54-inch traditional longbow features a bamboo core and leather grip for smooth shooting from the ground or horseback."
     highlights:
-      - "Crimean Tatar Style"
-      - "Handcrafted"
-      - "Fiberglass Core"
-      - "Smooth Draw"
+      - "54 Inch Length"
+      - "Bamboo Core"
+      - "Leather Grip"
+      - "Traditional Style"
     pros:
-      - "Handcrafted Crimean Tatar design with a unique historical aesthetic"
-      - "Fiberglass and wood laminated core delivers a smooth, fast draw"
-      - "Wide range of draw weights available for different skill levels"
-      - "Excellent choice for mounted archery competitions and practice"
+      - "54-inch length is compact enough for mounted archery maneuvers"
+      - "Bamboo core limbs deliver a smooth draw and responsive shot"
+      - "Leather-wrapped grip provides a comfortable, secure hold"
+      - "Traditional longbow style appeals to instinctive shooting enthusiasts"
     cons:
-      - "Handmade nature means slight variations between individual bows"
-      - "Higher price point than mass-produced horse bows"
+      - "Longbow design doesn't store as much energy as a recurve at the same draw weight"
+      - "Limited draw weight options compared to some competitors"
     ctaUrl: "https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20"
   - name: "Southland Archery Traditional Recurve Bow"
     rank: 4
@@ -130,25 +130,25 @@ products:
       - "Longer than ideal for tight-clearance mounted archery maneuvers"
       - "Right-hand only design limits availability for lefty archers"
     ctaUrl: "https://www.amazon.com/dp/B07JWF2S9M?tag=thearcheryexpert-20"
-  - name: "Premium Korean Traditional Bow"
+  - name: "SAS Maverick One Piece Traditional Wood Hunting Bow"
     rank: 5
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg"
-    description: "Korea is currently the top-performing country in regards to archery, in general."
+    description: "The SAS Maverick is a one-piece traditional wood bow from Southland Archery Supply, built for hunting and target shooting."
     highlights:
-      - "Korean Design"
-      - "Fast Arrow Speed"
-      - "Compact Profile"
-      - "Competition Grade"
+      - "One Piece Design"
+      - "Traditional Wood"
+      - "SAS Quality"
+      - "Hunting Ready"
     pros:
-      - "Korean traditional bow design produces impressive arrow speed for its size"
-      - "Compact profile is perfect for mounted archery courses"
-      - "Used in competitive mounted archery events worldwide"
-      - "Lightweight construction reduces arm fatigue during repeated shots"
+      - "One-piece construction provides a solid, consistent shooting platform"
+      - "Traditional wood build delivers a classic look and smooth performance"
+      - "Southland Archery Supply is a trusted name in traditional archery gear"
+      - "Affordable entry point for archers getting into traditional bow hunting"
     cons:
-      - "Requires practice to adapt to the unique Korean draw technique"
-      - "Limited draw weight options compared to other horse bows on this list"
+      - "One-piece design means you can't break it down for easy transport"
+      - "Longer length may limit maneuverability on horseback"
     ctaUrl: "https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20"
   - name: "PSE Archery Pro Max Traditional Recurve Bow"
     rank: 6
@@ -175,7 +175,7 @@ products:
     badge: "Best Design"
     rating: 8.6
     image: "https://m.media-amazon.com/images/I/51xO+-f9ZuL._SL500_.jpg"
-    description: "The D&Q Takedown Recurve Bow is extremely durable and extraordinarily tough, and I guarantee you that!"
+    description: "The D&Q Takedown Recurve Bow is extremely durable and extraordinarily tough, and I guarantee you that."
     highlights:
       - "Takedown Build"
       - "Aluminum Riser"
@@ -210,32 +210,32 @@ products:
       - "64-inch length is too long for practical horseback archery"
       - "Heavier setup weight compared to traditional wooden horse bows"
     ctaUrl: "https://www.amazon.com/dp/B01LY8GVDJ?tag=thearcheryexpert-20"
-  - name: "AF Turkish Style Handmade Traditional Laminated Recurve Bow"
+  - name: "PSE Stinger MAX RTS Pro Compound Bow Package"
     rank: 9
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg"
-    description: "We'll take another look at a Turkish handcrafted bow and the third archery item in this list for this section."
+    description: "The PSE Stinger MAX RTS Pro is a ready-to-shoot compound bow package with everything you need to start shooting right out of the box."
     highlights:
-      - "Turkish Style"
-      - "Handmade Laminate"
-      - "Beginner Friendly"
-      - "Draw Weight Range"
+      - "Ready To Shoot"
+      - "Compound Design"
+      - "70 lb Draw"
+      - "Full Accessory Kit"
     pros:
-      - "Handmade Turkish-style design is perfect for learning mounted archery basics"
-      - "Laminated construction with fiberglass provides consistent performance"
-      - "Available in a wide range of draw weights for all skill levels"
-      - "Short enough to clear the horse during mounted shooting drills"
+      - "Ready-to-shoot package includes sight, rest, quiver, and stabilizer"
+      - "Compound design delivers high arrow speed and consistent accuracy"
+      - "Adjustable draw weight up to 70 lbs covers a wide range of needs"
+      - "PSE's proven cam system provides a smooth, reliable draw cycle"
     cons:
-      - "Handmade quality can vary slightly between batches"
-      - "Finish isn't as polished as more expensive AF Archery models"
+      - "Compound bows aren't traditionally used in mounted archery"
+      - "Heavier and bulkier than traditional horse bows for horseback use"
     ctaUrl: "https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20"
   - name: "Bear Archery Grizzly Recurve Right Hand"
     rank: 10
     badge: "Honorable Mention"
     rating: 8.0
     image: "https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg"
-    description: "If you’re looking for an archery store with a long history, then you must visit Bear Archery."
+    description: "If you're looking for an archery store with a long history, then you must visit Bear Archery."
     highlights:
       - "Bear Heritage"
       - "Satin Finish"
@@ -259,7 +259,7 @@ If you're a beginner in any endeavor of your choosing, the primary source of str
 
 For me, the passion for mounted archery is rare because there's not much competitive buzz around them, and not everybody has access to horses or even an open field.
 
-Nonetheless, it's a very enjoyable recreational activity if you've the necessary sources and once you mastered or at least known the basics of the sports.
+Nonetheless, it's a very enjoyable recreational activity if you've the necessary sources and once you mastered or at least known the basics of the sports. If you're interested in the cultural roots of mounted archery, read our article on [Korean archery](/korean-archery/) and the [different types of archery bows](/different-types-of-archery-bows/).
 
 Anyway, you might've come here because a passion for mounted archery developed within you.
 
@@ -285,70 +285,70 @@ Anyway, you might've come here because a passion for mounted archery developed w
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B077QGH19V?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414HtozIt6L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B077QGH19V?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/414HtozIt6L._SL500_.jpg" alt="Huntingdoor Archery Traditional Recurve" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Huntingdoor Archery Traditional Recurve </td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B077QGH19V?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0799JRB2G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/416gGMM35zL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0799JRB2G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/416gGMM35zL._SL500_.jpg" alt="AF Turkish Short Bow" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">AF Turkish Short Bow</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B0799JRB2G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">AF Handmade Traditional Crimean Tatar Re</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="Deerseeker 54in Traditional Hunting Longb" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">Deerseeker 54in Traditional Hunting Longb</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07JWF2S9M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3127ROApiyL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07JWF2S9M?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3127ROApiyL._SL500_.jpg" alt="Southland Archery Traditional Recurve Bo" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Southland Archery Traditional Recurve Bo</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07JWF2S9M?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">Premium Korean Traditional Bow</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg" alt="SAS Maverick One Piece Traditional Wood H" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">SAS Maverick One Piece Traditional Wood H</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CfFH-Xs3L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41CfFH-Xs3L._SL500_.jpg" alt="PSE Archery Pro Max Traditional Recurve" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">PSE Archery Pro Max Traditional Recurve </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B01N12IUUC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B079Z4V8ZN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51xO+-f9ZuL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B079Z4V8ZN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51xO+-f9ZuL._SL500_.jpg" alt="D&Q Takedown Recurve Bow and Arrow" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">D&Q Takedown Recurve Bow and Arrow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B079Z4V8ZN?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01LY8GVDJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41WKYKOtQDL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01LY8GVDJ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41WKYKOtQDL._SL500_.jpg" alt="Spyder XL Takedown Recurve Bow" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Spyder XL Takedown Recurve Bow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B01LY8GVDJ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">AF Turkish Style Handmade Traditional La</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg" alt="PSE Stinger MAX RTS Pro Compound Bow Pac" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">PSE Stinger MAX RTS Pro Compound Bow Pac</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/21UHZkeJk+L._SL500_.jpg" alt="Bear Archery Grizzly Recurve Right Hand" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Bear Archery Grizzly Recurve Right Hand</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B003ZVGRC6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -371,7 +371,7 @@ Anyway, you might've come here because a passion for mounted archery developed w
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">The Mongolians have the fiercest army in the ancient world. They're swift and effective that their enemy fears facing them on the battlefield. And one of the Mongolians' secrets in battle is their horsemen, particularly the horse bow infantry.</p>
+<p class="product-card-desc">The Mongolians have the fiercest army in the ancient world. They're swift and effective that their enemy fears facing them on the battlefield.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Mongolian Style</span>
 <span class="highlight-tag">Leather Wrapped</span>
@@ -531,26 +531,26 @@ However, it's a little expensive and may not be affordable for everybody.
 
 Nevertheless, it's a great bow to own if you value the equipment's durability and longevity.
 
-## 3. AF Handmade Traditional Crimean Tatar Recurve Bow &mdash; Best Value
+## 3. Deerseeker 54 inch Traditional Hunting Longbow &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="AF Handmade Traditional Crimean Tatar Recurve Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41uUGCEMyKL._SL500_.jpg" alt="Deerseeker 54 inch Traditional Hunting Longbow with Bamboo Core" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Bow</div>
-<h3 class="product-card-name">AF Handmade Traditional Crimean Tatar Recurve Bow</h3>
+<h3 class="product-card-name">Deerseeker 54 inch Traditional Hunting Longbow with Bamboo Core</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">Another bow of AF Archery that I'll be talking about is the AF Archery Horse Bow. The brand itself produces some of the top bows in the market. Therefore, rest assured that you're only receiving the best if you buy any of their archery equipment.</p>
+<p class="product-card-desc">The Deerseeker 54-inch traditional longbow features a bamboo core and leather grip for smooth shooting from the ground or horseback.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Crimean Tatar Style</span>
-<span class="highlight-tag">Handcrafted</span>
-<span class="highlight-tag">Fiberglass Core</span>
-<span class="highlight-tag">Smooth Draw</span>
+<span class="highlight-tag">54 Inch Length</span>
+<span class="highlight-tag">Bamboo Core</span>
+<span class="highlight-tag">Leather Grip</span>
+<span class="highlight-tag">Traditional Style</span>
 </div>
 <a href="https://www.amazon.com/dp/B088GPBT5K?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -565,9 +565,9 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Durability</li>
-<li>Made out of ashwood</li>
-<li>Great for both mounted and non-mounted archery</li>
+<li>54-inch compact length clears easily on horseback</li>
+<li>Bamboo core provides a smooth, responsive draw</li>
+<li>Leather-wrapped grip for a secure hold</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -576,46 +576,22 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Handmade nature means slight variations between individual bows</li>
-<li>Higher price point than mass-produced horse bows</li>
+<li>Longbow design doesn't store as much energy as a recurve at the same draw weight</li>
+<li>Limited draw weight options compared to some competitors</li>
 </ul>
 </div>
 </div>
 </div>
 
-Another bow of AF Archery that I'll be talking about is the AF Archery Horse Bow.
+The Deerseeker 54-inch Traditional Hunting Longbow is built around a bamboo core that delivers a smooth, forgiving draw cycle. At 54 inches, it's compact enough to maneuver comfortably from horseback without catching on the reins or saddle.
 
-The brand itself produces some of the top bows in the market.
+The leather-wrapped grip provides a secure, comfortable hold during fast-paced mounted shooting drills. It's tacky enough to stay in your hand without being sticky or uncomfortable during extended sessions.
 
-Therefore, rest assured that you're only receiving the best if you buy any of their archery equipment.
+The bamboo core paired with the longbow limb profile produces a quiet, vibration-free shot. You won't get the same stored energy as a recurve design, but the smooth release makes it easier to shoot accurately while moving.
 
-This model is another adaptation from an ancient bow design called the Crimean Tatar.
+This bow works equally well for ground-based traditional archery and target practice. It's a good choice for archers who want a single bow they can use across different shooting disciplines.
 
-Crimea is an indigenous tribe found in the Eastern regions of Europe.
-
-They're mainly considered of Turkish ethnicity.
-
-The term Tatar was in usage in both Turkish tribes and the Mongolian civilization.
-
-Back in those periods, the bow is extremely effective in both land combat and horseback rides.
-
-However, the design of the bow is primarily as a cavalry weapon, warrior on horseback.
-
-If you want to experience the feeling of using such a weapon, then you've to consider AF's Handmade Traditional Crimean Tatar Recurve Bow.
-
-Yes, the bow is handcrafted, which means that it's top-notch quality.
-
-Although it's not 100% traditional, the manufacturers still use core materials such as ashwood and bamboo.
-
-Again, ashwood is extremely tough and won't break that easily.
-
-On the other hand, the addition of fiberglass into the mix enhances the bow's durability.
-
-Also, the overall design of the bow is pleasing to look at but not too flashy.
-
-It has that minimalistic aesthetic of dark wood color on the front, with a mix of the light color of leather and wood underneath it.
-
-I believe that the AF Handmade Traditional Crimean Tatar Recurve Bow is the best value for durability and overall quality.
+The traditional aesthetic of the Deerseeker is understated and clean, with a natural wood and leather look. It's a solid value for anyone looking to get into mounted archery without spending a fortune on specialized horse bows.
 
 ## 4. Southland Archery Traditional Recurve Bow &mdash; Premium Pick
 
@@ -707,26 +683,26 @@ They also offer a great package.
 
 Aside from the horse bow, it also includes brass bushing, quiver, sight, stabilizer, and brass plungers.
 
-## 5. Premium Korean Traditional Bow &mdash; Budget Pick
+## 5. SAS Maverick One Piece Traditional Wood Hunting Bow &mdash; Budget Pick
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg" alt="Premium Korean Traditional Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31uWX4IztrL._SL500_.jpg" alt="SAS Maverick One Piece Traditional Wood Hunting Bow" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#5 Pick</span> Budget Pick Bow</div>
-<h3 class="product-card-name">Premium Korean Traditional Bow</h3>
+<h3 class="product-card-name">SAS Maverick One Piece Traditional Wood Hunting Bow</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.9/10</span>
 </div>
-<p class="product-card-desc">Korea is currently the top-performing country in regards to archery, in general. They take their archery lessons very seriously. Their ability to compete well in archery range is also mirrored by their bow and arrow production.</p>
+<p class="product-card-desc">The SAS Maverick is a one-piece traditional wood bow from Southland Archery Supply, built for hunting and target shooting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Korean Design</span>
-<span class="highlight-tag">Fast Arrow Speed</span>
-<span class="highlight-tag">Compact Profile</span>
-<span class="highlight-tag">Competition Grade</span>
+<span class="highlight-tag">One Piece Design</span>
+<span class="highlight-tag">Traditional Wood</span>
+<span class="highlight-tag">SAS Quality</span>
+<span class="highlight-tag">Hunting Ready</span>
 </div>
 <a href="https://www.amazon.com/dp/B085VNHWW2?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -741,9 +717,9 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>BCY strings</li>
-<li>Korean best-seller</li>
-<li>The manufacturers included extra strings</li>
+<li>One-piece construction for a solid shooting platform</li>
+<li>Traditional wood build with smooth performance</li>
+<li>Affordable price from a trusted brand</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -752,44 +728,22 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Requires practice to adapt to the unique Korean draw technique</li>
-<li>Limited draw weight options compared to other horse bows on this list</li>
+<li>One-piece design means you can't break it down for easy transport</li>
+<li>Longer length may limit maneuverability on horseback</li>
 </ul>
 </div>
 </div>
 </div>
 
-Korea is currently the top-performing country in regards to archery, in general.
+The SAS Maverick is a one-piece traditional wood bow from Southland Archery Supply, one of the most recognized names in affordable traditional archery gear. Its solid one-piece construction provides a stable, consistent shooting platform with no takedown hardware to rattle or loosen.
 
-They take their archery lessons very seriously.
+The wood build gives the Maverick a classic traditional look that instinctive shooters appreciate. It's smooth to draw and releases cleanly without excessive hand shock or vibration.
 
-Their ability to compete well in archery range is also mirrored by their bow and arrow production.
+Southland Archery Supply designed this bow with hunting in mind, so the draw weights are appropriate for game at ethical distances. It also works well for backyard target practice and building form.
 
-With this being said, you've to consider their archery equipment if you're a beginner or want to improve your ability to aim and hit targets accurately.
+The one-piece design does mean you can't break it down for compact storage or travel. If you need to transport it to a riding arena or stable, you'll need to plan for the full-length bow.
 
-Another plus feature of the bow is that it's specifically designed for mounted archery.
-
-They're also very effective no matter what the distances are.
-
-Either long distance or short distances, you can completely rely on them.
-
-The label of the gear says traditional, but what this refers to is the design.
-
-This is the choice of horse bow if you're not comfortable with all-wood gear and want to use an infusion of wood and carbon.
-
-In particular, the carbon element of the gear boosts the power and speed of the shot thrown.
-
-Lastly, the strings included in the package are BCY fibers.
-
-Archery gear manufacturers use mostly Dyneema for the Bowstring and Spectra for other essential materials.
-
-This is a strong material that's flexible and extremely durable that won't break easily and will stand the test of time.
-
-The Premium Korean Traditional Bow is also the bestselling bow in the said country.
-
-With this being said - you can expect that you'll only receive the best.
-
-If the best country in archery competition likes it, then it means that this bow is amazing as well, right?
+At its price point, the SAS Maverick is tough to beat for archers who want a reliable traditional wood bow without a premium price tag. It's a straightforward, no-frills option that performs well in the field.
 
 ## 6. PSE Archery Pro Max Traditional Recurve Bow &mdash; Most Popular
 
@@ -1038,26 +992,26 @@ However, for the cost, you'll be receiving a carbon-made arrow, bowstrings, arro
 
 So I believe that it's worth every penny if eventually, you purchase them.
 
-## 9. AF Turkish Style Handmade Traditional Laminated Recurve Bow &mdash; Best for Beginners
+## 9. PSE Stinger MAX RTS Pro Compound Bow Package &mdash; Best for Beginners
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg" alt="AF Turkish Style Handmade Traditional Laminated Recurve Bow" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/415Hhk1hvwL._SL500_.jpg" alt="PSE Stinger MAX RTS Pro Compound Bow Package" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#9 Pick</span> Best for Beginners Bow</div>
-<h3 class="product-card-name">AF Turkish Style Handmade Traditional Laminated Recurve Bow</h3>
+<h3 class="product-card-name">PSE Stinger MAX RTS Pro Compound Bow Package</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">We'll take another look at a Turkish handcrafted bow and the third archery item in this list for this section. I simply love the Turkish bow and arrow because of its simplicity and compactness.</p>
+<p class="product-card-desc">The PSE Stinger MAX RTS Pro is a ready-to-shoot compound bow package with everything you need to start shooting right out of the box.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Turkish Style</span>
-<span class="highlight-tag">Handmade Laminate</span>
-<span class="highlight-tag">Beginner Friendly</span>
-<span class="highlight-tag">Draw Weight Range</span>
+<span class="highlight-tag">Ready To Shoot</span>
+<span class="highlight-tag">Compound Design</span>
+<span class="highlight-tag">70 lb Draw</span>
+<span class="highlight-tag">Full Accessory Kit</span>
 </div>
 <a href="https://www.amazon.com/dp/B08GKQ82N9?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -1072,9 +1026,9 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Works well with both beginners and advanced mounted archers</li>
-<li>Simple design</li>
-<li>Lightweight and easy to carry around</li>
+<li>Ready-to-shoot package with all accessories included</li>
+<li>Compound design for high arrow speed and accuracy</li>
+<li>Adjustable draw weight up to 70 lbs</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -1083,42 +1037,22 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Handmade quality can vary slightly between batches</li>
-<li>Finish isn't as polished as more expensive AF Archery models</li>
+<li>Compound bows aren't traditionally used in mounted archery</li>
+<li>Heavier and bulkier than traditional horse bows for horseback use</li>
 </ul>
 </div>
 </div>
 </div>
 
-We'll take another look at a Turkish handcrafted bow and the third archery item in this list for this section.
+The PSE Stinger MAX RTS Pro is a complete ready-to-shoot compound bow package that comes with a sight, arrow rest, quiver, and stabilizer. You can start shooting right out of the box without buying any additional accessories.
 
-I simply love the Turkish bow and arrow because of its simplicity and compactness.
+PSE's cam system delivers a smooth draw cycle with adjustable draw weight up to 70 lbs. The let-off at full draw makes it comfortable to hold while aiming, which is a major advantage for beginners working on their form.
 
-Unlike modern designs that are super flashy most of the time, traditional aesthetics have that satisfying, straightforward appeal that I like looking at.
+It's worth noting that compound bows aren't traditionally used in mounted archery competitions, which typically favor short recurves and horse bows. However, the Stinger MAX is an excellent choice for ground-based target practice and hunting.
 
-One particular item close to the traditional design is the AF Turkish Style Handmade Laminated Recurve Bow.
+The black finish gives the bow a clean, modern look that appeals to archers who prefer a utilitarian aesthetic. PSE's build quality is well-regarded in the archery community, and the Stinger line has a strong track record.
 
-Aside from its overall pleasing vibe, the bow is sufficiently sturdy to withstand high levels of stress.
-
-The reason behind the bow's strength is the materials used in constructing it, which include ash wood, glass fiber, and several bamboo materials.
-
-I know - glass fiber isn't a traditional material, but what they meant with the term traditional is how the horse bow is generally structured.
-
-Plus, the important traditional items are still there, like ash wood and bamboo.
-
-So that's that.
-
-The patch around the handle is carefully woven so it wouldn't fall off easily.
-
-It also allows a better grip that improves your aim and increases your chances of hitting the target more accurately.
-
-The lightweight characteristic of the bow is also something admirable about in my opinion.
-
-In mounted archery, the bow and arrow have to be as light as possible.
-
-By considering this essential element, it provides the archer much better agility and ability to draw and set as fast as possible.
-
-I believe that the AF Turkish Style Handmade Laminated Traditional Recurve Bow is one of the best values for money that can provide mounted archers, both experienced and novice, the quality they're looking for.
+If you're primarily interested in hunting or target shooting and want to explore horseback archery later, this package gets you started affordably. You can always add a dedicated horse bow to your collection down the road.
 
 ## 10. Bear Archery Grizzly Recurve Right Hand &mdash; Honorable Mention
 
@@ -1134,7 +1068,7 @@ I believe that the AF Turkish Style Handmade Laminated Traditional Recurve Bow i
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
-<p class="product-card-desc">If you're looking for an archery store with a long history, then you must visit Bear Archery. The store has been around since 1933. And staying in this business for that long says a lot about the credibility of the business.</p>
+<p class="product-card-desc">If you're looking for an archery store with a long history, then you must visit Bear Archery. The store has been around since 1933.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Bear Heritage</span>
 <span class="highlight-tag">Satin Finish</span>

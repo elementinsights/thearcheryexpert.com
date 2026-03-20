@@ -12,14 +12,14 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "How To Use An Archery Sight Adjustment Chart For Better Accuracy"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "The key rule for sight adjustment is to chase your arrows: if they hit left, move the sight left, and if they hit low, move the sight down. Start close, work your way back, and make small adjustments at each distance until your groups tighten."
 toc:
   - label: "How To Use An Archery Sight Adjustment Chart For Better Accuracy"
     href: "#how-to-use-an-archery-sight-adjustment-chart-for-better-accuracy"
   - label: "To-Dos Before Starting to Shoot and Adjusting Your Sight"
     href: "#to-dos-before-starting-to-shoot-and-adjusting-your-sight"
   - label: "The Basics For Using the Archery Sight Adjustment Chart"
-    href: "#how-to-use-an-archery-sight-adjustment-chart-for-better-accuracy"
+    href: "#the-basics-for-using-the-archery-sight-adjustment-chart"
   - label: "Single pin sight"
     href: "#single-pin-sight"
   - label: "Using Multi-Pin Sights"
@@ -27,7 +27,7 @@ toc:
   - label: "Adjusting the Second Axis of the Sight"
     href: "#adjusting-the-second-axis-of-the-sight"
   - label: "Adjusting the Third Axis"
-    href: "#adjusting-the-second-axis-of-the-sight"
+    href: "#adjusting-the-third-axis"
   - label: "FAQ"
     href: "#faq"
   - label: "Final Thoughts"
@@ -66,11 +66,11 @@ In as much as archery is popular, you can't just start directing your arrow to a
 
 The best way to learn how to shoot well and efficiently is by first adjusting your standing position, ensuring you adopt the most comfortable standing position that shouldn't be too close to the target nor too far from it.
 
-You also need to practice your posture and the anchor point, especially the anchor point. It will ensure that the way you look through the sight is the same anytime you're shooting.
+You also need to practice your posture and the [anchor point](/anchor-point-archery/), especially the anchor point. It will ensure that the way you look through the sight is the same anytime you're shooting.
 
 As for the posture, be sure to be stable and face the target at a 45-degree angle and not perpendicular.
 
-Stance in archery means the positioning of your feet, and the correct stance will be crucial for the proper posture when shooting.
+Stance in archery means the positioning of your feet, and the correct [archery stance](/archery-stance/) will be crucial for the proper posture when shooting.
 
 So how do you go about the feet positioning?
 

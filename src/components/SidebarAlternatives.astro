@@ -15,14 +15,14 @@ const { items } = Astro.props;
   <h3 class="widget-title">Compare Alternatives</h3>
   {items.map(item => (
     <div class="sidebar-alt-item">
-      <a href={item.vsUrl || '#'} class="sidebar-alt-img" target="_blank" rel="nofollow sponsored">
+      <a href={item.vsUrl || '#'} class="sidebar-alt-img" target="_blank" rel="nofollow sponsored noopener noreferrer">
         <img src={item.image} alt={item.name} loading="lazy" />
       </a>
       <div class="sidebar-alt-info">
         <div class="sidebar-alt-name">{item.name}</div>
         <div class="sidebar-alt-rating"><span class="stars">{'★'.repeat(Math.round(parseFloat(item.rating)))}{'☆'.repeat(5 - Math.round(parseFloat(item.rating)))}</span> {item.rating}</div>
       </div>
-      <a href={item.vsUrl || '#'} class="sidebar-alt-vs" target="_blank" rel="nofollow sponsored">vs.</a>
+      <a href={item.vsUrl || '#'} class="sidebar-alt-vs" target="_blank" rel="nofollow sponsored noopener noreferrer">vs.</a>
     </div>
   ))}
 </div>

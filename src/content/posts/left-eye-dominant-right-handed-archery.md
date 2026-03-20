@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "How Left Eye Dominant Right Handed Archery Works"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "If you're right-handed but left-eye dominant (cross-dominant), your best option as a new archer is to switch to a left-handed bow. For experienced shooters, a partial eye blocker or occluder on your glasses lets you keep shooting right-handed without fully closing your dominant eye."
 toc:
   - label: "How Left Eye Dominant Right Handed Archery Works"
     href: "#how-left-eye-dominant-right-handed-archery-works"
@@ -52,7 +52,7 @@ This isn't by any means an insurmountable problem, though, and these are the ste
 
 ## How Left Eye Dominant Right Handed Archery Works
 
-We'll look at the physiology of hand-eye coordination, how aiming works in archery, and then discuss some of the options for resolving cross-dominance issues so that you can hit your targets accurately.
+We'll look at the physiology of hand-eye coordination, how aiming works in archery, and then discuss some of the options for resolving cross-dominance issues so that you can hit your targets accurately. If you determine you need a lefty setup, browse our picks for the [best left-handed bows](/left-handed-bow/).
 
 ## 1. How Hand/Eye Coordination Works
 

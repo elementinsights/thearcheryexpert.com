@@ -112,7 +112,7 @@ products:
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/41HGi2o8EZL._SL500_.jpg"
-    description: "If your beloved archer does not have a portable case for his most cherished bow and arrows, then there is no doubt that this is the perfect gift for him."
+    description: "If your beloved archer doesn't have a portable case for his most cherished bow and arrows, then there's no doubt that this is the perfect gift for him."
     highlights:
       - "Pillar Lock System"
       - "Arrow-Proof Shell"
@@ -169,7 +169,7 @@ products:
     badge: "Best Design"
     rating: 8.6
     image: "https://m.media-amazon.com/images/I/51O7cfy1HHL._SL500_.jpg"
-    description: "Well! There might not be a single archer who does not need a target."
+    description: "There might not be a single archer who doesn't need a target."
     highlights:
       - "Crossbow Compatible"
       - "Easy Arrow Removal"
@@ -255,7 +255,7 @@ This is a sport that requires regular training and practice, otherwise, we'll ge
 
 If you've someone who loves archery in your family, then finding a proper gift for them is difficult.
 
-But there are so many things in archery that we love and can make a great gift for our loved ones.
+But there are so many things in archery that we love and can make a great gift for our loved ones. Beyond gear, consider fun accessories like [archery decals](/archery-decals/) or [archery tee shirts](/archery-tee-shirts/) to show off their passion.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -279,70 +279,70 @@ But there are so many things in archery that we love and can make a great gift f
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07K7YNF7Z?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EUToX2QDL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07K7YNF7Z?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41EUToX2QDL._SL500_.jpg" alt="Arrow Rest - Trophy Ridge Sync Drop Away" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Arrow Rest - Trophy Ridge Sync Drop Away</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07K7YNF7Z?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XCZXPF5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DvJtIHi+L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XCZXPF5?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DvJtIHi+L._SL500_.jpg" alt="Release - Scott Archery Talon Bow Releas" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Release - Scott Archery Talon Bow Releas</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B06XCZXPF5?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B075QMZ2VL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zjribFjiL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B075QMZ2VL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41zjribFjiL._SL500_.jpg" alt="Custom Arrow Strings - KESHES Dacron Bow" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Custom Arrow Strings - KESHES Dacron Bow</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B075QMZ2VL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007TOHDQY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41HGi2o8EZL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007TOHDQY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41HGi2o8EZL._SL500_.jpg" alt="Plano Protector Pillar Locked Protective" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Plano Protector Pillar Locked Protective</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B007TOHDQY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00OPA6DXO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41jwpiMqLIL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00OPA6DXO?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41jwpiMqLIL._SL500_.jpg" alt="Sights - Trophy Ridge Joker Bow Sight" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Sights - Trophy Ridge Joker Bow Sight</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00OPA6DXO?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B008J6T4RC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41roO-JCn2L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B008J6T4RC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41roO-JCn2L._SL500_.jpg" alt="Archery Bow Stand - HME Products Hard Su" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Bow Stand - HME Products Hard Su</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B008J6T4RC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B000ZB9474?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51O7cfy1HHL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B000ZB9474?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51O7cfy1HHL._SL500_.jpg" alt="Archery Target - Morrell Yellow Jacket S" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Archery Target - Morrell Yellow Jacket S</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B000ZB9474?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07YWT623G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310oVO3JhgL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07YWT623G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/310oVO3JhgL._SL500_.jpg" alt="Quiver - G4Free Archery Back Arrow Quive" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Quiver - G4Free Archery Back Arrow Quive</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B07YWT623G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07ZRG6TKB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/511gVMVNcoL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07ZRG6TKB?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/511gVMVNcoL._SL500_.jpg" alt="Camouflage Cloth - LOOGU Hunting Ghillie" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Camouflage Cloth - LOOGU Hunting Ghillie</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07ZRG6TKB?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0837NGKM3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JNXt-P5UL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0837NGKM3?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JNXt-P5UL._SL500_.jpg" alt="Arrow For The Bow - Linkboy Archery Carb" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Arrow For The Bow - Linkboy Archery Carb</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B0837NGKM3?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -859,7 +859,7 @@ Overall, this is a perfect gift for your archer, providing him/her much-needed a
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.6/10</span>
 </div>
-<p class="product-card-desc">Well. There might not be a single archer who doesn't need a target. These are if not the most important equipment in archery. A target lets an archer practice his/her accuracy in shooting. Targets get used very quickly and thus have to be switched.</p>
+<p class="product-card-desc">Well. There might not be a single archer who doesn't need a target.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Crossbow Compatible</span>
 <span class="highlight-tag">Easy Arrow Removal</span>
@@ -939,7 +939,7 @@ Overall, this is a perfect archery gift for your beginner marksman, allowing him
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
-<p class="product-card-desc">A quiver lets an archer carry the arrows in the range at the time of the shooting. It's essentially a case for arrows. A quiver can be custom made very easily, and hence makes a perfect gift for your loved archer.</p>
+<p class="product-card-desc">A quiver lets an archer carry the arrows in the range at the time of the shooting. It's essentially a case for arrows.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Canvas Material</span>
 <span class="highlight-tag">Back-Worn Design</span>
@@ -1095,7 +1095,7 @@ This makes it just a perfect archery gift for your archer.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.0/10</span>
 </div>
-<p class="product-card-desc">Arrows are something that every archer requires and these things break very easily. Every archer needs either more or better arrows. They can easily bend, or get lost during practice or hunting in the wild making them a real pain.</p>
+<p class="product-card-desc">Arrows are something that every archer requires and these things break very easily. Every archer needs either more or better arrows.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Pure Carbon Shafts</span>
 <span class="highlight-tag">Pre-Built Fletching</span>

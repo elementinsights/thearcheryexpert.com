@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery Two-Tier championship Trophy with Wood Base"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "The two-tier championship trophy with wood base is the classic competition award, but you'll also find perpetual shields, acrylic awards, JOAD Star Pins for junior archers, and the prestigious Doc Counsilman Science Award for coaches."
 toc:
   - label: "1. Archery Two-Tier championship Trophy with Wood Base"
     href: "#1-archery-two-tier-championship-trophy-with-wood-base"
@@ -30,7 +30,7 @@ toc:
     href: "#7-joad-star-pins"
   - label: "8. Adult Star Pins"
     href: "#8-adult-star-pins"
-  - label: "9. “ Doc” Counsilman Science Award"
+  - label: "9. \" Doc\" Counsilman Science Award"
     href: "#9--doc-counsilman-science-award"
   - label: "10. Archery Sculpture Resin Trophy"
     href: "#10-archery-sculpture-resin-trophy"
@@ -63,11 +63,11 @@ You love recognition for work well done, right?
 
 Awards give you the motivation to continue doing your best in any field that you're in and help you retain your top talent.
 
-The introduction of archery awards was to recognize the best archers and promote competition among the players in the game.
+The introduction of archery awards was to recognize the best archers and promote competition among the players in the game. Many of the [famous archers](/famous-archers/) throughout history earned their reputations by collecting prestigious trophies and awards.
 
 The award's primary goal is to make the game popular and encourage more people to join the archery clubs.
 
-The awards are divided into different groups based on age, and therefore you don't have to worry about low chances of winning as you'll compete with people of your age group, that's, the juniors and the adults.
+The awards are divided into different groups based on age, and therefore you don't have to worry about low chances of winning as you'll compete with people of your age group, that's, the juniors and the adults. Understanding how [archery scoring](/archery-scoring/) works will give you a clearer picture of what it takes to earn these awards.
 
 The award's choice entirely depends on your needs and what you want to achieve by awarding the top talent.
 

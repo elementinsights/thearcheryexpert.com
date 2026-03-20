@@ -12,7 +12,7 @@ readTime: "11 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery Paper Tuning | 10-Step Guide To Paper Tune A Bow"
-  text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
+  text: "Start by building a simple paper frame, then shoot through it from 5-7 yards and read the tear pattern. A perfect tear looks like a clean bullet hole with three small fletching cuts -- anything else tells you exactly what adjustments to make."
 toc:
   - label: "Step 1: Construct Your Frame"
     href: "#step-1-construct-your-frame"
@@ -60,7 +60,7 @@ If you attempt to learn perfect arrow flight in just one sitting, you'll end up 
 
 Paper tuning can be complicated and can take time to understand and get to grips with.
 
-But don't worry, anyone can do it with the right knowledge and setup.
+But don't worry, anyone can do it with the right knowledge and setup. Before you start tuning, make sure you've dialed in your [archery form](/archery-form/) and have a consistent [anchor point](/anchor-point-archery/) established.
 
 Before you know how to paper tune a bow properly, learn what's meant by paper tuning.
 
@@ -68,7 +68,7 @@ Paper tuning involves an archer shooting an arrow through a suspended paper at a
 
 The things you need to paper tune your bow are a bow, arrows, a frame that can hold a piece of paper that you can shoot through, and a target place behind it.
 
-With that out of the way, let's get started on our 10-Step Guide To Paper Tune A Bow.
+Here's our 10-Step Guide To Paper Tune A Bow.
 
 ## Step 1: Construct Your Frame
 

@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "What Is Anchor Point In Archery And How Do You Find It?"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "An anchor point is a fixed spot on your face where your draw hand rests at full draw, and it's the foundation of consistent, accurate shooting. The corner-of-mouth anchor is the easiest starting point for beginners, while experienced archers often add secondary references like string-to-nose contact."
 toc:
   - label: "What Is An Anchor Point?"
     href: "#what-is-an-anchor-point"
@@ -21,16 +21,16 @@ toc:
   - label: "Steps On How To Find Your Anchor Point"
     href: "#steps-on-how-to-find-your-anchor-point"
   - label: "Types Of Anchor Points"
-    href: "#purpose-of-anchor-points"
+    href: "#types-of-anchor-points"
   - label: "Things You Should Know When Finding Your Anchor Point"
     href: "#things-you-should-know-when-finding-your-anchor-point"
   - label: "Tips On How To Find Your Anchor Point"
-    href: "#steps-on-how-to-find-your-anchor-point"
+    href: "#tips-on-how-to-find-your-anchor-point"
   - label: "Types Of Bows & Anchor Points"
-    href: "#purpose-of-anchor-points"
+    href: "#types-of-bows--anchor-points"
   - label: "How To Maintain Consistency With Your Anchor Point"
-    href: "#steps-on-how-to-find-your-anchor-point"
-  - label: "How Can You Tell You’re At The Right Anchor Point?"
+    href: "#how-to-maintain-consistency-with-your-anchor-point"
+  - label: "How Can You Tell You're At The Right Anchor Point?"
     href: "#how-can-you-tell-youre-at-the-right-anchor-point"
   - label: "FAQ"
     href: "#faq"
@@ -56,13 +56,13 @@ In other words, your goal is to repeat your clean shots over and over again.
 
 Because of this repetitive nature, archers must focus on the [form and alignment](https://www.acearchers.com/archery-form/expansion-and-alignment/) of their bow and arrow.
 
-After all, if you're going to repeat a shot accurately, you must first master every aspect that came in to play to achieve that shot.
+After all, if you're going to repeat a shot accurately, you must first master every aspect that came in to play to achieve that shot. Our [guide to proper archery form](/archery-form/) walks through each of these fundamentals step by step.
 
 This is where using an anchor point or "anchoring" comes in.
 
 In a nutshell, an anchor point helps you attain the must-have consistency in your shots.
 
-In this article, we'll dive deep on how you can find your anchor point as follows:
+Here's how you can find your anchor point:
 
 - Learn what an anchor point is.
 
@@ -178,7 +178,7 @@ If you move your hand and shoot, your shot will be as though it wasn't anchored 
 
 It's quite easy to anchor at the corner of your mouth, thus, if you're a beginner, this is a safe place to start.
 
-At first, it does feel a bit weird, but with practice, you get used to it and see the accuracy of your shots increase.
+At first, it does feel a bit weird, but with practice, you get used to it and see the accuracy of your shots increase. For more ways to tighten your groupings, check out our [archery accuracy tips](/archery-accuracy-tips/).
 
 With this anchor point, you pull the bowstring towards your face till it touches your chin.
 

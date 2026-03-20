@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Kim Soo Nyung - South Korea"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "Kim Soo Nyung of South Korea takes the top spot as the most decorated Olympic archer in history with six medals across three Olympic Games. The list spans from modern Olympic champions to legendary bowmen like Howard Hill, who won 196 consecutive competitions."
 toc:
   - label: "1. Kim Soo Nyung - South Korea"
     href: "#1-kim-soo-nyung---south-korea"
@@ -71,7 +71,7 @@ The Greco-Roman period used a longbow for warfare and hunting, as recorded in th
 
 The Middle Eastern Assyrians and Parthians mastered longbow from horseback, with Attila the Hun and his Mongols fighting the Crusaders in Europe, Asia & Turkey.
 
-Since then, the longbow was used in European battles and decreed that an adult man practice longbow every Sunday.
+Since then, the longbow was used in European battles and decreed that an adult man practice longbow every Sunday. For more on archery's fascinating heritage, read our article on [strange archery facts](/archery-facts/) and learn about [what Korean archery is](/korean-archery/).
 
 Below is a list of some of the [great male and female archers](https://www.ranker.com/list/best-olympic-athletes-in-archery/voteable) who figured in the Olympics and other historical figures.
 

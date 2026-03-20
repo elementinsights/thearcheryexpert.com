@@ -7,7 +7,7 @@ import QuickAnswer from '../components/QuickAnswer.astro';
 import FAQ from '../components/FAQ.astro';
 import AuthorBox from '../components/AuthorBox.astro';
 import ShareBar from '../components/ShareBar.astro';
-import ProductCard from '../components/ProductCard.astro';
+
 import SidebarTOC from '../components/SidebarTOC.astro';
 import SidebarRelated from '../components/SidebarRelated.astro';
 import SidebarVerdict from '../components/SidebarVerdict.astro';
@@ -55,7 +55,7 @@ const bottomRelatedPosts = allPosts
     readTime: p.data.readTime,
   }));
 
-const publishDate = post.data.publishDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+const displayDate = (post.data.updatedDate ?? post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 const pageUrl = new URL(`/${post.id}/`, siteConfig.url).href;
 
 // Schema
@@ -67,6 +67,7 @@ schemas.push({
   "@type": "Article",
   "headline": post.data.title,
   "description": post.data.description,
+  ...(post.data.image && { "image": new URL(post.data.image, siteConfig.url).href }),
   "datePublished": post.data.publishDate.toISOString(),
   "dateModified": (post.data.updatedDate || post.data.publishDate).toISOString(),
   "author": {
@@ -76,6 +77,12 @@ schemas.push({
   "publisher": {
     "@type": "Organization",
     "name": siteConfig.name,
+    "logo": {
+      "@type": "ImageObject",
+      "url": new URL('/images/logo.webp', siteConfig.url).href,
+      "width": 200,
+      "height": 60,
+    },
   },
 });
 
@@ -186,7 +193,8 @@ if (post.data.postType === 'roundup' && post.data.products && post.data.products
 
 // HowTo schema (for how-to posts)
 if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0) {
-  const steps = post.data.toc
+  const skipLabels = /^(quick\s+answer|quick\s+comparison|faq|final\s+thoughts)/i;
+  let steps = post.data.toc
     .filter(item => /^step\s+\d/i.test(item.label))
     .map((item, i) => ({
       "@type": "HowToStep",
@@ -194,21 +202,32 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
       "name": item.label,
       "url": `${pageUrl}${item.href}`,
     }));
+  // Fallback: use all TOC items as steps if none start with "Step"
+  if (steps.length === 0) {
+    steps = post.data.toc
+      .filter(item => !skipLabels.test(item.label))
+      .map((item, i) => ({
+        "@type": "HowToStep",
+        "position": i + 1,
+        "name": item.label,
+        "url": `${pageUrl}${item.href}`,
+      }));
+  }
   if (steps.length > 0) {
     schemas.push({
       "@context": "https://schema.org",
       "@type": "HowTo",
       "name": post.data.title,
       "description": post.data.description,
-      ...(post.data.image && { "image": post.data.image }),
-      "totalTime": post.data.readTime || undefined,
+      ...(post.data.image && { "image": new URL(post.data.image, siteConfig.url).href }),
+      "totalTime": post.data.readTime ? `PT${parseInt(post.data.readTime)}M` : undefined,
       "step": steps,
     });
   }
 }
 ---
 
-<ArticleLayout title={post.data.title} description={post.data.description} schema={schemas}>
+<ArticleLayout title={post.data.title} description={post.data.description} image={post.data.image} schema={schemas}>
   <!-- SIDEBAR -->
   <Fragment slot="sidebar">
     {post.data.toc && post.data.toc.length > 0 && (
@@ -286,7 +305,7 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
         )}
         <div class="article-author-info">
           <div class="article-author-name">{post.data.author || siteConfig.author.name}</div>
-          <div class="article-author-date">Last Updated: {publishDate}{post.data.readTime && ` \u2022 ${post.data.readTime}`}</div>
+          <div class="article-author-date">Last Updated: {displayDate}{post.data.readTime && ` \u2022 ${post.data.readTime}`}</div>
         </div>
       </div>
     </div>
@@ -326,7 +345,7 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
     {post.data.finalThoughts && (
       <div class="final-thoughts">
         <h2 id="final-thoughts">Final Thoughts</h2>
-        {post.data.finalThoughts.split('\\n').filter(p => p.trim()).map(p => (
+        {post.data.finalThoughts.split('\n').filter(p => p.trim()).map(p => (
           <p>{p}</p>
         ))}
       </div>
@@ -343,11 +362,11 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
   <Fragment slot="after-article">
     <RelatedPosts posts={bottomRelatedPosts} />
   </Fragment>
-</ArticleLayout>
 
-{post.data.postType === 'roundup' && post.data.products && post.data.products.length > 0 && (
-  <StickyProductBar />
-)}
+  {post.data.postType === 'roundup' && post.data.products && post.data.products.length > 0 && (
+    <StickyProductBar />
+  )}
+</ArticleLayout>
 
 
 <style>

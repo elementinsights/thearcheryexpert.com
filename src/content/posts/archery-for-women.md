@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery For Women: Complete Equipment Buying Guide"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Women should start with a 16-26 lb recurve or 26-40 lb compound bow and visit a local pro shop to get properly measured for draw length. Many manufacturers now make equipment specifically scaled for women's frames."
 toc:
   - label: "Knowing The Types Of Bows"
     href: "#knowing-the-types-of-bows"
@@ -28,7 +28,7 @@ toc:
     href: "#what-to-prepare"
   - label: "Upgrades"
     href: "#upgrades"
-  - label: "Getting A Pro’s Advice"
+  - label: "Getting A Pro's Advice"
     href: "#getting-a-pros-advice"
   - label: "Joining Groups & Classes"
     href: "#joining-groups--classes"
@@ -76,7 +76,7 @@ Every bow type differs in the power it holds and as a woman.
 
 It's important to know yourself and the power that you can handle so you can choose the right bow.
 
-But first, it's best to have an idea of the types of bows that you can choose from.
+But first, it's best to have an idea of the types of bows that you can choose from. Our overview of the [different types of archery bows](/different-types-of-archery-bows/) covers each style in depth.
 
 Longbows are a traditional bow with tall narrow limbs.
 
@@ -228,11 +228,11 @@ For compound bows, you can use release aids but the tricky part is that you've t
 
 For this, you can always ask for a pro's advice.
 
-Meanwhile, for recurve and traditional bows, both archery gloves and finger tabs can come in handy.
+Meanwhile, for recurve and traditional bows, both [archery gloves](/archery-gloves/) and finger tabs can come in handy.
 
 Release aids, tabs, and gloves will protect your fingers from injuries as you pull the string and create the shot.
 
-For women, most certainly to those who are starting in archery, it's recommended to wear a chest guard.
+For women, most certainly to those who are starting in archery, it's recommended to wear a [chest guard](/archery-chest-guard/).
 
 A chest guard's mostly used by archers, both men, and women.
 

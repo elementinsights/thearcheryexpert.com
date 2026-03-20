@@ -49,5 +49,15 @@ if (!destination) {
   return Astro.redirect('/', 302);
 }
 
+// Validate destination URL — only allow https:// to prevent open redirect abuse
+try {
+  const url = new URL(destination);
+  if (url.protocol !== 'https:') {
+    return new Response('Invalid redirect destination.', { status: 400 });
+  }
+} catch {
+  return new Response('Invalid redirect destination.', { status: 400 });
+}
+
 return Astro.redirect(destination, 302);
 ---

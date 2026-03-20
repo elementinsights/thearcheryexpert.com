@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery For Beginners By Amante P. Marinas, Sr."
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "\"Archery For Beginners\" by Amante P. Marinas Sr. is the best starting point for new archers, with clear illustrations and simple technique breakdowns. The list also includes drill books, philosophy classics like \"Zen in the Art of Archery,\" and Olympic-level coaching manuals."
 toc:
   - label: "1. Archery For Beginners By Amante P. Marinas, Sr."
     href: "#1-archery-for-beginners-by-amante-p-marinas-sr"
@@ -63,7 +63,7 @@ Here's a list of ten best archery books that will keep you glued to the book all
 
 It doesn't matter which level you're in, these books cut across all levels with some which are specific to a given level of archery.
 
-If you're a beginner, there are several collections which will give you a detailed step to step and well-illustrated guide on how to be an expert.
+If you're [getting into archery as a beginner](/archery-for-beginners/), there are several collections which will give you a detailed step to step and well-illustrated guide on how to be an expert.
 
 Even if you're playing archery for recreational purposes, there's a set of books that will guide you on making your playing equipment and on how to play safely.
 
@@ -279,7 +279,7 @@ The author gives a detailed discussion on both bow hunting and target shooting u
 
 Also, this book has different illustrations as well as 3D images to show you the different body positions to stand in when hunting.
 
-If you need intensive training on archery, look no further, here's a book that will cater to all your needs.
+This book covers everything you need for intensive [archery training](/archery-training/).
 
 - Easy to understand instruction to traditional archery
 

@@ -12,9 +12,9 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "How To Make Your Own DIY Foam Archery Targets | 10 Steps"
-  text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
+  text: "You can build a durable foam archery target for $30-$60 using interlocking puzzle mats, threaded rods, and basic hardware. The whole build takes about an hour, and you can swap out worn foam sections in minutes."
 toc:
-  - label: "Step 1: Make a Shortlist of What You’ll Need"
+  - label: "Step 1: Make a Shortlist of What You'll Need"
     href: "#step-1-make-a-shortlist-of-what-youll-need"
   - label: "Step 2: Assembling the Foam"
     href: "#step-2-assembling-the-foam"
@@ -64,11 +64,11 @@ But that's not all, because you'll have to time your breathing, so you exhale wh
 
 As you can see, there's so much that goes into shooting the bow and arrow, but for now, we'll focus on what you can do to improve your aim.
 
-The fastest and easiest way to sharpen your aim is to have a target you can practice on as often as possible.
+The fastest and easiest way to sharpen your aim is to have a target you can practice on as often as possible. If you'd rather buy a ready-made option, check out our roundups of the [best bag targets](/archery-bag-targets/) and [animal archery targets](/animal-archery-targets/).
 
-That means you've your foam target box that you can easily transport or, better yet, have ready in your backyard.
+That means you've your foam target box that you can easily transport or, better yet, have ready in your backyard. Setting up a [home archery range](/home-archery-range/) is the perfect complement to a homemade target.
 
-Without further ado, let's now talk about how to make your own DIY foam archery targets in ten steps.
+Here's how to make your own DIY foam archery targets in ten steps.
 
 ## Step 1: Make a Shortlist of What You'll Need
 

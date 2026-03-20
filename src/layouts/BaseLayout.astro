@@ -13,6 +13,7 @@ interface Props {
   activeNav?: string;
   schema?: object | object[];
   isArticle?: boolean;
+  noindex?: boolean;
 }
 
 const {
@@ -22,6 +23,7 @@ const {
   activeNav,
   schema,
   isArticle = false,
+  noindex = false,
 } = Astro.props;
 
 const pageTitle = title === 'Home'
@@ -31,7 +33,7 @@ const pageTitle = title === 'Home'
 const canonicalUrl = new URL(Astro.url.pathname, siteConfig.url).href;
 const ogImage = image ? new URL(image, siteConfig.url).href : undefined;
 const twitterHandle = siteConfig.social?.twitter
-  ? '@' + siteConfig.social.twitter.replace(/^https?:\/\/(www\.)?(twitter|x)\.com\//, '')
+  ? '@' + siteConfig.social.twitter.replace(/^https?:\/\/(www\.)?(twitter|x)\.com\//, '').replace(/\/$/, '')
   : undefined;
 
 const schemas = schema
@@ -47,6 +49,7 @@ const schemas = schema
   <title>{pageTitle}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalUrl} />
+  {noindex && <meta name="robots" content="noindex" />}
 
   <!-- Open Graph -->
   <meta property="og:type" content={isArticle ? "article" : "website"} />
@@ -55,6 +58,7 @@ const schemas = schema
   <meta property="og:description" content={description} />
   {ogImage && <meta property="og:image" content={ogImage} />}
   <meta property="og:site_name" content={siteConfig.name} />
+  <meta property="og:locale" content="en_US" />
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content={ogImage ? "summary_large_image" : "summary"} />
@@ -63,12 +67,22 @@ const schemas = schema
   <meta name="twitter:description" content={description} />
   {ogImage && <meta name="twitter:image" content={ogImage} />}
 
+  <!-- Favicon -->
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/favicon.ico" sizes="32x32" />
+
+  <!-- Preconnect + dns-prefetch fallback -->
+  <link rel="preconnect" href="https://m.media-amazon.com" />
+  <link rel="dns-prefetch" href="https://m.media-amazon.com" />
+  <link rel="preconnect" href="https://www.googletagmanager.com" />
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title={siteConfig.name} href="/rss.xml" />
 
   <!-- Inter font — preload + inline @font-face for zero CLS -->
   <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin />
+  <!-- inter-latin-ext loads on-demand via @font-face if needed; not preloaded (83KB, rarely needed for English content) -->
   <style is:inline>
     @font-face {
       font-family: 'Inter';

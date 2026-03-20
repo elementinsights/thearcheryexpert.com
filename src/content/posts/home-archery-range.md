@@ -12,7 +12,7 @@ readTime: "11 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "How To Make Your Own Home Archery Range Done Right"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Start by checking your local county and city codes for restrictions, then plan a minimum 20-yard range with a proper backstop that's wider and taller than your target. Safety and legal compliance come first before anything else."
 toc:
   - label: "How To Make Your Own Home Archery Range Done Right"
     href: "#how-to-make-your-own-home-archery-range-done-right"
@@ -46,7 +46,7 @@ finalThoughts: "A home archery range gives you the freedom to practice on your o
 
 There's no dissent that archery is a fun sport, even though it brings along its complications and hazards.
 
-You must be extremely cautious if you're an amateur, and we strongly recommend having prior knowledge before you start this sport.
+You must be extremely cautious if you're an amateur, and we strongly recommend having prior knowledge before you start this sport. Review our complete guide to [archery safety](/archery-safety/) before setting up any range at home.
 
 Even if you're a professional and want to bring home your favorite sport, you need to be wary because archery is no joke, and a single mistake can have grave consequences.
 
@@ -176,7 +176,7 @@ This can be the foremost essential arrow based weaponry target sort that each to
 
 For apprentices in essential practice sessions, this bow and arrow target works well for repeat use as it holds together so well and incorporates an enormous surface to account for missed shots.
 
-We know that a foam layer block target is lightweight and moveable and permits the simple evacuation of arrows for light bows.
+We know that a foam layer block target is lightweight and moveable and permits the simple evacuation of arrows for light bows. If you're handy, you can even build your own [DIY foam archery targets](/diy-foam-archery-targets/) to save money.
 
 For the most part, you've to pinch the bolt between foam layers to create this arrow based weaponry target type work, using contact rather than drive to halt its force.
 
@@ -230,6 +230,6 @@ But if you want to take an active interest in caring for the bow, then a bow sta
 
 A bow stand holds your bow so that it's away from all the dirt and dust on the ground.
 
-It'sIt's like buying a case for your iPhone. It seems ridiculous, but you know you need it.
+It's like buying a case for your iPhone. It seems ridiculous, but you know you need it.
 
 Bow stands can phenomenally increase the bow's lifespan and protect its bow's string from getting mishandled.

@@ -28,7 +28,7 @@ toc:
     href: "#step-6-what-you-need-to-maintain-your-bow"
   - label: "Step 7: Where To Practice"
     href: "#step-7-where-to-practice"
-  - label: "Step 8: If You are Thinking of Professional Archery"
+  - label: "Step 8: If You're Thinking of Professional Archery"
     href: "#step-8-if-youre-thinking-of-professional-archery"
   - label: "Step 9: Practice, Practice, Practice"
     href: "#step-9-practice-practice-practice"
@@ -36,7 +36,7 @@ toc:
     href: "#step-10-get-strong"
   - label: "Step 11: Learn How to Perform Under Pressure"
     href: "#step-11-learn-how-to-perform-under-pressure"
-  - label: "Step 12: Don’t Quit Your Day Job Just Yet"
+  - label: "Step 12: Don't Quit Your Day Job Just Yet"
     href: "#step-12-dont-quit-your-day-job-just-yet"
   - label: "FAQ"
     href: "#faq"
@@ -66,7 +66,7 @@ There's something here for all archers, regardless of their skill level.
 
 Beginners may want to read from start to finish, but I think there's something for experienced archers in each section as well, so feel free to browse through whatever topics strike your fancy.
 
-Without further ado, here's how to get into archery professionally & for beginners.
+Here's how to get into archery professionally and as a beginner.
 
 Archery [dates back to the age of Cavemen](https://www.thebodytraining.com/anatomy-of-archery-archery-from-a-to-z/?gclid=Cj0KCQjwlvT8BRDeARIsAACRFiWeAICAg4T3iVIi53BPgyi2GEPpv37yAEPp-I8LKj4zsprcw68eW-EaApTkEALw_wcB) and was initially used for hunting to provide food for the tribe and ensure their survival.
 
@@ -108,7 +108,7 @@ Targets will allow you to practice and work on your marksmanship and technique b
 
 There are several types of archery, including Target, 3-D, Traditional, Field, and Bow Hunting.
 
-Target, 3-D, and Field archery all involve shooting at targets, albeit different types of targets.
+Target, 3-D, and Field archery all involve shooting at targets, albeit different types of targets. Learning about the [different types of archery bows](/different-types-of-archery-bows/) will help you pick the right gear for your chosen discipline.
 
 Target archery is the one with the ringed target that most of us are familiar with and is the type you'll see in the Olympics due to the ease in regulating distance and difficulty.
 
@@ -192,7 +192,7 @@ Carbon arrows are a favorite of bowhunters for these reasons, although they're m
 
 There are additional equipment that you might not need right away but is recommended once you've invested some time and money into your new favorite sport.
 
-Armguards and chest guards protect you from the bowstring as it snaps back or even breaks, which could be quite painful and cause injury.
+Armguards and chest guards protect you from the bowstring as it snaps back or even breaks, which could be quite painful and cause injury. Take a look at our reviews of the [best archery arm guards](/archery-arm-guard/) and [best chest guards](/archery-chest-guard/) to find solid protective gear.
 
 These extras help to protect your fingers from the bowstring as you draw it, which might not seem completely necessary until the 500th time you draw that string, ouch.
 
@@ -258,7 +258,7 @@ If you've a coach or instructor (which you should if you're considering going pr
 
 You can also practice on private property if you've space for this or access to private property, which will increase the time you're able to spend shooting.
 
-There are no shortcuts, so target shooting at a range with a coach or instructor for many, many hours is going to be the best way to become an excellent marksman.
+There are no shortcuts, so target shooting at a range with a coach or instructor for many, many hours is going to be the best way to become an excellent marksman. For targeted drills, check out our [archery accuracy tips](/archery-accuracy-tips/) and [archery exercises](/archery-exercises/) that build real skill.
 
 Blank bale shooting is a great way to practice your form and technique without worrying about hitting a target.
 

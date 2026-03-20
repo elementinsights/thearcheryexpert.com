@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Invest In A Good Bow"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "Invest in a quality bow that fits your skill level first -- it's the foundation everything else builds on. Then focus on consistent anchor points, a relaxed grip, proper stance, and mastering your rangefinder for real field conditions."
 toc:
   - label: "1. Invest In A Good Bow"
     href: "#1-invest-in-a-good-bow"
@@ -67,7 +67,7 @@ While perfection lies in practice, you should never stop learning and absorbing 
 
 Keep trying and keep looking for tips and tricks, techniques, and how experts teach us for enduring successful experiences.
 
-Learn from their experiences and mistakes.
+Learn from their experiences and mistakes. For the fundamentals, review our [archery accuracy tips](/archery-accuracy-tips/) and master your [archery form](/archery-form/) before heading into the field.
 
 Listed below are some of the most useful archery hunting tips that will help you shoot more accurately.
 

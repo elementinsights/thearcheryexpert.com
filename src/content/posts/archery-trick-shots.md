@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Flying Target Trick"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "The flying target trick tops the list as one of the most impressive shots you can learn, but popping balloons is the easiest starting point for beginners. You'll also find the legendary Robin Hood arrow split, candle shots, and underwater bottle tricks."
 toc:
   - label: "1. Flying Target Trick"
     href: "#1-flying-target-trick"
@@ -67,7 +67,7 @@ It's one of the oldest sports practices till today.
 
 From ancient times hunting wild animals to present times, archery with a rich history is very popular from hobby to professional sports.
 
-Anyone can practice archery, and there's no gender and age limit to it.
+Anyone can practice archery, and there's no gender and age limit to it. Before attempting trick shots, make sure you've mastered the fundamentals with our [archery accuracy tips](/archery-accuracy-tips/) and built a consistent [archery training](/archery-training/) routine.
 
 How perfect are you at shooting a bow?
 

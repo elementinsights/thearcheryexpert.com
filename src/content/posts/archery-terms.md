@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "89 Archery Terms Everyone Should Know | Archer's Glossary"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "This A-to-Z glossary covers 89 essential archery terms, from anchor point and back tension to windage and yoke tuning. It's a quick reference for beginners who want to learn the language of the sport."
 toc:
   - label: "89 Archery Terms Everyone Should Know"
     href: "#89-archery-terms-everyone-should-know"
@@ -81,7 +81,7 @@ faq:
     answer: "A recurve bow has curved limbs that store energy as you draw, while a compound bow uses a system of cables and pulleys (cams) that provide a mechanical advantage. Compound bows let you hold more draw weight with less effort at full draw, making them popular for hunting."
   - question: "What does 'back tension' mean in archery?"
     answer: "Back tension refers to actively engaging your back muscles to hold the bow at full draw and execute a clean release. Instead of relying on your arm and hand to release the string, you use your shoulder blades to create the motion. It's considered one of the most important techniques for consistent accuracy."
-finalThoughts: "Knowing the proper archery terminology makes it much easier to follow instructions, communicate with other archers, and understand equipment specifications. Bookmark this glossary and refer back to it whenever you come across an unfamiliar term.\n\nThe more comfortable you are with the language, the faster you'll progress in the sport."
+finalThoughts: "Knowing the proper archery terminology makes it much easier to follow instructions, communicate with other archers, and understand equipment specifications. Bookmark this glossary and refer back to it whenever you come across an unfamiliar term.\n\nThe more comfortable you're with the language, the faster you'll progress in the sport."
 ---
 
 The philosopher Confucius once said, "In archery, we've something just like the way of the superior man, when the archer misses the center of the target, he turns round and seeks for the cause of his defeat in himself."
@@ -96,13 +96,13 @@ The terminology of a game is very important to learn the fundamental concept.
 
 Still, it's often quite new and sometimes out of context or a little complicated to understand at first.
 
-Whether you're an admirer, novice, or passionate archer, there's a lot of archery terminology out there that sometimes you might feel like a newcomer or are listening to a foreign language.
+Whether you're an admirer, novice, or passionate archer, there's a lot of archery terminology out there that sometimes you might feel like a newcomer or are listening to a foreign language. If you're brand new to the sport, our [archery for beginners](/archery-for-beginners/) guide will give you the practical foundation to go along with these terms.
 
 ## 89 Archery Terms Everyone Should Know
 
 In this writing, you'll find a handy reference for archery equipment, arrows, bows, tuning, form, acronyms, etc.
 
-We'll discuss more than 50 terms here, so hold your breath and let's explore the world of archery.
+We'll discuss more than 50 terms here, so hold your breath and let's explore the world of archery. You might also enjoy our article on [fascinating archery facts](/archery-facts/) to learn more about the sport's history.
 
 ## A:
 

@@ -12,7 +12,7 @@ readTime: "13 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "History Of Archery In Olympics"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "Archery was the first Olympic sport to allow women to compete (1900), and South Korea has won 23 Olympic gold medals in the sport. You'll also learn why medieval English kings banned football to promote archery practice."
 toc:
   - label: "1. History Of Archery In Olympics"
     href: "#1-history-of-archery-in-olympics"
@@ -73,7 +73,7 @@ It's becoming the most interesting option for young kids in schools and after sc
 
 Archery has been around for a very long time.
 
-If you've ever thought of trying this fun yet challenging sport, here are some strange and interesting facts you most likely never knew about Archery.
+If you've ever thought of trying this fun yet challenging sport, here are some strange and interesting facts you most likely never knew about Archery. Learn about the [most famous archers in history](/famous-archers/) and brush up on [essential archery terms](/archery-terms/) to deepen your knowledge.
 
 ## 1. History Of Archery In Olympics
 

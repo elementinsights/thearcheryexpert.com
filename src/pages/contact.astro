@@ -7,7 +7,7 @@ const contactSchema = {
   "@type": "ContactPage",
   "name": `Contact ${siteConfig.name}`,
   "description": `Get in touch with the ${siteConfig.name} team for questions, feedback, or business inquiries.`,
-  "url": `${siteConfig.url}/contact`,
+  "url": `${siteConfig.url}/contact/`,
   "isPartOf": { "@type": "WebSite", "name": siteConfig.name, "url": siteConfig.url }
 };
 
@@ -16,7 +16,7 @@ const breadcrumbSchema = {
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Home", "item": siteConfig.url },
-    { "@type": "ListItem", "position": 2, "name": "Contact", "item": `${siteConfig.url}/contact` }
+    { "@type": "ListItem", "position": 2, "name": "Contact", "item": `${siteConfig.url}/contact/` }
   ]
 };
 ---

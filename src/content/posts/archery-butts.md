@@ -12,41 +12,41 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "What Are Archery Butts & How Were They Used?"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Archery butts are earthen mounds or backstops originally used as targets in medieval England, where laws required men aged 15-60 to practice regularly. They're the historical foundation of modern target archery ranges."
 toc:
   - label: "What Are Archery Butts?"
     href: "#what-are-archery-butts"
   - label: "History Of Archery Butts"
-    href: "#what-are-archery-butts"
+    href: "#history-of-archery-butts"
   - label: "Transformation Of Archery Butts"
-    href: "#what-are-archery-butts"
+    href: "#transformation-of-archery-butts"
   - label: "Archery Butts & Development In Technology"
     href: "#archery-butts--development-in-technology"
   - label: "Description Of Archery Butts"
-    href: "#what-are-archery-butts"
+    href: "#description-of-archery-butts"
   - label: "How Were Archery Butts Used?"
     href: "#how-were-archery-butts-used"
   - label: "Setting Up Archery Butts"
-    href: "#what-are-archery-butts"
+    href: "#setting-up-archery-butts"
   - label: "Advantages Of Archery Butts"
-    href: "#what-are-archery-butts"
+    href: "#advantages-of-archery-butts"
   - label: "Limitations Of Archery Butts"
-    href: "#what-are-archery-butts"
+    href: "#limitations-of-archery-butts"
   - label: "History Of Archery In India"
-    href: "#history-of-archery-butts"
-  - label: "History Of Archery In North Africa"
-    href: "#history-of-archery-butts"
-  - label: "History Of Archery In East Asia"
-    href: "#history-of-archery-butts"
-  - label: "History Of Archery In The Eurasian Steppes"
     href: "#history-of-archery-in-india"
+  - label: "History Of Archery In North Africa"
+    href: "#history-of-archery-in-north-africa"
+  - label: "History Of Archery In East Asia"
+    href: "#history-of-archery-in-east-asia"
+  - label: "History Of Archery In The Eurasian Steppes"
+    href: "#history-of-archery-in-the-eurasian-steppes"
   - label: "History Of Archery In Greco-Roma"
-    href: "#history-of-archery-butts"
+    href: "#history-of-archery-in-greco-roma"
   - label: "History Of Archery In Mesopotamia"
-    href: "#history-of-archery-butts"
+    href: "#history-of-archery-in-mesopotamia"
   - label: "Decline Of Archery & Development Of Firearms"
     href: "#decline-of-archery--development-of-firearms"
-  - label: "Best Archery Tips For You & The Don’ts"
+  - label: "Best Archery Tips For You & The Don'ts"
     href: "#best-archery-tips-for-you--the-donts"
   - label: "FAQ"
     href: "#faq"
@@ -72,7 +72,7 @@ However, all these activities require demand for certain levels of expertise to 
 
 Archery is one of the most widespread sporting activity that involves shooting arrows on marked targets.
 
-As an archery enthusiast, you might have come across terms such as archery butts, and you can't get a proper definition.
+As an archery enthusiast, you might have come across terms such as archery butts, and you can't get a proper definition. For more archery vocabulary, check out our complete [archery terms glossary](/archery-terms/).
 
 Let's get into the details that give you more insight into archery butts and their use in different parts of the world.
 
@@ -94,7 +94,7 @@ The expertise in archery is a measure of the accuracy of shooting on archery but
 
 The above statement makes an archer with the best precision to the target an expert in archery, whereas an archer with reduced precision on the target an unskilled archer.
 
-It's true to say archery has changed over the years due to technological changes and the need to make this sport more exciting and engaging.
+It's true to say archery has changed over the years due to technological changes and the need to make this sport more exciting and engaging. Discover more about the sport's heritage in our article on [famous archers throughout history](/famous-archers/).
 
 ## History Of Archery Butts
 

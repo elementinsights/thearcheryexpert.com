@@ -28,7 +28,7 @@ function renderStars(ratingStr: string): string {
       <div class="sidebar-pick">
         <a href={item.ctaUrl || '#'} class="sidebar-pick-img" target="_blank" rel="nofollow sponsored">
           <div class="sidebar-pick-badge">#{item.rank}</div>
-          <img src={item.image} alt={item.name} loading="lazy" />
+          <img src={item.image} alt={item.name} loading="lazy" width="48" height="48" />
         </a>
         <div class="sidebar-pick-info">
           <div class="sidebar-pick-name">{item.name}</div>

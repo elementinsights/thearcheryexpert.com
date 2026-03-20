@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Hoyt Archery"
-  text: "This is the first item on our comprehensive list. Read on to discover all 10 items."
+  text: "Hoyt Archery leads the list with their Olympic-level recurve bows and premium hunting compounds. Bear Archery and Samick Sports are the best options for beginners, while Great Plains and Black Widow specialize in handcrafted traditional bows."
 toc:
   - label: "1. Hoyt Archery"
     href: "#1-hoyt-archery"
@@ -67,11 +67,11 @@ Get ready to fulfill all your Hunger Games or Robin Hood fantasies because we're
 
 Archery is a talent not all of us can possess, but whoever acquires skill in archery requires the top-notch equipment to never miss a bull's eye.
 
-Several movie characters have inspired various people to develop excellent skills in archery and a good example would be Legolas from Lord Of The Rings.
+Several movie characters have inspired various people to develop excellent skills in archery and a good example would be Legolas from Lord Of The Rings. Understanding the [different types of archery bows](/different-types-of-archery-bows/) will help you appreciate what each manufacturer specializes in.
 
 Others were simply born to do this, it might have come as an innate talent.
 
-Whatever the case may be, an excellent set of bows, arrows, and other archery equipment is necessary to make your skills shine.
+Whatever the case may be, an excellent set of bows, arrows, and other archery equipment is necessary to make your skills shine. You can browse the best [archery catalogs](/archery-catalogs/) to compare products from all of these brands in one place.
 
 ## 1. Hoyt Archery
 

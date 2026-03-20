@@ -12,7 +12,7 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "The best option is the SAS ARCHERY TARGET FACE PINS"
-  text: "It is a must to start with one of the sharpest and light weighed target pins we have in our bucket from SAS (Southland Archery Supply). The SAS target pins are a budget-friendly product meant for economic archery practice."
+  text: "It's a must to start with one of the sharpest and light weighed target pins we have in our bucket from SAS (Southland Archery Supply). The SAS target pins are a budget-friendly product meant for economic archery practice."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20"
 toc:
@@ -22,8 +22,8 @@ toc:
     href: "#1-sas-archery-target-face-pins--best-overall"
   - label: "2. SAUNDERS CSI 4-INCH ARCHERY TARGET PINS — Runner Up"
     href: "#2-saunders-csi-4-inch-archery-target-pins--runner-up"
-  - label: "3. BCP ARCHERY TARGET FACE PINS (PACK OF 10) — Best Value"
-    href: "#3-bcp-archery-target-face-pins-pack-of-10--best-value"
+  - label: "3. SAS 5-Spot Paper Target Face for Bow Shooting — Best Value"
+    href: "#3-sas-5-spot-paper-target-face-for-bow-shooting--best-value"
   - label: "4. BOBS ARCHERY TARGET FACE PINS — Premium Pick"
     href: "#4-bobs-archery-target-face-pins--premium-pick"
   - label: "5. BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM — Budget Pick"
@@ -32,8 +32,8 @@ toc:
     href: "#6-bobs-archery-3d-target-balls--most-popular"
   - label: "7. E510E Plastic Archery Paper Target Face Pins (25 PCS) — Best Design"
     href: "#7-e510e-plastic-archery-paper-target-face-pins-25-pcs--best-design"
-  - label: "8. RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS — Most Durable"
-    href: "#8-rusoji-plastic-archery-paper-target-face-pins--most-durable"
+  - label: "8. THREE ARCHERS Archery Targets Paper Standard Target Face 40cm — Most Durable"
+    href: "#8-three-archers-archery-targets-paper-standard-target-face-40cm--most-durable"
   - label: "9. COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS — Best for Beginners"
     href: "#9-cosmos-plastic-archery-paper-target-face-pins--best-for-beginners"
   - label: "10. BOBS ARCHERY BALLS FITA TARGET FACE PINS — Honorable Mention"
@@ -55,7 +55,7 @@ products:
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/41Z6lNXDfeL._SL500_.jpg"
-    description: "It is a must to start with one of the sharpest and light weighed target pins we have in our bucket from SAS (Southland Archery Supply)."
+    description: "It's a must to start with one of the sharpest and light weighed target pins we have in our bucket from SAS (Southland Archery Supply)."
     highlights:
       - "Sharp Points"
       - "Lightweight"
@@ -90,32 +90,32 @@ products:
       - "Longer pins stick out further and can snag clothing"
       - "Steel can rust if left outdoors in wet conditions"
     ctaUrl: "https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20"
-  - name: "BCP ARCHERY TARGET FACE PINS (PACK OF 10)"
+  - name: "SAS 5-Spot Paper Target Face for Bow Shooting"
     rank: 3
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg"
-    description: "Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins’ minor problems with their galvanized steel body."
+    description: "The Southland Archery Supply 5-Spot Paper Target Face is a practice and competition target with a standard 5-spot layout for bow shooting."
     highlights:
-      - "10-Pack Value"
-      - "Easy Removal"
-      - "Colored Heads"
-      - "BCP Brand"
+      - "5-Spot Layout"
+      - "Competition Ready"
+      - "Paper Target Face"
+      - "SAS Brand"
     pros:
-      - "10-pack offers great value for regular target practice"
-      - "Colored heads are easy to spot on the target face"
-      - "Smooth design allows easy insertion and removal"
-      - "Durable enough for repeated use across multiple sessions"
+      - "Standard 5-spot layout matches official practice and competition formats"
+      - "Paper target faces are easy to pin onto any foam or straw backstop"
+      - "Affordable pack lets you replace targets frequently without overspending"
+      - "High-contrast print makes scoring rings easy to see at distance"
     cons:
-      - "Shorter than some competitors, limiting grip on thick targets"
-      - "Colored heads can fade after prolonged sun exposure"
+      - "Paper tears after repeated arrow impacts and needs regular replacement"
+      - "Not weatherproof, so they'll deteriorate quickly in rain or high humidity"
     ctaUrl: "https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20"
   - name: "BOBS ARCHERY TARGET FACE PINS"
     rank: 4
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/31upxk-SikL._SL500_.jpg"
-    description: "Now, who doesn't want a product that is efficient and long-lasting?"
+    description: "Now, who doesn't want a product that's efficient and long-lasting?"
     highlights:
       - "BOBS Brand"
       - "Flat Head"
@@ -135,7 +135,7 @@ products:
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg"
-    description: "There aren’t many target pins that can be used as both target pins and a point of aim for the shooter, so that is why we include BOBS Archery Target Face pins/Point of Aim Pins in this list."
+    description: "There aren't many target pins that can be used as both target pins and a point of aim for the shooter, so that's why we include BOBS Archery Target Face pins/Point of Aim Pins in this list."
     highlights:
       - "Circular Design"
       - "Point of Aim"
@@ -190,25 +190,25 @@ products:
       - "T-head can snag arrows if they land too close to the pin"
       - "No colored head option for better visibility on the target"
     ctaUrl: "https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20"
-  - name: "RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS"
+  - name: "THREE ARCHERS Archery Targets Paper Standard Target Face 40cm"
     rank: 8
     badge: "Most Durable"
     rating: 8.4
     image: "https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg"
-    description: "If you are looking for good quality, pocket-friendly archery target pins for good archery shooting practice, using the Rusoji plastic archery paper target face pins is the best choice."
+    description: "The THREE ARCHERS 40cm paper target faces feature a standard 10-ring design that's perfect for backyard practice and informal competitions."
     highlights:
-      - "Rubber Grip"
-      - "Rust Resistant"
-      - "Easy Push-In"
-      - "Colorful Heads"
+      - "40cm Standard"
+      - "10-Ring Design"
+      - "Backyard Practice"
+      - "Multi-Pack"
     pros:
-      - "Rubber grip heads make pushing in and pulling out effortless"
-      - "Rust-resistant coating keeps them looking new season after season"
-      - "Easy push-in tips glide into straw and foam targets smoothly"
-      - "Colorful heads help you see each pin's position at a glance"
+      - "Standard 40cm size fits most backyard and club target setups"
+      - "10-ring scoring design matches official target face layout"
+      - "High-contrast colors make it easy to identify scoring zones at distance"
+      - "Multi-pack gives you plenty of replacements for extended practice sessions"
     cons:
-      - "Rubber heads can wear down after many removal cycles"
-      - "Not as long as some competitors for extra-thick targets"
+      - "Paper material tears after heavy arrow impacts and needs swapping"
+      - "40cm size may be too small for beginners shooting at longer distances"
     ctaUrl: "https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20"
   - name: "COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS"
     rank: 9
@@ -259,7 +259,7 @@ Passionate people of all ages are joining the ranks of archers every single day.
 
 Over the centuries, archery equipment has gone through a lot of changes.
 
-Target pins that are used to pin paper or foam targets have undergone great changes as well.
+Target pins that are used to pin paper or foam targets have undergone great changes as well. If you're still choosing your target, take a look at our reviews of [archery bag targets](/archery-bag-targets/) and [coiled straw targets](/coiled-straw-archery-target/) to find the right match for your setup.
 
 The target pins are now more advanced, well designed, and made up of a strong combination of materials that make them more durable and long-lasting.
 
@@ -287,70 +287,70 @@ Archery target pins range between different sizes of 0.5-6 inches. They're of ma
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z6lNXDfeL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41Z6lNXDfeL._SL500_.jpg" alt="SAS ARCHERY TARGET FACE PINS" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">SAS ARCHERY TARGET FACE PINS</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B00Q9DJS8C?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31eBwH+UYZL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31eBwH+UYZL._SL500_.jpg" alt="SAUNDERS CSI 4-INCH ARCHERY TARGET PINS" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">SAUNDERS CSI 4-INCH ARCHERY TARGET PINS</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B0000AV8WY?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">BCP ARCHERY TARGET FACE PINS (PACK OF 10</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="SAS 5-Spot Paper Target Face" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">SAS 5-Spot Paper Target Face</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPIXEC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31upxk-SikL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPIXEC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31upxk-SikL._SL500_.jpg" alt="BOBS ARCHERY TARGET FACE PINS" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS ARCHERY TARGET FACE PINS</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGPIXEC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg" alt="BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41TMqSRIynL._SL500_.jpg" alt="BOBS CIRCULAR ARCHERY TARGET FACE PINS/POINT OF AIM" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS CIRCULAR ARCHERY TARGET FACE PINS/P</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGEQ0MA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGOW0UG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ftq5RgWIL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGOW0UG?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31ftq5RgWIL._SL500_.jpg" alt="BOBS ARCHERY 3D TARGET BALLS" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS ARCHERY 3D TARGET BALLS</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGOW0UG?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41NaqBWJO-L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41NaqBWJO-L._SL500_.jpg" alt="E510E Plastic Archery Paper Target Face" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">E510E Plastic Archery Paper Target Face </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B072M4QJNL?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">RUSOJI PLASTIC ARCHERY PAPER TARGET FACE</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg" alt="THREE ARCHERS Archery Targets Paper 40cm" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">THREE ARCHERS Archery Targets Paper 40cm</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01MQJAREE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3107-r+X53L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01MQJAREE?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/3107-r+X53L._SL500_.jpg" alt="COSMOS PLASTIC ARCHERY PAPER TARGET FACE" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">COSMOS PLASTIC ARCHERY PAPER TARGET FACE</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B01MQJAREE?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPDB94?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gMTpVpAHL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CGPDB94?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/31gMTpVpAHL._SL500_.jpg" alt="BOBS ARCHERY BALLS FITA TARGET FACE PINS" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">BOBS ARCHERY BALLS FITA TARGET FACE PINS</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B00CGPDB94?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -503,26 +503,26 @@ It's perfect for securing paper targets onto layered  -  foam targets such as Th
 
 Being one of the top sellers, the Saunders Archery Company offers you good quality products.
 
-## 3. BCP ARCHERY TARGET FACE PINS (PACK OF 10) &mdash; Best Value
+## 3. SAS 5-Spot Paper Target Face for Bow Shooting &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="BCP ARCHERY TARGET FACE PINS (PACK OF 10)" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51yT5hGyG2L._SL500_.jpg" alt="SAS 5-Spot Paper Target Face" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Pin</div>
-<h3 class="product-card-name">BCP ARCHERY TARGET FACE PINS (PACK OF 10)</h3>
+<h3 class="product-card-name">SAS 5-Spot Paper Target Face for Bow Shooting</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins' minor problems with their galvanized steel body. The set contains 10 Archery Target Pins, making the product a value deal where the customer is assured of quality and quantity.</p>
+<p class="product-card-desc">The Southland Archery Supply 5-Spot Paper Target Face is a practice and competition target with a standard 5-spot layout for bow shooting.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">10-Pack Value</span>
-<span class="highlight-tag">Easy Removal</span>
-<span class="highlight-tag">Colored Heads</span>
-<span class="highlight-tag">BCP Brand</span>
+<span class="highlight-tag">5-Spot Layout</span>
+<span class="highlight-tag">Competition Ready</span>
+<span class="highlight-tag">Paper Target Face</span>
+<span class="highlight-tag">SAS Brand</span>
 </div>
 <a href="https://www.amazon.com/dp/B018ZZJSIQ?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -537,9 +537,9 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Galvanized steel body (durable)</li>
-<li>Thick shaft (0.25 inches)</li>
-<li>Compatible with foam targets</li>
+<li>Standard 5-spot layout matches official practice and competition formats</li>
+<li>Paper faces are easy to pin onto any foam or straw backstop</li>
+<li>Affordable pack lets you replace targets frequently</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -548,30 +548,22 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Shorter than some competitors, limiting grip on thick targets</li>
-<li>Colored heads can fade after prolonged sun exposure</li>
+<li>Paper tears after repeated arrow impacts and needs regular replacement</li>
+<li>Not weatherproof, so they'll deteriorate quickly in rain or high humidity</li>
 </ul>
 </div>
 </div>
 </div>
 
-Increasing the sturdiness and durability of target pins, the BCP Archery Target Pins overcomes SAS and SAUNDERS Target pins' minor problems with their galvanized steel body.
+The Southland Archery Supply 5-Spot Paper Target Face uses a standard 5-spot layout that's common in indoor leagues and practice rounds. Each spot gives you a fresh aiming point, so you're not sending every arrow into the same hole.
 
-The set contains 10 Archery Target Pins, making the product a value deal where the customer is assured of quality and quantity.
+The high-contrast black-and-white print makes the scoring rings visible from typical shooting distances. You won't struggle to pick out the center at 20 yards.
 
-BCP target pins are very strong built pins as they can be pinned into dense cardboards with a hammer.
+These paper target faces pin easily onto any foam or straw backstop with standard target pins. They lay flat against the surface and don't curl at the edges like some cheaper alternatives.
 
-If you practice over foam targets, these 1.5-inch-long target pins are most compatible in terms of the firm hold.
+SAS is a well-known name in the archery supply space, and these targets reflect that reputation. The paper stock is thick enough to hold up through several rounds before needing replacement.
 
-Some people still find the target pins ranging between 1  -  1.5 inches small and are a bit suspicious about the target pins' hold.
-
-However, these pins provide better grip and sturdy hold. These target pins come with a thick shaft of nearly 0.25-inch diameter.
-
-BCP Archery Target Pins are easy to attach and remove paper or foam targets from a backstop.
-
-Good design and balanced composition are what BCP is proud of, providing well assured and verified archery target pins.
-
-These pins are a perfect example of "you get what you pay for."
+The main downside is that paper targets aren't weatherproof. If you're shooting outdoors, rain or heavy humidity will warp them fast, so keep a fresh stack handy.
 
 ## 4. BOBS ARCHERY TARGET FACE PINS &mdash; Premium Pick
 
@@ -867,26 +859,26 @@ Yes, it's.
 
 These pins also come with a complimentary non-slip surface grip design that makes this design a well-balanced one.
 
-## 8. RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS &mdash; Most Durable
+## 8. THREE ARCHERS Archery Targets Paper Standard Target Face 40cm &mdash; Most Durable
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg" alt="RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41LJc7TwcVL._SL500_.jpg" alt="THREE ARCHERS Archery Targets Paper 40cm" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#8 Pick</span> Most Durable Pin</div>
-<h3 class="product-card-name">RUSOJI PLASTIC ARCHERY PAPER TARGET FACE PINS</h3>
+<h3 class="product-card-name">THREE ARCHERS Archery Targets Paper Standard Target Face 40cm</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
-<p class="product-card-desc">If you're looking for good quality, pocket-friendly archery target pins for good archery shooting practice, using the Rusoji plastic archery paper target face pins is the best choice. When quality, quantity, and value are summed together, we get a value pack.</p>
+<p class="product-card-desc">The THREE ARCHERS 40cm paper target faces feature a standard 10-ring design that's perfect for backyard practice and informal competitions.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">Rubber Grip</span>
-<span class="highlight-tag">Rust Resistant</span>
-<span class="highlight-tag">Easy Push-In</span>
-<span class="highlight-tag">Colorful Heads</span>
+<span class="highlight-tag">40cm Standard</span>
+<span class="highlight-tag">10-Ring Design</span>
+<span class="highlight-tag">Backyard Practice</span>
+<span class="highlight-tag">Multi-Pack</span>
 </div>
 <a href="https://www.amazon.com/dp/B09XGKJVGN?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -901,10 +893,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>They're lightweight</li>
-<li>Easy to carry (pocket size)</li>
-<li>Durable (ABS material)</li>
-<li>Easy to attach and remove paper targets from foam</li>
+<li>Standard 40cm size fits most backyard and club target setups</li>
+<li>10-ring scoring design matches official target face layout</li>
+<li>High-contrast colors make scoring zones easy to see at distance</li>
+<li>Multi-pack gives you plenty of replacements for extended sessions</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -913,30 +905,22 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Rubber heads can wear down after many removal cycles</li>
-<li>Not as long as some competitors for extra-thick targets</li>
+<li>Paper material tears after heavy arrow impacts and needs swapping</li>
+<li>40cm size may be too small for beginners shooting at longer distances</li>
 </ul>
 </div>
 </div>
 </div>
 
-If you're looking for good quality, pocket-friendly archery target pins for good archery shooting practice, using the Rusoji plastic archery paper target face pins is the best choice.
+The THREE ARCHERS 40cm paper target faces use a standard 10-ring design that matches official scoring layouts. They're a solid pick for backyard practice, club sessions, and informal competitions.
 
-When quality, quantity, and value are summed together, we get a value pack.
+The high-contrast color rings make it easy to identify where your arrows land, even from 20 or 30 yards back. You won't need to walk up to the target just to check your score after every end.
 
-The Rusojis come in a set containing 22 pieces of archery target pins used to hold and secure your paper target while you shoot your arrow.
+At 40cm, these targets are sized for intermediate to advanced archers who want a smaller aiming challenge. They pin onto any foam or straw backstop with standard target pins.
 
-Are you finding your regular archery pins difficult to carry due to their big size?
+The multi-pack gives you enough replacements to last through several practice sessions. Paper targets don't survive heavy arrow traffic forever, so having extras on hand keeps your range time uninterrupted.
 
-The Rusoji archery pins come with a length of 1.75 inches, which will be easy for you to carry to your practice as they're pocket-size pins and lightweight.
-
-These archery pins are meant for people who carry their target pins regularly for their practice sessions.
-
-These archery pins are made up of durable ABS material, making these pins an even better option for your archery practice.
-
-On the scale of convenience, these pins rank high as these pins are easy to pin as well as pull out paper targets from foam.
-
-Summing it up, the Rusoji archery pins are a must-buy if you're looking for something good for your archery shooting practice.
+The main limitation is the paper material itself. It'll tear after repeated impacts in the same spot, and it won't hold up well in wet weather.
 
 ## 9. COSMOS PLASTIC ARCHERY PAPER TARGET FACE PINS &mdash; Best for Beginners
 

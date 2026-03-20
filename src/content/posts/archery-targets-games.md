@@ -12,13 +12,13 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Gap Shooting"
-  text: "This is the first item on our comprehensive list. Read on to discover all 9 items."
+  text: "Gap Shooting is the best starting game because it teaches you aiming fundamentals without relying on a sight. You'll also find games like Archery Tag, H.O.R.S.E., 3D Archery, and Knockout that make practice competitive and fun."
 toc:
   - label: "1. Gap Shooting"
     href: "#1-gap-shooting"
   - label: "2. Ground Marker"
     href: "#2-ground-marker"
-  - label: "3. ‘O’ Ring"
+  - label: "3. 'O' Ring"
     href: "#3-o-ring"
   - label: "4. Archery Tag"
     href: "#4-archery-tag"
@@ -42,7 +42,7 @@ quickFacts:
   - value: "#2"
     label: "Ground Marker"
   - value: "#3"
-    label: "‘O’ Ring"
+    label: "'O' Ring"
   - value: "#4"
     label: "Archery Tag"
   - value: "#6"
@@ -65,7 +65,7 @@ Archery isn't an easy sport to get into as the archer needs to focus his attenti
 
 It requires a person with a determined mindset and a commitment to practice repetitively, which means investing plenty of time into the sport.
 
-If your goal is to become more accurate in your shot, you've to [work on](https://worldarchery.org/news/157503/10-practice-methods-shoot-better-arrows-1) the [technical side of archery](https://www.60xcustomstrings.com/blog/10-tips-to-improve-archery-accuracy/) through practice games.
+If your goal is to become more accurate in your shot, you've to [work on](https://worldarchery.org/news/157503/10-practice-methods-shoot-better-arrows-1) the [technical side of archery](https://www.60xcustomstrings.com/blog/10-tips-to-improve-archery-accuracy/) through practice games. Having the right target makes all the difference, whether you prefer [animal archery targets](/animal-archery-targets/) for realistic hunting practice or a [coiled straw archery target](/coiled-straw-archery-target/) for traditional shooting.
 
 Have you checked if your grip is relaxed that will allow you to cradle the bow so it can jump forward into the bow sling when you take the shot?
 

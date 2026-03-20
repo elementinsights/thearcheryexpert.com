@@ -12,20 +12,20 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Archery Coaching: How To Become A Certified Instructor"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Start with USA Archery's Level 1 certification, which you can get at age 15 for around $30-$50. From there, you can progress through five levels all the way to coaching international competitors."
 toc:
   - label: "How To Become A Certified Instructor"
     href: "#how-to-become-a-certified-instructor"
   - label: "Level 1 Coaching Certification"
     href: "#level-1-coaching-certification"
   - label: "Level 2 Coaching Certification"
-    href: "#level-1-coaching-certification"
+    href: "#level-2-coaching-certification"
   - label: "Level 3 Coaching Certification (NTS Certification)"
-    href: "#level-1-coaching-certification"
+    href: "#level-3-coaching-certification-nts-certification"
   - label: "Level 4 Coaching Certification"
-    href: "#level-1-coaching-certification"
+    href: "#level-4-coaching-certification"
   - label: "Level 5 Coaching Certification"
-    href: "#level-1-coaching-certification"
+    href: "#level-5-coaching-certification"
   - label: "Qualities of a Good Archery Instructor"
     href: "#qualities-of-a-good-archery-instructor"
   - label: "Procedures You Can Follow To Help You Become A Certified Archery Instr"
@@ -35,7 +35,7 @@ toc:
   - label: "Archery Equipment"
     href: "#archery-equipment"
   - label: "Types of Archery"
-    href: "#qualities-of-a-good-archery-instructor"
+    href: "#types-of-archery"
   - label: "Arrow Components"
     href: "#arrow-components"
   - label: "How to Shoot an Arrow"
@@ -64,7 +64,7 @@ However, getting a certified instructor is scarce, which increases your chance o
 
 Before your skill as an instructor can be in use, you've to become a certified instructor, which can be the easiest thing to do if you follow simple procedures.
 
-The archery quality depends on the instructor's capability- that introduces the sport to the young archers.
+The archery quality depends on the instructor's capability - that introduces the sport to the young archers. A good coach can make [archery training](/archery-training/) far more effective than learning on your own.
 
 In different jurisdictions, archery instructors and coaches are certified under regulatory bodies to ensure top-notch archery skills.
 
@@ -80,7 +80,7 @@ The level one coaching certification is the first level of coaching certificatio
 
 The certification needs the instructor to specialize in teaching and introduce the newbies' basic safety and archery skills.
 
-This certification is typically for instructors interested in working at summer camps, parks or recreational departments, or boys and girls guide.
+This certification is typically for instructors interested in working at summer camps, parks or recreational departments, or boys and girls guide, helping [beginners learn the fundamentals](/archery-for-beginners/).
 
 As an instructor, before you can receive a level one certification, you must first take a 4-12 hours course on set-up, range safety, essential equipment, commands, fundamentals of shooting, and necessary information and care.
 
@@ -260,7 +260,7 @@ Here's some [equipment necessary for the sport](https://www.archerygb.org/shoot-
 
 - Other protections and accessories like arm guards and chest protectors are also useful as they don't offer an advantage to the archer. They only provide comfort to the archer
 
-- The target varies in size. The targets can measure 122cm and beyond, but all contain ten concentric circles representing the scoring sectors
+- The target varies in size. The targets can measure 122cm and beyond, but all contain ten concentric circles representing the [scoring sectors](/archery-scoring/)
 
 - Bracer- The bracer is useful in keeping loose clothing from causing disturbance to the string and preventing the string from hitting the hand, causing bruising
 

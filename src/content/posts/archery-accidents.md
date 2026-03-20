@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "10 Most Common Archery Accidents & How To Avoid Them"
-  text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
+  text: "Dry firing (releasing the string without an arrow) is the most dangerous archery mistake and can shatter a compound bow into your face. This guide covers all 10 common accidents from string slap to muscle strain, plus exactly how to prevent each one."
 toc:
   - label: "Step 1: Dry Firing"
     href: "#step-1-dry-firing"
@@ -70,7 +70,7 @@ These common injuries can also get deadly at times.
 
 If you're a beginner who just got his pair of bow and arrow then you're in the right place, pal.
 
-Within no time you'll get to know how to avoid some of the most common accidents in archery.
+Within no time you'll get to know how to avoid some of the most common accidents in archery. For a broader look at staying safe, also read our [archery safety tips](/archery-safety/) guide.
 
 ## Step 1: Dry Firing
 
@@ -134,7 +134,7 @@ Sometimes, you might not be even able to lift your hands.
 
 Follow these steps to stay away from these nasty string slaps if you don't want to hurt yourselves.
 
-- Get yourself a good arm guard to protect you from those potential string slaps
+- Get yourself a good [arm guard](/archery-arm-guard/) to protect you from those potential string slaps
 
 - This will reduce a substantial amount of pain from string slaps
 
@@ -188,7 +188,7 @@ This can result in a potential accident.
 
 Improper and careless handling can end up hurting you or someone else.
 
-Having proper knowledge before moving on to practicing is a must, especially for beginners.
+Having proper knowledge before moving on to practicing is a must, especially for beginners. Our [archery terms glossary](/archery-terms/) is a great place to learn the vocabulary of the sport.
 
 While Archery is considered to be one of the safest sports, people should be careful enough and not take it for granted.
 

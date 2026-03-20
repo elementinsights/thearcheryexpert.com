@@ -12,7 +12,7 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "10 Most Common Archery Injuries & How To Avoid Them"
-  text: "Follow our 10-step guide to master this technique. Each step builds on the previous one."
+  text: "String slap to the forearm is the most common archery injury, especially for beginners, but it's easily prevented with an arm guard and proper form. This guide covers all 10 common injuries from rotator cuff strain to bone spurs, plus how to avoid each one."
 toc:
   - label: "Step 1: Strain on the Rotator Cuff"
     href: "#step-1-strain-on-the-rotator-cuff"
@@ -100,7 +100,7 @@ In the natural stance, both feet are slightly pointing toward the target, about 
 
 In the closed stance, the foot farthest to the target is slightly pointing backward, about 25-30 degrees.
 
-Try all the stances and choose a technique that you feel you're most comfortable with.
+Try all the stances and choose a technique that you feel you're most comfortable with. Our [guide to the perfect archery stance](/archery-stance/) walks through each position in detail.
 
 Most professional archers, however, use the square stance.
 
@@ -148,7 +148,7 @@ The pain is no joke.
 
 String slap will result in pain, bruise, and swelling.
 
-To prevent string slap, invest in a decent arm guard.
+To prevent string slap, invest in a decent [arm guard](/archery-arm-guard/).
 
 The gear has saved me from an injury many times, and expect that it will save you too.
 
@@ -212,7 +212,7 @@ It should be decent quality and a snug fit because it would be embarrassing to s
 
 My Archery Corner and I insist you should get a chest guard  -  it means the same as breast guard.
 
-Whether you're a newbie or a professional who has the feeling that your chest will get in your way, you must get a chest guard.
+Whether you're a newbie or a professional who has the feeling that your chest will get in your way, you must get a [chest guard](/archery-chest-guard/).
 
 If you're confident with your skill, you should get a chest guard too.
 

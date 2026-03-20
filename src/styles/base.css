@@ -972,7 +972,7 @@ html.dark .step-warning strong { color: #f87171; }
 
 /* --- MOBILE RESPONSIVE for COMPARISON TABLE --- */
 @media (max-width: 768px) {
-  .comparison-table-wrap { margin: 0; overflow-x: hidden; }
+  .comparison-table-wrap { margin: 0; overflow-x: auto; }
   .comparison-table th, .comparison-table td { padding: 8px 8px; font-size: 12px; word-break: break-word; }
   .comparison-table .table-cta { padding: 5px 8px; font-size: 12px; }
   .comparison-table .table-stars .stars { font-size: 10px; letter-spacing: 0; }

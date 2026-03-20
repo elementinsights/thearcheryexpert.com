@@ -12,12 +12,12 @@ readTime: "14 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "What Is Korean Archery And How Is It Different?"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Korean archery stands apart thanks to the traditional Gakgung composite bow, a thumb-draw technique, and an intense government-backed training system where national team athletes shoot a minimum of 100,000 arrows per year."
 toc:
   - label: "What Is Korean Archery And How Is It Different?"
     href: "#what-is-korean-archery-and-how-is-it-different"
   - label: "Korean Archery"
-    href: "#what-is-korean-archery-and-how-is-it-different"
+    href: "#korean-archery"
   - label: "History"
     href: "#history"
   - label: "Korean Bow"
@@ -25,15 +25,15 @@ toc:
   - label: "Pyeonjeon"
     href: "#pyeonjeon"
   - label: "How Is The Bowstring Different?"
-    href: "#what-is-korean-archery-and-how-is-it-different"
+    href: "#how-is-the-bowstring-different"
   - label: "End of Archery In Military"
     href: "#end-of-archery-in-military"
   - label: "Why is Korea the best?"
     href: "#why-is-korea-the-best"
   - label: "Other Reasons Korean Archery Training Is Different"
-    href: "#what-is-korean-archery-and-how-is-it-different"
+    href: "#other-reasons-korean-archery-training-is-different"
   - label: "Korean Archery Association"
-    href: "#what-is-korean-archery-and-how-is-it-different"
+    href: "#korean-archery-association"
   - label: "Korea vs. Other Countries"
     href: "#korea-vs-other-countries"
   - label: "Multiple Facilities"
@@ -76,7 +76,7 @@ Archery is often considered Korea's national sport, but in reality, that title b
 
 It's understood as the most popular sport in Korea and is considered the second country in its efficiency after the USA.
 
-Korea has successfully dominated the current Olympic archery acquiring the maximum number of medals.
+Korea has successfully dominated the current Olympic archery acquiring the maximum number of medals. Their success is largely attributed to an intense [archery training](/archery-training/) system that starts at the school level.
 
 They have 39 Olympic medals, and all are in gold, along with every women's event that has been organized.
 
@@ -96,7 +96,7 @@ It has helped them secure their land from attacks from the North, the Chinese fr
 
 It was used primarily as a weapon until now.
 
-To protect its mountain fortresses and strengthen its military forces, Korea has used the bow on multiple occasions.
+To protect its mountain fortresses and strengthen its military forces, Korea has used the bow on multiple occasions, including from horseback in a style similar to what we now call [mounted archery](/mounted-archery-bow/).
 
 During the 14th century, i.e., now known as the Chosun era, most of the soldiers were selected based on their excellence in archery.
 

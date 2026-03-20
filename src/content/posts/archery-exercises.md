@@ -12,7 +12,7 @@ readTime: "17 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "Blind Shooting"
-  text: "This is the first item on our comprehensive list. Read on to discover all 9 items."
+  text: "Blind shooting tops the list because it forces you to focus entirely on form without the distraction of aiming. You'll also find drills for distance shooting, angle work, target panic cures, and mental focus exercises."
 toc:
   - label: "1. Blind Shooting"
     href: "#1-blind-shooting"
@@ -22,6 +22,8 @@ toc:
     href: "#3-around-the-clock"
   - label: "4. Blank Bale with a Target"
     href: "#4-blank-bale-with-a-target"
+  - label: "5. Bow Catch"
+    href: "#5-bow-catch"
   - label: "6. Target Change-Up"
     href: "#6-target-change-up"
   - label: "7. Count Down Drill"
@@ -45,8 +47,8 @@ quickFacts:
     label: "Around the Clock"
   - value: "#4"
     label: "Blank Bale with a Target"
-  - value: "#6"
-    label: "Target Change-Up"
+  - value: "#5"
+    label: "Bow Catch"
 faq:
   - question: "What's the best archery exercise for beginners?"
     answer: "Blind shooting is one of the best starting exercises because it forces you to focus entirely on form without the distraction of aiming at a target. Close your eyes at full draw and release into a large target from about 8 feet. You'll quickly develop awareness of your stance, grip, and release mechanics."
@@ -67,7 +69,7 @@ Yes, you'll go through rigorous hours of getting the aim on the target, but you'
 
 You'll need to shut out any distractions that might mess up your concentration and just keep a sharp focus on aiming.
 
-Then there's the mastery of form and posture, which is the basic foundation that will guarantee a successful shot.
+Then there's the mastery of form and posture, which is the basic foundation that will guarantee a successful shot. Our guides to [proper archery form](/archery-form/) and [archery training](/archery-training/) will help you build that foundation before layering on these drills.
 
 You'll get challenged physically and mentally, which makes this game perfect for a person who wants to explore your strengths.
 
@@ -209,7 +211,12 @@ You'll be more sensitive to feeling the release by doing muscle memory and train
 
 Being able to respond calmly to different targets or hunting situations is a great skill to have.
 
-5. Bow Catch
+## 5. Bow Catch
+
+<div class="stat-highlight">
+  <span class="stat-number">#5</span>
+  <span class="stat-text">Bow Catch</span>
+</div>
 
 The Bow Catch exercise is when somebody catches your bow after the shot.
 

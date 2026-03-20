@@ -11,15 +11,15 @@ imageAlt: "10 Best Archery Chairs & Their Reviews For 2026"
 readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
-  title: "The best option is the Southwest Archery Shooter Stool"
-  text: "Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings. You’ll have full confidence in its heavy-duty foldable chair that can hold an archer as heavy as 300 pounds. This detachable chair can be swapped left or right, depending on the need of the shooter."
+  title: "The best option is the Bohning Complete Shooter Stool"
+  text: "The Bohning Complete Shooter Stool is a portable archery stool with built-in arrow holder slots, perfect for keeping your arrows organized during tournaments. It's lightweight, folds flat for easy transport, and sets up in seconds at the range."
   ctaText: "Check Price →"
   ctaUrl: "https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20"
 toc:
   - label: "Quick Comparison Chart"
     href: "#quick-comparison-chart"
-  - label: "1. Southwest Archery Shooter Stool — Best Overall"
-    href: "#1-southwest-archery-shooter-stool--best-overall"
+  - label: "1. Bohning Complete Shooter Stool — Best Overall"
+    href: "#1-bohning-complete-shooter-stool--best-overall"
   - label: "2. Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool — Runner Up"
     href: "#2-shrewd-smssidekickbk-side-kick-archery-chairstool--runner-up"
   - label: "3. </b><b>GigaTent Folding 3 in 1 Stool Backpack Folding Stool< — Best Value"
@@ -50,24 +50,24 @@ faq:
   - question: "Are tripod stools better than four-leg chairs for archery?"
     answer: "Tripod stools are lighter and more portable, which makes them great for walk-in hunts and moving between shooting positions. Four-leg chairs offer more stability and comfort for extended sits in a blind. Your choice depends on whether portability or comfort is the bigger priority."
 products:
-  - name: "Southwest Archery Shooter Stool"
+  - name: "Bohning Complete Shooter Stool"
     rank: 1
     badge: "Best Overall"
     rating: 9.7
     image: "https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg"
-    description: "Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings."
+    description: "The Bohning Complete Shooter Stool is a portable archery stool with built-in arrow holder slots, perfect for keeping arrows organized during tournaments."
     highlights:
-      - "300 lb Capacity"
-      - "Swappable Sides"
-      - "Foldable Frame"
-      - "Heavy-Duty Build"
+      - "Arrow Holder Slots"
+      - "Folds Flat"
+      - "Lightweight"
+      - "Quick Setup"
     pros:
-      - "Supports up to 300 pounds with a reinforced heavy-duty frame"
-      - "Detachable seat swaps left or right to match your shooting hand"
-      - "Folds flat for easy transport and storage between sessions"
+      - "Built-in arrow holder slots keep your arrows organized and off the ground"
+      - "Folds completely flat for easy transport and storage"
+      - "Lightweight design is easy to carry between shooting positions"
     cons:
-      - "Heavier than basic tripod stools due to the steel frame"
-      - "Not the most compact option for backpacking into remote spots"
+      - "Arrow slots may not accommodate all shaft diameters"
+      - "Basic seat design offers less padding than full-size chairs"
     ctaUrl: "https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20"
   - name: "Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool"
     rank: 2
@@ -257,7 +257,7 @@ A good hunting chair is light and easy to carry but sturdy enough to carry a per
 
 It's meant to allow the hunter time to rest the feet from trekking and going through the forest or bushes.
 
-But more importantly, it's meant for the hunter to comfortably sit with a ready aim with minimal movement to avoid any jerking actions that would scare away the animal.
+But more importantly, it's meant for the hunter to comfortably sit with a ready aim with minimal movement to avoid any jerking actions that would scare away the animal. Complete your hunting setup with a [bow hanger for your tree stand](/bow-hanger-for-tree-stand/) and read our [archery hunting tips](/archery-hunting-tip/) for field strategies.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -281,70 +281,70 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">Southwest Archery Shooter Stool</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="Bohning Complete Shooter Stool" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">Bohning Complete Shooter Stool</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
 <td><a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07QFS78X4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41FnyJHHDRL._SL500_.jpg" alt="Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07QFS78X4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41FnyJHHDRL._SL500_.jpg" alt="Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Shrewd SMSSIDEKICKBK Side Kick Archery C</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
 <td><a href="https://www.amazon.com/dp/B07QFS78X4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07GJVCPF1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DlUxhddeL._SL500_.jpg" alt="</b><b>GigaTent Folding 3 in 1 Stool Backpack Folding Stool</b><b>" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07GJVCPF1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41DlUxhddeL._SL500_.jpg" alt="</b><b>GigaTent Folding 3 in 1 Stool Backpack Folding Stool</b><b>" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name"></b><b>GigaTent Folding 3 in 1 Stool Bac</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B07GJVCPF1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07M7FGG82?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51W3zff22gL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07M7FGG82?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51W3zff22gL._SL500_.jpg" alt="Allen Company Camo Folding Hunting Stool" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Allen Company Camo Folding Hunting Stool</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B07M7FGG82?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07KP8ZZR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51bopppeVRL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07KP8ZZR4?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51bopppeVRL._SL500_.jpg" alt="Redcamp 2-Pack Tripod Hunting Chair" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Redcamp 2-Pack Tripod Hunting Chair</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B07KP8ZZR4?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B06XDSS2BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411M3S2azLL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B06XDSS2BF?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/411M3S2azLL._SL500_.jpg" alt="Baronett Blinds BC101 Tripod XL Folding" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Baronett Blinds BC101 Tripod XL Folding </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B06XDSS2BF?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07SQYK4G6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417Tm03-R9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07SQYK4G6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/417Tm03-R9L._SL500_.jpg" alt="Portal Extra Large Quick Folding Tripod" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Portal Extra Large Quick Folding Tripod </td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B07SQYK4G6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01C34XE30?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fvIzsY7UL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01C34XE30?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41fvIzsY7UL._SL500_.jpg" alt="ALPS OutdoorZ Stealth Hunter Blind Chair" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">ALPS OutdoorZ Stealth Hunter Blind Chair</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B01C34XE30?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B007PIR8N2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Xu8QQxMcL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B007PIR8N2?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Xu8QQxMcL._SL500_.jpg" alt="Browning Camping Dove Shooter Hunting Ch" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Browning Camping Dove Shooter Hunting Ch</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B007PIR8N2?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00WOLOPVS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XWgRKlWvL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00WOLOPVS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41XWgRKlWvL._SL500_.jpg" alt="Muddy MGS400 Swivel-Ease Ground Seat" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Muddy MGS400 Swivel-Ease Ground Seat</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B00WOLOPVS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -353,26 +353,26 @@ But more importantly, it's meant for the hunter to comfortably sit with a ready 
 </table>
 </div>
 
-## 1. Southwest Archery Shooter Stool &mdash; Best Overall
+## 1. Bohning Complete Shooter Stool &mdash; Best Overall
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="Southwest Archery Shooter Stool" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41qoYvUfNaL._SL500_.jpg" alt="Bohning Complete Shooter Stool" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Chair</div>
-<h3 class="product-card-name">Southwest Archery Shooter Stool</h3>
+<h3 class="product-card-name">Bohning Complete Shooter Stool</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.7/10</span>
 </div>
-<p class="product-card-desc">Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings. You'll have full confidence in its heavy-duty foldable chair that can hold an archer as heavy as 300 pounds. This detachable chair can be swapped left or right, depending on the need of the shooter.</p>
+<p class="product-card-desc">The Bohning Complete Shooter Stool is a portable archery stool with built-in arrow holder slots, perfect for keeping arrows organized during tournaments.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">300 lb Capacity</span>
-<span class="highlight-tag">Swappable Sides</span>
-<span class="highlight-tag">Foldable Frame</span>
-<span class="highlight-tag">Heavy-Duty Build</span>
+<span class="highlight-tag">Arrow Holder Slots</span>
+<span class="highlight-tag">Folds Flat</span>
+<span class="highlight-tag">Lightweight</span>
+<span class="highlight-tag">Quick Setup</span>
 </div>
 <a href="https://www.amazon.com/dp/B07C9GGG8G?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -387,9 +387,9 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Supports up to 300 pounds with a reinforced heavy-duty frame</li>
-<li>Detachable seat swaps left or right to match your shooting hand</li>
-<li>Folds flat for easy transport and storage between sessions</li>
+<li>Built-in arrow holder slots keep your arrows organized and off the ground</li>
+<li>Folds completely flat for easy transport and storage</li>
+<li>Lightweight design is easy to carry between shooting positions</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -398,32 +398,20 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Heavier than basic tripod stools due to the steel frame</li>
-<li>Not the most compact option for backpacking into remote spots</li>
+<li>Arrow slots may not accommodate all shaft diameters</li>
+<li>Basic seat design offers less padding than full-size chairs</li>
 </ul>
 </div>
 </div>
 </div>
 
-Southwest Archery Shooter Stool is voted 5 out of 5 stars from 5 global ratings.
+The Bohning Complete Shooter Stool is a portable archery stool built with arrow holder slots so you can keep your arrows organized and within reach during tournaments or practice sessions. It's lightweight and folds completely flat, making it easy to toss in your car or carry to the range.
 
-You'll have full confidence in its heavy-duty foldable chair that can hold an archer as heavy as 300 pounds.
+The built-in arrow slots are the standout feature here, giving you a dedicated place to store arrows between ends without laying them on the ground. This keeps your shafts clean and prevents accidental damage from people stepping on them.
 
-This detachable chair can be swapped left or right, depending on the need of the shooter.
+The stool's compact design means it doesn't take up much space on the shooting line. It's sturdy enough for extended sitting but light enough that you won't mind carrying it around all day.
 
-The quiver mount is customizable, making it easy for you to use whether you're left-handed or right-handed.
-
-You'll like the ambidextrous capability of this stool, mainly because you can use it according to your need.
-
-It comes with two pieces of polycarbonate arrow tubes of 2-inch diameter 18-inches long. This material is both durable and light, making it easier to carry around when you need to change positions or move closer to the target.
-
-Each arrow tube has a rubber point plate with an end cap for your ease of use while hunting. You'll appreciate the storage pouches for your different accessories that make it easier for organizing your things.
-
-You don't need to worry about dehydration while waiting for your target during a hunt.
-
-Simply sip on the tube inserted in the hydration bladder, so you don't make any significant movements while waiting.
-
-They call this the last tournament chair, considered a favorite for many archers around the globe.
+For tournament archers who need a simple, functional seat with convenient arrow storage, this stool covers the basics without any unnecessary bulk. It folds flat for transport and sets up in seconds when you reach your shooting position.
 
 ## 2. Shrewd SMSSIDEKICKBK Side Kick Archery Chair/Stool &mdash; Runner Up
 
@@ -591,7 +579,7 @@ You can treat this chair as multi-functional, where it serves as a hunting chair
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.1/10</span>
 </div>
-<p class="product-card-desc">The Allen Company Camo Folding Hunting Stool has 4.6 out of 5 stars from 98 global ratings. It's made of durable and sturdy material with its steel frame that can carry the weight of as heavy as a 225 pounds hunter. With its size of 12 length x 14.</p>
+<p class="product-card-desc">The Allen Company Camo Folding Hunting Stool has 4.6 out of 5 stars from 98 global ratings. It's made of durable and sturdy material with its steel frame that can carry the weight of as heavy as a 225 pounds hunter.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Camo Pattern</span>
 <span class="highlight-tag">Steel Frame</span>
@@ -743,7 +731,7 @@ This is a multi-functional seat for light hunting trips and any outdoor activity
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
-<p class="product-card-desc">The Baronett Blinds BC101 Tripod XL Folding Hunting Chair has 4.1 out of 5 stars from 131 global ratings. It's made of 100% polyester heavy-duty material that can hold as heavy as 300 pounds of weight. Its chair size XL allows enough space for comfortable seating on the tripod legs.</p>
+<p class="product-card-desc">The Baronett Blinds BC101 Tripod XL Folding Hunting Chair has 4.1 out of 5 stars from 131 global ratings. It's made of 100% polyester heavy-duty material that can hold as heavy as 300 pounds of weight.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">XL Seat Size</span>
 <span class="highlight-tag">300 lb Rated</span>
@@ -895,7 +883,7 @@ You'll also like its multi-functional use since you can bring it not only for a 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.4/10</span>
 </div>
-<p class="product-card-desc">The ALPS OutdoorZ Stealth Hunter Blind Chair has 4.4 out of 5 stars from 613 global ratings. It's labeled #1 Best Seller in Amazon Hunting Seats because of its popularity. You'll understand why this chair is a favorite among many hunters once you've tried it.</p>
+<p class="product-card-desc">The ALPS OutdoorZ Stealth Hunter Blind Chair has 4.4 out of 5 stars from 613 global ratings. It's labeled #1 Best Seller in Amazon Hunting Seats because of its popularity.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Powder-Coated Steel</span>
 <span class="highlight-tag">Padded Armrests</span>
@@ -971,7 +959,7 @@ This is a maximum comfort seat for serious hunters willing to wait long periods 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">The Browning Camping Steady Stool has a 4. out of 5 stars from58 global ratings. You'll sit comfortably in the extra-wide seat with back support that's durable to carry as heavy as 275 pounds. The powder-coated steel frame is sturdy with a dimension of 22" length x 13.</p>
+<p class="product-card-desc">The Browning Camping Steady Stool has a 4. out of 5 stars from58 global ratings. You'll sit comfortably in the extra-wide seat with back support that's durable to carry as heavy as 275 pounds.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Wide Seat Base</span>
 <span class="highlight-tag">Non-Slip Feet</span>

@@ -14,7 +14,7 @@ quickAnswer:
   title: "The best option is the Field Logic Hurricane Archery Bag Target H25"
   text: "This archery bag target is great for beginners and sport hunters to practice their skills. The key feature of the product is that it's very durable."
   ctaText: "Check Price →"
-  ctaUrl: "#"
+  ctaUrl: "https://www.amazon.com/dp/B0083OCR8S?tag=thearcheryexpert-20"
 toc:
   - label: "Quick Comparison Chart"
     href: "#quick-comparison-chart"
@@ -22,8 +22,8 @@ toc:
     href: "#1-field-logic-hurricane-archery-bag-target-h25--best-overall"
   - label: "2. Morrell Yellow Jacket Crossbow Target — Runner Up"
     href: "#2-morrell-yellow-jacket-crossbow-target--runner-up"
-  - label: "3. Morrell Yellow Jacket Supreme 3 — Best Value"
-    href: "#3-morrell-yellow-jacket-supreme-3--best-value"
+  - label: "3. Field Logic Block GenZ XL 20 Youth Archery Arrow Target — Best Value"
+    href: "#3-field-logic-block-genz-xl-20-youth-archery-arrow-target--best-value"
   - label: "4. Morrell Yellow Jacket Stinger Field — Premium Pick"
     href: "#4-morrell-yellow-jacket-stinger-field--premium-pick"
   - label: "5. Morrell Supreme Range Field Point Bag Archery Target — Budget Pick"
@@ -54,7 +54,7 @@ products:
     rank: 1
     badge: "Best Overall"
     rating: 9.7
-    image: "https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/41JneaL8dlL._SL500_.jpg"
     description: "This archery bag target is great for beginners and sport hunters to practice their skills."
     highlights:
       - "1000 PSI Tri-Core"
@@ -67,14 +67,14 @@ products:
       - "Only 5 pounds with heavy-duty carry handle"
       - "Available in three sizes (20, 25, and 28 inch)"
     cons:
-      - "Can’t withstand prolonged sun or rain exposure"
+      - "Can't withstand prolonged sun or rain exposure"
       - "Not designed for broadhead use"
-    ctaUrl: "#"
+    ctaUrl: "https://www.amazon.com/dp/B0083OCR8S?tag=thearcheryexpert-20"
   - name: "Morrell Yellow Jacket Crossbow Target"
     rank: 2
     badge: "Runner Up"
     rating: 9.5
-    image: "https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg"
+    image: "https://m.media-amazon.com/images/I/51Z0S0HLvmL._SL500_.jpg"
     description: "Morrell targets offer the best archery targets."
     highlights:
       - "Stops 350 FPS"
@@ -87,35 +87,35 @@ products:
       - "Grommets let you hang it from a tree for angled practice"
       - "One-hand arrow removal makes retrieval effortless"
     cons:
-      - "Weighs 30 pounds, so it’s not the lightest option"
+      - "Weighs 30 pounds, so it's not the lightest option"
       - "Needs support behind it when placed on the ground"
-    ctaUrl: "#"
-  - name: "Morrell Yellow Jacket Supreme 3"
+    ctaUrl: "https://www.amazon.com/dp/B001RE6ZPW?tag=thearcheryexpert-20"
+  - name: "Field Logic Block GenZ XL 20 Youth Archery Arrow Target"
     rank: 3
     badge: "Best Value"
     rating: 9.3
     image: "https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg"
-    description: "The Morrell yellow jacket supreme is another bag target of the Morrell line."
+    description: "A 20-inch foam block target built for youth archers and lighter bows, with easy arrow removal and two-sided shooting for extended target life."
     highlights:
-      - "350 FPS Rated"
-      - "Weatherproof"
-      - "High-Vis Graphics"
-      - "Multi-Bow Compatible"
+      - "20-Inch Block"
+      - "Youth Friendly"
+      - "Two-Sided Design"
+      - "Easy Arrow Removal"
     pros:
-      - "Works with longbow, recurve, compound, and crossbow setups"
-      - "Weatherproof construction lets you leave it outside in rain"
-      - "Red, yellow, and black graphics are visible from long distances"
-      - "Two-finger arrow removal keeps retrieval quick and easy"
+      - "Designed for youth and light-draw bows with easy arrow stopping"
+      - "Two-sided shooting doubles the target life"
+      - "Lightweight enough for young archers to move on their own"
+      - "Affordable entry point for backyard practice"
     cons:
-      - "Not very stable on the ground without a support block"
-      - "Wildlife can damage it if left unattended outdoors"
+      - "Not rated for high-speed compound or crossbow setups"
+      - "Foam can break down faster than bag-style targets under heavy use"
     ctaUrl: "https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20"
   - name: "Morrell Yellow Jacket Stinger Field"
     rank: 4
     badge: "Premium Pick"
     rating: 9.1
     image: "https://m.media-amazon.com/images/I/51qYkXC9VsL._SL500_.jpg"
-    description: "If you have just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn’t rip apart in the center."
+    description: "If you have just started polishing your archery skills, then you would need a target that stays with you for a lot of practice and doesn't rip apart in the center."
     highlights:
       - "38-Layer Center"
       - "Waterproof Cover"
@@ -135,7 +135,7 @@ products:
     badge: "Budget Pick"
     rating: 8.9
     image: "https://m.media-amazon.com/images/I/51dPF4wLXML._SL500_.jpg"
-    description: "If you are passionate about archery then chances are that your children would be too."
+    description: "If you're passionate about archery then chances are that your children would be too."
     highlights:
       - "NASP Approved"
       - "100% Weatherproof"
@@ -175,7 +175,7 @@ products:
     badge: "Best Design"
     rating: 8.6
     image: "https://m.media-amazon.com/images/I/51Kvuf6wnSL._SL500_.jpg"
-    description: "This Morrell bag target is perfect for beginners or sport hunters who want to hone their skills on a long-range target that is kept outdoors."
+    description: "This Morrell bag target is perfect for beginners or sport hunters who want to hone their skills on a long-range target that's kept outdoors."
     highlights:
       - "Oversized 32x29 in"
       - "76 Stopping Layers"
@@ -188,7 +188,7 @@ products:
       - "Full-size bullseyes on both sides with varied aiming dots"
     cons:
       - "Weighs 54 pounds, making it difficult to move around"
-      - "Large size won’t fit in smaller indoor shooting spaces"
+      - "Large size won't fit in smaller indoor shooting spaces"
     ctaUrl: "https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20"
   - name: "Field Logic Hurricane H21 Crossbow Archery Bag Target"
     rank: 8
@@ -208,14 +208,14 @@ products:
       - "Compact 21x15 inch size is ideal for indoor and close-range practice"
     cons:
       - "Smaller shooting surface limits long-range practice options"
-      - "At 30 pounds, it’s heavier than the larger H25 model"
+      - "At 30 pounds, it's heavier than the larger H25 model"
     ctaUrl: "https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20"
   - name: "Bulldog Targets Doghouse Field Point Archery Target Plus"
     rank: 9
     badge: "Best for Beginners"
     rating: 8.2
     image: "https://m.media-amazon.com/images/I/5122CTxLoZL._SL500_.jpg"
-    description: "If you are an experienced archer or a toxophilite, who loves shooting at targets hundreds of times a day, then this Bulldog target is just for you."
+    description: "If you're an experienced archer or a toxophilite, who loves shooting at targets hundreds of times a day, then this Bulldog target is just for you."
     highlights:
       - "Lifetime Warranty"
       - "Stands Upright Solo"
@@ -247,7 +247,7 @@ products:
       - "7 medium and 3 small bullseyes offer varied aiming points"
       - "High contrast graphics are easy to acquire from long distances"
     cons:
-      - "Weighs 45 pounds, so it’s meant to stay in one spot"
+      - "Weighs 45 pounds, so it's meant to stay in one spot"
       - "Arrow removal requires more effort than lighter bag targets"
     ctaUrl: "https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20"
 finalThoughts: "Bag targets are the most practical and affordable option for daily archery practice, whether you're shooting in your backyard or at an indoor range. Match the target to your setup by checking the speed rating for your bow or crossbow, and rotate the shooting surface regularly to get the most life out of it.\n\nOnce you've outgrown bag targets, consider stepping up to block targets or 3D animal targets for more advanced practice scenarios."
@@ -255,7 +255,7 @@ finalThoughts: "Bag targets are the most practical and affordable option for dai
 
 Archery bag targets answer all your concerns.
 
-Unlike the foam block targets and 3D targets, bag targets are specially designed for indoor use either in your basement or backyard.
+Unlike the foam block targets and 3D targets, bag targets are specially designed for indoor use either in your basement or backyard. If you want to try other target styles, check out our reviews of [animal archery targets](/animal-archery-targets/) and [coiled straw archery targets](/coiled-straw-archery-target/).
 
 Choosing an ideal bag target is important for your practice because you want it to last longer and to get it at an affordable price.
 
@@ -299,70 +299,70 @@ Here's a list of the 10 best archery bag targets that we've gathered for you to 
 <tbody>
 <tr class="table-best">
 <td class="table-rank">1</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Field Logic Hurricane Archery Bag Target H25" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0083OCR8S?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41JneaL8dlL._SL500_.jpg" alt="Field Logic Hurricane Archery Bag Target H25" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Field Logic Hurricane Archery Bag Target</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.7</span></td>
-<td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B0083OCR8S?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">2</td>
-<td class="table-img"><a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Morrell Yellow Jacket Crossbow Target" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B001RE6ZPW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Z0S0HLvmL._SL500_.jpg" alt="Morrell Yellow Jacket Crossbow Target" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Morrell Yellow Jacket Crossbow Target</td>
 <td class="table-stars"><span class="stars">★★★★★</span> <span class="rating-num">9.5</span></td>
-<td><a href="#" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
+<td><a href="https://www.amazon.com/dp/B001RE6ZPW?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">3</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="" loading="lazy" /></a></td>
-<td class="table-product-name">Morrell Yellow Jacket Supreme 3</td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Field Logic Block GenZ XL 20 Youth Archery Arrow Target" width="60" height="60" loading="lazy" /></a></td>
+<td class="table-product-name">Field Logic Block GenZ XL 20 Youth Target</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.3</span></td>
 <td><a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">4</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00AI9IXJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qYkXC9VsL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00AI9IXJS?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51qYkXC9VsL._SL500_.jpg" alt="Morrell Yellow Jacket Stinger Field" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Morrell Yellow Jacket Stinger Field</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">9.1</span></td>
 <td><a href="https://www.amazon.com/dp/B00AI9IXJS?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">5</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00CJJ76HU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51dPF4wLXML._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00CJJ76HU?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51dPF4wLXML._SL500_.jpg" alt="Morrell Supreme Range Field Point Bag Ar" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Morrell Supreme Range Field Point Bag Ar</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.9</span></td>
 <td><a href="https://www.amazon.com/dp/B00CJJ76HU?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">6</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B01BUDMSMI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JTDWO+itL._SL500_.jpg" alt="Delta McKenzie Speedbag 20/20 Archery Target" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B01BUDMSMI?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51JTDWO+itL._SL500_.jpg" alt="Delta McKenzie Speedbag 20/20 Archery Target" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Delta McKenzie Speedbag 20/20 Archery Ta</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.8</span></td>
 <td><a href="https://www.amazon.com/dp/B01BUDMSMI?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">7</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Kvuf6wnSL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Kvuf6wnSL._SL500_.jpg" alt="Morrell Keep Hammering Outdoor Range Tar" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Morrell Keep Hammering Outdoor Range Tar</td>
 <td class="table-stars"><span class="stars">★★★★<span class="star-half">☆</span></span> <span class="rating-num">8.6</span></td>
 <td><a href="https://www.amazon.com/dp/B07TGCL6X1?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">8</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51spJKSjQuL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51spJKSjQuL._SL500_.jpg" alt="Field Logic Hurricane H21 Crossbow Arche" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Field Logic Hurricane H21 Crossbow Arche</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.4</span></td>
 <td><a href="https://www.amazon.com/dp/B00LGKFYHC?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">9</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B07NBWWFM7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/5122CTxLoZL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B07NBWWFM7?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/5122CTxLoZL._SL500_.jpg" alt="Bulldog Targets Doghouse Field Point Arc" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">Bulldog Targets Doghouse Field Point Arc</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.2</span></td>
 <td><a href="https://www.amazon.com/dp/B07NBWWFM7?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
 </tr>
 <tr>
 <td class="table-rank">10</td>
-<td class="table-img"><a href="https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41ZTKs587uL._SL500_.jpg" alt="" loading="lazy" /></a></td>
+<td class="table-img"><a href="https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41ZTKs587uL._SL500_.jpg" alt="DELTA 70630 Speed Bag Crossbow" width="60" height="60" loading="lazy" /></a></td>
 <td class="table-product-name">DELTA 70630 Speed Bag Crossbow</td>
 <td class="table-stars"><span class="stars">★★★★☆</span> <span class="rating-num">8.0</span></td>
 <td><a href="https://www.amazon.com/dp/B0173OI1F6?tag=thearcheryexpert-20" class="table-cta" rel="nofollow sponsored" target="_blank">Check Price</a></td>
@@ -376,7 +376,7 @@ Here's a list of the 10 best archery bag targets that we've gathered for you to 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Field Logic Hurricane Archery Bag Target H25" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B0083OCR8S?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41JneaL8dlL._SL500_.jpg" alt="Field Logic Hurricane Archery Bag Target H25" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#1 Pick</span> Best Overall Target</div>
@@ -392,7 +392,7 @@ Here's a list of the 10 best archery bag targets that we've gathered for you to 
 <span class="highlight-tag">5 lb Lightweight</span>
 <span class="highlight-tag">Easy 2-Finger Pull</span>
 </div>
-<a href="#" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B0083OCR8S?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -455,7 +455,7 @@ It can't withstand prolonged sun or rain exposure, so you should better keep it 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="#" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Morrell Yellow Jacket Crossbow Target" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B001RE6ZPW?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/51Z0S0HLvmL._SL500_.jpg" alt="Morrell Yellow Jacket Crossbow Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#2 Pick</span> Runner Up Target</div>
@@ -464,14 +464,14 @@ It can't withstand prolonged sun or rain exposure, so you should better keep it 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">Morrell targets offer the best archery targets. They're well renowned in the industry for their provision of good quality archery targets at an affordable price. This particular bag target of Morrell is unique in its ability to withstand pressure from a range of high-speed bows including crossbows and compound bows.</p>
+<p class="product-card-desc">Morrell targets offer the best archery targets. They're well renowned in the industry for their provision of good quality archery targets at an affordable price.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Stops 350 FPS</span>
 <span class="highlight-tag">Replaceable Covers</span>
 <span class="highlight-tag">One-Hand Removal</span>
 <span class="highlight-tag">Grommets Included</span>
 </div>
-<a href="#" class="product-card-cta" rel="nofollow sponsored" target="_blank">
+<a href="https://www.amazon.com/dp/B001RE6ZPW?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
 <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
 </a>
@@ -533,26 +533,26 @@ This provides a change in the practice techniques by trying for different angles
 
 If the cover of your target wears out then you can get it replaced to provide a cheap solution.
 
-## 3. Morrell Yellow Jacket Supreme 3 &mdash; Best Value
+## 3. Field Logic Block GenZ XL 20 Youth Archery Arrow Target &mdash; Best Value
 
 <div class="product-card animate-on-scroll">
 <div class="product-card-top">
 <div class="product-card-img">
-<a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Morrell Yellow Jacket Supreme 3" loading="lazy" /></a>
+<a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" target="_blank" rel="nofollow sponsored"><img src="https://m.media-amazon.com/images/I/41a8b-8uw9L._SL500_.jpg" alt="Field Logic Block GenZ XL 20 Youth Archery Arrow Target" loading="lazy" /></a>
 </div>
 <div class="product-card-body">
 <div class="product-card-rank"><span class="rank-badge">#3 Pick</span> Best Value Target</div>
-<h3 class="product-card-name">Morrell Yellow Jacket Supreme 3</h3>
+<h3 class="product-card-name">Field Logic Block GenZ XL 20 Youth Archery Arrow Target</h3>
 <div class="product-card-rating">
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">9.3/10</span>
 </div>
-<p class="product-card-desc">The Morrell yellow jacket supreme is another bag target of the Morrell line. If you practice with field points using high-speed compound bows, then this bag target is just for you.</p>
+<p class="product-card-desc">A 20-inch foam block target built for youth archers and lighter bows, with easy arrow removal and two-sided shooting for extended target life.</p>
 <div class="product-card-highlights">
-<span class="highlight-tag">350 FPS Rated</span>
-<span class="highlight-tag">Weatherproof</span>
-<span class="highlight-tag">High-Vis Graphics</span>
-<span class="highlight-tag">Multi-Bow Compatible</span>
+<span class="highlight-tag">20-Inch Block</span>
+<span class="highlight-tag">Youth Friendly</span>
+<span class="highlight-tag">Two-Sided Design</span>
+<span class="highlight-tag">Easy Arrow Removal</span>
 </div>
 <a href="https://www.amazon.com/dp/B00RH65IMA?tag=thearcheryexpert-20" class="product-card-cta" rel="nofollow sponsored" target="_blank">
 Check Price
@@ -567,10 +567,10 @@ Check Price
 Pros
 </h4>
 <ul class="pros-list">
-<li>Works with longbow, recurve, compound, and crossbow setups</li>
-<li>Weatherproof construction lets you leave it outside in rain</li>
-<li>Red, yellow, and black graphics are visible from long distances</li>
-<li>Two-finger arrow removal keeps retrieval quick and easy</li>
+<li>Designed for youth and light-draw bows with easy arrow stopping</li>
+<li>Two-sided shooting doubles the target life</li>
+<li>Lightweight enough for young archers to move on their own</li>
+<li>Affordable entry point for backyard practice</li>
 </ul>
 </div>
 <div class="pros-cons">
@@ -579,38 +579,20 @@ Pros
 Cons
 </h4>
 <ul class="cons-list">
-<li>Not very stable on the ground without a support block</li>
-<li>Wildlife can damage it if left unattended outdoors</li>
+<li>Not rated for high-speed compound or crossbow setups</li>
+<li>Foam can break down faster than bag-style targets under heavy use</li>
 </ul>
 </div>
 </div>
 </div>
 
-The Morrell yellow jacket supreme is another bag target of the Morrell line.
+The Field Logic Block GenZ XL is a 20-inch foam block target designed specifically for youth archers and lighter-draw bows. It uses layered foam construction that stops arrows effectively while making removal easy enough for younger shooters.
 
-If you practice with field points using high-speed compound bows, then this bag target is just for you.
+The two-sided shooting design gives you twice the target life before needing a replacement. You can practice on one side, then flip it over for a fresh surface when the first side starts to wear down.
 
-It's used for a variety of bows including longbow, recurve, and Mongol horse bow as long as you're using field points only.
+At 20 inches, it's a good size for backyard practice without taking up too much space. The lightweight build makes it easy for kids to move around on their own, and it holds up well under repeated use with field points.
 
-It stops all the bolts perfectly up to a speed of 350 fps with easy removal of arrows requiring only two fingers for removal of bolts.
-
-Morrell yellow jacket supreme is the most rugged and durable of the Morrell targets.
-
-The graphic is excellent using red, yellow, and black coloring.
-
-It's spotted easily from afar.
-
-The target isn't very stable on the ground, but you can easily overcome this by putting a block of concrete behind it for support.
-
-It offers grommets at the top corners for hanging it on a tree and trying various heights for target practice while a handle helps in easy carrying.
-
-If you don't want to move the target a lot and want to just leave it somewhere after adjusting it, then this target would be your ideal choice.
-
-It's weatherproof and you can leave it hanging outside in the rain.
-
-But don't leave it in the wild as it's weatherproof but bears and wildlife can damage it.
-
-If you're an experienced archer using high-speed crossbows and want to practice your skills a few times a week, then this archery bag is all you need.
+Arrow removal is genuinely effortless, which matters a lot for youth archers who don't have the grip strength to yank arrows from denser targets. If you're looking for an affordable, beginner-friendly target for a young archer, this one gets the job done without overcomplicating things.
 
 ## 4. Morrell Yellow Jacket Stinger Field &mdash; Premium Pick
 
@@ -782,7 +764,7 @@ It's built for field points only and using them would increase its life. Unlike 
 <span class="stars">&#9733;&#9733;&#9733;&#9733;<span class="star-half">&#9734;</span></span>
 <span class="rating-text">8.8/10</span>
 </div>
-<p class="product-card-desc">This is the first McKenzie archery target in this list. The distinguishing feature of this specific bag target is the hydro-press stuffing of material. Unlike the process of manually stuffing the material.</p>
+<p class="product-card-desc">This is the first McKenzie archery target in this list. The distinguishing feature of this specific bag target is the hydro-press stuffing of material.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Hydro-Press Fill</span>
 <span class="highlight-tag">Velcro Re-Stuff Flap</span>
@@ -1029,7 +1011,7 @@ Use it for field points only and it will stay with you for years.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9734;</span>
 <span class="rating-text">8.2/10</span>
 </div>
-<p class="product-card-desc">If you're an experienced archer or a toxophilite, who loves shooting at targets hundreds of times a day, then this Bulldog target is just for you. This is the only archery bag target that comes with a lifetime warranty. It could be the only archery target you would buy.</p>
+<p class="product-card-desc">If you're an experienced archer or a toxophilite, who loves shooting at targets hundreds of times a day, then this Bulldog target is just for you. This is the only archery bag target that comes with a lifetime warranty.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">Lifetime Warranty</span>
 <span class="highlight-tag">Stands Upright Solo</span>

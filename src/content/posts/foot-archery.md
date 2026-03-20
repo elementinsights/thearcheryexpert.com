@@ -12,24 +12,24 @@ readTime: "15 min read"
 quickAnswer:
   label: "Quick Answer"
   title: "What Is Foot Archery & How Does It Work?"
-  text: "This comprehensive guide covers everything you need to know. Read on for detailed information and expert tips."
+  text: "Foot archery is a contortion-based discipline where you lie on your back and shoot a bow using your feet. It's not a recognized sport but a spectacle performed in circus acts like Cirque du Soleil, and it requires months of flexibility training before you can even attempt a shot."
 toc:
   - label: "What Is Foot Archery And How Does It Work?"
     href: "#what-is-foot-archery-and-how-does-it-work"
   - label: "Disclaimer"
     href: "#disclaimer"
   - label: "What is Foot Archery?"
-    href: "#what-is-foot-archery-and-how-does-it-work"
+    href: "#whats-foot-archery"
   - label: "How Does Foot Archery Work?"
-    href: "#what-is-foot-archery-and-how-does-it-work"
+    href: "#how-does-foot-archery-work"
   - label: "Upper Body Exercise For Foot Archery"
     href: "#upper-body-exercise-for-foot-archery"
   - label: "Lower Body Exercise For Foot Archery"
-    href: "#upper-body-exercise-for-foot-archery"
-  - label: "Beginners’ Foot Archery Set Buying Guidelines"
+    href: "#lower-body-exercise-for-foot-archery"
+  - label: "Beginners' Foot Archery Set Buying Guidelines"
     href: "#beginners-foot-archery-set-buying-guidelines"
   - label: "Best Bows For Foot Archery Beginners"
-    href: "#upper-body-exercise-for-foot-archery"
+    href: "#best-bows-for-foot-archery-beginners"
   - label: "A Word On Using Practice Bows in Foot Archery"
     href: "#a-word-on-using-practice-bows-in-foot-archery"
   - label: "FAQ"
@@ -58,13 +58,11 @@ And yes, this may be the reason why you suddenly become interested in the act.
 
 And why wouldn't you?
 
-It looks enchanting and challenging enough that it caught your attention.
+It looks enchanting and challenging enough that it caught your attention. The flexibility and strength demands go far beyond standard [archery training](/archery-training/), requiring dedicated [archery exercises](/archery-exercises/) focused on your lower body and core.
 
 ## What Is Foot Archery And How Does It Work?
 
-And if you're looking for in-depth information about foot archery, then this content is just for you.
-
-In this article, we'll satisfy your curiosity about foot archery and help you determine whether it's a good fit for you.
+If you're looking for in-depth information about foot archery, this guide will satisfy your curiosity and help you determine whether it's a good fit for you.
 
 ## Disclaimer
 
