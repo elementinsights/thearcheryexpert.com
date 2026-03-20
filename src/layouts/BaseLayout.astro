@@ -26,6 +26,11 @@ const {
   noindex = false,
 } = Astro.props;
 
+// Detect EU/UK visitors via Cloudflare CF-IPCountry header
+const country = Astro.request.headers.get('CF-IPCountry') || '';
+const euCountries = ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','GB','IS','LI','NO','CH'];
+const showCookieBanner = euCountries.includes(country);
+
 const pageTitle = title === 'Home'
   ? `${siteConfig.name} - ${siteConfig.tagline}`
   : `${title} - ${siteConfig.name}`;
@@ -149,6 +154,32 @@ const schemas = schema
 
   <Footer />
   <BackToTop />
+
+  <!-- Cookie Consent Banner (EU/UK only) -->
+  {showCookieBanner && (
+    <div class="cookie-banner" id="cookie-banner" style="display:none">
+      <span>We use cookies to improve your experience and serve personalized ads. By clicking "Accept," you consent to our use of cookies. <a href="/privacy-policy/">Learn more</a></span>
+      <div class="cookie-banner-btns">
+        <button class="cookie-accept" id="cookie-accept">Accept</button>
+        <button class="cookie-reject" id="cookie-reject">Reject</button>
+      </div>
+    </div>
+    <script is:inline>
+      (function(){
+        if (localStorage.getItem('cookie-consent')) return;
+        var banner = document.getElementById('cookie-banner');
+        if (banner) banner.style.display = 'flex';
+        document.getElementById('cookie-accept')?.addEventListener('click', function(){
+          localStorage.setItem('cookie-consent', 'accepted');
+          banner.style.display = 'none';
+        });
+        document.getElementById('cookie-reject')?.addEventListener('click', function(){
+          localStorage.setItem('cookie-consent', 'rejected');
+          banner.style.display = 'none';
+        });
+      })();
+    </script>
+  )}
 
   <!-- Shared scripts -->
   <script>

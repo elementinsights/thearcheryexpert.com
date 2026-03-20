@@ -1232,3 +1232,102 @@ html.dark .step-warning strong { color: #f87171; }
   .article-content .product-card-top { padding: 16px; gap: 16px; }
   .article-content .product-card-img { height: 180px; }
 }
+
+/* ============================================================
+   PINTEREST SAVE BUTTON OVERLAY
+   ============================================================ */
+.pin-wrapper {
+  position: relative;
+  display: block;
+}
+.pin-wrapper img {
+  display: block;
+  margin: 0;
+}
+.pin-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #e60023;
+  color: #fff;
+  border-radius: 6px;
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  opacity: 0;
+  transition: opacity 0.25s;
+  text-decoration: none;
+  z-index: 10;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+.pin-button svg {
+  fill: #fff;
+}
+.pin-wrapper:hover .pin-button {
+  opacity: 1;
+}
+.pin-button:hover {
+  background: #c5001f;
+  color: #fff;
+}
+
+/* ============================================================
+   COOKIE CONSENT BANNER (EU/UK only via JS geo-check)
+   ============================================================ */
+.cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #1a1a2e;
+  color: #e0e0e0;
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  font-size: 14px;
+  line-height: 1.5;
+  z-index: 9999;
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+}
+.cookie-banner a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+.cookie-banner-btns {
+  display: flex;
+  gap: 10px;
+  flex-shrink: 0;
+}
+.cookie-accept {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.cookie-reject {
+  background: transparent;
+  color: #e0e0e0;
+  border: 1px solid rgba(255,255,255,0.3);
+  padding: 8px 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+@media (max-width: 600px) {
+  .cookie-banner {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 16px;
+  }
+}
