@@ -106,7 +106,7 @@ The transition from packed-earth mounds to straw-filled targets happened gradual
 
 ## Archery Butts & Development In Technology
 
-When firearms rendered military archery obsolete, the bow didn't disappear. It reinvented itself as a sport. The pivotal moment came in 1844, when the Grand National Archery Society held [its first meeting in York](https://www.archerygb.org/about-us-structure-safeguard/about-us/history/#:~:text=Grand%20National%20Archery%20Meetings%20(GNAM,formed%20at%20Liverpool%20in%201861.&text=The%20National%20Governing%20Body%20has,as%20Archery%20GB%20since%202007.), establishing formal competition rules that would shape the sport for the next century.
+When firearms rendered military archery obsolete, the bow didn't disappear. It reinvented itself as a sport. The pivotal moment came in 1844, when the Grand National Archery Society held [its first meeting in York](https://www.archerygb.org/about-us-structure-safeguard/about-us/history/), establishing formal competition rules that would shape the sport for the next century.
 
 The dominant figure of this era was Horace A. Ford, who won the Grand National championship 11 consecutive times between 1849 and 1859. Ford wasn't just a talented shooter. He was an analytical thinker who studied form, technique, and equipment in ways nobody had before. His 1856 book, "Archery: Its Theory and Practice," became the first serious technical manual for the sport and influenced generations of archers.
 
