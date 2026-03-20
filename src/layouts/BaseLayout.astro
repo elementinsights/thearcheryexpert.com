@@ -163,19 +163,24 @@ const schemas = schema
   <script is:inline>
     (function(){
       if (localStorage.getItem('cookie-consent')) return;
+      function showBanner(){
+        var banner = document.getElementById('cookie-banner');
+        if (banner) banner.style.display = 'flex';
+        document.getElementById('cookie-accept')?.addEventListener('click', function(){
+          localStorage.setItem('cookie-consent', 'accepted');
+          banner.style.display = 'none';
+        });
+        document.getElementById('cookie-reject')?.addEventListener('click', function(){
+          localStorage.setItem('cookie-consent', 'rejected');
+          banner.style.display = 'none';
+        });
+      }
       var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
-      var eu = /^(Europe|Atlantic\/Canary|Atlantic\/Faroe|Atlantic\/Madeira)/i.test(tz);
-      if (!eu) return;
-      var banner = document.getElementById('cookie-banner');
-      if (banner) banner.style.display = 'flex';
-      document.getElementById('cookie-accept')?.addEventListener('click', function(){
-        localStorage.setItem('cookie-consent', 'accepted');
-        banner.style.display = 'none';
-      });
-      document.getElementById('cookie-reject')?.addEventListener('click', function(){
-        localStorage.setItem('cookie-consent', 'rejected');
-        banner.style.display = 'none';
-      });
+      if (/^(Europe|Atlantic\/Canary|Atlantic\/Faroe|Atlantic\/Madeira)/i.test(tz)) return showBanner();
+      fetch('https://cloudflare.com/cdn-cgi/trace').then(function(r){return r.text()}).then(function(t){
+        var m = t.match(/loc=(\w+)/);
+        if (m && 'AT,BE,BG,HR,CY,CZ,DK,EE,FI,FR,DE,GR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,GB,IS,LI,NO,CH'.indexOf(m[1])!==-1) showBanner();
+      }).catch(function(){});
     })();
   </script>
 
