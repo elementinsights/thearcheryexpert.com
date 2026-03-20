@@ -1,8 +1,24 @@
 import { defineMiddleware } from 'astro:middleware';
 
 export const onRequest = defineMiddleware(async (context, next) => {
-  const response = await next();
   const url = context.url.pathname;
+
+  // 301 redirects for merged/deleted posts
+  const redirects: Record<string, string> = {
+    '/archery-accidents/': '/archery-injuries/',
+    '/archery-bracers/': '/archery-arm-guard/',
+    '/archery-apparel/': '/archery-clothing/',
+    '/archery-hand-guard/': '/archery-gloves/',
+    '/archery-finger-savers/': '/archery-gloves/',
+    '/getting-into-archery/': '/archery-for-beginners/',
+    '/archery-hunting-tip/': '/archery-accuracy-tips/',
+    '/archery-decals/': '/archery-patches/',
+  };
+  if (redirects[url]) {
+    return Response.redirect(new URL(redirects[url], context.url.origin).href, 301);
+  }
+
+  const response = await next();
 
   // Security headers
   response.headers.set('X-Content-Type-Options', 'nosniff');

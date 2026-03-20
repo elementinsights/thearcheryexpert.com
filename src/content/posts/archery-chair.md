@@ -409,7 +409,7 @@ The Bohning Complete Shooter Stool is a portable archery stool built with arrow 
 
 The built-in arrow slots are the standout feature here, giving you a dedicated place to store arrows between ends without laying them on the ground. This keeps your shafts clean and prevents accidental damage from people stepping on them.
 
-The stool's compact design means it doesn't take up much space on the shooting line. It's sturdy enough for extended sitting but light enough that you won't mind carrying it around all day. Complete your hunting setup with a [bow hanger for your tree stand](/bow-hanger-for-tree-stand/) and read our [archery hunting tips](/archery-hunting-tip/) for field strategies.
+The stool's compact design means it doesn't take up much space on the shooting line. It's sturdy enough for extended sitting but light enough that you won't mind carrying it around all day. Complete your hunting setup with a [bow hanger for your tree stand](/bow-hanger-for-tree-stand/) and read our [archery accuracy tips](/archery-accuracy-tips/) for field strategies.
 
 For tournament archers who need a simple, functional seat with convenient arrow storage, this stool covers the basics without any unnecessary bulk. It folds flat for transport and sets up in seconds when you reach your shooting position.
 

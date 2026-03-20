@@ -417,7 +417,7 @@ The first jacket I've on this listing is the legendary whitetail jacket.
 
 It's a revolutionary camo jacket that spots heavy game camo accents and a signature buck logo.
 
-It's a jacket optimized for whitetail hunting. For a complete gear setup, also browse our reviews of [archery clothing](/archery-clothing/) and [archery apparel](/archery-apparel/).
+It's a jacket optimized for whitetail hunting. For a complete gear setup, also browse our reviews of [archery clothing](/archery-clothing/).
 
 The high-quality materials and patterns are used to get the exceptional results a hunter can wish for.
 

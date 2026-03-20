@@ -405,7 +405,7 @@ What makes the summit tree stand universal bow holders universal is that it can 
 
 It also has a rubber coating for better protection and discretion, but not to worry - it's quiet and doesn't map any squeaky noise.
 
-It works exactly just as expected and holds your equipment well. For the full hunting loadout, check out our reviews of [bow hunting packs](/bow-hunting-packs/) and essential [archery hunting tips](/archery-hunting-tip/).
+It works exactly just as expected and holds your equipment well. For the full hunting loadout, check out our reviews of [bow hunting packs](/bow-hunting-packs/) and essential [archery accuracy tips](/archery-accuracy-tips/).
 
 However, it has its flaws as it's the best for summit trees rather than other brands, and it smells oily while receiving the package.
 

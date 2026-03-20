@@ -31,6 +31,16 @@ export async function getStaticPaths() {
 
 const { categoryName, categorySlug, allPosts } = Astro.props;
 
+// Descriptive H1 titles per category
+const categoryH1s: Record<string, string> = {
+  'Accessories': 'Best Archery Accessories — Reviews and Buying Guides',
+  'Arrows': 'Best Arrows and Arrow Components — Reviews for 2026',
+  'Bows': 'Best Bows for Every Archer — Reviews and Comparisons',
+  'Knowledge': 'Archery Knowledge Hub — Guides, Tips, and Techniques',
+  'Targets': 'Best Archery Targets — Reviews and Buying Guides',
+};
+const categoryTitle = categoryH1s[categoryName] || `Best ${categoryName} — Reviews and Buying Guides`;
+
 const schema = [
   {
     "@context": "https://schema.org",
@@ -57,9 +67,10 @@ const popularPosts = allPosts.slice(0, 5).map((p: any) => ({
 ---
 
 <CategoryLayout
-  title={categoryName}
+  title={categoryTitle}
   description={`Browse all ${categoryName} articles — reviews, comparisons, and buying guides.`}
   subtitle={`In-depth reviews, comparisons, and buying guides for every type of ${categoryName.toLowerCase()} — tested and reviewed by our team.`}
+  breadcrumbLabel={categoryName}
   activeNav={categorySlug}
   schema={schema}
   popularPosts={popularPosts}

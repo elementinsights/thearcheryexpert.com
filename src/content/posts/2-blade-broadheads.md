@@ -430,7 +430,7 @@ It holds the arrows on the target with its ferrule.
 
 With a 1.375′′ cutting width, the Broadhead came with 0.030′′ stainless blades. Make sure your broadheads are matched with quality [arrow vanes](/arrow-vanes/) for the best flight performance.
 
-For an accurate killing, the blades are sharp and render the wound accessible. You should also read our [archery hunting tips](/archery-hunting-tip/) before heading into the field.
+For an accurate killing, the blades are sharp and render the wound accessible. You should also read our [archery accuracy tips](/archery-accuracy-tips/) before heading into the field.
 
 ## 2. 2-Blade – Shock Collar and Ferrule Alignment Technology &mdash; Runner Up
 

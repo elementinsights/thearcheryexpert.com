@@ -11,9 +11,10 @@ interface Props {
   schema?: object | object[];
   popularPosts?: { title: string; href: string; date?: string }[];
   postCount?: number;
+  breadcrumbLabel?: string;
 }
 
-const { title, description, subtitle, activeNav, schema, popularPosts = [], postCount = 0 } = Astro.props;
+const { title, description, subtitle, activeNav, schema, popularPosts = [], postCount = 0, breadcrumbLabel } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description} activeNav={activeNav} schema={schema}>
@@ -27,7 +28,7 @@ const { title, description, subtitle, activeNav, schema, popularPosts = [], post
       <div class="breadcrumb">
         <a href="/">Home</a>
         <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>
-        <span>{title}</span>
+        <span>{breadcrumbLabel || title}</span>
       </div>
     </div>
   </section>
