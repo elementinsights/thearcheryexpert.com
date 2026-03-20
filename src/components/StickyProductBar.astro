@@ -3,7 +3,7 @@
 // Scrapes #1 product data from the DOM since product cards are raw HTML in markdown.
 ---
 
-<div class="sticky-product-bar" id="sticky-product-bar" aria-hidden="true">
+<div class="sticky-product-bar" id="sticky-product-bar" aria-hidden="true" inert>
   <div class="sticky-product-inner">
     <div class="sticky-product-left">
       <div class="sticky-product-rank">#1</div>
@@ -50,6 +50,7 @@
       if (!barVisible && window.innerWidth <= 768) {
         bar!.classList.add('visible');
         bar!.setAttribute('aria-hidden', 'false');
+        bar!.removeAttribute('inert');
         barVisible = true;
       }
     }
@@ -58,6 +59,7 @@
       if (barVisible) {
         bar!.classList.remove('visible');
         bar!.setAttribute('aria-hidden', 'true');
+        bar!.setAttribute('inert', '');
         barVisible = false;
       }
     }

@@ -74,6 +74,9 @@ const schemas = schema
   <link rel="icon" href="/favicon-192.ico" sizes="192x192" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
+  <!-- Preload hero image for LCP -->
+  <link rel="preload" href="/images/hero.webp" as="image" />
+
   <!-- Preconnect + dns-prefetch fallback -->
   <link rel="preconnect" href="https://m.media-amazon.com" />
   <link rel="dns-prefetch" href="https://m.media-amazon.com" />
@@ -154,7 +157,7 @@ const schemas = schema
 
   <!-- Cookie Consent Banner (EU/UK only, detected via timezone) -->
   <div class="cookie-banner" id="cookie-banner" style="display:none">
-    <span>We use cookies to improve your experience and serve personalized ads. By clicking "Accept," you consent to our use of cookies. <a href="/privacy-policy/">Learn more</a></span>
+    <span>We use cookies to improve your experience and serve personalized ads. By clicking "Accept," you consent to our use of cookies. <a href="/privacy-policy/">Read our privacy policy</a></span>
     <div class="cookie-banner-btns">
       <button class="cookie-accept" id="cookie-accept">Accept</button>
       <button class="cookie-reject" id="cookie-reject">Reject</button>
