@@ -109,7 +109,7 @@ And, on top of all of that, it's an excellent option whether you're a beginner o
 <tr><td><strong>Mass Weight</strong></td><td>3.2 lbs</td></tr>
 <tr><td><strong>Let-Off</strong></td><td>80%</td></tr>
 <tr><td><strong>Kinetic Energy</strong></td><td>74.7 ft-lbs</td></tr>
-<tr><td><strong>MSRP</strong></td><td>~$399 (with package)</td></tr>
+<tr><td><strong>MSRP</strong></td><td>~$399 at time of review (check current price)</td></tr>
 </table>
 </div>
 

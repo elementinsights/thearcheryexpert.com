@@ -75,7 +75,7 @@ products:
     badge: "Runner Up"
     rating: 9.5
     image: "https://m.media-amazon.com/images/I/51cdZ0tAC9L._SL500_.jpg"
-    description: "With a full five stars on Amazon, this product is a good bet when looking to buy arrow vanes."
+    description: "A highly regarded option and a solid bet when looking to buy arrow vanes."
     highlights:
       - "2 Inch Length"
       - "6 Grain Weight"
@@ -436,7 +436,7 @@ The shipping is fast, so you would be receiving your vanes in no time at all.
 <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
 <span class="rating-text">9.5/10</span>
 </div>
-<p class="product-card-desc">With a full five stars on Amazon, this product is a good bet when looking to buy arrow vanes. It's 2 inches in length and weighs in at 6 grains each.</p>
+<p class="product-card-desc">A highly regarded option and a solid bet when looking to buy arrow vanes. It's 2 inches in length and weighs in at 6 grains each.</p>
 <div class="product-card-highlights">
 <span class="highlight-tag">2 Inch Length</span>
 <span class="highlight-tag">6 Grain Weight</span>
@@ -475,7 +475,7 @@ Cons
 </div>
 </div>
 
-With a full five stars on Amazon, this product is a good bet when looking to buy arrow vanes.
+This is a highly regarded option and a solid bet when looking to buy arrow vanes.
 
 It's 2 inches in length and weighs in at 6 grains each.
 
@@ -693,7 +693,7 @@ Therefore, when it comes to archery shooting, it's a great buy.
 
 They come in a multi-pack and can be used conveniently for practice purposes.
 
-Coming to how affordable they're, they're priced around $20 for each lot, containing 36 units in each one.
+They're affordably priced and come in lots of 36 units each.
 
 It ranks well in terms of affordability, especially given how durable they're.
 
@@ -856,7 +856,7 @@ Coming to the brand in question, ISPORT, the makers are experts in manufacturing
 
 They come in several colors, all vivid, of course, making sure that arrows in flight or on targets can be easily located.
 
-This is probably the most affordable range of arrow vanes on this list, as they're priced just below $10.
+This is probably the most budget-friendly range of arrow vanes on this list.
 
 When it comes to convenience, these arrow vanes bond easily with most arrows and are made in a water drop shape.
 
