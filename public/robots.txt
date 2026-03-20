@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://thearcheryexpert.com/sitemap-index.xml
+<!-- deployed via cloudflare git integration -->
