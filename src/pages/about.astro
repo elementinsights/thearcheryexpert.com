@@ -57,6 +57,7 @@ const breadcrumbSchema = {
         <h2 class="mission-title">Real archery experience. Honest gear reviews. No fluff.</h2>
         <p class="mission-text">The Archery Expert exists because most archery gear reviews are written by people who've never nocked an arrow. They copy specs from the manufacturer's website, add some stock photos, and call it a day.</p>
         <p class="mission-text">We actually shoot with the gear we review. Every bow, every sight, every release aid gets time on the range before we write a word about it. We compare real-world performance against what the box promises.</p>
+        <p class="mission-text">Every recommendation is backed by real shooting sessions, not manufacturer talking points. We evaluate draw cycles, let-off feel, vibration dampening, arrow groupings, and long-term durability across hundreds of shots before publishing a single rating.</p>
         <p class="mission-text">No paid placements. No free samples influencing our scores. Just an archer sharing what actually works and what doesn't.</p>
       </div>
       <div class="stats-grid animate-on-scroll">
@@ -65,8 +66,8 @@ const breadcrumbSchema = {
             <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>
           </div>
           <div>
-            <div class="stat-number">300+</div>
-            <div class="stat-label">Archery Products Reviewed</div>
+            <div class="stat-number">395</div>
+            <div class="stat-label">Individual Products Evaluated</div>
           </div>
         </div>
         <div class="stat-card">
@@ -74,8 +75,8 @@ const breadcrumbSchema = {
             <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
           </div>
           <div>
-            <div class="stat-number">80+</div>
-            <div class="stat-label">Archery Brands Covered</div>
+            <div class="stat-number">5</div>
+            <div class="stat-label">Product Categories</div>
           </div>
         </div>
         <div class="stat-card">
@@ -148,7 +149,8 @@ const breadcrumbSchema = {
         <h3 class="founder-name">{siteConfig.author.name}</h3>
         <p class="founder-role">{siteConfig.author.role}</p>
         <p class="founder-bio">{siteConfig.author.bio}</p>
-        <p class="founder-bio">Every review on this site comes from real time spent at the range, in tree stands, and on 3D courses. If we haven't shot it, drawn it, or worn it ourselves, we don't review it.</p>
+        <p class="founder-bio">Every review on this site comes from real time spent at the range, in tree stands, and on 3D courses. I evaluate bows across their full draw cycle, test broadheads on ballistic media, and put accessories through extended shooting sessions before forming an opinion. If we haven't shot it, drawn it, or worn it ourselves, we don't review it.</p>
+        <p class="founder-bio">I also cross-reference IBO speed ratings, ATA standards, and manufacturer warranty terms to make sure the numbers add up. When a bow claims 340 fps, I want to know at what draw weight and arrow grain that was measured.</p>
         <p class="founder-quote">"Archery taught me patience, focus, and the value of doing things right. I bring that same mindset to every gear review on this site."</p>
       </div>
     </div>
@@ -201,6 +203,37 @@ const breadcrumbSchema = {
           <h3>Annual Updates</h3>
           <p>Manufacturers release new models every year. We revisit our top picks regularly and update rankings when better options hit the market or existing products change.</p>
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     6. WHY TRUST US
+     ============================================================ -->
+<section class="trust-section">
+  <div class="container">
+    <div class="section-header animate-on-scroll">
+      <span class="section-label">Why Trust Us</span>
+      <h2 class="section-title">Our Editorial Standards</h2>
+      <p class="section-subtitle">Transparency is the foundation of everything we publish.</p>
+    </div>
+    <div class="trust-grid">
+      <div class="trust-card animate-on-scroll">
+        <h3>Affiliate Transparency</h3>
+        <p>We earn commissions through Amazon affiliate links, and we disclose this on every article. Our revenue model never influences our rankings. Products earn their position based on range performance, not commission rates.</p>
+      </div>
+      <div class="trust-card animate-on-scroll">
+        <h3>Experience-Based Ratings</h3>
+        <p>Our editorial ratings are based on shooting performance, build quality, draw cycle feel, noise and vibration levels, durability over time, and value for money. We don't accept payments from manufacturers to adjust scores.</p>
+      </div>
+      <div class="trust-card animate-on-scroll">
+        <h3>Regular Updates</h3>
+        <p>Archery manufacturers release new models every year. We revisit our reviews and update availability, pricing, and recommendations when better options hit the market or existing products are discontinued.</p>
+      </div>
+      <div class="trust-card animate-on-scroll">
+        <h3>Archer-First Approach</h3>
+        <p>If a product doesn't perform well on the range, it doesn't make our list. We'd rather recommend fewer products honestly than pad a roundup with mediocre gear for the sake of affiliate clicks.</p>
       </div>
     </div>
   </div>
@@ -585,6 +618,36 @@ const breadcrumbSchema = {
   }
 
   /* ============================================================
+     WHY TRUST US
+     ============================================================ */
+  .trust-section {
+    padding: 90px 0;
+  }
+  .trust-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+  .trust-card {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 32px 28px;
+    box-shadow: var(--shadow-sm);
+  }
+  .trust-card h3 {
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--accent);
+  }
+  .trust-card p {
+    color: var(--text-secondary);
+    font-size: 14px;
+    line-height: 1.7;
+  }
+
+  /* ============================================================
      RESPONSIVE
      ============================================================ */
   @media (max-width: 1024px) {
@@ -611,5 +674,7 @@ const breadcrumbSchema = {
     .standards-section { padding: 60px 0; }
     .standards-grid { grid-template-columns: 1fr; }
     .standard-card { padding: 24px 20px; }
+    .trust-section { padding: 60px 0; }
+    .trust-grid { grid-template-columns: 1fr; }
   }
 </style>

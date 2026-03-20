@@ -58,8 +58,8 @@ export const siteConfig = {
     name: "Matt Vance",
     initial: "M",
     image: "/images/author.webp",
-    role: "Founder",
-    bio: "I've been shooting bows since I was eleven years old. From backyard targets to tournament ranges, archery has been my lifelong passion. I share tips, gear reviews, and everything I've learned to help fellow archers improve their game.",
+    role: "Founder & Archery Gear Specialist",
+    bio: "I\'ve been shooting bows for over 15 years, starting with a hand-me-down recurve at age eleven. From backyard targets to competitive 3D courses, I\'ve tested hundreds of bows, arrows, and accessories firsthand. I built The Archery Expert to give archers the honest, experience-based gear advice that most review sites don\'t provide.",
   },
 
   // ============================================================

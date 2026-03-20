@@ -69,8 +69,8 @@ const popularLinks = siteConfig.footerPopularLinks || [];
         <div class="sh-avatar">{siteConfig.author.initial}</div>
       )}
       <div class="sh-intro-text">
-        <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've been shooting bows for over 15 years, from backyard target practice to competitive tournaments. I built The Archery Expert because I got tired of gear reviews written by people who've never drawn a bowstring.</p>
-        <p>Every product on this site gets real range time before we write a single word. Below you'll find our most popular content sorted by topic. Whether you're shopping for your first recurve or dialing in a new compound sight, start here.</p>
+        <p><strong>Hey, I'm {siteConfig.author.name}.</strong> I've been shooting bows for over 15 years, from backyard target practice to competitive 3D tournaments. I built The Archery Expert because I got tired of gear reviews written by people who've never drawn a bowstring. Every product on this site gets real range time before we write a single word.</p>
+        <p>We've published 87 in-depth articles covering 395 individual products across bows, arrows, accessories, and targets. Whether you're shopping for your first recurve, upgrading your compound sight, or just learning proper form, the guides below will point you in the right direction.</p>
       </div>
     </div>
   </div>
@@ -105,7 +105,49 @@ const popularLinks = siteConfig.footerPopularLinks || [];
 </section>
 
 <!-- ============================================================
-     4. MOST POPULAR GUIDES
+     4. COMMON QUESTIONS
+     ============================================================ -->
+<section class="sh-problems">
+  <div class="container">
+    <h2 class="sh-section-title animate-on-scroll">What Are You Looking For?</h2>
+    <p class="sh-section-subtitle animate-on-scroll">Jump straight to the guide that answers your question.</p>
+    <div class="sh-problems-grid">
+      <a href="/archery-for-beginners/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#127993;</span>
+        <h3>I'm a Complete Beginner</h3>
+        <p>12-step guide covering everything from choosing your first bow to hitting your first bullseye.</p>
+      </a>
+      <a href="/bow-and-arrow-set-for-beginners/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#127919;</span>
+        <h3>I Need My First Bow</h3>
+        <p>Beginner-friendly bow sets rated by value, quality, and ease of setup for new archers.</p>
+      </a>
+      <a href="/archery-form/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#128170;</span>
+        <h3>My Form Needs Work</h3>
+        <p>10-step guide to proper archery stance, grip, anchor point, and follow-through technique.</p>
+      </a>
+      <a href="/archery-accuracy-tips/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#127919;</span>
+        <h3>I Want Better Accuracy</h3>
+        <p>10 proven tips for tighter groupings in both target shooting and hunting scenarios.</p>
+      </a>
+      <a href="/barebow-recurve/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#127993;</span>
+        <h3>I Shoot Traditional</h3>
+        <p>Best recurve bows for barebow shooting, from takedown models to one-piece longbows.</p>
+      </a>
+      <a href="/archery-injuries/" class="sh-problem-card animate-on-scroll">
+        <span class="sh-problem-icon">&#129657;</span>
+        <h3>I'm Dealing With Pain</h3>
+        <p>10 most common archery injuries and how to prevent them before they sideline your season.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     5. MOST POPULAR GUIDES
      ============================================================ -->
 <section class="sh-guides">
   <div class="container">
@@ -113,22 +155,30 @@ const popularLinks = siteConfig.footerPopularLinks || [];
     <p class="sh-section-subtitle animate-on-scroll">The articles our readers keep coming back to, from gear roundups to shooting technique breakdowns.</p>
     <div class="sh-guides-groups">
 
-      {/* Group 1: Top Picks — first 2 footer links */}
+      {/* Group 1: Top Picks */}
       <div class="animate-on-scroll">
         <span class="sh-guide-group-label sh-guide-group-label--top-picks">Top Picks</span>
         <div class="sh-guide-list">
-          {popularLinks.slice(0, 2).map(link => (
-            <a href={link.href} class="sh-guide-item">
-              <div class="sh-guide-item-title">{link.name}</div>
-              {link.desc && <div class="sh-guide-item-desc">{link.desc}</div>}
-            </a>
-          ))}
-          {siteConfig.categories.map(cat => (
-            <a href={`/category/${cat.slug}`} class="sh-guide-item">
-              <div class="sh-guide-item-title">Best {cat.name} of {new Date().getFullYear()}</div>
-              <div class="sh-guide-item-desc">Our top-rated {cat.name.toLowerCase()} picks for beginners and experienced archers alike.</div>
-            </a>
-          ))}
+          <a href="/bow-and-arrow-set-for-beginners/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Best Bow Sets for Beginners</div>
+            <div class="sh-guide-item-desc">Youth and adult starter packages ranked by build quality, included accessories, and value for first-time archers.</div>
+          </a>
+          <a href="/barebow-recurve/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Best Barebow Recurve Bows</div>
+            <div class="sh-guide-item-desc">Takedown and one-piece recurve bows rated for traditional barebow shooting, from entry-level to competition-grade.</div>
+          </a>
+          <a href="/2-blade-broadheads/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Best 2 Blade Broadheads</div>
+            <div class="sh-guide-item-desc">Fixed and mechanical broadheads tested for penetration, flight consistency, and cutting diameter.</div>
+          </a>
+          <a href="/archery-arm-guard/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Best Archery Arm Guards</div>
+            <div class="sh-guide-item-desc">Bracers and arm guards reviewed for string clearance, comfort, and protection during extended shooting sessions.</div>
+          </a>
+          <a href="/archery-bag-targets/" class="sh-guide-item">
+            <div class="sh-guide-item-title">Best Archery Bag Targets</div>
+            <div class="sh-guide-item-desc">Bag targets rated by stopping power, arrow removal ease, and weather resistance for backyard and range use.</div>
+          </a>
         </div>
       </div>
 
@@ -330,6 +380,47 @@ const popularLinks = siteConfig.footerPopularLinks || [];
   .sh-path-card:hover .sh-path-link { text-decoration: underline; }
 
   /* ============================================================
+     COMMON QUESTIONS
+     ============================================================ */
+  .sh-problems {
+    padding: 65px 0 60px;
+  }
+  .sh-problems-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .sh-problem-card {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 28px 24px;
+    transition: box-shadow var(--transition), transform var(--transition);
+    color: var(--text);
+    display: block;
+  }
+  .sh-problem-card:hover {
+    box-shadow: var(--shadow);
+    transform: translateY(-2px);
+    color: var(--text);
+  }
+  .sh-problem-icon {
+    font-size: 28px;
+    display: block;
+    margin-bottom: 12px;
+  }
+  .sh-problem-card h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .sh-problem-card p {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+
+  /* ============================================================
      MOST POPULAR GUIDES
      ============================================================ */
   .sh-guides {
@@ -415,6 +506,8 @@ const popularLinks = siteConfig.footerPopularLinks || [];
     }
 
     .sh-paths-grid { grid-template-columns: 1fr; max-width: 400px; margin: 0 auto; }
+
+    .sh-problems-grid { grid-template-columns: 1fr; }
 
     .sh-guides-groups { grid-template-columns: 1fr; }
   }
