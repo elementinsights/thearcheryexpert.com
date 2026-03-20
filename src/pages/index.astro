@@ -95,7 +95,7 @@ const schema = [
             <p class="featured-article-excerpt">{latestPosts[0].data.description}</p>
             <div class="featured-article-meta">
               {siteConfig.author.image && (
-                <img class="hero-meta-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="32" height="32" />
+                <img class="hero-meta-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="32" height="32" style="object-position: top" />
               )}
               <span>{latestPosts[0].data.author || siteConfig.author.name}</span>
               <span class="hero-meta-dot"></span>

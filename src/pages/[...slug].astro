@@ -300,7 +300,7 @@ if (post.data.postType === 'how-to' && post.data.toc && post.data.toc.length > 0
     <div class="article-meta">
       <div class="article-author">
         {siteConfig.author.image ? (
-          <img class="article-author-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="40" height="40" />
+          <img class="article-author-avatar-img" src={siteConfig.author.image} alt={siteConfig.author.name} width="40" height="40" style="object-position: top" />
         ) : (
           <div class="article-author-avatar">{siteConfig.author.initial}</div>
         )}
