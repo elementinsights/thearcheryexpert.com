@@ -80,8 +80,7 @@ Stick around with me, and I'm going to talk about the ten of the most common hea
 ## 1. Archery Improves Hand-Eye Coordination
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Archery Improves Hand-Eye Coordination</span>
+  <span class="stat-text">Every shot you take fights age-related coordination decline by strengthening the communication between your eyes, brain, and hands.</span>
 </div>
 
 In a nutshell, hand-eye coordination is the coordination between the information obtained by the eyes and the movements of the hands.
@@ -129,8 +128,7 @@ That being said, be sure to practice archery if you want to stay agile.
 ## 2. Archery Improves Your Strength
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Archery Improves Your Strength</span>
+  <span class="stat-text">Drawing a bow engages your core, chest, arm, and back muscles all at once, giving your upper body a full workout every session.</span>
 </div>
 
 How about my physical strength?
@@ -160,8 +158,7 @@ For those who want a stronger body, you might want to give archery a try. Check 
 ## 3. Archery Improves Heart Health
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Archery Improves Heart Health</span>
+  <span class="stat-text">Walking back and forth to retrieve your arrows naturally elevates your heart rate, strengthening your heart over time.</span>
 </div>
 
 The heart is a vital organ of your body, so its health shouldn't be neglected.
@@ -205,8 +202,7 @@ By increasing the heart rate, you'll exercise the muscles of your heart, thus st
 ## 4. Archery burns calories
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Archery burns calories</span>
+  <span class="stat-text">Archery burns roughly 140 calories per 30-minute session, which is as effective as walking at a brisk pace of 3.5 mph.</span>
 </div>
 
 A Calorie is a unit used to measure the amount of energy that a certain food or beverage provides.
@@ -236,8 +232,7 @@ That's essentially as effective as walking at a quick pace of 3.5 mph.
 ## 5. Archery Enhances Hand and Finger Flexibility
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Archery Enhances Hand and Finger Flexibility</span>
+  <span class="stat-text">Archery exercises your hands and fingers during every shot, counteracting the stiffness caused by daily phone and computer use.</span>
 </div>
 
 Do you spend a lot of time scrolling through your phone?
@@ -255,8 +250,7 @@ This helps exercise your hands and fingers and thus improves flexibility.
 ## 6. Archery Boosts Self-Esteem
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Archery Boosts Self-Esteem</span>
+  <span class="stat-text">Hitting personal archery goals builds your confidence, and interacting with fellow archers expands your social circle naturally.</span>
 </div>
 
 Now that we've gone through the physical health benefits of archery, what about other kinds of health benefits?
@@ -314,8 +308,7 @@ That said, you might want to pick up archery as your hobby if you want to enhanc
 ## 7. Archery gives you better focus
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Archery gives you better focus</span>
+  <span class="stat-text">Archery trains you to tune out every distraction while aiming, and that improved focus carries over into your daily tasks.</span>
 </div>
 
 Do you find yourself always being distracted by other people or the surroundings when you're trying to complete a certain task?
@@ -335,8 +328,7 @@ After practicing archery, you'll have better focus when completing daily tasks a
 ## 8. Archery Teaches You Patience
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Archery Teaches You Patience</span>
+  <span class="stat-text">Archery involves extensive trial and error that builds patience and resilience you can apply to every area of your life.</span>
 </div>
 
 Patience is arguably one of the most important traits of successful people.
@@ -392,8 +384,7 @@ Your patience will thus enhance overtime (given that you've never given up durin
 ## 9. Archery Helps You Relax and Regulate Your Mood
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Archery Helps You Relax and Regulate Your Mood</span>
+  <span class="stat-text">Archery prompts your body to release endorphins that act as natural pain relievers and help reduce stress and depression.</span>
 </div>
 
 Do you want to uplift your mood or relax?
@@ -435,8 +426,7 @@ That said, if you're striving for a happier life and/or better mental health, be
 ## 10. Archery Promotes Social Interactions
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Archery Promotes Social Interactions</span>
+  <span class="stat-text">Team competitions and shared practice sessions connect you with like-minded people and help build lasting friendships.</span>
 </div>
 
 Last but certainly not least, your social life significantly impacts your wellbeing, and archery can help you achieve a better social life.

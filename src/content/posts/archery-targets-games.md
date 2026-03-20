@@ -80,8 +80,7 @@ Now let's get into the 10 archery target games to help you improve your accuracy
 ## 1. Gap Shooting
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Gap Shooting</span>
+  <span class="stat-text">Gap shooting teaches you to aim without a sight, rangefinder, or telescope by relying purely on your eyeball and anchor point.</span>
 </div>
 
 Gap shooting is popular and widely used by traditional archers and the first aiming method taught to new students who want to get into archery.
@@ -113,8 +112,7 @@ You'll need to calculate how to stick the gap on top of the center to get your a
 ## 2. Ground Marker
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Ground Marker</span>
+  <span class="stat-text">You'll place a small 6x3-inch marker near the target as a reference point, making it easier to aim your arrow on the range.</span>
 </div>
 
 Similar to the gap shooting, the ground marker uses an object that you position at the start of the round to use as a reference point.
@@ -144,8 +142,7 @@ You build your confidence this way because you've more chances to get it right t
 ## 3. 'O' Ring
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">'O' Ring</span>
+  <span class="stat-text">Adding a rubber band or O-ring to the upper part of your bow acts as a DIY sight that's popular in English longbow archery.</span>
 </div>
 
 This is the most popular method for English longbow target style archery.
@@ -175,8 +172,7 @@ Another way is to mark the back of the bow, but you can only have one, not multi
 ## 4. Archery Tag
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Archery Tag</span>
+  <span class="stat-text">Archery Tag is like paintball meets dodgeball, where two teams shoot spongy arrows at each other while wearing face masks.</span>
 </div>
 
 If you think archery can't be fun, this game will make you think twice as it'll force you to aim while moving.
@@ -206,8 +202,7 @@ Your accuracy is sharpened in an outdoor setting since you've to deal with diffe
 ## 6. H.O.R.S.E.
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">H.O.R.S.E.</span>
+  <span class="stat-text">Just like the basketball version, every missed shot earns you a letter, and spelling H-O-R-S-E means you're out of the game.</span>
 </div>
 
 The Horse game is [similar to the one played in basketball](https://eastonarchery.com/2014/07/FUN-ARCHERY-PRACTICE-GAMES/) when you take turns making the same shot from the same position.
@@ -237,8 +232,7 @@ Your sense of competitiveness is heightened because trick shots that the other p
 ## 7. Robin Hood
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Robin Hood</span>
+  <span class="stat-text">You'll start at 10 to 15 yards and move back 5 yards every time you hit the target until you're the last one standing.</span>
 </div>
 
 Along with your fellow opponent, an archer will start 10-15 yards away from the target to take turns shooting.
@@ -268,8 +262,7 @@ You'll appreciate this game as it closely resembles the actual hunting activity 
 ## 8. 3-D Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">3-D Archery</span>
+  <span class="stat-text">3D archery places life-sized foam animal targets along a hiking-style course that closely simulates real hunting conditions.</span>
 </div>
 
 Archers engage in 3-D archery by shooting a 3-dimensional target usually made from foam in the shape of an animal.
@@ -299,8 +292,7 @@ Your competitive nature is heightened amongst other opponents as you go through 
 ## 9. 1-on-1 Olympic Target Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">1-on-1 Olympic Target Archery</span>
+  <span class="stat-text">You can play indoors at 25 meters or outdoors at 90 meters on the traditional five-color, ten-ring Olympic target.</span>
 </div>
 
 As the name suggests, this is what the competitive archers face during the tournaments and the Olympics.
@@ -330,8 +322,7 @@ You can consider this a practice round or a first step into the world of Archery
 ## 10. Knockout
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Knockout</span>
+  <span class="stat-text">Players take turns shooting from 10 yards, and anyone who misses the target ring gets knocked out and retrieves arrows.</span>
 </div>
 
 Knockout or some refer to it as nock out. This game is similar to Robin Hood.

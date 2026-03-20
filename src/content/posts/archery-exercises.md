@@ -78,8 +78,7 @@ Here are some exercise suggestions that you can work on so you can improve your 
 ## 1. Blind Shooting
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Blind Shooting</span>
+  <span class="stat-text">You'll close your eyes at full draw and release into a large target from just 8 feet to sharpen your stance and posture.</span>
 </div>
 
 The first, important thing is to have a clear area where no one is walking around to avoid any accidental arrows flying around.
@@ -115,8 +114,7 @@ More importantly, you do this to zone in on what your target and eliminate any d
 ## 2. Distance Shooting
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Distance Shooting</span>
+  <span class="stat-text">You'll alternate between targets at 10, 20, and 30 yards to build an instinctual feel for distance without a rangefinder.</span>
 </div>
 
 Distance shooting is all about setting up three targets with three different ranges.
@@ -152,8 +150,7 @@ This takes out an archer's dependence on a rangefinder and makes it a more natur
 ## 3. Around the Clock
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Around the Clock</span>
+  <span class="stat-text">You'll aim at the 12, 3, 6, and 9 o'clock positions around a paper plate to simulate aiming off in windy conditions.</span>
 </div>
 
 Around the Clock, exercise is a fun and simple exercise that uses a paper plate or around the target.
@@ -191,8 +188,7 @@ It's a good exercise for bow hunting where the game animal is on the move, so yo
 ## 4. Blank Bale with a Target
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Blank Bale with a Target</span>
+  <span class="stat-text">Blank bale shooting is the best drill for counteracting target panic because it shifts your entire focus to technique over aiming.</span>
 </div>
 
 Blank Bale is a bit unconventional for archery in that it's practice shooting without a target.
@@ -214,8 +210,7 @@ Being able to respond calmly to different targets or hunting situations is a gre
 ## 5. Bow Catch
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Bow Catch</span>
+  <span class="stat-text">A partner kneels beside you and catches your bow after each shot, training you to maintain a relaxed grip through the release.</span>
 </div>
 
 The Bow Catch exercise is when somebody catches your bow after the shot.
@@ -251,8 +246,7 @@ Like any sport, if you focus on the form and structure, then you create muscle m
 ## 6. Target Change-Up
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Target Change-Up</span>
+  <span class="stat-text">A buddy moves the target while you look away, and you've got just 15 seconds to find it and execute your shot.</span>
 </div>
 
 Target Change-Up has the element of surprise and challenge all wrapped in one game.
@@ -288,8 +282,7 @@ You battle the nervous jitters from not knowing where the target will be located
 ## 7. Count Down Drill
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Count Down Drill</span>
+  <span class="stat-text">Your buddy calls a random number from 1 to 20, and you can only release your arrow when the count reaches that number.</span>
 </div>
 
 The Count Down Drill is a simple exercise that involves another shooting buddy joining you.
@@ -325,8 +318,7 @@ You'll notice that your timing in archery will greatly improve as this is the cl
 ## 8. Angle Drill
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Angle Drill</span>
+  <span class="stat-text">You'll shoot from inclines, elevated platforms, and crouched positions to simulate real bowhunting angles in the field.</span>
 </div>
 
 The Angle Drill is all about taking different angles by stepping on an incline or crouching down on the ground.
@@ -362,8 +354,7 @@ Since you'll likely nock an arrow with a back tip groove or get the premade nock
 ## 9. North-South-East-West
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">North-South-East-West</span>
+  <span class="stat-text">Your next shot must follow the direction your last arrow is pointing after impact, training you to aim off-center consistently.</span>
 </div>
 
 The North-South-East-West is similar to the exercise game of  Around the Clock.
@@ -399,8 +390,7 @@ Considering the outdoor conditions, you estimate what's the best out of center s
 ## 10. Focus Compass
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Focus Compass</span>
+  <span class="stat-text">Where your arrow lands on the target tells you exactly what to fix, whether it's your head position, stance, or anchor point.</span>
 </div>
 
 The Focus Compass concentrates more on technique and form using the landing of the arrow on the target as a basis.

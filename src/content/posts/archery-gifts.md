@@ -255,7 +255,7 @@ This is a sport that requires regular training and practice, otherwise, we'll ge
 
 If you've someone who loves archery in your family, then finding a proper gift for them is difficult.
 
-But there are so many things in archery that we love and can make a great gift for our loved ones. Beyond gear, consider fun accessories like [archery decals](/archery-decals/) or [archery tee shirts](/archery-tee-shirts/) to show off their passion.
+But there are so many things in archery that we love and can make a great gift for our loved ones.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -409,7 +409,7 @@ An arrow rest can greatly help out an archer, an adjustable one can fit any bow.
 
 If your ultimate goal is target archery, then its most likely that you'll need an adjustable arrow rest that provides excellent consistency and easy center fine-tuning for greater shot accuracy.
 
-Some recursive bows come with an inbuilt arrow rest, but others generally require an addon.
+Some recursive bows come with an inbuilt arrow rest, but others generally require an addon. Beyond gear, consider fun accessories like [archery decals](/archery-decals/) or [archery tee shirts](/archery-tee-shirts/) to show off their passion.
 
 It serves as a smooth and soft surface to launch the arrow from. This also helps to avoid any potential physical danger to noob archers.
 

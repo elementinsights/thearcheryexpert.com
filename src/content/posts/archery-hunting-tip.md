@@ -74,8 +74,7 @@ Listed below are some of the most useful archery hunting tips that will help you
 ## 1. Invest In A Good Bow
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Invest In A Good Bow</span>
+  <span class="stat-text">A faster bow is usually harder to draw, so you should match both speed and draw weight to your current skill level.</span>
 </div>
 
 First things first. Invest in a good bow.
@@ -115,8 +114,7 @@ So pick a draw weight that you're comfortable with.
 ## 2. No Compromises On The Accuracy
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">No Compromises On The Accuracy</span>
+  <span class="stat-text">Finding a consistent anchor point on or near your face and sticking with it every shot is the key to long-term accuracy.</span>
 </div>
 
 You must be wondering, 'who would do that?' But believe me, some hunters make this mistake of giving up accuracy for speed or sometimes making mistakes that affect accuracy.
@@ -152,8 +150,7 @@ You should relax your mind and body to improve your accuracy.
 ## 3. Comprehend your Stance
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Comprehend your Stance</span>
+  <span class="stat-text">Place your feet 15 to 18 inches apart and parallel to the shooting line so your stance stays stable through every shot.</span>
 </div>
 
 The stance is the manipulation of mostly the lower half of your body.
@@ -177,8 +174,7 @@ The continuous practice will develop muscle memory, strength, and ease, and you'
 ## 4. Observe the Bubble Level
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Observe the Bubble Level</span>
+  <span class="stat-text">Centering the bubble level before every release is a lifesaver on slopes where your mind can trick you on the focal point.</span>
 </div>
 
 Build this healthy habit of observing the bubble level before releasing the arrow.
@@ -214,8 +210,7 @@ Here too, calculating your aim will be assisted by the bubble level, which will 
 ## 5. Discern the Arrow Spine
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Discern the Arrow Spine</span>
+  <span class="stat-text">Using the wrong arrow spine leads to poor grouping and off-the-mark flights, so always match spine to your draw weight and length.</span>
 </div>
 
 Two different bows with the same bow draw weight and length may still require different arrow spines.
@@ -245,8 +240,7 @@ Also, pay a visit to an archery shop and try different arrows with variable spin
 ## 6. Avoid Over-Aiming
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Avoid Over-Aiming</span>
+  <span class="stat-text">Let the sight pin float naturally instead of forcing it steady, because a white-knuckle hold ruins your shot execution.</span>
 </div>
 
 When you aim for the target, what's the compulsion you feel? Stop already.
@@ -272,8 +266,7 @@ To attain easy aiming, practice shooting on a 40-centimeter target from a distan
 ## 7. On Your Knees
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">On Your Knees</span>
+  <span class="stat-text">Kneeling improves your concealment from game animals and lets you rise smoothly to draw your bow at the right moment.</span>
 </div>
 
 Many experts swear by this plan of attack for a good chance of an accurate shot.
@@ -303,8 +296,7 @@ However, the best kneeling position is a judgmental call.
 ## 8. Ease That Bow Grip
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Ease That Bow Grip</span>
+  <span class="stat-text">The best grip is the lightest one possible, resting the pad of your thumb against the bow throat to minimize unwanted torque.</span>
 </div>
 
 A good grip is efficiently the lightest grip you should have.
@@ -344,8 +336,7 @@ You should make sure your grip is the same each time, so you don't muddle your s
 ## 9. Work On Your Release
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Work On Your Release</span>
+  <span class="stat-text">Relax all your fingers at once during the release and hold your position without moving until the arrow hits the target.</span>
 </div>
 
 You've now given your best in stalking, anchoring, drawing, aiming, and positioning your bow.
@@ -403,8 +394,7 @@ Just try to keep your bow clear of any external forces until the arrow completel
 ## 10. Master the Prompt Use Of A Rangefinder
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Master the Prompt Use Of A Rangefinder</span>
+  <span class="stat-text">Ditch the noisy factory case and use a chest harness or neck strap so your rangefinder is always within quick reach.</span>
 </div>
 
 Calculating the ranges for executing a shot has always been a challenge.

@@ -267,7 +267,7 @@ In archery, accuracy is considered to be the most important thing which you need
 
 Your main aim is to be able to get the arrow to the desired target perfectly every time.
 
-To increase accuracy, many different accessories have been developed which helps you as an archer to increase your accuracy and precision. For tips on dialing in your pins, read our guide on [how to use an archery sight adjustment chart](/archery-sight-adjustment-chart/). You may also want to add an [archery sight light](/archery-sight-light/) for low-light shooting conditions.
+To increase accuracy, many different accessories have been developed which helps you as an archer to increase your accuracy and precision.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -427,9 +427,9 @@ This bow sight uses all CNC Machining which is of very high quality which makes 
 
 If we talk about features Topoint sights have an added feature of adjustable brightness where you can adjust brightness according to the shooting conditions with the sight light.
 
-With the second-axis adjustment, you can achieve heightened accuracy over longer distances easily.
+With the second-axis adjustment, you can achieve heightened accuracy over longer distances easily. For tips on dialing in your pins, read our guide on [how to use an archery sight adjustment chart](/archery-sight-adjustment-chart/).
 
-With the help of micro-adjustable pins attached you get dependable precision which is very important in archery.
+With the help of micro-adjustable pins attached you get dependable precision which is very important in archery. You may also want to add an [archery sight light](/archery-sight-light/) for low-light shooting conditions.
 
 Topoint bow sight is available in many variants and options for archers such as:
 

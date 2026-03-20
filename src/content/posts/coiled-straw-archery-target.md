@@ -261,7 +261,7 @@ In these archery targets, the arrows can be removed safely.
 
 In addition to that, these archery targets are brightly colored to be viewed from a distance.
 
-We want to make it easy for you to choose your next archery target purchase. You might also want to compare these with our [bag targets](/archery-bag-targets/) or [animal archery targets](/animal-archery-targets/) to find the best fit for your setup.
+We want to make it easy for you to choose your next archery target purchase.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -417,7 +417,7 @@ KAINOKAI's traditional handmade archery target is a traditional, handmade archer
 
 Foliage is used as a raw material in it.
 
-This archery target is woven by hand.
+This archery target is woven by hand. You might also want to compare these with our [bag targets](/archery-bag-targets/) or [animal archery targets](/animal-archery-targets/) to find the best fit for your setup.
 
 Being a handicraft archery target, it's beautiful and environmentally friendly.
 

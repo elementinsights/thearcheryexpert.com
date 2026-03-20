@@ -259,7 +259,7 @@ If you're a beginner in any endeavor of your choosing, the primary source of str
 
 For me, the passion for mounted archery is rare because there's not much competitive buzz around them, and not everybody has access to horses or even an open field.
 
-Nonetheless, it's a very enjoyable recreational activity if you've the necessary sources and once you mastered or at least known the basics of the sports. If you're interested in the cultural roots of mounted archery, read our article on [Korean archery](/korean-archery/) and the [different types of archery bows](/different-types-of-archery-bows/).
+Nonetheless, it's a very enjoyable recreational activity if you've the necessary sources and once you mastered or at least known the basics of the sports.
 
 Anyway, you might've come here because a passion for mounted archery developed within you.
 
@@ -415,7 +415,7 @@ They're swift and effective that their enemy fears facing them on the battlefiel
 
 And one of the Mongolians' secrets in battle is their horsemen, particularly the horse bow infantry.
 
-Up until the present time, they're still among the best-mounted horsemen in the world.
+Up until the present time, they're still among the best-mounted horsemen in the world. If you're interested in the cultural roots of mounted archery, read our article on [Korean archery](/korean-archery/) and the [different types of archery bows](/different-types-of-archery-bows/).
 
 If you're a beginner in mounted archery and looking for the best bows you can use, then a better way to begin your journey than using the traditional Mongolian bow.
 

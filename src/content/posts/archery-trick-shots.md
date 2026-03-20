@@ -76,8 +76,7 @@ Let's talk about ten amazing archery trick shots that anyone can do with practic
 ## 1. Flying Target Trick
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Flying Target Trick</span>
+  <span class="stat-text">The flying target trick requires you to hit a spinning or rotating disc in a split second before it disappears from view.</span>
 </div>
 
 In the flying target trick, the archer shot the target in a split of a second position at a certain point of shot his aim.
@@ -95,8 +94,7 @@ The shot you take may not affect anything, and always practice in an open field 
 ## 2. Floating Target Trick
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Floating Target Trick</span>
+  <span class="stat-text">Unlike the flying target, a floating target stays in constant pendulum-style motion until you finally manage to hit it.</span>
 </div>
 
 How good you're at shooting can be dynamic, but how accurate in hitting your target equally?
@@ -116,8 +114,7 @@ It's a challenging activity to shoot at your target, so don't lose patience.
 ## 3. Cutting the String
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Cutting the String</span>
+  <span class="stat-text">You'll aim to slice a thin hanging thread with your arrow to make the attached object drop to the ground in one clean shot.</span>
 </div>
 
 Are you tired of shooting your target in constant motion?
@@ -139,8 +136,7 @@ While practicing this trick, keep the distance very short, also try to avoid the
 ## 4. Popping Balloons
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Popping Balloons</span>
+  <span class="stat-text">Popping balloons is the easiest trick shot on this list and it's fun for all age groups as a simple recreational activity.</span>
 </div>
 
 Popping balloons shot is a trick in which the archer shoots the stick balloons as his target.
@@ -158,8 +154,7 @@ While practicing this trick, don't fill the balloons with water, glitter, and pa
 ## 5. Shooting fruit off heads
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Shooting fruit off heads</span>
+  <span class="stat-text">This is the most daring trick shot in archery, but you should always place the fruit on a table or shelf and never a person.</span>
 </div>
 
 Archery is always so dangerous as it's directly related to man's shooting perfectness, and it requires courage and guts to be able to shoot the apple at someone's head.
@@ -175,8 +170,7 @@ You don't need to practice this trick, and if you want, you can put the apple on
 ## 6. The candle shot
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">The candle shot</span>
+  <span class="stat-text">Passing through the flame won't blow it out, so you must hit the base of the candle's flame to actually extinguish it.</span>
 </div>
 
 Do you ever consider shooting an arrow at the flame of a candle?
@@ -200,8 +194,7 @@ It can be very risky even if you ensure the risk and have a fire extinguisher.
 ## 7. Split the arrow
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Split the arrow</span>
+  <span class="stat-text">Made famous by Robin Hood, this trick requires your second arrow to split the first one from nock to point at the same spot.</span>
 </div>
 
 Split the arrow is another dramatic trick shot most famous in movies like Robin Hood.
@@ -221,8 +214,7 @@ Don't practice this trick as off hitting the arrow on the arrow, which is extrem
 ## 8. Underwater bottle
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Underwater bottle</span>
+  <span class="stat-text">The water surface deceives even expert archers because waves distort your aim and make the target appear to shift position.</span>
 </div>
 
 To shoot the target below the water surface requires a delicate technique.
@@ -242,8 +234,7 @@ To practice the underwater bottle shot, you need to be a good swimmer and take a
 ## 9. Shooting from a ride
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Shooting from a ride</span>
+  <span class="stat-text">Ottoman Empire archers were considered deadly warriors because they mastered shooting with precision from horseback during wars.</span>
 </div>
 
 Shooting from a riding trick is a very popular trick expert archers use to utilize in ancient wars.
@@ -269,8 +260,7 @@ Don't get pumped by watching movie scenes, as protection is the first and foremo
 ## 10. Pinata Shooting
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Pinata Shooting</span>
+  <span class="stat-text">Fill a pinata with candy, glitter, and water balloons, then shoot it with arrows for a colorful party activity the whole family enjoys.</span>
 </div>
 
 Shooting the pinata trick is more fun than archery.

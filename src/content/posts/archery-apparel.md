@@ -265,7 +265,7 @@ From spiked shoes for football and cricket to spandex swimsuits for swimming and
 
 Archery apparel helps the audience to identify the event or sport happening.
 
-Without that, it would be really hard for one to identify what sort of event is going on. For more specific gear options, browse our picks for the best [archery jackets](/archery-jackets/) and [archery clothing items](/archery-clothing/).
+Without that, it would be really hard for one to identify what sort of event is going on.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -421,7 +421,7 @@ Made with 100% polyester it's a perfect choice for archery experts out there.
 
 Rated 4+ stars and reviewed by 61 users it's a smart choice for those who look for the best apparel.
 
-This product is from a family of camouflage patterns King's which was first established in 1995.
+This product is from a family of camouflage patterns King's which was first established in 1995. For more specific gear options, browse our picks for the best [archery jackets](/archery-jackets/) and [archery clothing items](/archery-clothing/).
 
 During the year 2000, this particular camouflage design came into the picture which created a lot of buzzes.
 

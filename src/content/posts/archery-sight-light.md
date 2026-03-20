@@ -265,7 +265,7 @@ These mini devices perfectly work to provide you with the most appropriate light
 
 Sometimes it's hard to find an archery sight light made by the same brand to which your bow sight belongs.
 
-For this reason, you should ensure that the device is compatible with your bows. If you haven't chosen your sight yet, take a look at our [best 7 pin bow sights](/7-pin-bow-sight/) roundup and our guide on [archery sight adjustment](/archery-sight-adjustment-chart/) to dial in your pins.
+For this reason, you should ensure that the device is compatible with your bows.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -418,9 +418,9 @@ The SOPOGER Archery Compound Bow Sight Light uses a fiber optic LED to illuminat
 
 Installation takes just a few seconds since you simply screw it into the threaded hole on your sight housing. It's one of the easiest sight lights to set up right out of the package.
 
-The LED output is bright enough to make your fiber optic pins clearly visible during dawn and dusk hunts. You won't need to crank the brightness all the way up in most situations.
+The LED output is bright enough to make your fiber optic pins clearly visible during dawn and dusk hunts. If you haven't chosen your sight yet, take a look at our [best 7 pin bow sights](/7-pin-bow-sight/) roundup.
 
-It's lightweight and compact, so it doesn't add any noticeable weight to your bow setup. The universal fit makes it compatible with brands like Trophy Ridge, TRUGLO, Apex, and many others.
+It's lightweight and compact, so it doesn't add any noticeable weight to your bow setup. Our guide on [archery sight adjustment](/archery-sight-adjustment-chart/) can help you dial in your pins. The universal fit makes it compatible with brands like Trophy Ridge, TRUGLO, Apex, and many others.
 
 If you're looking for a reliable, no-fuss sight light that works across multiple bow sight platforms, the SOPOGER is a solid choice. It delivers consistent performance without breaking the bank.
 

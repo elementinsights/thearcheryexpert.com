@@ -49,9 +49,21 @@ finalThoughts: "Getting started with archery doesn't have to be complicated or o
 ---
 
 <div class="how-to-meta">
-  <div><strong>Time:</strong> 30-60 minutes</div>
-  <div><strong>Difficulty:</strong> Beginner to Intermediate</div>
-  <div><strong>Tools:</strong> Standard archery equipment</div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#9200;</div>
+    <div class="how-to-meta-label">Time</div>
+    <div class="how-to-meta-value">30-60 minutes</div>
+  </div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#127919;</div>
+    <div class="how-to-meta-label">Difficulty</div>
+    <div class="how-to-meta-value">Beginner to Intermediate</div>
+  </div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#128736;</div>
+    <div class="how-to-meta-label">Tools</div>
+    <div class="how-to-meta-value">Standard archery equipment</div>
+  </div>
 </div>
 
 This article gives you a complete guide about archery for beginners and what measures you need to take to become a master of the sport.

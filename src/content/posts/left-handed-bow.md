@@ -231,7 +231,7 @@ products:
 finalThoughts: "Left-handed archers deserve the same quality and selection as right-handed shooters, and the bows on this list prove there are plenty of strong options available. Whether you're a young archer just starting out or an experienced shooter looking to upgrade, finding a properly fitted lefty bow will make a noticeable difference in your comfort and accuracy on the range."
 ---
 
-The bow is a weapon consisting of a fight made of wood or other versatile material twisted and held in strain by a string - we'll focus on left-handed bows for this article. If you're not sure whether you need a left-handed bow, read our guide on [left eye dominant right handed archery](/left-eye-dominant-right-handed-archery/) to determine your dominant eye first.
+The bow is a weapon consisting of a fight made of wood or other versatile material twisted and held in strain by a string - we'll focus on left-handed bows for this article.
 
 The arrowhead is made out of a molded rock, stone, metal, and other hard materials.
 
@@ -385,7 +385,7 @@ The Genesis unique unit is a top-notch bow that's anything but difficult to set 
 
 They're accessible in different tones like orange, pink, green, and some more.
 
-With a customizable attract weight of 10 to 20 lbs, this is an ideal starter bow for youngsters.
+With a customizable attract weight of 10 to 20 lbs, this is an ideal starter bow for youngsters. If you're not sure whether you need a left-handed bow, read our guide on [left eye dominant right handed archery](/left-eye-dominant-right-handed-archery/) to determine your dominant eye first.
 
 This left-gave bow additionally arrives in a bundle that incorporates a quiver, five bolts, a hex wrench, and an arm watch.
 

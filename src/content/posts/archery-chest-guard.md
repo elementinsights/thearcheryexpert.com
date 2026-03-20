@@ -253,7 +253,7 @@ We involve ourselves in many activities during the day like playing, running, ou
 
 To be on the safe side, we should ensure that we protect our chests during certain activities or sports to avoid bodily harm.
 
-We can select from much different protective equipment while considering their availability, cost, and the nature of our activities. Don't forget to also protect your arms and hands with a solid [arm guard](/archery-arm-guard/) and a pair of [archery gloves](/archery-gloves/).
+We can select from much different protective equipment while considering their availability, cost, and the nature of our activities.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -405,7 +405,7 @@ This chest guard dates back to 2013, and many people are still using it.
 
 It's flexible to use during any ongoing activity, as it's short-sleeved.
 
-It provides the athlete the advantage of reduced sweating as much more sweat can accumulate in long-sleeved attire.
+It provides the athlete the advantage of reduced sweating as much more sweat can accumulate in long-sleeved attire. Don't forget to also protect your arms and hands with a solid [arm guard](/archery-arm-guard/) and a pair of [archery gloves](/archery-gloves/).
 
 The athlete can move freely through the enclosed or open playground as he won't be struggling to fold the attire - his hands can also move more freely and quickly.
 

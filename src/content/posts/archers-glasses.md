@@ -239,7 +239,7 @@ The glasses unwind your eyes and increase your shooting practice depending on th
 
 Archers' glasses ultimately enhance steadiness in your performance while protecting your eyes from harsh situations, like destructive UV rays, unpleasant weather, and any flying objects that you may encounter during an archery tour.
 
-No matter your vision level, the glasses will boost your experience. Pair your shooting glasses with an [archery arm guard](/archery-arm-guard/) and [chest guard](/archery-chest-guard/) for complete range protection.
+No matter your vision level, the glasses will boost your experience.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -390,7 +390,7 @@ The unisex, partially rimless glasses have a thin lens providing you with maximu
 
 These quality glasses will give your just the comfort you've been craving as you carry out your endeared shooting exercise.
 
-The anti-scratch feature makes the glasses more durable.
+The anti-scratch feature makes the glasses more durable. Pair your shooting glasses with an [archery arm guard](/archery-arm-guard/) and [chest guard](/archery-chest-guard/) for complete range protection.
 
 You won't keep purchasing a new pair now and then as these glasses will serve you for a more extended period.
 

@@ -14,60 +14,14 @@ quickAnswer:
   title: "89 Archery Terms Everyone Should Know | Archer's Glossary"
   text: "This A-to-Z glossary covers 89 essential archery terms, from anchor point and back tension to windage and yoke tuning. It's a quick reference for beginners who want to learn the language of the sport."
 toc:
-  - label: "89 Archery Terms Everyone Should Know"
-    href: "#89-archery-terms-everyone-should-know"
-  - label: "A:"
+  - label: "Archery Glossary A-F"
     href: "#a"
-  - label: "B:"
-    href: "#b"
-  - label: "C:"
-    href: "#c"
-  - label: "D:"
-    href: "#d"
-  - label: "E:"
-    href: "#e"
-  - label: "F:"
-    href: "#f"
-  - label: "G:"
+  - label: "Archery Glossary G-L"
     href: "#g"
-  - label: "H:"
-    href: "#h"
-  - label: "I:"
-    href: "#i"
-  - label: "J:"
-    href: "#j"
-  - label: "K:"
-    href: "#k"
-  - label: "L:"
-    href: "#l"
-  - label: "M:"
+  - label: "Archery Glossary M-R"
     href: "#m"
-  - label: "N:"
-    href: "#n"
-  - label: "O:"
-    href: "#o"
-  - label: "P:"
-    href: "#p"
-  - label: "Q:"
-    href: "#q"
-  - label: "R:"
-    href: "#r"
-  - label: "S:"
+  - label: "Archery Glossary S-Z"
     href: "#s"
-  - label: "T:"
-    href: "#t"
-  - label: "U:"
-    href: "#u"
-  - label: "V:"
-    href: "#v"
-  - label: "W:"
-    href: "#w"
-  - label: "X:"
-    href: "#x"
-  - label: "Y:"
-    href: "#y"
-  - label: "Z:"
-    href: "#z"
   - label: "List of Abbreviations"
     href: "#list-of-abbreviations"
   - label: "FAQ"
@@ -84,322 +38,240 @@ faq:
 finalThoughts: "Knowing the proper archery terminology makes it much easier to follow instructions, communicate with other archers, and understand equipment specifications. Bookmark this glossary and refer back to it whenever you come across an unfamiliar term.\n\nThe more comfortable you're with the language, the faster you'll progress in the sport."
 ---
 
-The philosopher Confucius once said, "In archery, we've something just like the way of the superior man, when the archer misses the center of the target, he turns round and seeks for the cause of his defeat in himself."
+Every sport has its own language, and archery is no exception. Whether you're a complete beginner or you've been shooting for a while, knowing the right terminology makes it easier to follow instructions, shop for gear, and talk with other archers.
 
-In the archaic time, people used arrows and bows to secure the need for their food.
+This A-to-Z glossary covers 89 essential terms along with common abbreviations. If you're brand new to the sport, our [archery for beginners](/archery-for-beginners/) guide will give you the practical foundation to go along with these terms. You might also enjoy our article on [fascinating archery facts](/archery-facts/) to learn more about the sport's history.
 
-Today in this modern age, archery is a passionate and challenging sport for those who love thrills and have the patience to achieve their destination.
+## A
 
-So, If you're a person who loves archery and want to know about it, then you're in the right place because in this article you'll be able to find the 'must-know terms' of this incredible sport.
+**Anchor Point** — A definite point on the archer's face (chin, mouth, or nose) that the drawing hand touches at full draw. It's also known as a reference point and helps maintain shot-to-shot consistency.
 
-The terminology of a game is very important to learn the fundamental concept.
+**Archer's Paradox** — The bending effect produced by an arrow as it leaves the bow and clears the riser on release. It's especially noticeable with finger shooters using aluminum arrows.
 
-Still, it's often quite new and sometimes out of context or a little complicated to understand at first.
+**Arm Guard** — A protective strip, usually made of leather, worn on the bow arm's forearm to prevent bowstring slap.
 
-Whether you're an admirer, novice, or passionate archer, there's a lot of archery terminology out there that sometimes you might feel like a newcomer or are listening to a foreign language. If you're brand new to the sport, our [archery for beginners](/archery-for-beginners/) guide will give you the practical foundation to go along with these terms.
+## B
 
-## 89 Archery Terms Everyone Should Know
+**Back Tension** — The active engagement of your back muscles to hold the bow at full draw while you aim and release. It's one of the most critical techniques for a clean, consistent shot.
 
-In this writing, you'll find a handy reference for archery equipment, arrows, bows, tuning, form, acronyms, etc.
+**Bare Shaft Test** — Shooting an arrow without fletching to check the nocking point adjustment and arrow rest position. It helps diagnose tuning issues for optimal arrow flight.
 
-We'll discuss more than 50 terms here, so hold your breath and let's explore the world of archery. You might also enjoy our article on [fascinating archery facts](/archery-facts/) to learn more about the sport's history.
+**Button/Plunger** — An adjustable, spring-loaded device mounted on the riser that contacts the arrow. It's also called a Berger button, cushion plunger, or pressure button.
 
-## A:
+## C
 
-A definite point or place, usually on the archer's mouth, chin, or nose, should be touched when the bow is fully drawn and prepared to shoot.
+**Clout Archery** — A discipline where archers shoot arrows toward a flag (the clout) at distances of 120 to 180 yards. Scoring is based on how close each arrow lands to the clout.
 
-It's also known as a 'reference point,' which benefits an archer's efforts to give consistency.
+**Compound Bow** — A modern bow that uses cables and pulleys (cams) to store more energy. When you draw a compound, the let-off means you're holding only a fraction of the peak weight at full draw.
 
-It's also known as the paradox, which is an impact produced by an arrow flexing as it's about to leave the bow and as it clears the bow on release by bending the riser.
+**Cushion Plunger** — A device made of plastic or leather that absorbs the shock generated by the arrow on release.
 
-It's especially used by those who are finger shooters and uses aluminum arrows.
+## D
 
-A protective strip or device is usually made of leather worn on the part of the bow holding arm to safeguard the forearm from the bowstring snap.
+**Dominant Eye** — The eye your brain prefers for aiming. Your dominant eye determines your shooting style — if you're left-eye dominant, you should generally shoot left-handed.
 
-## B:
+**Draw/Draw Length** — The act of pulling the bowstring into shooting position. Draw length is the distance the string travels from its resting position to full draw.
 
-The back tension refers to the back muscles' active engagement to hold a bow at full draw while you aim and release during the shot process.
+**Dutchman/Plug** — A small, cylindrical piece of wood used to repair a dead knot in a bow.
 
-It's also known as tension, and it's one of the critical methods for a perfect shot in the archery world.
+## E
 
-For the best flight, this involves shooting an arrow without fletching to see the nocking point's adjustment and the rest position of an arrow.
+**Elevation** — The amount a bow sight must be raised or lowered to hit a given mark. It's also the sight adjustment used to correct a high or low point of impact.
 
-Adjustable equipment with a spring-loaded contact for the arrow.
+**End** — A round of arrows (rarely more than six) shot at the target before scoring and retrieval during a competition.
 
-It sits on a rest that's mounted vertically to the arrow.
+**Equilibrium Moisture Content** — The moisture level wood reaches once it has stabilized with its surrounding environment. It's an important factor in bow-making.
 
-Also known as'berger button','cushion plunger','pressure button',or'plunger'.
+## F
 
-## C:
+**Flight** — The state of your arrow as it travels through the air after being released from the bow.
 
-This is an archery practice where an archer shoots arrows toward a flag, known as clout.
+**Flinching** — Involuntary movement of the bow arm or release hand, usually caused by anticipation of the shot. It can happen just before or at the moment of release.
 
-The shooting distance varies from 120 to 180 yards.
+**Flu-Flu** — Oversized feathers spiraled around the shaft to create drag, making arrows that fly short distances. They're commonly used for aerial targets and stump shooting.
 
-Judges base the score on how close the arrows land from the clout.
+## G
 
-This is a more accurate modern bow made of cables and pulleys that store more power using its materials.
+**G-Nock** — A smaller nock than an H-nock, used on target arrows that fit into a nock bushing.
 
-When you draw a 20-pound weight arrow from a compound bow, you actually fire a 60-pound strong arrow.
+**Game** — In competition, an evenly distributed set of ends in a session. In bowhunting, it refers to non-domesticated animals hunted for food or sport.
 
-This device is made of plastic or leather that absorbs the shocks generated by the arrow when released.
+**Gold Panic/Target Panic** — A psychological condition where an archer can't settle the pin on the target or can't release the arrow under pressure. It's also called target paralysis or buck fever.
 
-## D:
+## H
 
-In archery, an archer tends to prefer one eye over another, and the dominant eye determines his shooting style.
+**H-Nock** — A slightly larger nock than a G-nock, used on target arrows that fit into a nock bushing.
 
-For example, those who prefer the left eye should shoot left-handed.
+**Helical Fletching** — Fletching applied with a helical clamp so the arrow spirals in flight. This stabilizes the arrow faster, especially in windy conditions.
 
-The act of pulling the bowstring into the shooting position attached to the bow is known as a draw.
+**Hit** — In competition, a shot that successfully scores on the target. In general use, it's any arrow that strikes the intended target.
 
-Also, when the string is pulled back, the length it's pulled is a draw.
+**Holding** — The stage when the bow is at full draw and the arrow is ready to be shot.
 
-It's also known as the 'Dutchman' or 'plug,' which is cylindrical shaped tiny wood used to repair a dead knot in a bow.
+## I
 
-## E:
+**Infringement** — When a judge rules a contest violation, such as drawing the bow while aiming above the target line.
 
-A bow needs a specific amount of raising and lowering to hit a given mark, which is its elevation.
+**Insert** — A threaded aluminum piece placed into the front of an arrow shaft, allowing field points and broadheads to be screwed in.
 
-The sight adjustment to equalize for a high or low point of impact is also elevation
+**Instinctive Shooting** — A traditional method where the archer looks at the target and shoots without using a mechanical sight or the point-of-aim technique.
 
-A round of rarely more than six arrows shot during an archery event to the target to score and retrieve them.
+## J
 
-The moisture quantity of wood once reached an equilibrium state dictated by its surrounding environmental circumstance, is cited by this term.
+**Jerking** — Allowing the shooting hand to flinch backward too much as the arrow is released, causing inconsistency.
 
-## F:
+**Jig** — A tool used for fletching arrows and making bowstrings.
 
-Flight pertains to your arrow's state as it's propelled through the air by kinetic forces after you successfully fire it from your drawn bow.
+**Judo Point** — A spring-wired arrowhead designed for small game and field practice. It grabs grass and debris on impact for easy retrieval.
 
-It pertains to the bow or releases arm's moving, usually caused by the anxiety of the clicker or anticipation of hitting the bow arm with the string before or just at the release.
+## K
 
-It can also pertain to the movement of the bow or release arm at the release moment.
+**Kevlar** — A strong synthetic material used to make bowstrings with virtually no stretch. Some bows can't use Kevlar strings because the added shock shortens limb life.
 
-Flu-flus are trimmed, enormous feathers that are spiraled around the shafts used to make short-range arrows.
+**Kinetic Energy** — The energy transferred from the bow to the arrow on release. Higher kinetic energy means more penetration, which is especially important for bowhunting.
 
-## G:
+**Kisser Button** — A small plastic indicator attached to the bowstring that touches the archer's lips or teeth at full draw. It provides a consistent reference point.
 
-Smaller than an H-nock is used on a target arrow that fits into a nock bushing.
+**Knot** — A point in the wood where a branch grew from the trunk. Knots are classified as "live" (sound wood) or "dead" (damaged wood that's usually repaired with a plug).
 
-Game pertains to an evenly distributed set of ends in a session, or Non-domesticated animals hunted for food or sport.
+## L
 
-A psychological term is used when the archer suffocates under pressure.
+**Lamination** — Thin layers of material bonded together to form a bow limb or riser. Laminations provide strength and high performance.
 
-In that case, he loses his aim and becomes incapable of releasing the arrow, which is also known as 'target paralysis' or 'buck fever.'
+**Launcher Rest** — A spring-loaded or drop-away arrow rest where the arrow sits on a prong extension just under and in line with the arrow.
 
-## H:
+**Limb** — The flexible upper or lower part of a bow that bends when the string is drawn. Limbs store the energy that propels the arrow and are sometimes called "arms."
 
-A slightly larger nock than G-nock is used on a target arrow that fits into a nook bushing.
+## M
 
-Helical fletching is applied with a helical clamp in a fletching jig, allowing an arrow to spiral in flight to stabilize the flight much faster, especially in high wind situations.
+**Mass Weight** — The actual physical weight of the bow if placed on a scale. The term can also apply to any piece of archery gear.
 
-In the context of archery games or tournaments, this pertains to successful target hitting shots that score.
+**Mediterranean Draw** — A drawing method favored by Western archers, using the first three fingers — index finger above the arrow and the other two below.
 
-In a general context, this pertains to your arrow impacting any intended target.
+**Minnowing/Fishtailing** — Abnormal side-to-side wobble of an arrow in flight, often caused by improper spine, poor tuning, bad hand form, or misaligned nocks. Subtle, rapid wobble is called minnowing; wider movement is fishtailing.
 
-An arrow at the stage when it's all set to be shot and completely drawn.
+## N
 
-## I:
+**Nock** — The notch or groove at either end of the bow that holds the bowstring in place. It also refers to the clip on the back of an arrow and the act of fitting an arrow onto the string.
 
-When a judge declares a contest draw against the rule such as drawing a bow while indicating above the target.
+**Nock Travel** — The vertical movement of the nocking point on the bowstring after release. It can happen when the bow's cams move at different speeds or stop at different times, making it difficult to aim consistently.
 
-A threaded aluminum unit's placed into the front part of an arrow deeming field points and broadheads to be screwed into it.
+**Nocking Point** — The specific spot on the bowstring where the arrow's nock is placed before drawing and shooting.
 
-A traditional shooting method where an archer looks at the target and shoots, he doesn't use any mechanical device or the point of aim theory to hit the target.
+## O
 
-## J:
+**Olympic Bow** — A specially configured recurve bow designed for Olympic-style competition.
 
-Allowing the archer's shooting hand to flinch backward too much as the arrow is released.
+**Overdraw** — The risky practice of pulling the bowstring further back than normal at full draw, so the arrow tip passes the belly of the bow.
 
-The tool utilized for fletching arrows and making bowstrings.
+**Overstrung** — A condition where the bowstring is too short for the bow, creating excessive brace height.
 
-A spring wired small-game arrowhead and a target equipped for easy setting.
+## P
 
-## K:
+**Paper Tuning** — A tuning method where arrows are shot through a sheet of paper. The tear pattern reveals whether the nocking point or pressure button needs adjustment.
 
-The light synthetic, strong material used to make the bowstrings that have no stretch, and that bowstring simulate more shock to the limb.
+**Parabolic** — A fletching shape with a higher, rounded profile at the back end of the feather toward the nock of the arrow.
 
-Some bows can't utilize kevlar and that's why the lifespan of kevlar cracks due to repeated bending.
+**Point of Aim** — A visual reference on or near the target that aligns with the arrow tip and the archer's eye. For short distances, the point of aim is below the target; for long distances, it's above. At "point-blank range," the point of aim and the target are the same spot.
 
-A physics term referring to the method that the energy is transmitted to the arrow through the bow, which results in a more humane shot when there's more kinetic energy.
+## Q
 
-A kisser is also known as a 'kisser button' which is a plastic made indicator set in the bowstring, and it touches the lips or teeth while the archer is at full draw.
+**Quill** — The flattened shaft of a feather used for fletching an arrow.
 
-A name was given to some of the wood where there was the addition of a branch from the trunk of the tree.
+**Quiver** — A case made of plastic, leather, or other materials that holds an archer's arrows. Common types include back quivers, hip quivers, and pocket quivers.
 
-In Yew wood, these knots can catch up with the outer surface or be tangled within the wood.
+## R
 
-Knots are often tagged as 'live' where they're actually sound wood, or 'dead', where the wood has damaged and is usually restored with a plug of a great wood.
+**Range Finder/Sight** — A device that lets an archer determine the point of aim for a given distance without trial and error.
 
-## L:
+**Reflex Bow** — A bow whose limbs curve away from the archer when unstrung. The reflex design provides extra spring and power.
 
-A thin layer of substance to generate strength in risers and high performance in limbs, bonded together to form a bow limb or riser.
+**Reflex/Deflex** — A limb design that combines deflex (limbs curving inward toward the archer near the riser) with reflex (the rest of the limb curving outward). This combination promotes stability.
 
-A spring-loaded or drop-away arrow rest, where the arrow rests on top of a prong extension just under and in layer with the arrow.
+## S
 
-An adjustable working part of a bow from the handle or riser outward, that bends when the string is drawn.
+**Saddle** — The end of a bow stringer that fits over the upper limb while the pouch sits on the lower limb.
 
-it's the upper or lower parts of a bow where the energy of a bow is stored and is also called the 'arm'.
+**Shaft** — The main body of an arrow, excluding the head, nock, and fletching. The term is sometimes used to refer to the entire arrow.
 
-## M:
+**Shooting Tab/Glove** — A leather finger protector used by the drawing hand. Tabs are flat pieces; gloves are three-fingered and strap around the wrist.
 
-Usually used in reference to the actual weight of the bow if placed on a scale.
+**Skid** — The way an arrow plants itself into the ground or surface after completing its flight.
 
-Also can be used to know the mass of any gear.
+**Stringer** — A cord about three to four inches shorter than the bow, used to safely string and unstring the bow.
 
-A special method of drawing the arrow is favored mainly by Western archers where there's a use of the first three fingers to draw the bow.
+**String** — The bowstring or cord that propels the arrow. The term can also refer to the act of properly positioning an arrow on the bowstring.
 
-The method is to put the index finger above the arrow, with the other two below
+## T
 
-During the act of wobbling of an arrow flight, often resulted in by inappropriate spine, improper bow tuning, poor shooting hand form, or misaligned rocks. If its movements are less drastic but much faster is known as a minnow unless it's fishtailing.
+**T-Form** — A shooting stance where the archer's body, bow arm, and draw arm form a "T" shape when viewed from above.
 
-## N:
+**Teardrop** — A device attached at the end of a compound bow cable to make string assembly faster.
 
-The notch or groove at either end of the bow that keeps the bowstring into position or the act of fitting an arrow into the bowstring.
+**Tackle Line** — The equipment line located 10 yards behind the shooting line where archers can leave their gear, tents, and chairs during competition.
 
-After being released a description of where the nocking point on the bowstring moves up or down.
+## U
 
-This can happen if the arms/cams of the bow move at different speeds when drawing or stop moving at different times.
+**Unit Aiming** — A technique where the archer maintains a fixed relationship between the arms, head, and shoulders while adjusting aim from the waist.
 
-An extreme level of nock travel can make it difficult to aim correctly.
+**Unlimited** — A competition class where archers shoot with stabilizer bars of fifteen inches or longer and use a trigger release.
 
-The specific place where the nock of the arrow is to be placed on a bowstring while proceeding to drawing and shooting.
+**Upwind** — Wind blowing directly from the target toward the archer.
 
-## O:
+## V
 
-A specially configured and designed recurve bow for Olympic Style Competition.
+**V-Bar** — A coupling attached to the bow that allows the connection of long-rod, short-rod, or other stabilizers.
 
-A very risky and tricky practice of pulling the bowstring further back than optimum at full draw, so that the tip of the arrow passes the belly of the bow.
+**Valley** — On a compound bow, the amount you can move the string forward from full draw before the draw weight increases again.
 
-When the string of the bow is too short for its action, the condition is then called overstrung.
+**Velocity** — The speed at which an arrow travels, typically measured in feet per second (fps).
 
-## P:
+## W
 
-A bow tuning system of shooting arrows by bow through a sheet of paper.
+**Wobble/Porpoising** — Unusual up-and-down movement of an arrow during flight, indicating a tuning issue.
 
-Archers do tuning using the pattern made by the arrows in paper sheets to adjust the nocking point or pressure button settings.
+**Worst White** — When an archer's arrow hits the outermost scoring ring on the target — the closest you can get to a complete miss while still scoring.
 
-A parabolic design where the feather fletching with a higher, rounded shape at the back end of the feather toward the nock of the arrow.
+**Wrist Sling** — A strap that attaches to or encircles the bow and loops over the wrist or hand. It prevents the bow from falling after the shot, allowing the archer to shoot with a relaxed bow hand.
 
-Normally the point of the target always consists of a line in it, which can enable the archer to hit his target if placed with the tip of the arrow and his eye beat a line.
+## X
 
-For brief distances, the "point-of-aim" is going to be ahead of the target. For long distances, it'll be above the target.
+**X-Nock** — An H-nock sized arrow nock used on some carbon arrows that fits into a nock bushing.
 
-Between the 2 may be a "point-blank range," where the "point-of-aim" and therefore the target is an equivalent point.
+## Y
 
-Also, the thing that's placed on the bottom when using the point-of-aim strategy.
+**Yarn Tassel** — A bundle of yarn worn on the quiver or belt, used to clean wet or dirty arrows in the field.
 
-## Q:
+**Yoke** — A Y-shaped control cable on a compound bow that attaches to the outside of the upper limb at the axle pin.
 
-A ground flat shaft of a feather to fit on an arrow.
+**Yoke Tuning** — The process of adjusting each side of the yoke to achieve a straight bowstring path as it comes off the idler wheel at full draw.
 
-A plastic or leather-made case that an archer carries holds their arrow.
+## Z
 
-Also known as 'back quiver', 'hip quiver', 'pocket quiver'.
-
-## R:
-
-A modern appliance by which using an archer can locate his point-of-aim instantly without experimenting.
-
-Known as 'reflexed bow' whose limbs curve away from the face side of the bow when unstrung.
-
-It provides the bow extra spring and strength.
-
-a method of bow limbs combining deflex, where the origins of the limbs curve inward toward the archer near the riser, while with reflex, the rest of the curves of the limbs away from or outward from the archer.
-
-This sort of limb is made fashionable by bowyers and credited with promoting stability during a bow.
-
-## S:
-
-While the pouch is positioned on the lower limb, an end of a bow stringer that fits over the upper limb of the bow is known as the saddle.
-
-Excluding the head, nock, and fletching, the middle part of an arrow is stated as a shaft and sometimes this term is used to indicate the arrow itself.
-
-For the protection of the drawing fingers, a three-fingered, leather made skeletonized glove is used which straps around the wrist to protect the fingers and is used for the protection of the drawing fingers.
-
-When an arrow is drawn and after finishing its fly, the way an arrow plants itself under the surface.
-
-A helping cord that's three to four inches shorter than the bow used to shoot.
-
-The string is referred to as the bowstring or cord which is also used to mean the proper positioning of an arrow.
-
-## T:
-
-When an archer's body, bow arm, and draw arm make a shooting form where his whole body resembles a 'T' shape.
-
-To assemble the string more hastily, a device is used at the edge of a compound bow cable.
-
-Also known as the 'equipment line' that's 10 yards behind from the shooting line where the archers can leave their equipment and may set up their tents and chairs.
-
-## U:
-
-When an archer adjusts the aiming from the waist, they have to follow the unit aiming which refers to the maintenance of the relationship of the arms, head, and shoulders.
-
-With fifteen inches or longer stabilizer bars and a trigger, an archer shoots a type of shooting game called as unlimited.
-
-The direct blow of wind from the target towards the archer.
-
-## V:
-
-To make a bow eligible to take a long road, short road, or other stabilizers, a coupling is normally attached to the bow that's known as a v-bar.
-
-The amount someone can move the string away before the draw gets heavy again from the compound bow and towards the riser.
-
-A physics term is measured basically by calculating the speed at which an arrow can travel and expressed in feet per second.
-
-## W:
-
-The unusual movement of an arrow during flight.
-
-When an archer hits the outermost scoring of the target with his arrow, that's the one who is nearest to entirely missing the target, that archer is awarded the worst white.
-
-When a strap attaches to or encircles the bow and upholds over the bow wrist and/or hands that protect the bow from falling after the string is released.
-
-It's known as 'finger sling' that's used if the archer shoots with a relaxed bow hand.
-
-## X:
-
-An H-nock sized arrow nock is used on some carbon arrows that fit into a nock bushing.
-
-## Y:
-
-To clean the wet or soiled arrows, some archers wear a collection of yarn on their quiver or belt.
-
-At the axle pin of a compound bow, a Y-shaped control cable that attaches to the outside of the upper limb is called a yoke.
-
-Adjusting each side of the yoke in order to achieve a linear trajectory of the bowstring as it comes off the idler wheel at full draw in order to tune a compound bow.
-
-## Z:
-
-To measure the power of a bow sight so that the sighting equipment can provide the desired point of impact.
+**Zeroing** — Adjusting a bow sight so the point of impact matches the point of aim at a given distance.
 
 ## List of Abbreviations
 
-It's an archery organization 'The Archery Trade Association' which is formerly known as The Archery Manufacturers and Merchants Organization (AMO).
+**ATA** — Archery Trade Association, formerly known as AMO (Archery Manufacturers and Merchants Organization).
 
-An archery organization named, 'Archery Shooters Association'.
+**ASA** — Archery Shooters Association, established in 1993 in Kennesaw, Georgia.
 
-The ASA was established in 1993 in Kennesaw, Georgia.
+**ESAR** — Eye Sight Arrow Relationship, meaning the eye should be perpendicularly above the arrow nock.
 
-The Eye Sight Arrow Relationship is a term where the eye should be perpendicularly above the arrow nock.
+**FOC** — Front-of-Center, the percentage of an arrow's total weight located in the front half of the arrow.
 
-The Front-of-Center is a term that means the percentage of the arrow's total weight, which is located in the front half of the arrow.
+**FPS** — Feet Per Second, the standard unit used to describe bow speed ratings.
 
-The Feet Per Second is normally used to describe the bow speed ratings.
+**GPP** — Grains Per Pound, a measurement system used to select the correct arrow weight for a given bow.
 
-Grain Per Pound is a measurement system used to select the weight of the arrow.
+**IBO** — International Bowhunters Organization, founded in 1984 by a group of dedicated archers. It's also a widely used speed measurement standard.
 
-IBO stands for the International Bowhunters Organization, also a speed measurement system in archery.
+**ILF** — International Limb Fitting, a universal limb attachment system designed in the late 1980s.
 
-It was founded by some dedicated archers in 1984.
+**NFAA** — National Field Archery Association, established in 1939 in the USA and one of the oldest modern archery institutions.
 
-The International Limb Fitting is a universal limb making system that was designed in the late 1980s.
+**TFC** — Torque Flight Compensator, a device designed to stabilize arrow movement during the draw cycle.
 
-The National Field Archery Association was established in 1939 in the USA, which is one of the oldest institutions of modern archery.
+**USAAA** — United States of America Archery Association, the national governing body for archery in the US, formed in 1879. Today it's known as USA Archery, headquartered in Colorado Springs, Colorado.
 
-The Torque Flight Compensator is a modern device to stabilize the movement of an arrow when it's drawn.
-
-The United States of America Archery Association is the USA's national archery regulating institution which formed in 1879.
-
-Today we know it as the USA Archery, the headquarters of USAAA is in Colorado Springs, Colorado.
-
-WA stands for the World Archery which is an Olympic approved committee or governing body for the archery related issue.
+**WA** — World Archery, the Olympic-approved international governing body for the sport of archery.

@@ -78,8 +78,7 @@ The following papers are a collection of articles written by doctors, coaches, a
 ## 1. [The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Archers by Surreya Yonca Sezer](https://files.eric.ed.gov/fulltext/EJ1139035.pdf)
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Arche</span>
+  <span class="stat-text">A 12-week study of 30 male archers showed that grip strength training with exercises like pull-ups directly boosted accuracy.</span>
 </div>
 
 Surreya Yonca Sezer wrote the paper entitled "The Impact of Hand Grip Strength on the Target Shooting Accuracy Score for Archers.
@@ -105,8 +104,7 @@ The conclusion was that the [Biomotor strength test measurements](https://www.pt
 ## 2. [Strength Training those "Archery Muscles" by Annette M. Musta](https://d36m266ykvepgv.cloudfront.net/uploads/media/NzxiDCPKRq/o/strengthtrainingandexercise.pdf)
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Strength Training those "Archery Muscles" by Annette M. Musta</span>
+  <span class="stat-text">The key archery muscles are the deltoids, latissimus dorsi, trapezius, and rhomboids, all working together during the draw.</span>
 </div>
 
 Annette M. Musta wrote a series of articles in this compilation, but the focus will be on Strength Training those "Archery Muscles."
@@ -134,8 +132,7 @@ Strengthening all these muscles won't only improve your shot but increase your e
 ## 3. [Specific Physical Training Handbook by Kisik Lee](http://www.kslinternationalarchery.com/Training/SPTs/SPTtrainingHandbook.pdf)
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Specific Physical Training Handbook by Kisik Lee</span>
+  <span class="stat-text">KiSik Lee's handbook uses strap and stretch band drills held for 15 to 30 seconds to build proper back muscle tension.</span>
 </div>
 
 Kisik Lee wrote the Specific Physical Training Handbook that's part of his series on SPT Tools for Archers.
@@ -161,8 +158,7 @@ Alignment is checked by looking at the elbow that should be in line with the arr
 ## 4. [Archery Exercises You should Do by Tyler Ridenour](https://archery360.com/2018/10/11/4-archery-exercises-you-should-do/)
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Archery Exercises You should Do by Tyler Ridenour</span>
+  <span class="stat-text">Tyler Ridenour recommends dumbbell rows, lateral raises, side planks, and yoga to target the back, shoulders, and core.</span>
 </div>
 
 Tyler Ridenour wrote the 4 Archery Exercises you should do for improving your archery skills and training.
@@ -190,8 +186,7 @@ Muscle conditions build strength without increasing the mass, so there's no need
 ## 5. [Weight Training Program for Archery by D.K. Lieu](https://archery.berkeley.edu/wp-content/uploads/docs/strength-training.pdf)
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Weight Training Program for Archery by D.K. Lieu</span>
+  <span class="stat-text">This Berkeley program includes 9 exercises done 3 times per week, increasing by 5 pounds weekly to build endurance.</span>
 </div>
 
 D.K. Lieu wrote the paper on Weight Training Program for Archery.
@@ -219,8 +214,7 @@ Maintaining good form must always be observed, and correct breathing determined 
 ## 6. Biomechanically Efficient Shooting Technique (BEST) Beginnings in Archery by Don Rabska
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Biomechanically Efficient Shooting Technique (BEST) Beginnings in Archery by Don</span>
+  <span class="stat-text">The BEST method teaches you to shoot without arrows first, progressing from stretch bands to an elastic cord before using a bow.</span>
 </div>
 
 Don Rabska wrote Beginnings in Archery in his Biomechanically Efficient Shooting Technique, also known as the BEST collection of articles.
@@ -248,8 +242,7 @@ The program will teach the new archer to be familiar with the solid fundamentals
 ## 7. [Shooting dynamics in archery: A multidimensional analysis from drawing to releasing in male archers by Cevdet Tinazci](https://www.researchgate.net/publication/251716841_Shooting_dynamics_in_archery_A_multidimensional_analysis_from_drawing_to_releasing_in_male_archers)
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Shooting dynamics in archery: A multidimensional analysis from drawing to releas</span>
+  <span class="stat-text">This study found that as muscle activity decreases at the moment of release, overall archery performance actually increases.</span>
 </div>
 
 Shooting dynamics in archery: A multidimensional analysis from drawing to releasing in male archers was written by Cevdet Tinazci.
@@ -275,8 +268,7 @@ Archers develop a specific muscular strategy, aiming behavior, and postural sway
 ## 8. [Archery Skills, Tactics, Techniques by Deborah Charles](http://dziki.2box.pl/archery/e-books/archery-skills-tactics-techniques.pdf)
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Archery Skills, Tactics, Techniques by Deborah Charles</span>
+  <span class="stat-text">The Korean method teaches that the release should be a reaction rather than a deliberate action, improving your follow-through.</span>
 </div>
 
 Deborah Charles wrote Archery Skills, Tactics, Techniques for the Crowood Sports Guides.
@@ -304,8 +296,7 @@ It discusses making technical adjustments as well as basic shooting techniques f
 ## 9. [Archery Steps to Success by Kathleen M. Haywood Ph.D. and Catherine F. Lewis MEd](http://psulibrary.palawan.edu.ph/wtbooks/resources/pdf/902670.pdf)
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Archery Steps to Success by Kathleen M. Haywood Ph.D. and Catherine F. Lewis MEd</span>
+  <span class="stat-text">This book teaches the T-form alignment where your arms and trunk form a perfect T-shape that you repeat with every shot.</span>
 </div>
 
 The book Archery Steps to Success was written by Kathleen M.
@@ -335,8 +326,7 @@ setting up the exact position on subsequent shots is the goal.
 ## 10. [The role of vision and visual skill in Archery by B Strydom and JT Ferreira](https://www.researchgate.net/publication/238709646_The_role_of_vision_and_visual_skills_in_archery)
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">The role of vision and visual skill in Archery by B Strydom and JT Ferreira</span>
+  <span class="stat-text">Researchers tested 28 archers aged 12 to 58 across 5 visual skill levels including acuity, contrast, and depth perception.</span>
 </div>
 
 Strydom and JR Ferreira wrote The Role of vision and visual skill in Archery written for the Department of Optometry, University of Johannesburg.

@@ -49,9 +49,21 @@ finalThoughts: "Your stance and posture form the foundation of every shot you ta
 ---
 
 <div class="how-to-meta">
-  <div><strong>Time:</strong> 30-60 minutes</div>
-  <div><strong>Difficulty:</strong> Beginner to Intermediate</div>
-  <div><strong>Tools:</strong> Standard archery equipment</div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#9200;</div>
+    <div class="how-to-meta-label">Time</div>
+    <div class="how-to-meta-value">30-60 minutes</div>
+  </div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#127919;</div>
+    <div class="how-to-meta-label">Difficulty</div>
+    <div class="how-to-meta-value">Beginner to Intermediate</div>
+  </div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#128736;</div>
+    <div class="how-to-meta-label">Tools</div>
+    <div class="how-to-meta-value">Standard archery equipment</div>
+  </div>
 </div>
 
 If you think archery is a simple matter of firing arrows from a bow- that's it, well, think again. To succeed in archery or be a better archer, you need to learn how to carry bows, your archery positioning, etc.

@@ -80,8 +80,7 @@ They're some of the toughest athletes of the sport.
 ## 1. Kim Soo Nyung - South Korea
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Kim Soo Nyung - South Korea</span>
+  <span class="stat-text">Kim Soo Nyung earned 6 Olympic medals across three Games and was named Female Archer of the 20th Century by FITA.</span>
 </div>
 
 Kim Soo Nyung is a South Korean and hailed as one of the best archers of all time.
@@ -109,8 +108,7 @@ The International Archery Federation (FITA) was named Kim, a Female Archer of th
 ## 2. Darrel Pace - USA
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Darrel Pace - USA</span>
+  <span class="stat-text">Darrel Pace is the only person in history to win multiple individual gold medals in the Olympic archery men's division.</span>
 </div>
 
 Darrel Pace is an American and the only person to win multiple gold medals in the Archery Individual Men's division of the Olympic games.
@@ -127,7 +125,7 @@ The next year, using an all-aluminum shaft, he shot 1316 points and won his firs
 
 But in the 1980 Moscow Olympics, when the US boycotted the Olympics, Pace was thinking of retiring but was ready to compete in the 1984 Los Angeles Olympics.
 
-That w[as the](https://archery360.com/2015/05/21/8-reasons-to-love-archerys-ki-bo-bae/) highest point of Pace's career, where he finished with 2616 points, a new Olympic record.
+That was [the highest point of Pace's career at the 1984 Los Angeles Olympics](https://archery360.com/2015/05/21/8-reasons-to-love-archerys-ki-bo-bae/), where he finished with 2616 points, a new Olympic record.
 
 In the 1988 Seoul Olympics, the half FITA rounds used for eliminations took Pace out of the race and, that was the last of his appearance.
 
@@ -142,8 +140,7 @@ Pace has a signature stance using a 54 lbs. heavy bow using technical improvemen
 ## 3. Im Dong Hyun- Korea
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Im Dong Hyun- Korea</span>
+  <span class="stat-text">Im Dong Hyun is legally blind with 20/200 vision in his left eye, yet he set world records by reading target colors alone.</span>
 </div>
 
 Im Dong Hyun is a South Korean raging superstar in his country because of the medals he has brought home despite his physical handicap.
@@ -175,8 +172,7 @@ For a sport that requires a sharpened focus and eyesight, Hyun has proven that h
 ## 4. Yun Mi-Jin - South Korea
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Yun Mi-Jin - South Korea</span>
+  <span class="stat-text">Known as the "Queen with four crowns," Yun Mi-Jin won 3 Olympic gold medals and set a world record at just 17 years old.</span>
 </div>
 
 Yun Mi-Jin is a South Korean world-class archer and one of the most successful Olympic athletes.
@@ -206,8 +202,7 @@ She wanted to be the first individual gold medallist to defend the Olympic crown
 ## 5. Ki Bo Bae -  South Korea
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Ki Bo Bae -  South Korea</span>
+  <span class="stat-text">Ki Bo Bae earned 5 gold medals in just 4 years and dreamed of becoming the first woman to win back-to-back individual golds.</span>
 </div>
 
 Ki Bo Bae is a South Korean archer and referred to by the media as the Beautiful Archer being compared to a K-Pop singer's beauty.
@@ -237,8 +232,7 @@ Bae has bigger dreams that include teaching Archery to the students of Gwangju U
 ## 6. Michele Frangelli - Italy
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Michele Frangelli - Italy</span>
+  <span class="stat-text">Michele Frangelli is the only archer to win world championships in all three disciplines: indoor, outdoor, and field archery.</span>
 </div>
 
 Michele Frangelli is an Italian archer who wrote "The Heretic Archer" as an Archery manual for developing your training habits and styles that work for you.
@@ -272,8 +266,7 @@ Medals Earned in Competition
 ## 7. Park Kyung-Mo - South Korea
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Park Kyung-Mo - South Korea</span>
+  <span class="stat-text">Park Kyung-Mo had a 15-year international career, winning his first gold medal at just 18 in the 1993 World Championship.</span>
 </div>
 
 Park Kyung-Mo is a South Korean archer with a 15-year international career.
@@ -303,8 +296,7 @@ Retiring after the Beijing Olympics, he coaches the Professional Team of Gongju 
 ## 8. Lee Sung Jin - South Korea
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Lee Sung Jin - South Korea</span>
+  <span class="stat-text">Lee Sung Jin and her teammates broke the combined team score world record with 2,030 points from 216 arrows.</span>
 </div>
 
 Lee Sung Jin is a South Korean archer who started her archery career at 19 years old.
@@ -334,8 +326,7 @@ Along with the gold medal for the Team win, Jin won silver for the Individual Ar
 ## 9. Howard Hill- USA
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Howard Hill- USA</span>
+  <span class="stat-text">Howard Hill won 196 consecutive field competitions over two decades and was regularly introduced as the World's Greatest Archer.</span>
 </div>
 
 Howard Hill was one of the earliest known expert bowmen in the United States for over two decades from 1930- 1950.
@@ -367,8 +358,7 @@ He was the first white man to use a 41-inch long arrow and pulling a 115-pound b
 ## 10. Horace A. Ford - UK
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Horace A. Ford - UK</span>
+  <span class="stat-text">Horace Ford won 11 consecutive championships and held archery's high mark record of 1,271 points for over 70 years.</span>
 </div>
 
 Horace A. Ford had only four years to pick up the bow in 1845 and won the Grand National Meeting in the United Kingdom.

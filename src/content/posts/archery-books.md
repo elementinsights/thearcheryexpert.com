@@ -74,8 +74,7 @@ they will guide you on how to execute your shots and accurately aim at your targ
 ## 1. Archery For Beginners By Amante P. Marinas, Sr.
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Archery For Beginners By Amante P. Marinas, Sr.</span>
+  <span class="stat-text">This beginner-friendly guide covers compound bows, recurve bows, bow-making basics, and fun archery games for new shooters.</span>
 </div>
 
 This book is very suitable for beginners who have passion and interest in archery and would love to indulge in the game for the first time.
@@ -133,8 +132,7 @@ You can be your coach until you've learned all the basics, then later if need be
 ## 2. Zen In The Art Of Archery By Eugen Herrigel
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Zen In The Art Of Archery By Eugen Herrigel</span>
+  <span class="stat-text">At just 64 pages, this pocket-sized book distills the mental and spiritual connection between Zen and Japanese Kyudo archery.</span>
 </div>
 
 This is one of the best classic works on Eastern philosophy archery books written by Eugen Herrigel.
@@ -170,8 +168,7 @@ Do it from the mind and it will get into you and this book gives you a detailed 
 ## 3. Archery By USA Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Archery By USA Archery</span>
+  <span class="stat-text">This official USA Archery guide teaches the same skills and techniques used at the U.S. Olympic Training Center.</span>
 </div>
 
 This book is suitable for any archer who would wish to improve on his archery skills such as accuracy, consistency, and achieving competitive success.
@@ -199,8 +196,7 @@ In addition to the above, the content of this book is suitable for both the arch
 ## 4. The Art Of Throwing By Amante P. Marinas, Sr.
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">The Art Of Throwing By Amante P. Marinas, Sr.</span>
+  <span class="stat-text">This guide comes with an instructional DVD that walks you through the grip, mechanics, and trajectory of throwing weapons.</span>
 </div>
 
 This book is very suitable for beginners who would like to know more about archery and to have a clear mastery of how to throw weapons.
@@ -236,8 +232,7 @@ It's a must-read book for any archer who wants to improve on the knowledge and s
 ## 5. The Witchery Of Archery By Maurice Thompson
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">The Witchery Of Archery By Maurice Thompson</span>
+  <span class="stat-text">Written by Maurice Thompson, the first president of the National Archery Association, this book blends hunting stories with technique.</span>
 </div>
 
 If you're an archer who loves outdoor sports and you want to improve on your arching experience, then this book is a treasure for you.
@@ -267,8 +262,7 @@ Other interesting parts of the book which will make you glued to the book includ
 ## 6. Beginner's Guide To Traditional Archery By Brian J. Sorrells
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Beginner's Guide To Traditional Archery By Brian J. Sorrells</span>
+  <span class="stat-text">This traditional archery starter covers bow selection, shooting accessories, and uses 3D images to show proper body positions.</span>
 </div>
 
 This book is suitable for beginners who want to know more about traditional archery.
@@ -290,8 +284,7 @@ This book covers everything you need for intensive [archery training](/archery-t
 ## 7. Hunting With The Bow And Arrow By Saxton Pope
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Hunting With The Bow And Arrow By Saxton Pope</span>
+  <span class="stat-text">Saxton Pope's photo-filled classic details bow-and-arrow hunts for bear, deer, mountain lion, fox, wildcat, and raccoon.</span>
 </div>
 
 This book is very suitable for anyone who wants an in-depth understanding of archery.
@@ -317,8 +310,7 @@ If you're interested in learning about the hunting of specific animals such as b
 ## 8. Traditional Bowyer's Handbook By Clay C Hayes
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Traditional Bowyer's Handbook By Clay C Hayes</span>
+  <span class="stat-text">Clay Hayes walks you through natural bow building with step-by-step diagrams from wood selection to the finished shot.</span>
 </div>
 
 This book is very suitable for anyone who has an immense interest, particularly in bow and arrow.
@@ -348,8 +340,7 @@ In addition to the above, you get to have a clear picture of the different types
 ## 9. Archery Drill Book By Steve Ruis And Mike Gerard
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Archery Drill Book By Steve Ruis And Mike Gerard</span>
+  <span class="stat-text">Two experienced coaches pack this book with physical, skill-building, and mental drills designed for accuracy under pressure.</span>
 </div>
 
 This book is suitable for an archer who wants to advance his knowledge in archery and improve on the skill, mindset, and focus, all of which are needed to effectively shoot under pressure or during a competition.
@@ -375,8 +366,7 @@ Indeed, this book is a must-read for all level archers.
 ## 10. Total Archery – Inside The Archer By KiSik Lee And Tyler Benner
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Total Archery  -  Inside The Archer By KiSik Lee And Tyler Benner</span>
+  <span class="stat-text">Korean coach KiSik Lee and American archer Tyler Benner break down the NTS shooting process with photos and exercises.</span>
 </div>
 
 This book is more suitable for shooters and anyone who wants to know more about shooting experience.

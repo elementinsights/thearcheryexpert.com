@@ -76,8 +76,7 @@ Read on for our list of the 10 best archery party ideas for any occasion.
 ## 1. Dresses Embroidered With Bow And Arrow Designs
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Dresses Embroidered With Bow And Arrow Designs</span>
+  <span class="stat-text">Having everyone wear bow-and-arrow embroidered outfits creates a sense of unity and sparks curiosity about the sport.</span>
 </div>
 
 What if everyone wears a dress in which bow and arrow design is embroidered to make the party look impressive?
@@ -109,8 +108,7 @@ An idea can only become fantastic if something new is added to it, which is diff
 ## 2. Bow And Arrow-Style Cutlery
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Bow And Arrow-Style Cutlery</span>
+  <span class="stat-text">Arrow-shaped forks and bow-styled knives are a novelty your guests won't expect, and they'll keep the theme consistent.</span>
 </div>
 
 The use of the bow and arrow style cutlery will grab people's attention because nobody thought of the idea.
@@ -140,8 +138,7 @@ Bow and arrow style cutlery ideas are some of the most amazing ideas because of 
 ## 3. Archery Competition at The End of the Party
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Archery Competition at The End of the Party</span>
+  <span class="stat-text">A 40-minute archery competition at the party's end burns calories, builds arm strength, and teaches guests about the sport.</span>
 </div>
 
 As you know, archery is considered a productive and constructive game.
@@ -173,8 +170,7 @@ Everyone attending the party will participate in the archery competition and giv
 ## 4. Wallpaper Featuring Famed Archers
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Wallpaper Featuring Famed Archers</span>
+  <span class="stat-text">Wallpaper featuring famous archers teaches guests that archery dates all the way back to 20,000 BC in India and Arabia.</span>
 </div>
 
 If you use images of legends of archery as wallpaper, then people who have no idea about the history of archery will gain some knowledge.
@@ -206,8 +202,7 @@ To create a healthy society, we must participate in healthy games, and archery i
 ## 5. Archery Quiz Game
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Archery Quiz Game</span>
+  <span class="stat-text">Split your guests into two teams and award 2 points per correct answer on archery history, players, and technique.</span>
 </div>
 
 We all are party lovers, and we know very well that different games are played, such as Charades Back-Up, Blindman's Swag, Bite the Bag, etc.
@@ -239,8 +234,7 @@ That's why the archery quiz plays a major role in increasing the fun level of th
 ## 6. Beverage Bottles Designed To Resemble Targets
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Beverage Bottles Designed To Resemble Targets</span>
+  <span class="stat-text">Wrapping beverage bottles with bullseye labels and serving drinks in arrow-shaped glasses keeps the archery theme consistent.</span>
 </div>
 
 As we've discussed earlier, food is an essential part of the party, that's why its quality should be good and perfect.
@@ -278,8 +272,7 @@ You can find more ideas about archery themed parties on the internet.
 ## 7. Bow-Shaped Candles
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Bow-Shaped Candles</span>
+  <span class="stat-text">Bow-shaped candles turn any evening archery party into a soothing candlelight experience that blends theme with atmosphere.</span>
 </div>
 
 If it's a night party then it should be a candle night party as we've heard about candle night dinners and also watched candle night dinners in different romantic movies but what if we use this concept in archery themed parties?
@@ -307,8 +300,7 @@ Because of this new concept party could become more attractive and charming.
 ## 8. Stylish Archer Hats
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Stylish Archer Hats</span>
+  <span class="stat-text">Making Robin Hood hats mandatory gives every guest a royal, classic look and automatically sparks interest in archery.</span>
 </div>
 
 Everyone has heard different stories about superheroes in his childhood by his or her mother or from father.
@@ -338,8 +330,7 @@ When a person wears a Robin Hood hat he automatically wants to do archery, wants
 ## 9. Arrow and Bow-Shaped Cupcakes
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Arrow and Bow-Shaped Cupcakes</span>
+  <span class="stat-text">Arrow and bow-shaped cupcakes are both delicious and perfectly on-theme, making them a creative centerpiece for the table.</span>
 </div>
 
 Another important idea that can increase the productivity and creativity of archery themes is the use of Arrow and bow-shaped cupcakes.
@@ -363,8 +354,7 @@ Dart is also a subdivided field of archery. This idea will soon gain popularity 
 ## 10. Carpets on Which Archery Is Written
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Carpets on Which Archery Is Written</span>
+  <span class="stat-text">Carpets embroidered with the word "archery" in red, yellow, and brown serve as floor-level branding that grabs attention.</span>
 </div>
 
 After reading the heading you can easily know what idea I'm talking about and yes, you're right I'm talking about the use of carpets on which the word archery is written with a good color scheme.

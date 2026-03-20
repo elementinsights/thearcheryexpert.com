@@ -263,7 +263,7 @@ There are many sizes and styles of targets offered by the archery target industr
 
 3D animal archery targets are some of the best fun-to-shoot targets.
 
-Big game hunters mainly use them, but one can also choose a small-sized animal archery target for backyard practice. If you prefer flat targets, take a look at our picks for the [best archery bag targets](/archery-bag-targets/) or learn how to [make your own DIY foam targets](/diy-foam-archery-targets/).
+Big game hunters mainly use them, but one can also choose a small-sized animal archery target for backyard practice.
 
 There are other 3D animal archery targets such as zombies, dinosaurs, and even aliens.
 
@@ -427,9 +427,9 @@ It has been authorized for use with both field points and fixed blade broadheads
 
 The base of this animal target offers stability which makes it possible for you to take multiple shots without having to reset it.
 
-Strutter turkey is suitable for economic competition and backyard practice.
+Strutter turkey is suitable for economic competition and backyard practice. If you prefer flat targets, take a look at our picks for the [best archery bag targets](/archery-bag-targets/).
 
-Turkey bow hunters now have a life-like practice scenario thanks to Delta McKenzie's strutter turkey.
+Turkey bow hunters now have a life-like practice scenario thanks to Delta McKenzie's strutter turkey. You can also learn how to [make your own DIY foam targets](/diy-foam-archery-targets/) as an alternative.
 
 This animal target has no replaceable core, but the firm, flexible foam, serves you for long withstanding multiple shots.
 

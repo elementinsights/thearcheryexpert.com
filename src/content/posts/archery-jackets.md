@@ -263,7 +263,7 @@ Some jackets can't keep you warm and dry which can feel a lot more critical at t
 
 There are a lot of exceptional varieties of archery jackets out there made from excellent materials and in distinct colors.
 
-This guide will help you find the high-quality archery jacket from the pile of jackets out there. For a complete gear setup, also browse our reviews of [archery clothing](/archery-clothing/) and [archery apparel](/archery-apparel/).
+This guide will help you find the high-quality archery jacket from the pile of jackets out there.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -417,7 +417,7 @@ The first jacket I've on this listing is the legendary whitetail jacket.
 
 It's a revolutionary camo jacket that spots heavy game camo accents and a signature buck logo.
 
-It's a jacket optimized for whitetail hunting.
+It's a jacket optimized for whitetail hunting. For a complete gear setup, also browse our reviews of [archery clothing](/archery-clothing/) and [archery apparel](/archery-apparel/).
 
 The high-quality materials and patterns are used to get the exceptional results a hunter can wish for.
 

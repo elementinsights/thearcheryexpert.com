@@ -241,7 +241,7 @@ Light archery hip quivers usually fit around the belt via buckle or several stra
 
 They're easily adjustable for both left-handed and right-handed archers.
 
-Hip quiver is popular among archers due to the easy holding and easy way to carry arrows. If you'd prefer a shoulder-mounted option, check out our roundup of the [best back arrow quivers](/arrow-quivers-back/) instead.
+Hip quiver is popular among archers due to the easy holding and easy way to carry arrows.
 
 The zipped pockets of the hip quiver also enable archers to keep additional stuff with them in easy reach.
 
@@ -392,7 +392,7 @@ The Easton Flipside 2-Tube hip quiver is lightweight, durable, and easy to use.
 
 The ambidextrous Easton quiver designed with high-denier poly material that's suitable for left or right-handed archers.
 
-The Easton Flipside 2-Tube hip quiver comes with a belt clip and molded arrow tubes that are compact, reliable and make it suitable for new archers.
+The Easton Flipside 2-Tube hip quiver comes with a belt clip and molded arrow tubes that are compact, reliable and make it suitable for new archers. If you'd prefer a shoulder-mounted option, check out our roundup of the [best back arrow quivers](/arrow-quivers-back/) instead.
 
 The dimensions of hip quiver are 7 x 7 x 7 inches weighting to 12 ounces.
 

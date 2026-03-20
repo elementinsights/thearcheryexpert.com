@@ -76,8 +76,7 @@ So, polish your skills more, secure the necessary documents, and shoot your way 
 ## 1. Easton-NFAA Scholarship Program
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Easton-NFAA Scholarship Program</span>
+  <span class="stat-text">The Easton-NFAA program awards up to $20,000 and lets you attend any accredited college, university, or trade school you choose.</span>
 </div>
 
 This deserves the top spot because it's specific to the sport you love, archery.
@@ -139,8 +138,7 @@ The scholarship has various levels with different rewards based on how hard you 
 ## 2. Foot Locker Scholar Athletes Program
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Foot Locker Scholar Athletes Program</span>
+  <span class="stat-text">Foot Locker awards $20,000 to 20 multi-sport student athletes each year, with 180 total recipients since the program began in 2011.</span>
 </div>
 
 Yearly, Foot Locker is giving $20,000 scholarship funds to 20 incoming college freshmen pursuing a 4-year college degree.
@@ -214,8 +212,7 @@ Visit [the scholarship website](https://footlockerscholarathletes.squarespace.co
 ## 3. [Texas A&M Archery](https://tamuarchery.com/scholarship-info) Scholarships
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Texas A&M Archery Scholarships</span>
+  <span class="stat-text">Texas A&M offers 5 archery scholarship programs paying up to $2,000 per semester, and each one is renewable on a yearly basis.</span>
 </div>
 
 Texas A&M Archery has five scholarship programs you can apply to.
@@ -275,8 +272,7 @@ The committee will remove you automatically upon requirement deviation and give 
 ## 4. University of Illinois - Avery Brundage Scholarship
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">University of Illinois - Avery Brundage Scholarship</span>
+  <span class="stat-text">The Avery Brundage Scholarship offers a $2,500 grant and evaluates both athletic competency and financial need equally.</span>
 </div>
 
 You can receive a $2,500 grant.
@@ -312,8 +308,7 @@ Go to the university website for more information.
 ## 5. [Texas Field Archery Association](https://texasfieldarchery.org/SCHOLARSHIP) (TFAA) Youth Scholarship
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Texas Field Archery Association (TFAA) Youth Scholarship</span>
+  <span class="stat-text">TFAA offers $5,000 to high school seniors who've been active members for at least 2 consecutive years and hold a 3.0 GPA.</span>
 </div>
 
 TFAA offers an attractive scholarship of $5,000 for high school seniors who are members for at least 2 consecutive years.
@@ -351,8 +346,7 @@ In case both organizations accept you, get both if they will allow or select one
 ## 6. Prince William Sound College (PWSC)- Archery Sportsmanship Scholarship
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Prince William Sound College (PWSC)- Archery Sportsmanship Scholarship</span>
+  <span class="stat-text">PWSC awards $250 to $1,250 per semester and their system automatically matches you with other available grants you qualify for.</span>
 </div>
 
 [PWSC has scholarships](https://pwsc.alaska.edu/cost-of-attendance/financial-aid/scholarships.cshtml) that range from $250-$1250 per semester.
@@ -392,8 +386,7 @@ For more information like eligibility, application deadlines, and award amounts 
 ## 7. MSAA Scholarship Program
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">MSAA Scholarship Program</span>
+  <span class="stat-text">The Minnesota State Archery Association has offered two $500 scholarships per year since 1971 to promote the sport in schools.</span>
 </div>
 
 Minnesota State Archery Association has two scholarships available each year that have a value of $500 each.
@@ -427,8 +420,7 @@ Include the results as part of the application.
 ## 8. Shootingtime.com Archery Scholarship
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Shootingtime.com Archery Scholarship</span>
+  <span class="stat-text">Shootingtime.com awards a $500 scholarship paid directly to your chosen college or university for tuition, books, and expenses.</span>
 </div>
 
 The Shootingtime [website proudly announced](https://shootingtime.com/archery/archery-scholarship/) its annual archery scholarship offering students taking part in archery while taking up college.
@@ -464,8 +456,7 @@ Bear in mind that you must compete in archery during the entire academic year if
 ## 9. ITAWAMBA COMMUNITY COLLEGE Scholarship
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">ITAWAMBA COMMUNITY COLLEGE Scholarship</span>
+  <span class="stat-text">Itawamba Community College offers $800 in archery scholarships split at $200 per semester after passing an audition and interview.</span>
 </div>
 
 Itawamba Community College of Mississippi offers Competition Scholarships.

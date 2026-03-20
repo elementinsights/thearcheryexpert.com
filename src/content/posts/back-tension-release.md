@@ -290,7 +290,7 @@ Archery is a fun sport, art, or skill to shoot arrows using a bow, and many peop
 
 In the past, bows were released only with fingers, but today we can use different back tension releases to improve accuracy.
 
-The main reasons for using back tension releases are increased accuracy & greater range, reduced fatigue, etc. To make the most of your release, work on your [archery form](/archery-form/) and [anchor point](/anchor-point-archery/) for the most consistent shots possible.
+The main reasons for using back tension releases are increased accuracy & greater range, reduced fatigue, etc.
 
 If you love archery, then using back tension release aids would be the best tool to cure your target panic.
 
@@ -461,7 +461,7 @@ Cons
 
 The Tru-Fire Edge is a 4-finger aluminum hand-held release with a camo finish that's built for compound bow archers. It features a 360-degree head rotation that eliminates torque for cleaner shots.
 
-The CNC-machined aluminum handle feels slim in your hand and works for both left and right-handed shooters. Its adjustable trigger tension lets you dial in the exact amount of pressure you prefer before the release fires.
+The CNC-machined aluminum handle feels slim in your hand and works for both left and right-handed shooters. To make the most of your release, work on your [archery form](/archery-form/) and [anchor point](/anchor-point-archery/) for the most consistent shots possible.
 
 The head is smaller than a dime, which makes it easy to hook onto your D-loop quickly. You won't have trouble getting set up in a hurry when a shot opportunity appears in the field.
 

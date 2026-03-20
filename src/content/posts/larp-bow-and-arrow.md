@@ -199,7 +199,7 @@ It may be best to try LARP indoors while the lockdown restrictions are in place.
 
 Bow and arrows can be used in sporting events, shooting practice, field competition, hunting, and fishing.
 
-They can be homemade or bought depending on a specific activity. If LARP sparks your interest in real archery, check out our [archery for beginners](/archery-for-beginners/) guide and the [best bow and arrow sets for beginners](/bow-and-arrow-set-for-beginners/).
+They can be homemade or bought depending on a specific activity.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -336,7 +336,7 @@ It has a strong nylon riser and fiberglass limbs that don't snap back if handled
 
 This recurve bow is lightweight, ergonomic, simply designed, and CE & ASTM approved.
 
-It's simple to use, has no mounting points. You just shoot direct.
+It's simple to use, has no mounting points. You just shoot direct. If LARP sparks your interest in real archery, check out our [archery for beginners](/archery-for-beginners/) guide and the [best bow and arrow sets for beginners](/bow-and-arrow-set-for-beginners/).
 
 The package includes a user manual, a bow riser, bowstring, bow limb, stringer, and a wrench.
 

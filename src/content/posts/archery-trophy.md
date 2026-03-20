@@ -78,8 +78,7 @@ This article focuses on the most common trophies and awards that you can win fro
 ## 1. Archery Two-Tier championship Trophy with Wood Base
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Archery Two-Tier championship Trophy with Wood Base</span>
+  <span class="stat-text">This championship trophy features a broad wood base that supports the two-tier design and blends with any display surface.</span>
 </div>
 
 When you're always looking to have a pleasant representation of your achievement in the archery world, then this trophy does just that.
@@ -107,8 +106,7 @@ If what you seek is the feeling of real recognition, then this is the trophy for
 ## 2. [Perpetual Series Trophy](https://www.trophycentral.com/qtarchperp.html)
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Perpetual Series Trophy</span>
+  <span class="stat-text">Standing 23 inches tall with a silver plate top, this perpetual trophy has a crafted wood base with space for name engraving.</span>
 </div>
 
 If you're looking for an archery trophy that stands out, then this is the pick for you.
@@ -138,8 +136,7 @@ This provides enough space for you to write your names on it and experience the 
 ## 3. Archery Mini Shield
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Archery Mini Shield</span>
+  <span class="stat-text">Molded from superior-grade resin, this mini shield features a star design with arrows striking it and space for name engraving.</span>
 </div>
 
 If what you're on the search for is a trophy that's not too big but still gives you the best feeling, which is of a champion, this is the trophy for you.
@@ -165,8 +162,7 @@ This trophy's general decoration will be quite a sight for you because it has a 
 ## 4. Star-Studded Archery Shield
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Star-Studded Archery Shield</span>
+  <span class="stat-text">Crafted from bronze and silver resin, this shield features an arrow striking the bull's eye at its center with engraving space.</span>
 </div>
 
 Just as the name suggests, this award is best suited for you like a star.
@@ -198,8 +194,7 @@ The trophy then has more than enough space for you to have your name engraved, a
 ## 5. [Cosmos Archery Award](https://www.premiertrophies.co.uk/cosmos-archery-award.html)
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Cosmos Archery Award</span>
+  <span class="stat-text">Made from high-grade plastic with three arrows striking a striped shield, this award won't break when you lift it for display.</span>
 </div>
 
 If what you're searching for is a trophy to make you feel appreciated for your efforts and stand out, this trophy is best suited for you.
@@ -229,8 +224,7 @@ It has a surface set aside to have your name engraved on the trophy to finish th
 ## 6. Archery Acrylic Trophy Award
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Archery Acrylic Trophy Award</span>
+  <span class="stat-text">This acrylic award lets you engrave up to 3 lines of custom text, making it perfect for multi-event competition winners.</span>
 </div>
 
 Having a customized award to clearly show that it personally belongs to you is more than satisfying.
@@ -254,8 +248,7 @@ If your award space is in an office setting, this archery trophy can help you st
 ## 7. [JOAD Star Pins](http://usarchery.drivemarketing.com/joad/awards.html)
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">JOAD Star Pins</span>
+  <span class="stat-text">Junior archers can earn the coveted "6 Gold" pin by shooting six perfect 10s in a row during competition or practice.</span>
 </div>
 
 The Junior Olympic Archery Development pins are awarded to you for gaining scores.
@@ -289,8 +282,7 @@ You can order the JOAD pins in the link below if you're in a team and want to en
 ## 8. Adult Star Pins
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Adult Star Pins</span>
+  <span class="stat-text">Once you've earned an adult star pin, it's yours permanently and you'll never be asked to re-earn it at a later date.</span>
 </div>
 
 As an adult, you may desire to get the awards and trophies to show your kids your achievements, and maybe you aren't getting them in your workplace or other fields.
@@ -316,8 +308,7 @@ How cool is that?
 ## 9. " Doc" Counsilman Science Award
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">" Doc" Counsilman Science Award</span>
+  <span class="stat-text">The Doc Counsilman award recognizes coaches who effectively integrate scientific knowledge and methods into their training programs.</span>
 </div>
 
 The good thing about awards in archery is that they're all rounded.
@@ -345,8 +336,7 @@ Most of the "Doc" Counsilman award trophies are made of wood, which makes them d
 ## 10. Archery Sculpture Resin Trophy
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Archery Sculpture Resin Trophy</span>
+  <span class="stat-text">This sculpture trophy comes in 3 sizes and is made from cast resin that resists breakage far better than glass alternatives.</span>
 </div>
 
 The amazing reason why this trophy suites you is that it comes in 3 sizes, therefore suitable for you if you want to award players in the same category but with different ranks.

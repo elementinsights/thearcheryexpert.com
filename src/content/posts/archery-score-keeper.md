@@ -253,11 +253,11 @@ products:
 finalThoughts: "Keeping a consistent record of your archery scores is one of the simplest ways to get better at the sport. A good score keeper lets you track your progress, identify areas that need work, and stay motivated as your numbers improve.\n\nPick one that fits how you practice and stick with it for at least a few months to see real patterns in your shooting."
 ---
 
-Remaining focused on a target and improving your skill overall helps your ability to look at things in different ways, and that's why you also need an archery score keeper. If you're new to tracking points, our [archery scoring guide](/archery-scoring/) explains how the system works for both indoor and outdoor formats.
+Remaining focused on a target and improving your skill overall helps your ability to look at things in different ways, and that's why you also need an archery score keeper.
 
 This mental exercise can help you in remaining cool, calm, and focused on daily life pressure situations.
 
-It's a sport that can be played individually and with a team as well. Pair your score keeper with some [archery target pins](/archery-target-pins/) and you'll have a complete setup for tracking every session.
+It's a sport that can be played individually and with a team as well.
 
 Archery improves hand and eye coordination, basically, your hands aim for the target based on the feedback provided by your eyes.
 
@@ -413,9 +413,9 @@ Cons
 
 This product can work as a scorecard or score keeper, notebook, score logbook and you can track your performance if you're a beginner in archery.
 
-This logbook will help you improve your performance day by day by closely tracking the daily scores.
+This logbook will help you improve your performance day by day by closely tracking the daily scores. If you're new to tracking points, our [archery scoring guide](/archery-scoring/) explains how the system works for both indoor and outdoor formats.
 
-This archery notebook is perfect for beginners, athletes, coaches, and for general sports as well.
+This archery notebook is perfect for beginners, athletes, coaches, and for general sports as well. Pair your score keeper with some [archery target pins](/archery-target-pins/) and you'll have a complete setup for tracking every session.
 
 The scorecard includes 6 arrows and 20 ends, it also includes distance round and club.
 

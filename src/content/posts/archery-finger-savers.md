@@ -252,7 +252,7 @@ It's one of the oldest and popular worldwide arts that's still in practice today
 
 It's loved and practiced in many countries and is also an important sport competed by many at the Olympics.
 
-As in any sport, the right gear must be used to play to ensure the player's safety. Along with finger protection, you should also invest in a quality [archery arm guard](/archery-arm-guard/) and [archery gloves](/archery-gloves/) for complete hand and forearm coverage.
+As in any sport, the right gear must be used to play to ensure the player's safety.
 
 When choosing gear for sports the most important aspect one would consider along with safety is comfort and suitability.
 
@@ -409,7 +409,7 @@ Let's start with the best-seller first, the right-handed archery finger tab.
 
 This a high-quality product of hiding & Drink, finely hand-cut and hand-stitched from rustic, durable, Full Grain Leather.
 
-The Full Grain leather is retrieved from the topmost layer of the hide that's the finest leather one could find.
+The Full Grain leather is retrieved from the topmost layer of the hide that's the finest leather one could find. Along with finger protection, you should also invest in a quality [archery arm guard](/archery-arm-guard/) and [archery gloves](/archery-gloves/) for complete hand and forearm coverage.
 
 It's exactly what's used to make the Hide & Drink finger protector.
 

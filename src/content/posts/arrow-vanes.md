@@ -254,7 +254,7 @@ They really should be more talked about, but the term 'bow and arrow' is set in 
 
 Arrow vanes determine the stability and aim of the arrow during its flight.
 
-The better the quality of the vane, the better the stability and aim will be. For bowhunters, pairing quality vanes with the right [2 blade broadheads](/2-blade-broadheads/) can make all the difference in arrow flight and penetration.
+The better the quality of the vane, the better the stability and aim will be.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -410,7 +410,7 @@ They're light, almost as light as a feather vane, and can therefore reduce drag 
 
 If you're looking for a reasonably priced set of vanes, then this one is a good option to go for.
 
-They increase range accuracy and balance and come in a set of 51 vanes.
+They increase range accuracy and balance and come in a set of 51 vanes. For bowhunters, pairing quality vanes with the right [2 blade broadheads](/2-blade-broadheads/) can make all the difference in arrow flight and penetration.
 
 The large number of vanes that come with the package makes it ideal to use for practice.
 

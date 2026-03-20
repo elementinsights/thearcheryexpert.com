@@ -255,7 +255,7 @@ Tees have also been designed to promote various events, concerts, and campaigns.
 
 The world is just full of creative minds, right?
 
-Many of these tee shirts are light in weight, making people opt for them during the summer and springtime. There are also medium weights and heavyweights, good for the winter and autumn seasons. If you're shopping for an archer, pair a great tee with one of the [best archery gifts](/archery-gifts/) for the perfect present.
+Many of these tee shirts are light in weight, making people opt for them during the summer and springtime. There are also medium weights and heavyweights, good for the winter and autumn seasons.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -407,7 +407,7 @@ It's a vintage type of men's T-shirt which comes in a large size.
 
 For those fascinated by the vintage style and vibe, you could consider checking it out.
 
-It's pretty affordable and has a high-class quality.
+It's pretty affordable and has a high-class quality. If you're shopping for an archer, pair a great tee with one of the [best archery gifts](/archery-gifts/) for the perfect present.
 
 It's available in two colors. Dark Heather, Gray and Black.
 

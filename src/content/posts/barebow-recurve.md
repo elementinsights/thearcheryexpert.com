@@ -249,7 +249,7 @@ The recurve barebow has a traditional design, but they're strong enough for the 
 
 A recurve bow is a bow with limbs that curve away from the archer when unstrung so that it stores more energy and an arrow goes straight forward with more power and speed.
 
-There are many recurve bows available in the market, so choosing the best recurve barebow can be difficult for you, especially if you're a beginner, so we've selected the best recurve barebow for your decent results. You might also enjoy our guide to [different types of archery bows](/different-types-of-archery-bows/) and our picks for the [best wooden bows](/wooden-bows/).
+There are many recurve bows available in the market, so choosing the best recurve barebow can be difficult for you, especially if you're a beginner, so we've selected the best recurve barebow for your decent results.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -400,7 +400,7 @@ Cons
 
 The Grizzly Recurve Bow is an excellent choice for both beginners and advanced archers. It's great for target practice as well as hunting.
 
-The bow is generally built for high-performance works, and it has the great accuracy and durability that most archers want.
+The bow is generally built for high-performance works, and it has the great accuracy and durability that most archers want. You might also enjoy our guide to [different types of archery bows](/different-types-of-archery-bows/) and our picks for the [best wooden bows](/wooden-bows/).
 
 Every Bear Archery bow is made for powerful hunting shots. Also, it can be used for practice purposes.
 

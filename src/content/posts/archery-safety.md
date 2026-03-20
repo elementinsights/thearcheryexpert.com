@@ -78,8 +78,7 @@ Here are the 10 most important archery safety tips before you shoot.
 ## 1. Check Your Equipment
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Check Your Equipment</span>
+  <span class="stat-text">A slightly cracked arrow can shatter into dangerous splinters the moment you release it, so always inspect before shooting.</span>
 </div>
 
 No.1 risk to safety is the equipment itself. It can be the main culprit to faulty performance or even unwanted emergencies, which can be prevented if you inspect the bow and arrow before using it.
@@ -119,8 +118,7 @@ This is vital to the level of physical strength you've as a variety of bows and 
 ## 2. Dry Run Test Of Skills
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Dry Run Test Of Skills</span>
+  <span class="stat-text">You'll encounter bowstring slaps and finger calluses as you build your form, and that's a normal part of the learning process.</span>
 </div>
 
 Never dare proceed to an archery battle without sufficient back-up practicing history.
@@ -140,8 +138,7 @@ Avoid having a first not-so-good encounter in a professional duel by equipping y
 ## 3. Maintain the right posture
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Maintain the right posture</span>
+  <span class="stat-text">Poor posture while shooting can cause muscle strains, string slaps, back pain, and leg cramps that worsen over time.</span>
 </div>
 
 Good posture is vital for health, especially for all those people who have a very active lifestyle, like athletes who spent a myriad of times doing warm-up exercises and routines in their try-outs.
@@ -171,8 +168,7 @@ Practice makes sense, after all, and we shouldn't rush the process of learning a
 ## 4. Secure the area
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Secure the area</span>
+  <span class="stat-text">You need a solid backstop behind your targets, clear sight lines with no obstructions, and you shouldn't practice in windy weather.</span>
 </div>
 
 One of the basics you need to be fully aware of in taking your first archery session is the location.
@@ -228,8 +224,7 @@ These are some queries you can ask yourself to help you clear up all the impedim
 ## 5. Identifying Proper Shooting Techniques
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Identifying Proper Shooting Techniques</span>
+  <span class="stat-text">Never draw a bowstring without an arrow nocked, as dry firing can damage your bow and cause serious injury to you.</span>
 </div>
 
 Why is it important to be a keen sporty individual when it comes to educating oneself on the appropriate skills associated with the craft of archery?
@@ -253,8 +248,7 @@ The proper stance and techniques/procedures should be fully embodied to unleash 
 ## 6. Learning the Basics
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Learning the Basics</span>
+  <span class="stat-text">Before picking up a bow, learn the different bow types, basic shooting steps, and proper range etiquette to stay safe.</span>
 </div>
 
 While reading the three words above, many questions must have been intriguing your mind right at this moment.
@@ -312,8 +306,7 @@ Precisely, you don't need to wear anything flashy but a pair of comfortable loos
 ## 7. Consult a Professional
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Consult a Professional</span>
+  <span class="stat-text">Talk to a professional archer or find a local club or online training school to get expert guidance before shooting solo.</span>
 </div>
 
 Talk to a professional archer/adviser or you can search online about any local or nearby institution or organization that specializes in everything you need to know about archery.
@@ -327,8 +320,7 @@ If you can't find the above-mentioned, you can inquire in the online frontline d
 ## 8. Wear Safety Gears
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Wear Safety Gears</span>
+  <span class="stat-text">An arm guard and finger tab are non-negotiable protective gear that you should wear during every single archery session.</span>
 </div>
 
 Never ever shoot without body protective gear. As we've discussed earlier, you're no exception to accidents.
@@ -338,8 +330,7 @@ A bow and arrow can also become partners in crime without following safety preca
 ## 9. Physically condition your body
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Physically condition your body</span>
+  <span class="stat-text">Warming up before every session prevents fatigue-related injuries that can compromise your performance and put your health at risk.</span>
 </div>
 
 The concept of fitness is still evolving like the fast-paced digital world we live in today.
@@ -359,8 +350,7 @@ You can do warm-up exercises as a form of body conditioning to achieve wellness 
 ## 10. Take first aid essentials with you
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Take first aid essentials with you</span>
+  <span class="stat-text">Always bring a first aid kit to treat minor cuts and injuries quickly before they have a chance to become something serious.</span>
 </div>
 
 You don't need to be an expert to obtain a first aid kit and other necessary medical tools to take part and attend sport event emergencies.

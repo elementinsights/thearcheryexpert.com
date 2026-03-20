@@ -265,7 +265,7 @@ If one isn't familiar with scopes and lenses, then he should know that scopes ar
 
 When we talk about archery, then these scopes are used usually in distant aiming so that a clear shot can be made.
 
-These accessories are very beneficial for archers so do read these reviews on archery scopes and lenses to make this sport exciting. You may also want to pair your scope with a [bow rangefinder](/bow-rangefinders/) for precise distance readings, and check out the [best 7 pin bow sights](/7-pin-bow-sight/) for a multi-pin setup.
+These accessories are very beneficial for archers so do read these reviews on archery scopes and lenses to make this sport exciting.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -419,7 +419,7 @@ Trophy Ridge is one of the leading brands in making archery accessories.
 
 In 2001, Bear Archery declared the acquisition of the assets of Trophy Ridge so now it's owned by the former one.
 
-The material used by the manufacturer is Aluminum which gives several advantages to the bowmen.
+The material used by the manufacturer is Aluminum which gives several advantages to the bowmen. You may also want to pair your scope with a [bow rangefinder](/bow-rangefinders/) for precise distance readings, and check out the [best 7 pin bow sights](/7-pin-bow-sight/) for a multi-pin setup.
 
 First of all, Aluminum makes this bow sight lightweight and economical.
 

@@ -259,7 +259,7 @@ Passionate people of all ages are joining the ranks of archers every single day.
 
 Over the centuries, archery equipment has gone through a lot of changes.
 
-Target pins that are used to pin paper or foam targets have undergone great changes as well. If you're still choosing your target, take a look at our reviews of [archery bag targets](/archery-bag-targets/) and [coiled straw targets](/coiled-straw-archery-target/) to find the right match for your setup.
+Target pins that are used to pin paper or foam targets have undergone great changes as well.
 
 The target pins are now more advanced, well designed, and made up of a strong combination of materials that make them more durable and long-lasting.
 
@@ -413,7 +413,7 @@ Cons
 
 It's a must to start with one of the sharpest and light weighed target pins we've in our bucket from SAS (Southland Archery Supply).
 
-The SAS target pins are a budget-friendly product meant for economic archery practice.
+The SAS target pins are a budget-friendly product meant for economic archery practice. If you're still choosing your target, take a look at our reviews of [archery bag targets](/archery-bag-targets/) and [coiled straw targets](/coiled-straw-archery-target/) to find the right match for your setup.
 
 The SAS target pins are 2 inches long, providing a firm hold to the targets, so you need not worry about windy weather or shooting indoors or outdoors.
 

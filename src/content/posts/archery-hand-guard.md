@@ -265,7 +265,7 @@ Simply because people have varying skill levels ranging from an archer who can, 
 
 Protective gear was hand-made with the limited materials that were available to people in ancient times.was
 
-Nowadays, thankfully, archery comes with its own set of specialized gear like archery hand guards, [arm guards](/archery-arm-guard/), [finger savers](/archery-finger-savers/), and [chest guards](/archery-chest-guard/), to name a few.
+Nowadays, thankfully, archery comes with its own set of specialized gear like archery hand guards, arm guards, finger savers, and chest guards, to name a few.
 
 They all come in different sizes, textures, and colors which are durable, comfortable, and don't break the bank.
 
@@ -418,7 +418,7 @@ Cons
 
 The TOPARCHERY Archery Hand Guard Protector Shooting Glove is made from black cow split leather and designed for left-hand use. It covers the bow hand to protect against arrow fletching contact, scrapes, and string slap during recurve and traditional shooting.
 
-The cow split leather is sweat resistant and won't crack under repeated stress. The smooth outer surface lets arrows pass cleanly while the soft inner lining keeps your hand comfortable during long practice sessions.
+The cow split leather is sweat resistant and won't crack under repeated stress. The smooth outer surface lets arrows pass cleanly while the soft inner lining keeps your hand comfortable during long practice sessions. For full protection, also check out our recommended [arm guards](/archery-arm-guard/), [finger savers](/archery-finger-savers/), and [chest guards](/archery-chest-guard/).
 
 An adjustable wrist strap lets you dial in the fit for your hand size. The leather will feel slightly stiff out of the box, but it breaks in quickly and conforms to your hand shape after a few sessions.
 

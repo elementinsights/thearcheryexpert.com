@@ -265,7 +265,7 @@ Hunting was originally done as a source of food, livelihood, and leisure activit
 
 Hunting in modern society has evolved into pursuing and killing wild animals and birds called games.
 
-It's regulated to guard against poaching that's illegal in most countries to protect wild animals, some of which are fast becoming extinct. Before your next hunt, review our [archery hunting tips](/archery-hunting-tip/) and make sure you have the right [archery backpack](/archery-backpack/) for transporting your gear.
+It's regulated to guard against poaching that's illegal in most countries to protect wild animals, some of which are fast becoming extinct.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -421,7 +421,7 @@ This technology puts channels into the foam suspension so that air can pass betw
 
 It also has a breathable mesh over the foam as another layer of comfort and ventilation.
 
-The Pursuit has five sports pockets to keep everything organized on the hunt, plus many rear compression and bedroll straps so that you can carry more gear to the hunt.
+The Pursuit has five sports pockets to keep everything organized on the hunt, plus many rear compression and bedroll straps so that you can carry more gear to the hunt. Before your next hunt, review our [archery hunting tips](/archery-hunting-tip/) and make sure you have the right [archery backpack](/archery-backpack/) for transporting your gear.
 
 It has water beads and rolls off, keeping your gear dry for longer.
 

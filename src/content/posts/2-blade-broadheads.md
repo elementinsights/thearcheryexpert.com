@@ -265,7 +265,7 @@ A broadhead, connected to an arrow for shooting, is nothing but a wide cutting p
 
 If you want the arrows to go with precision and consistency into your prey, then you need to spend money on 2 blade broadheads.
 
-To enhance flight variance and improve efficiency, several manufacturers have many different design concepts. Make sure your broadheads are matched with quality [arrow vanes](/arrow-vanes/) for the best flight performance, and read our [archery hunting tips](/archery-hunting-tip/) before heading into the field.
+To enhance flight variance and improve efficiency, several manufacturers have many different design concepts.
 
 Depending on the number of blades, there are usually two kinds of Broadheads.
 
@@ -428,9 +428,9 @@ These models are portable, with performance enhanced by their aerodynamic profil
 
 It holds the arrows on the target with its ferrule.
 
-With a 1.375′′ cutting width, the Broadhead came with 0.030′′ stainless blades.
+With a 1.375′′ cutting width, the Broadhead came with 0.030′′ stainless blades. Make sure your broadheads are matched with quality [arrow vanes](/arrow-vanes/) for the best flight performance.
 
-For an accurate killing, the blades are sharp and render the wound accessible.
+For an accurate killing, the blades are sharp and render the wound accessible. You should also read our [archery hunting tips](/archery-hunting-tip/) before heading into the field.
 
 ## 2. 2-Blade – Shock Collar and Ferrule Alignment Technology &mdash; Runner Up
 

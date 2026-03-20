@@ -78,8 +78,7 @@ If you've ever thought of trying this fun yet challenging sport, here are some s
 ## 1. History Of Archery In Olympics
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">History Of Archery In Olympics</span>
+  <span class="stat-text">Archery was the first Olympic sport to allow women in 1904, then got removed from 1920 to 1972 over equipment inconsistencies.</span>
 </div>
 
 Archery was the first sport where women could compete in the Olympics.
@@ -117,8 +116,7 @@ Now Archery is the most-watched sport in the Olympics.
 ## 2. Archery's Move Named After Robin Hood
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Archery's Move Named After Robin Hood</span>
+  <span class="stat-text">Mythbusters proved that splitting an arrow is possible, but the first arrow must be hollow or made from wood or bamboo.</span>
 </div>
 
 The move is called splitting an arrow, where the arrow is shattered from the nock to the point.
@@ -138,8 +136,7 @@ This has been named after Robin Hood himself, who was said to have performed the
 ## 3. Arm Strength Required For Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Arm Strength Required For Archery</span>
+  <span class="stat-text">The real drawing power comes from the shoulders and back muscles, not the arms, and you must be 50% stronger than your bow.</span>
 </div>
 
 Something frequently misunderstood about archery is that one would need a lot of arm strength to manipulate the bow.
@@ -175,8 +172,7 @@ If you ever meet an experienced archer, you'll be sure to find they have a nicel
 ## 4. Archery As A Sport
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Archery As A Sport</span>
+  <span class="stat-text">Archery is three times safer than golf according to the National Safety Council, with only one injury per 2,000 participants.</span>
 </div>
 
 Archery is one of the safest sports in the world, according to statistics.
@@ -204,8 +200,7 @@ Thanks to that, it's becoming a more and more popular sport in schools.
 ## 5. Arrows Typically Do Not Kill The Target Immediately
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Arrows Typically Do Not Kill The Target Immediately</span>
+  <span class="stat-text">Despite what movies show, arrows rarely cause instant death and most fatalities historically came from infection or bleeding.</span>
 </div>
 
 I know. I was surprised too.
@@ -225,8 +220,7 @@ For the most part, the most likely way to die from an arrow wound would be after
 ## 6. British monarch's Obsession With Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">British monarch's Obsession With Archery</span>
+  <span class="stat-text">King Henry V stored 500,000 arrows in the Tower of London and even appointed a dedicated keeper to guard them.</span>
 </div>
 
 It's one of the strangest archery facts.
@@ -260,8 +254,7 @@ This was in the 1346 battle of Crecy, where almost 2,000 of the French opponents
 ## 7. Medieval Laws Linked To Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Medieval Laws Linked To Archery</span>
+  <span class="stat-text">A medieval English law that's never been repealed requires all men over 14 to practice longbow for two hours every week.</span>
 </div>
 
 There remains a law from the middle ages that has never been amended in the city of York, north England.
@@ -285,8 +278,7 @@ She then rewarded them with a BBQ, music, and festivities, all in the name of ce
 ## 8. Hunger Games Star Was Trained By Olympic Gold Medalist
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Hunger Games Star Was Trained By Olympic Gold Medalist</span>
+  <span class="stat-text">Jennifer Lawrence trained with five-time Olympian Khatuna Lorig before playing Katniss Everdeen in the Hunger Games films.</span>
 </div>
 
 The Hunger Games star Jennifer Lawrence was trained by the American Olympic gold medalist Khatuna Lorig before starring Katniss Everdeen.
@@ -304,8 +296,7 @@ Archery USA even wrote a letter to Collins, the author of the Hunger Games.
 ## 9. Archery, Bhutan's National Sport
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Archery, Bhutan's National Sport</span>
+  <span class="stat-text">Bhutan declared archery its national sport in 1971, yet the country has never won a single Olympic medal in the event.</span>
 </div>
 
 The only country in the world whose national sport is Archery, Bhutan.
@@ -321,8 +312,7 @@ Bhutan is a Buddhist nation, making it a nonviolent nation, so Archery would nev
 ## 10. Archers Still Have To Compete In The Rain
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Archers Still Have To Compete In The Rain</span>
+  <span class="stat-text">Rain droplets add extra weight to arrows and can completely impair the sight ring, yet archers still have to compete outdoors.</span>
 </div>
 
 Professional and competing archers still have to shoot in the rain, which seems like madness to me.

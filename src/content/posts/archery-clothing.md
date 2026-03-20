@@ -263,7 +263,7 @@ Do you know about them, archery clothing items? - You'll get the best product an
 
 Here are the items for archery and the best products with your body shapes and items.
 
-Look at the recommended product and check out the clothing below. You might also want to browse our reviews of [archery jackets](/archery-jackets/) and [archery apparel](/archery-apparel/) for more options.
+Look at the recommended product and check out the clothing below.
 
 <div class="trust-bar">
   <div class="trust-item"><span class="trust-icon">🏹</span> Thoroughly Researched</div>
@@ -416,7 +416,7 @@ The TIDEWE hunting suit uses quiet material throughout, which is critical when y
 
 The fleece lining traps body heat effectively without making the suit feel heavy or restrictive. You can layer a base layer underneath for colder hunts or wear it alone during mild fall weather.
 
-The jacket features multiple zippered pockets for calls, rangefinders, and other gear you need quick access to. The pants have reinforced knees for crawling through brush and sitting on rough ground.
+The jacket features multiple zippered pockets for calls, rangefinders, and other gear you need quick access to. The pants have reinforced knees for crawling through brush and sitting on rough ground. You might also want to browse our reviews of [archery jackets](/archery-jackets/) and [archery apparel](/archery-apparel/) for more options.
 
 Both pieces are water-resistant enough to handle light rain and morning dew without soaking through. The camo pattern blends well in hardwood and mixed timber environments.
 

@@ -76,8 +76,7 @@ Once you own these patches and stickers recommended in this article, you're goin
 ## 1. Archery Bow 2 Inch Iron on Patch
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Archery Bow 2 Inch Iron on Patch</span>
+  <span class="stat-text">This 2-inch patch features a bright yellow bow on a black background with a cherry red border, and you can iron or sew it on.</span>
 </div>
 
 This beautiful embroidered patch is for those who are looking to refresh the look of their garment or case.
@@ -113,8 +112,7 @@ The beauty of this patch is that you can also sew this patch onto your garment i
 ## 2. Tactical Bowhunter Patch
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Tactical Bowhunter Patch</span>
+  <span class="stat-text">This 2x3-inch tactical patch comes in 6 color options with a velcro hook-and-loop back that fits most hats and gear.</span>
 </div>
 
 This Bowhunter patch is strategically designed for hats and gears.
@@ -156,8 +154,7 @@ All of the designer tactical patches are made in the USA.
 ## 3. Antrix Antlers Wildlife Hunting Patch
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Antrix Antlers Wildlife Hunting Patch</span>
+  <span class="stat-text">This wildlife hunting patch features full 3D embroidery on a durable fabric and comes with a 100% no-questions-asked refund.</span>
 </div>
 
 Antrix Antlers Hunting Patch is tough, comfortable, durable, easy to wash and remove.
@@ -199,8 +196,7 @@ It's rectangular and compact and you can apply this patch easily on smaller surf
 ## 4. Archery Apple & Arrow Embroidered Patch
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Archery Apple & Arrow Embroidered Patch</span>
+  <span class="stat-text">A vibrant red apple pierced by an orange arrow gives this patch an artistic look, and it's fully machine washable.</span>
 </div>
 
 The size and design of this patch are so unique that one will instantly fall in love with this patch.
@@ -240,8 +236,7 @@ The patch can be returned to the seller in case you aren't satisfied.
 ## 5. Miniature Cute Archery Target Patch
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Miniature Cute Archery Target Patch</span>
+  <span class="stat-text">This set of 2 miniature target patches from Thailand is small enough to apply to your tiniest gadget, hat, or jacket.</span>
 </div>
 
 If you're an archery lover, this patch is one of the cutest patches you'll find online.
@@ -285,8 +280,7 @@ This patch can be returned in case you aren't satisfied with the quality or you'
 ## 6. Girl Archer Die Cut Vinyl Window Decal
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Girl Archer Die Cut Vinyl Window Decal</span>
+  <span class="stat-text">This 5x5-inch die-cut decal shows a girl aiming a compound bow, made from 6-year premium vinyl that won't peel or fade.</span>
 </div>
 
 Tired of seeing typical male archery decals?
@@ -324,8 +318,7 @@ Red Clay Designs ensure quick shipping and delivery once you've placed orders fo
 ## 7. Deer Buck Antlers Skull Hunting Sticker
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Deer Buck Antlers Skull Hunting Sticker</span>
+  <span class="stat-text">This deer skull sticker comes in 5 sizes ranging from 6 to 20 inches and 10 color options including gold, silver, and pink.</span>
 </div>
 
 If you're looking for a super cool and sharp deer antler sticker, this one fits very well.
@@ -363,8 +356,7 @@ So, applying this vinyl decal is a simple and hassle-free process.
 ## 8. Hunt Like A Girl Sticker
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Hunt Like A Girl Sticker</span>
+  <span class="stat-text">The "Hunt Like a Girl" decal is made from vinyl that lasts up to 6 years outdoors and comes in both white and pink.</span>
 </div>
 
 Looking for a special hunting text sticker?
@@ -406,8 +398,7 @@ In case you're looking for a sticker that stands out, you can definitely go for 
 ## 9. Born To Hunt Decal
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Born To Hunt Decal</span>
+  <span class="stat-text">This "Born to Hunt" decal is water-resistant with a transparent background and lasts up to 6 years in outdoor conditions.</span>
 </div>
 
 This sticker has a cool black text - Born to Hunt, Forced to Work, and a deer beside it, and wordings are of a unique font compared to the other decals in this list.
@@ -447,8 +438,7 @@ This decal can be returned to the seller in case you're not satisfied with the q
 ## 10. Slap-Art Archery Silhouette Decal
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Slap-Art Archery Silhouette Decal</span>
+  <span class="stat-text">Made from premium Avery vinyl that lasts over 5 years, this archer silhouette decal can be removed without leaving any residue.</span>
 </div>
 
 This is one of the coolest archery stickers in which a passionate archer shoots the arrow.

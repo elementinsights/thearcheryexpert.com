@@ -265,7 +265,7 @@ Currently, Archery isn't only considered as a battle device but also widely acce
 
 As the mastery of archery promulgates generation after generation, it's also essential that its tools are made with the best quality.
 
-Archery bracer is part of the whole package as you aim for the target, it gives the support to protect you from injury or any hindrance. Pair your bracer with a quality [arm guard](/archery-arm-guard/) and [chest guard](/archery-chest-guard/) for complete shooting protection.
+Archery bracer is part of the whole package as you aim for the target, it gives the support to protect you from injury or any hindrance.
 
 It's the reason why we created this list, to point you in the right direction and educate.
 
@@ -426,7 +426,7 @@ One of which is this armguard that's so economical but won't sacrifice your fore
 
 Using 8" Arm Guard with 3 Straps you can be sure it's snug fit while you're chasing for that bull's eye.
 
-Composed of lightweight materials, the bracer itself won't add much weight as you support your arrow.
+Composed of lightweight materials, the bracer itself won't add much weight as you support your arrow. Pair your bracer with a quality [arm guard](/archery-arm-guard/) and [chest guard](/archery-chest-guard/) for complete shooting protection.
 
 At the same time, the vented mold provides proper airflow to cool your arm.
 

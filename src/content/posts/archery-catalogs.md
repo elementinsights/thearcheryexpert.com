@@ -76,8 +76,7 @@ In purpose to understand the quality of archery catalogs, you'll have an overvie
 ## 1. 3Rivers Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">3Rivers Archery</span>
+  <span class="stat-text">3Rivers Archery has been the world's largest traditional archery supplier since 1985, specializing in recurves and longbows.</span>
 </div>
 
 In 1985 3Rivers Archery was founded in a back bedroom downtown in Fort Wayne India.
@@ -127,8 +126,7 @@ Many blog posts are available to understand everything about the subject.
 ## 2. Lancaster Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Lancaster Archery</span>
+  <span class="stat-text">Founded in 1983, Lancaster Archery carries over 500 brands and stocks the largest selection of 3D and target equipment.</span>
 </div>
 
 Robert Kaufold is the actual president of Lancaster Archery.
@@ -176,8 +174,7 @@ Besides, it's simple to have a quick look at the frequently asked questions.
 ## 3. Hunting-Bow
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Hunting-Bow</span>
+  <span class="stat-text">Hunting-Bow offers traditional bows starting at just $100 and compound bows from $200 with free shipping on orders over $59.</span>
 </div>
 
 The founders Marc and Paul decided to hunt after having a conversation about their plan and desire to escape the chaos of the city.
@@ -227,8 +224,7 @@ You can find more than 100 articles on the Hunting-Bow website that are lovely t
 ## 4. TenPoint Crossbows
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">TenPoint Crossbows</span>
+  <span class="stat-text">TenPoint pioneered the first silent cocking and safe de-cocking system, setting the industry standard for crossbow technology.</span>
 </div>
 
 Rick Bednar and a small group of investors founded TenPoint Crossbows in 1994.
@@ -276,8 +272,7 @@ It's pretty easy to look at all the frequently asked questions - each product as
 ## 5. Bear Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Bear Archery</span>
+  <span class="stat-text">Bear Archery has been producing reliable compound bows, crossbows, and recurves since 1933 with free delivery on all orders.</span>
 </div>
 
 In 1933, Fred Bear and Charles Piper established the Bear Product Company.
@@ -331,8 +326,7 @@ You'll find on it hunters stories and a small number of archery's tips.
 ## 6. Barnett Crossbows
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Barnett Crossbows</span>
+  <span class="stat-text">Barnett has been crafting crossbows since 1962, with models starting at $149.99 and innovations like the anti-dry fire device.</span>
 </div>
 
 In 1962 Bernard Barnett started to realize crossbows in his garage, located in England.
@@ -386,8 +380,7 @@ A detailed article about bows is also available.
 ## 7. Easton Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Easton Archery</span>
+  <span class="stat-text">Easton Archery transformed the sport in 1940 by developing the first straight, consistent aluminum arrows still used today.</span>
 </div>
 
 Created in 1922, Easton Archery is always focusing on offering innovative, premium products that improve the consumer sporting experience.
@@ -431,8 +424,7 @@ If you've still issues after reading the FAQ, you can quickly call the company. 
 ## 8. Hunter's Friend
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Hunter's Friend</span>
+  <span class="stat-text">Hunter's Friend holds an A+ BBB rating and sells 98% of its bows as fully set-up pro-shop compound bow packages.</span>
 </div>
 
 In 1999, Hunter's Friend began, it's now one of the nation's largest stand-alone archery pro-shops.
@@ -482,8 +474,7 @@ The guide is complete, it reports everything you need to know before buying a bo
 ## 9. Dick's Sporting Goods
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Dick's Sporting Goods</span>
+  <span class="stat-text">Dick's Sporting Goods carries brands like Easton, Bear, and PSE with recreational crossbows starting at just $19.99.</span>
 </div>
 
 In 1948 Dick's Sporting Goods was established by Dick Stack.
@@ -525,8 +516,7 @@ About ten articles are on the company website to give you tips about hunting and
 ## 10. Cabela's
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">Cabela's</span>
+  <span class="stat-text">Cabela's offers free delivery on orders over $50 and honors military and veterans with a 5% discount available every day.</span>
 </div>
 
 The company was founded in 1961 by Dick Cabella. Originally, Dick ran the business from a kitchen table.

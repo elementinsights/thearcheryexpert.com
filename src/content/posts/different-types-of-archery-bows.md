@@ -66,8 +66,7 @@ Here are the four main types of bows every pro should know.
 ## 1. [Recurve Bow](https://en.wikipedia.org/wiki/Recurve_bow)
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Recurve Bow</span>
+  <span class="stat-text">Recurve bows are lightweight, portable, and require very little maintenance, making them the ideal starting point for beginners.</span>
 </div>
 
 A recurve bow, as the name states, has limbs that curve away from archers when unstrung.
@@ -145,8 +144,7 @@ It's mainly a power reflector in terms of balance for both limbs.
 ## 2. [Compound Bow](https://en.wikipedia.org/wiki/Compound_bow)
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Compound Bow</span>
+  <span class="stat-text">The compound bow's pulley and cam system provides about 80% let-off at full draw, so you can focus on aiming, not holding.</span>
 </div>
 
 This is a unique type of bow that was developed long ago in the year 1966.
@@ -232,8 +230,7 @@ This compound bow many referred to it as a composite bow, but modern technology 
 ## 3. [Longbow](https://en.wikipedia.org/wiki/English_longbow)
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Longbow</span>
+  <span class="stat-text">Longbows average about 1.8 meters in length and historically had draw weights between 90 and 110 pounds for warfare use.</span>
 </div>
 
 Longbows are described as a piece of tall equipment that was used often in war.
@@ -325,8 +322,7 @@ This feature makes the longbow long-lasting.
 ## 4. [Crossbow](https://en.wikipedia.org/wiki/Crossbow)
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">Crossbow</span>
+  <span class="stat-text">The crossbow's locking mechanism lets you hold the draw for much longer with far less physical strain than a traditional bow.</span>
 </div>
 
 The crossbow is quite different from other bows.

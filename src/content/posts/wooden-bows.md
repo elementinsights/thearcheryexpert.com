@@ -259,7 +259,7 @@ Archers these days are shifting from metal bows to wooden bows as they're easy t
 
 These wooden bows are very helpful in hot weather as the wood doesn't heat up as quickly as metal.
 
-From beginners to expert archers or toxophilites, everyone now prefers a wooden bow that can bend but doesn't break. If you love the traditional feel, you might also want to explore [barebow recurve bows](/barebow-recurve/) and [mounted archery bows](/mounted-archery-bow/).
+From beginners to expert archers or toxophilites, everyone now prefers a wooden bow that can bend but doesn't break.
 
 Hence, wooden bows are in high demand these days.
 
@@ -417,7 +417,7 @@ Cons
 
 This Youth Wooden Bow and Arrows set comes with a quiver and three arrows, making it a complete starter kit for young archers. It's an affordable way to introduce kids to the basics of archery without any complicated assembly.
 
-The bow measures about 40 inches long, and the arrows are roughly 21 inches with rubber safety tips. The rubber tips make it safe for supervised backyard play and light target practice.
+The bow measures about 40 inches long, and the arrows are roughly 21 inches with rubber safety tips. If you love the traditional feel, you might also want to explore [barebow recurve bows](/barebow-recurve/) and [mounted archery bows](/mounted-archery-bow/).
 
 The elastic string is durable enough to handle repeated draws without snapping. You can detach it when the bow isn't in use, which helps preserve the string and the limbs.
 

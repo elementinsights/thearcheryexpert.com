@@ -250,7 +250,7 @@ In a quiver that sits on your hip, rests on your back, or attaches to your bow, 
 
 Hunters tend to favor bow quivers' portability, while target and casual archers may take their pick based on preference or purpose.
 
-If you're a professional archer, hobbyist, or just get started with archery, then a bow quiver is a must-have option to organize, hold, and handle your arrows and bow easily. If you prefer a waist-mounted option instead, check out our reviews of the [best archery hip quivers](/archery-hip-quivers/).
+If you're a professional archer, hobbyist, or just get started with archery, then a bow quiver is a must-have option to organize, hold, and handle your arrows and bow easily.
 
 A bow quiver is the third most valuable bow-hunting tool, and many hunters, unfortunately, ignore its importance.
 
@@ -410,7 +410,7 @@ The Trophy Ridge Lite-1 5 Arrow Quiver is excellent if you're looking for a devi
 
 The included LED's make an excellent ad-hoc flashlight when out and about at night's range or trails, and once mounted, the arrows are kept very close.
 
-Compared to rival products, the Trophy Ridge Lite-1 5 Arrow Quiver stands out because it's also built with a non-reflective, camouflage finish.
+Compared to rival products, the Trophy Ridge Lite-1 5 Arrow Quiver stands out because it's also built with a non-reflective, camouflage finish. If you prefer a waist-mounted option instead, check out our reviews of the [best archery hip quivers](/archery-hip-quivers/).
 
 It includes features such as the quick detach feature, which shows that it has been made with accuracy and usability in mind  -  so an archer with any level of experience can enjoy using this product.
 

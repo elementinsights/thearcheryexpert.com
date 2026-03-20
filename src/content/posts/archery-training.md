@@ -49,9 +49,21 @@ finalThoughts: "Becoming a better archer comes down to deliberate, consistent pr
 ---
 
 <div class="how-to-meta">
-  <div><strong>Time:</strong> 30-60 minutes</div>
-  <div><strong>Difficulty:</strong> Beginner to Intermediate</div>
-  <div><strong>Tools:</strong> Standard archery equipment</div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#9200;</div>
+    <div class="how-to-meta-label">Time</div>
+    <div class="how-to-meta-value">30-60 minutes</div>
+  </div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#127919;</div>
+    <div class="how-to-meta-label">Difficulty</div>
+    <div class="how-to-meta-value">Beginner to Intermediate</div>
+  </div>
+  <div class="how-to-meta-item">
+    <div class="how-to-meta-icon">&#128736;</div>
+    <div class="how-to-meta-label">Tools</div>
+    <div class="how-to-meta-value">Standard archery equipment</div>
+  </div>
 </div>
 
 The weekend is here, you want to do something exciting with your friends and going out to the field and shooting is your priority.

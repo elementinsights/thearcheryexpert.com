@@ -76,8 +76,7 @@ Whatever the case may be, an excellent set of bows, arrows, and other archery eq
 ## 1. Hoyt Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#1</span>
-  <span class="stat-text">Hoyt Archery</span>
+  <span class="stat-text">Hoyt's Olympic-level recurves and hunting compounds come in three series: Alpha for lightness, Ultra for stability, and Turbo for speed.</span>
 </div>
 
 The moment you'll [visit their website](https://hoyt.com/), you'll surely realize how these guys aren't into creating mere toys.
@@ -127,8 +126,7 @@ Some of them include:
 ## 2. Bear Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#2</span>
-  <span class="stat-text">Bear Archery</span>
+  <span class="stat-text">Bear Archery is over 87 years old and lets you fully customize finish, weight, dexterity, and speed through the Legend Bow series.</span>
 </div>
 
 Yet another American brand that has left a benchmark on fine and robust archery equipment.
@@ -198,8 +196,7 @@ Their range is beyond the comprehension of this article.
 ## 3. Martin Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#3</span>
-  <span class="stat-text">Martin Archery</span>
+  <span class="stat-text">Martin Archery has been in business for over 60 years and is one of the very few brands that offer dedicated fishing bows.</span>
 </div>
 
 Another industry that jumped onto the bandwagon of producing competitive archery equipment.
@@ -259,8 +256,7 @@ They also offer spare parts for their bows.
 ## 4. PSE Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#4</span>
-  <span class="stat-text">PSE Archery</span>
+  <span class="stat-text">PSE stands out for its mass-scale production of carbon arrows in varying spines and lengths, plus a dedicated line for kids.</span>
 </div>
 
 PSE stands for '[precision shooting equipment](https://psearchery.com/)'.
@@ -326,8 +322,7 @@ This is a great initiative taken by PSE archery.
 ## 5. [Samsick Sports](http://www.samicksports.com/)
 
 <div class="stat-highlight">
-  <span class="stat-number">#5</span>
-  <span class="stat-text">Samsick Sports</span>
+  <span class="stat-text">Samick Sports is a Korean brand that's been offering affordable, high-quality recurve bows and limbs to archers since 1975.</span>
 </div>
 
 Samsick sports is also one of the oldest archery company, emerging as a fair contender against its rivals in 1975.
@@ -381,8 +376,7 @@ They're as follows:
 ## 6. Great Plains Traditional Bow Company
 
 <div class="stat-highlight">
-  <span class="stat-number">#6</span>
-  <span class="stat-text">Great Plains Traditional Bow Company</span>
+  <span class="stat-text">For about $1,000, Great Plains will handcraft a fully customized traditional bow and arrows with your exact specifications.</span>
 </div>
 
 If you're looking for state of the art traditional archery bows, then you've come to the right place.
@@ -442,8 +436,7 @@ They're as follows:
 ## 7. [Black Widow Bows](https://www.blackwidowbows.com/)
 
 <div class="stat-highlight">
-  <span class="stat-number">#7</span>
-  <span class="stat-text">Black Widow Bows</span>
+  <span class="stat-text">Black Widow Bows is over 63 years old and openly invites you to try their bows in person before buying by appointment.</span>
 </div>
 
 Black Widow Bows is an archery manufacturing company that has encompassed a lot of fame over the years.
@@ -505,8 +498,7 @@ They're as follows:
 ## 8. Predator Hunter Niche Bows
 
 <div class="stat-highlight">
-  <span class="stat-number">#8</span>
-  <span class="stat-text">Predator Hunter Niche Bows</span>
+  <span class="stat-text">Predator's limb-fit technology lets hunters swap out weight, length, and style on their own without sending the bow back.</span>
 </div>
 
 The name is enough on its own to spark interest in hunters.
@@ -554,8 +546,7 @@ They're as follows:
 ## 9. Merlin Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#9</span>
-  <span class="stat-text">Merlin Archery</span>
+  <span class="stat-text">Merlin Archery is a UK brand that goes beyond selling gear by offering archery lessons, an on-site club, and a workshop.</span>
 </div>
 
 An archery brand from the United Kingdom.
@@ -629,8 +620,7 @@ They're as follows:
 ## 10. 3rivers Archery
 
 <div class="stat-highlight">
-  <span class="stat-number">#10</span>
-  <span class="stat-text">3rivers Archery</span>
+  <span class="stat-text">3Rivers Archery sells professional DIY bow-building kits with everything you need, plus an archery range for kids as young as 5.</span>
 </div>
 
 Another brand from the United Kingdom.
