@@ -1239,7 +1239,20 @@ html.dark .step-warning strong { color: #f87171; }
 .pin-wrapper {
   position: relative;
   display: block;
+  overflow: hidden;
+  border-radius: var(--radius, 8px);
 }
+.pin-wrapper::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  opacity: 0;
+  transition: opacity 0.25s;
+  pointer-events: none;
+  border-radius: var(--radius, 8px);
+}
+.pin-wrapper:hover::after { opacity: 1; }
 .pin-wrapper img {
   display: block;
   margin: 0;
