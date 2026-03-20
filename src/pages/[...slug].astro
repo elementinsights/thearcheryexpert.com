@@ -73,6 +73,7 @@ schemas.push({
   "author": {
     "@type": "Person",
     "name": post.data.author || siteConfig.author.name,
+    "url": `${siteConfig.url}/about/`,
   },
   "publisher": {
     "@type": "Organization",
@@ -185,7 +186,7 @@ if (post.data.postType === 'roundup' && post.data.products && post.data.products
       "@type": "ListItem",
       "position": p.rank,
       "name": p.name,
-      "url": pageUrl,
+      "url": `${pageUrl}#${p.rank}-${p.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}`,
       ...(p.image && { "image": p.image }),
     })),
   });
