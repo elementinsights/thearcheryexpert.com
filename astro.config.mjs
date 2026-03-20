@@ -18,7 +18,7 @@ function rehypeLazyImages() {
 }
 
 export default defineConfig({
-  site: 'https://www.thearcheryexpert.com',
+  site: 'https://thearcheryexpert.com',
 
   trailingSlash: 'always',
 

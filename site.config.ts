@@ -7,7 +7,7 @@ export const siteConfig = {
   logo: "/images/logo.webp",       // Image logo (set to "" for text logo)
   tagline: "Archery Information, Tips and Product Reviews",
   domain: "thearcheryexpert.com",
-  url: "https://www.thearcheryexpert.com",
+  url: "https://thearcheryexpert.com",
 
   // ============================================================
   //  THEME COLORS — Change accent to re-skin the entire site
